@@ -1,0 +1,1 @@
+const a={"base.locales.en":"English","base.locales.es":"Español","base.locales.fr":"Français","base.locales.ar":"العربية","base.locales.ru":"Русский","base.locales.zh":"中文","base.locales.ja":"日本語"};export{a as default};

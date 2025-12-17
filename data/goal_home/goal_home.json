@@ -1,0 +1,13 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "home",
+    "title": "Atlas of Sustainable Development Goals 2025",
+    "acknowledgement": "These are the acknowledgements",
+    "citation": "Pirlea, A. F., U. Serajuddin, D. Wadhwa, M. Welch, eds. 2025. Atlas of Sustainable Development Goals 2025. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://datatopics.worldbank.org/sdgatlas/",
+    "contributors": "Alia Jane Aghajanian, Jane Akumu, Muneeza, Mehmood Alam, Jackie Alder, Bianca Bianchi Alves, Samuel Kofi Tetteh Baah",
+    "translationPrefix": "goal_home.config"
+  },
+  "content": [],
+  "translationPrefix": "goal_home"
+}

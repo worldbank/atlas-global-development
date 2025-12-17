@@ -1,0 +1,463 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "09",
+    "shortTitle": "Internet access",
+    "title": "Expanding access to Internet",
+    "abstract": "todo",
+    "citation": "todo",
+    "credits": "todo",
+    "inputs": "todo",
+    "visuals": "todo",
+    "translationPrefix": "goal_09.config"
+  },
+  "content": [
+    {
+      "text": "The persistent digital divide",
+      "type": "subhed",
+      "translationPrefix": "goal_09.content.#0"
+    },
+    {
+      "text": "Access to the internet is a cornerstone of development. It enables individuals and communities to participate in the digital economy and access vital information. The internet lowers the cost of economic and social transactions, promotes innovation, and increases efficiency and inclusion. It enables more trade, better use of capital, and greater competition, while also supporting job creation and making workers more productive. However, without complements such as well-designed regulations to foster competition, investments in people’s skills and education, and accountable institutions, digital adoption will not deliver broad-based dividends, and may even exacerbate inequality.<span style=\"background-color: rgb(204,204,204);\">[reference: int1]</span>",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#1"
+    },
+    {
+      "text": "Despite rapid progress, almost a third of the world population does not use the internet, a reflection of persistent barriers to universal access. ",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#2"
+    },
+    {
+      "type": "factoid",
+      "title": "",
+      "number": "2.6",
+      "units": "billion",
+      "label": "people are still offline",
+      "translationPrefix": "goal_09.content.#3"
+    },
+    {
+      "text": "The share of people using the internet is measured primarily through household surveys: individuals are asked whether they used the Internet in the previous three months, from any device (computer, phone, TV, etc.) and any location (home, work, school, café). <span style=\"background-color: rgb(204,204,204);\">[reference: intm1]</span> If no recent survey exists, statistical modelling is used to estimate values based on correlates like mobile-subscriptions, GDP per capita, education, and regional patterns.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#4"
+    },
+    {
+      "type": "scroller",
+      "graphic": "internet_access_scroller",
+      "title": "Global internet access over time",
+      "subtitle": "Individuals using the Internet (% of population)",
+      "visdescription": "Description of the vis",
+      "theme": "light",
+      "data_download": "09.data.internet_access_2.csv",
+      "data": "1EhTY4fTDlnuVTNwNWXAGQlrE-4AWURvtUDYEWySz8QU",
+      "source": "Retrieved from World Development Indicators (IT.NET.USER.ZS) and the <a href=\"https://www.itu.int/en/ITU-D/Statistics/pages/stat/default.aspx\" target=\"_blank\">International Telecommunications Union</a> (ITU)",
+      "note": "",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "world",
+          "text": "<span style=\"color: rgb(255,255,255); background-color: rgb(8,16,121);\">Worldwide</span>, the share of people who access the internet has increased from 16% two decades ago to almost 68% today. Still, almost a third of the global population remains offline.",
+          "translationPrefix": "goal_09.content.#5.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "urban_rural",
+          "text": "Internet use is far higher in <span style=\"color: rgb(255,255,255); background-color: rgb(109,136,209);\">urban areas</span> (83%) than in <span style=\"color: rgb(255,255,255); background-color: rgb(84,174,137);\">rural regions</span> (48%), reflecting gaps in infrastructure and income. Closing this divide is essential for enabling rural communities to participate in the digital economy and access online resources.",
+          "translationPrefix": "goal_09.content.#5.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "income_groups",
+          "text": "Internet adoption mirrors a country’s development: nearly universal in <span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\">high-income nations</span> (93%) but under one-third (28%) in <span style=\"color: rgb(255,255,255); background-color: rgb(59,77,166);\">low-income countries</span>. This stark gap highlights the need for targeted efforts to close the digital divide.",
+          "translationPrefix": "goal_09.content.#5.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_09.content.#5"
+    },
+    {
+      "text": "Who’s left behind? Rural and gender gaps",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#6"
+    },
+    {
+      "text": "Rural areas, in both high and low income economies, often lag behind when it comes to internet infrastructure and access. In rural settings, people are less likely than urban residents to have broadband internet access and to use online services, such as ordering food and groceries, streaming media, or using videoconferencing for work and medical care.<span style=\"background-color: rgb(204,204,204);\">[reference: rur1]</span>",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#7"
+    },
+    {
+      "text": "Another critical divide when it comes to internet access is the gender gap. In 2024, the number of men using the Internet exceeded the number of women by 189 million.<span style=\"background-color: rgb(204,204,204);\">[reference: gnd1]</span> Women and girls are far less likely to use the internet regularly, especially in low-income economies (31% of men vs. 19% of women) and lower-middle-income economies (59% vs. 46%). In Bangladesh, for example, 52% of men used the internet in 2023 compared to just 37% of women. Women, especially in low-income and rural contexts, face greater barriers to digital access compared to men, particularly when it comes to affordability, infrastructure, and cultural norms.<span style=\"background-color: rgb(204,204,204);\">[reference: gnd2]</span> These [emphasis: gender disparities] exclude women from economic, educational, and social opportunities offered by digital technologies.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#8"
+    },
+    {
+      "type": "vis",
+      "graphic": "income_gender_gap",
+      "title": "Gender gaps in internet access are widest in low-income economies",
+      "subtitle": "Individuals using the Internet (% of population), (male and female)",
+      "source": "Retrieved from World Development Indicators (IT.NET.USER.MA.ZS, IT.NET.USER.FE.ZS), ITU DataHub",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "data_download": "09.data.income_gender_gap.csv",
+      "data": "1B_ljLFoVYyRYgGgjwESR2tAHUpmxWP-0u6DRAOYBgdI",
+      "translationPrefix": "goal_09.content.#9"
+    },
+    {
+      "text": "Fixed vs. mobile broadband: complementary pathways",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#10"
+    },
+    {
+      "text": "Globally, measuring internet use takes into account any online activity, even those requiring minimal data, such as emailing or browsing. However, data-heavy tasks, such as video streaming, cloud services, e-learning, or telemedicine, demand high-speed access or [emphasis: broadband].  There are two primary types of broadband connections: [emphasis: fixed and mobile].",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#11"
+    },
+    {
+      "text": "Fixed and mobile broadband differ in [emphasis: capacity, reliability, cost, and use]. Fixed broadband (delivered via fiber, DSL, cable, or satellite)<span style=\"background-color: rgb(204,204,204);\">[reference: fxb1]</span>  offers higher, more stable speeds, and lower latency. <span style=\"background-color: rgb(204,204,204);\">[reference: fxb2]</span> This makes it ideal for data-intensive activities. However, it requires costly last-mile infrastructure and is concentrated in dense, high-income areas. Mobile broadband, delivered through 4G and 5G networks, is cheaper to deploy and offers flexible wireless access, but often has higher latency, variable performance, and data caps.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#12"
+    },
+    {
+      "text": "In practice, the two technologies are complementary: fixed broadband underpins high-capacity national networks and enterprise use, while mobile broadband drives widespread personal connectivity and inclusion.<span style=\"background-color: rgb(255,255,0);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#13"
+    },
+    {
+      "text": "[emphasis: Fixed broadband] is common in many high-income countries, but nearly absent in low-income economies. In Sub-Saharan Africa, there is less than 1 fixed broadband connection per 100 people.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#14"
+    },
+    {
+      "text": "Extending fixed broadband to rural or low-income areas is often commercially unviable: up to 70% of costs stem from civil works like trenching, while revenues remain low due to sparse populations and limited purchasing power. This mismatch between high upfront investment and low returns discourages private operators without public support or cost-sharing. <span style=\"background-color: rgb(204,204,204);\">[reference: brdb1]</span>",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#15"
+    },
+    {
+      "type": "scroller",
+      "graphic": "broadband_subscriptions",
+      "title": "Few people in low-income countries have access to fixed broadband connections",
+      "subtitle": "Fixed broadband subscriptions (per 100 people)",
+      "source": "Retrieved from World Development Indicators (IT.NET.BBND.P2), ITU DataHub",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "data_download": "09.data.broadband_subscriptions.zip",
+      "data": "1J7JiZF8cFLnVv5XsM7z7dEM25VHcsVLb1MuYKub21RI",
+      "publish_progress": "true",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "scene_scene1",
+          "text": "In many <span style=\"color: rgb(255,255,255); background-color: rgb(59,77,166);\">low</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">lower middle income</span> countries fixed broadband connections are exceedingly rare: less than 1 percent of people have a fixed internet connection, at home or at work",
+          "translationPrefix": "goal_09.content.#16.scenes.#0"
+        }
+      ],
+      "translationPrefix": "goal_09.content.#16"
+    },
+    {
+      "text": "[emphasis: ]",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#17"
+    },
+    {
+      "text": "[emphasis: Mobile broadband] is the main gateway to the internet for much of the world, especially in lower-income economies, as it is cheaper and faster to deploy. In Botswana and Côte d’Ivoire, where fixed broadband penetration is minimal (3.4 and 1.4 per 100 people), mobile subscriptions dominate: 135 per 100 in Botswana and 108 in Côte d’Ivoire. Over 80% of Botswana’s population is online, well above the global average of 68%.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#18"
+    },
+    {
+      "text": "Uneven network coverage ",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#19"
+    },
+    {
+      "text": "Mobile broadband provides wireless internet access via cellular networks (4G or 5G) through SIM-based devices (like cell phones) or fixed-wireless terminals.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#20"
+    },
+    {
+      "type": "scroller",
+      "graphic": "fixed_broadband_vs_mobile_over_time",
+      "title": "Worldwide, mobile broadband far surpasses fixed-broadband adoption",
+      "subtitle": "Subscriptions per 100 people",
+      "source": "International Telecommunications Union (ITU DataHub)",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "publish_progress": "true",
+      "data_download": "09.data.fixed_vs_mobile.csv",
+      "data": "1n7jhKy1LfGqN-cB2FAoeLBK8WEP8sU5v_tVfUv_SHTc",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "scene_time",
+          "text": "Between 2015 and 2025, fixed broadband subscriptions rose from 11 to 20 per 100 people, while mobile broadband connections surged to 99 per 100 people",
+          "translationPrefix": "goal_09.content.#21.scenes.#0"
+        }
+      ],
+      "translationPrefix": "goal_09.content.#21"
+    },
+    {
+      "text": "[emphasis: Mobile networks] have evolved rapidly over three decades:",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#22"
+    },
+    {
+      "text": "2G (1990s): The shift from analog to digital, enabling SMS and better voice quality.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#23"
+    },
+    {
+      "text": "3G: Brought mobile internet mainstream, supporting email, web browsing, and early apps.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#24"
+    },
+    {
+      "text": "4G: Delivered broadband-level speeds for HD video, streaming, and modern apps with lower latency.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#25"
+    },
+    {
+      "text": "5G: A step-change including multi-gigabit speeds, ultra-low latency, and massive device connectivity, powering IoT, smart cities, real-time automation, and advanced industrial uses.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#26"
+    },
+    {
+      "text": "Most of the world’s population is currently covered by 3G or 4G networks. In recent years 4G coverage has doubled, while 5G is rapidly expanding. ",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#27"
+    },
+    {
+      "type": "scroller",
+      "graphic": "mobile_coverage_over_time",
+      "title": "Most people are covered by 3G and 4G technology",
+      "subtitle": "Population coverage, by mobile technology",
+      "source": "Retrieved from World Bank Data360. International Telecommunications Union (ITU DataHub)",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "publish_progress": "true",
+      "data_download": "09.data.mobile_coverage_over_time.csv",
+      "data": "1a6PXSNL_h5LowsXf_7XEQJAoC4xhy4dhG6a5Aux9H5M",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "scene_time",
+          "text": "Between 2015 and 2023, 4G network coverage doubled to reach 90 per cent of the world’s population.",
+          "translationPrefix": "goal_09.content.#28.scenes.#0"
+        }
+      ],
+      "translationPrefix": "goal_09.content.#28"
+    },
+    {
+      "text": "Least developed countries, mostly in Sub-Saharan Africa, face stark gaps in 4G and 5G coverage, with rural areas especially underserved. Sub-Saharan Africa remains the least connected region for 4G, while 5G is concentrated in high- and upper-middle-income countries. Expanding coverage in LDCs and low income countries is constrained by high infrastructure costs and weak supporting systems. Many areas lack essentials like towers, fiber backhaul, and reliable electricity, making deployment far costlier than elsewhere. <span style=\"background-color: rgb(204,204,204);\">[reference: infr1] </span>Sparse rural populations drive up cost per user and reduce returns, weakening commercial incentives. <span style=\"background-color: rgb(204,204,204);\">[reference: infr2] </span>Power supply is a major bottleneck: remote sites often rely on diesel or off-grid solutions, adding significant capital and maintenance costs.<span style=\"background-color: rgb(204,204,204);\">[reference: infr3] </span>",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#29"
+    },
+    {
+      "type": "vis",
+      "graphic": "mobile_coverage",
+      "title": "Half of LDCs lack 4G, while 5G is nearly absent",
+      "subtitle": "",
+      "source": "International Telecommunications Union ",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "data_download": "09.data.mobile_coverage.csv",
+      "data": "11PSMQOTj8nxK3ebl3gMKWn4Hgh9bUwYAMvrSWKdH2UA",
+      "translationPrefix": "goal_09.content.#30"
+    },
+    {
+      "text": "Why internet speed matters",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#31"
+    },
+    {
+      "text": "Being able to connect to the internet is the first step in taking advantage of the digital services and opportunities. However, connection speed determines the type of activities people can do once online. Faster broadband speeds support economic growth, productivity and innovation, and allow access to education and healthcare services. <span style=\"background-color: rgb(204,204,204);\">[reference: spd1] [reference: spd2] </span> <span style=\"background-color: rgb(204,204,204);\">[reference: spd3] </span> ",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#32"
+    },
+    {
+      "text": "Internet speed varies significantly across countries, impacting the quality of online experiences. In countries like Singapore, Chile, or United Arab Emirates median download speed, for either mobile or fixed broadband, or both, are high and supportive of a wide range of activities (over 300 Mbps), while in low-income economies, many in Sub-Saharan Africa, speeds are often very low (under 25 Mbps). ",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#33"
+    },
+    {
+      "text": "Improving speed is crucial for enabling advanced applications and services.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#34"
+    },
+    {
+      "type": "vis",
+      "graphic": "speed_test",
+      "title": "High income countries enjoy high speed internet",
+      "subtitle": "Median country download speeds (mbps), fixed broadband",
+      "source": "Speedtest Global Index",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "data_download": "09.data.speedtest.zip",
+      "data": "1tqQOC36Nwv_wtwvqVYsawZwSiIKz31vZ6SWT9-pne4g",
+      "translationPrefix": "goal_09.content.#35"
+    },
+    {
+      "text": "From coverage to connection: the usage gap",
+      "type": "subhed",
+      "translationPrefix": "goal_09.content.#36"
+    },
+    {
+      "text": "There is often a significant gap between network coverage and actual internet use. Even when broadband and especially mobile networks, technically reaches most of the population, many people remain offline due to barriers such as high costs, limited access to devices, and low levels of digital literacy. In Bangladesh, for example, 4G mobile networks covered an estimated [emphasis: 98.93%] of the population in 2023, yet only about [emphasis: 45%] of people were observed to be using the internet in the same year. This disparity highlights the difference between having potential access and being able to meaningfully go online. This disconnect highlights that infrastructure alone is not enough to achieve true digital inclusion. Understanding the reasons why people remain unconnected, even when coverage is available, is essential for designing effective and equitable interventions that turn connectivity into meaningful access and use.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#37"
+    },
+    {
+      "type": "factoid",
+      "title": "",
+      "number": "3",
+      "units": "Out of 9 people",
+      "label": "Covered by a network is not accessing the internet",
+      "translationPrefix": "goal_09.content.#38"
+    },
+    {
+      "type": "scroller",
+      "graphic": "access_coverage",
+      "title": "Coverage by mobile networks and the observed use of internet ",
+      "subtitle": "Vis subtitle",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "data_download": "09.data.coverage_access.zip",
+      "data": "1lwfxh-L0_wmvWbZquuRHorK9uZDo_Bktr6oM5Wgld9o",
+      "publish_progress": "true",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "scene_coverage",
+          "text": "Rates of internet access lag behind coverage by different technologies",
+          "translationPrefix": "goal_09.content.#39.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "scene_access",
+          "text": "Access to internet by 2022 evidences how ",
+          "translationPrefix": "goal_09.content.#39.scenes.#1"
+        }
+      ],
+      "translationPrefix": "goal_09.content.#39"
+    },
+    {
+      "text": "Digital literacy: the key to meaningful access",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#40"
+    },
+    {
+      "text": "Digital literacy is essential for meaningful internet use. Many people lack the skills needed to navigate online resources or communicate through mobile devices, underscoring the importance of education and training initiatives. When looking specifically at communication skills, many countries report very low levels of adoption for even the most basic tasks, such as sending text messages or using messaging apps. In some cases, [emphasis: more than half of the population has never sent a message] using a mobile phone. This gap illustrates how limited digital skills can prevent individuals from benefiting fully from available connectivity.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#41"
+    },
+    {
+      "type": "vis",
+      "graphic": "can_send_text_message",
+      "title": "In some countries more the 50% of people have never sent a text message",
+      "subtitle": "Share of respondents who report that they have never sent a text message through a mobile phone (SMS, text message or through a messaging app)",
+      "source": "The Global Findex Database (2025)",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "data_download": "09.data.can_send_text_message.csv",
+      "data": "1-l--CcpPxm-NjaZ3qVBTN8776Nr9uOXvgelAKecclWs",
+      "translationPrefix": "goal_09.content.#42"
+    },
+    {
+      "text": "The device affordability barrier",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#43"
+    },
+    {
+      "text": "One of the biggest reasons many communities remain offline is simply the cost of devices. The World Bank’s 2025 FINDEX report shows that not having enough money to buy a smartphone is the leading barrier to owning one, and without a smartphone people cannot meaningfully use the internet. This challenge is felt even more strongly by adults in the [emphasis: poorest 40% ]of the population. In low and middle income countries, recent statistics show that even a low cost smartphone <span style=\"background-color: rgb(204,204,204);\">[reference: devaf1]</span> can represent about [emphasis: 18%] of an adult’s monthly income<span style=\"background-color: rgb(204,204,204);\">[reference: devaf2]</span>.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#44"
+    },
+    {
+      "text": "Improving access to affordable devices is not just helpful. It is essential for real digital inclusion.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#45"
+    },
+    {
+      "type": "scroller",
+      "graphic": "lack_of_money",
+      "title": "Cost is the biggest obstacle to smartphone ownership and, therefore, to using the internet",
+      "subtitle": "Adults without a smartphone citing lack of money as a reason for having no smartphone (%), 2024",
+      "source": "The Global Findex Database (2025)",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light",
+      "data_download": "09.data.lack_of_money.csv",
+      "data": "1uvmwqlLOt867y1S_0Hr4ZT46wXg0ilxE2OJS5DTj6V4",
+      "publish_progress": "true",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "scene_mobile_is_main",
+          "text": "People for who mobile is not main",
+          "translationPrefix": "goal_09.content.#46.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "scene_",
+          "text": "Lack of money",
+          "translationPrefix": "goal_09.content.#46.scenes.#1"
+        }
+      ],
+      "translationPrefix": "goal_09.content.#46"
+    },
+    {
+      "text": "Despite the limitations and the existing gap between coverage and connectivity, however, over the past decade, the overall trend has been largely positive. Most countries have steadily increased the share of their populations using the internet, reflecting long-term progress in expanding digital access. By 2024, around [emphasis: 54 countries] reached more than[emphasis:  90%] of their population accessing the internet. The progress seen so far suggests that, with sustained effort, closing the remaining gaps between coverage and meaningful use of the internet is within reach.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#47"
+    },
+    {
+      "text": "[emphasis: ]",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#48"
+    },
+    {
+      "text": "Digital inclusion in action: The SAS Brasil example",
+      "type": "subhed2",
+      "translationPrefix": "goal_09.content.#49"
+    },
+    {
+      "text": "Access to the internet has become a gateway to opportunities. Being connected opens the door to better communication, access to information, and new ways of participating in daily life. When it comes to improving lives by accessing basic services such as healthcare, this connection can be transformative. The ability to send a message, make a video call, or share a health concern online creates new pathways for care, especially for people who live far from medical services. Initiatives like[emphasis:  SAS Brasil] show how basic internet access can turn digital communication into a lifeline for health support.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#50"
+    },
+    {
+      "text": "In many rural areas of Brazil, seeing a doctor can require on average around [emphasis: 75 minutes of travel ]<span style=\"background-color: rgb(204,204,204);\">[reference: brzst1] </span>. For many families, that distance may keep them from timely access to medical care. Today, SAS Brasil helps bridge that gap through simple internet based telehealth services. What once required a long and costly journey can now begin with an initial text message to start a diagnosis or address a medical emergency. Using WhatsApp and secure tools, remote communities can connect with health professionals, describe their symptoms, and receive guidance without leaving their village. Local nurses often help residents navigate these consultations, making the service accessible even to those less familiar with digital tools.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#51"
+    },
+    {
+      "text": "This model works because communities have the infrastructure to be connected and the means to access the internet. The strategy is designed to function on low bandwidth connections and relies on tools people already use every day, making telemedicine practical and approachable. Through this setup, patients can access [emphasis: general care, specialist advice, and mental health support] promptly. Behind the scenes, the system also allows health workers to be trained and remote care to be continuously improved.",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#52"
+    },
+    {
+      "text": "SAS Brasil’s internet based telehealth services demonstrate how access to connectivity can expand opportunities, bring essential healthcare closer to people, and strengthen communities. It shows that when the infrastructure for connection exists, digital innovation can transform lives. ",
+      "type": "text",
+      "translationPrefix": "goal_09.content.#53"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
+    "int1": "World Bank. (2016). World Development Report 2016: Digital Dividends. Washington, DC: World Bank. <a href=\"https://www.worldbank.org/en/publication/wdr2016\" target=\"_blank\">https://www.worldbank.org/en/publication/wdr2016</a> ",
+    "intm1": "ITU. <a href=\"https://www.itu.int/en/ITU-D/Statistics/Pages/publications/manual.aspx\" target=\"_blank\">Manual for Measuring ICT Access and Use by Households and Individuals, 2020</a>.",
+    "brdb1": "Strusani, Davide; Houngbonon, Georges V.. 2020. Accelerating Digital Connectivity Through Infrastructure Sharing. EMCompass,no. 79;. © International Finance Corporation. <a href=\"http://hdl.handle.net/10986/33616\" target=\"_blank\">http://hdl.handle.net/10986/33616</a>  License: CC BY-NC-ND 3.0 IGO.",
+    "fxb1": "ITU Handbook for the Collection of Administrative Data on Telecommunications/ICT",
+    "fxb2": "World Bank. 2024. Digital Progress and Trends Report 2023. Washington, DC: World Bank. doi:10.1596/978-1-4648-2049-6. ",
+    "infr1": "International Telecommunication Union. (2021). 21st century financing models for bridging broadband connectivity gaps. ITU.",
+    "infr2": "World Bank. Innovative Financing Models for Rural Broadband Connectivity: The Connected Communities Initiative Experience. 2019.",
+    "infr3": "International Telecommunication Union. (2023). From electricity grid to broadband Internet: Sustainable and innovative power solutions for rural connectivity. https://www.itu.int/hub/publication/d-tnd-09-2023-01/",
+    "spd1": "Briglauer, W., Krämer, J., & Palan, N. (2024). Socioeconomic benefits of high-speed broadband availability and service adoption: A survey. Telecommunications Policy, 48(7), Article 102808. https://doi.org/10.1016/j.telpol.2024.102808",
+    "spd2": "O'Shea, Amy & Howren, M. & Mulligan, Kailey & Haraldsson, Bjarni & Shahnazi, Ariana & Kaboli, Peter. (2023). Quantifying the Digital Divide: Associations of Broadband Internet with Tele-mental Health Access Before and During the COVID-19 Pandemic. Journal of General Internal Medicine. 38. 10.1007/s11606-023-08120-8. ",
+    "spd3": "Jialing Chen, Jiancheng Wang, The impact of broadband speed on innovation: City-level evidence from China, Heliyon, Volume 9, Issue 1, 2023, e12692, ISSN 2405-8440,",
+    "rur1": "Olson, K. M., Phillips, A., Smyth, J. D., & Stenger, R. (2025). The urban–rural digital divide in Internet access and online activities during the COVID-19 pandemic. Rural Sociology, 90, Article e70012. https://doi.org/10.1111/ruso.70012",
+    "brzst1": "Calculated using geolocated coordinates for health centers, roads and population estimates. ",
+    "devaf1": "Entry-level internet-enabled handset",
+    "devaf2": "GSMA. 2024. “The State of Mobile Internet Connectivity: Key Findings 2024.” GSMA, London. https://www.gsma.com/r/wp-content/uploads/2024/10/The-State-of-Mobile-Internet -Connectivity-Report-Key-Findings-2024.pdf",
+    "gnd1": "International Telecommunication Union. (2024). ITU Facts and Figures 2024. ITU. https://www.itu.int/itu-d/reports/statistics/facts-figures-2024/",
+    "gnd2": "Singh, Sumanjeet, Kumar Rahul, Minakshi Paliwal, Insha Ahad Wani, and Sameeksha Suri. 2025. “Gendering the Digital Divide: A Systematic Review of Women’s Digital Inclusion Challenges and Emerging Research Directions.” Digital Technology & Society 4 (4): 503.",
+    "translationPrefix": "goal_09.references"
+  },
+  "translationPrefix": "goal_09"
+}

@@ -1,0 +1,567 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "05",
+    "shortTitle": "Gender and jobs",
+    "title": "Shaping the future: Women’s work, unpacked",
+    "abstract": "todo",
+    "citation": "Divyanshi Wadhwa, Anna Bonfert",
+    "credits": "todo",
+    "inputs": "todo",
+    "visuals": "Ændra Rininsland",
+    "translationPrefix": "goal_05.config"
+  },
+  "content": [
+    {
+      "text": "Historically, women have faced significant barriers to full participation in society. Until relatively recently, prevailing social norms confined women’s roles to the private sphere, excluding them from the labor market and other income-generating opportunities.[reference: social-norms] Over the past century, however, many women have entered the formal workforce, though the pace and extent of progress vary widely across countries.<span style=\"background-color: rgb(255,255,0);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#0"
+    },
+    {
+      "text": "While workforce participation is primarily measured under [goal: 8] (Decent Work and Economic Growth), it remains a central dimension of [goal: 5] (Gender Equality), underscoring the critical link between women’s economic participation and broader gender equality goals.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#1"
+    },
+    {
+      "text": "Globally, around 8 in 10 men between the ages of 15 and 64 are part of the labor force. [reference: wdi-lfp] But what about women? Take a guess in the chart below and see how close you come to the actual share.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#2"
+    },
+    {
+      "type": "vis",
+      "graphic": "global_labor_force_participation",
+      "title": "How has female labor force participation changed globally relative to male labor force participation?",
+      "subtitle": "The global percentage of men participating in the labor force has declined slightly since the 1990s. What’s the story for women?",
+      "source": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), date accessed: January 07, 2025. Retrieved from World Development Indicators (SL.TLF.ACTI.FE.ZS, SL.TLF.ACTI.MA.ZS). <a href=\"https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS\" target=\"_blank\">https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS</a>",
+      "visdescription": "Draw female labor force participation from 1990 to now.",
+      "theme": "light (alternatively: dark)",
+      "data_download": "05.data.sl-tlf-acti_both-genders_GDP.zip",
+      "data": "1GiFBWFKD-pq92hpThAq0oHFaIkibkINd_1St0q_LFfo",
+      "translationPrefix": "goal_05.content.#3"
+    },
+    {
+      "text": "Women’s participation in the labor force",
+      "type": "subhed",
+      "translationPrefix": "goal_05.content.#4"
+    },
+    {
+      "text": "Since 1990, women’s participation in the labor force has remained largely unchanged, with only half of the women between the ages of 15 and 64 engaged in paid work. This represents a substantial gap compared to men—roughly 30 percentage points.[reference: wdi-lfp]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#5"
+    },
+    {
+      "text": "Regional patterns tell a more nuanced story. In some regions, women’s participation has increased noticeably. But progress has been uneven; in several regions, the gap remains striking.[reference: wdi-lfp]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#6"
+    },
+    {
+      "type": "scroller",
+      "graphic": "regional_labor_force_participation",
+      "title": "Regional labour force participation by gender",
+      "subtitle": "Female labor force participation (% of total female population) and male labor force participation (% of total male population)",
+      "source": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), date accessed: January 07, 2025. Retrieved from World Development Indicators (SL.TLF.ACTI.FE.ZS, SL.TLF.ACTI.MA.ZS). <a href=\"https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS\" target=\"_blank\">https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS</a>",
+      "visdescription": "<span style=\"background-color: rgb(255,255,0);\">tbd</span>",
+      "theme": "light (alternatively: dark)",
+      "data_download": "05.data.sl-tlf-acti_both-genders_GDP.zip",
+      "data": "1GiFBWFKD-pq92hpThAq0oHFaIkibkINd_1St0q_LFfo",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "lfp_regions",
+          "text": "While men’s global labor force participation is fairly consistent across regions—hovering around 80 percent—the picture is very different for women. ",
+          "translationPrefix": "goal_05.content.#7.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "lfp_by_gender",
+          "text": "Their participation ranges from just 19 percent in the Middle East & North Africa to about 70 percent in North America.",
+          "translationPrefix": "goal_05.content.#7.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "lfp_by_gender",
+          "text": "Two regions stand out for making notable progress: Latin America & the Caribbean and Europe & Central Asia. In Latin America & the Caribbean, the gender gap has narrowed from 40 percentage points to 23, while in Europe & Central Asia the gap has shrunk by 22 points, down to 15 percentage points.",
+          "translationPrefix": "goal_05.content.#7.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "lfp_by_gender",
+          "text": "In nearly all other regions, any narrowing in the gap is not the result of greater female participation, but rather a decline in men’s participation.",
+          "translationPrefix": "goal_05.content.#7.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal_05.content.#7"
+    },
+    {
+      "text": "391 more years before equality",
+      "type": "subhed",
+      "translationPrefix": "goal_05.content.#8"
+    },
+    {
+      "text": "Progress in increasing women’s participation in the labor force has been extremely slow. Progress varies widely across countries and tends to move at different speeds depending on their stage of development. To put this into perspective, consider the trajectory of a “typical” country.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#9"
+    },
+    {
+      "type": "scroller",
+      "graphic": "sdg5_350_years",
+      "title": "391 more years before equality?",
+      "subtitle": "<span style=\"background-color: rgb(255,255,0);\">Vis subtitle</span>",
+      "source": "<span style=\"background-color: rgb(255,255,0);\">Calculations by World Bank staff based on the progress paper (to be added when working paper available)</span>",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "publish_progress": "true",
+      "data_download": "5_typical_path.zip",
+      "data": "1o5yF32I0XmxlazXO2NtB3QEvmoQH1RnobwgZLAnAXUg",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro_drawTypical",
+          "text": "Using historical country-level data from 1990 to 2024, we calculated a “typical” path of progress (with more details on the methodology provided on <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">this page</a>).[reference: progress-paper]",
+          "translationPrefix": "goal_05.content.#10.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "example850",
+          "text": "Now, imagine a country with nearly no women in the labor force. If this country took the typical path of progress, then it would take 850 years to reach 80 percent of women’s labor force participation - the level that reflects today’s global average for men.",
+          "translationPrefix": "goal_05.content.#10.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "example850_draw2024",
+          "text": "This means, at just 55 percent in 2024, the global average of women’s labor force participation remains 391 years away from reaching parity with men at 80 percent.",
+          "translationPrefix": "goal_05.content.#10.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "exampleTurkiye_1",
+          "text": "Türkiye is one of them. When the SDGs began, women’s labor force participation stood at 34 percent.",
+          "translationPrefix": "goal_05.content.#10.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "exampleTurkiye_2",
+          "text": " By 2024, it had risen to 41.5 percent—an increase of 6.5 percentage points.",
+          "translationPrefix": "goal_05.content.#10.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "exampleTurkiye_Senegal",
+          "text": "Compared with other countries at a similar starting point in 2015—such as Senegal which is yet to cross 41 percent participation for women—Türkiye advanced more rapidly.",
+          "translationPrefix": "goal_05.content.#10.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "exampleTurkiye_4",
+          "text": "In fact, for a typical country, increasing female labor force participation from 34.7 percent to 41.5 percent would take more than 35 years.",
+          "translationPrefix": "goal_05.content.#10.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "exampleTurkiye_4",
+          "text": "In other words, Türkiye’s progress was 4 times faster than a typical one, marking notable gains in women’s participation.",
+          "translationPrefix": "goal_05.content.#10.scenes.#7"
+        },
+        {
+          "type": "scene",
+          "id": "explore",
+          "text": "Use the country selector to explore where each country stands today, how fast it has progressed since 2015, and how far it is from parity.",
+          "translationPrefix": "goal_05.content.#10.scenes.#8"
+        }
+      ],
+      "translationPrefix": "goal_05.content.#10"
+    },
+    {
+      "text": "So, what contributed towards the increase in women’s participation in Turkiye’s labor force?",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#11"
+    },
+    {
+      "text": "Drivers for increasing women’s labor force participation",
+      "type": "subhed",
+      "translationPrefix": "goal_05.content.#12"
+    },
+    {
+      "text": "Several factors came together to shape women’s participation in Türkiye’s labor force. Beginning in the 1990s, the economy underwent a structural transformation, shifting away from agriculture and toward industry and services. Many women had been engaged in agriculture as unpaid family workers, but as farms shrank, families migrated to cities.[reference: turkey-driver]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#13"
+    },
+    {
+      "text": "Opportunities available in urban labor markets often demanded new skills and formal training, and childcare support was limited. As is common in the early stages of industrialization, men were more likely to acquire the new skills needed, while women—faced with lower levels of education and lack of childcare—were excluded from these opportunities. With little opportunities available to them, many women withdrew from the workforce.[reference: turkey-driver] Between 1990 and 2004, women’s labor force participation fell from 36 percent to 25 percent.[reference: wdi-lfp] ​​As education levels rose, younger generations of women began to join the labor market in greater numbers, finding opportunities in industry and services.[reference: turkey-driver]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#14"
+    },
+    {
+      "type": "vis",
+      "graphic": "sdg5_turkiye_lfp_drivers",
+      "title": "Türkiye’s shift away from agriculture towards services changed how women participated in the workforce ",
+      "subtitle": "Women’s and men’s share of workforce by economic sector (% of population in the workforce by gender)",
+      "source": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), publisher: ILOSTAT, date accessed: January 07, 2025. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS\" target=\"_blank\">SL.AGR.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.AGR.EMPL.MA.ZS\" target=\"_blank\">SL.AGR.EMPL.MA.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.IND.EMPL.FE.ZS\" target=\"_blank\">SL.IND.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.IND.EMPL.MA.ZS\" target=\"_blank\">SL.AGR.EMPL.MA.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.SRV.EMPL.FE.ZS\" target=\"_blank\">SL.SRV.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.SRV.EMPL.MA.ZS\" target=\"_blank\">SL.SRV.EMPL.MA.ZS</a>)",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "data_download": "05_drivers_data.zip",
+      "data": "1wv1ALjkR9I4wBHn7AiIimyJ7fbxLsM0LFKs1YGCxY2M",
+      "translationPrefix": "goal_05.content.#15"
+    },
+    {
+      "text": "At the same time, social norms and family dynamics were evolving.[reference: turkey-driver] Fertility rates in Türkiye declined faster than the global average, reaching 1.5 by 2023.[reference: wdi-fertility] With fewer children, the demand for childcare eased somewhat, opening up opportunities for more women to consider paid work.[reference: turkey-driver]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#16"
+    },
+    {
+      "type": "vis",
+      "graphic": "sdg5_turkiye_fertility",
+      "title": "Türkiye’s fertility rate fell faster than the global average",
+      "subtitle": "Fertility rate, total (births per woman)",
+      "source": "World Population Prospects, United Nations ( UN ), publisher: UN Population Division; Statistical databases and publications from national statistical offices, National statistical offices; Demographic Statistics, Eurostat (ESTAT). Retrieved from World Development Indicators (SP.DYN.TFRT.IN) <a href=\"https://data.worldbank.org/indicator/SP.DYN.TFRT.IN\" target=\"_blank\">https://data.worldbank.org/indicator/SP.DYN.TFRT.IN</a>",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "data_download": "05_drivers_data.zip",
+      "data": "1wv1ALjkR9I4wBHn7AiIimyJ7fbxLsM0LFKs1YGCxY2M",
+      "translationPrefix": "goal_05.content.#17"
+    },
+    {
+      "text": "Education played an equally important role: while women’s participation in the labor force has historically been lower than men’s, the gap is widest among those with little or no education, and narrowest among those with advanced degrees.[reference: ilo-education] As more women gained access to tertiary education, their opportunities in the labor market expanded.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#18"
+    },
+    {
+      "type": "vis",
+      "graphic": "sdg5_turkiye_education",
+      "title": "Gender gap in Türkiye’s labor force participation is narrowest in highest level of education",
+      "subtitle": "Labor force participation by gender and level of education (% of population by gender and level of education)",
+      "source": "<span style=\"background-color: rgb(255,255,255);\">Education and Mismatch Indicators database (EMI), International Labour Organization (ILO), uri: </span><a href=\"https://ilostat.ilo.org/data/bulk/\" target=\"_blank\">https://ilostat.ilo.org/data/bulk/</a><span style=\"background-color: rgb(255,255,255);\">, publisher: ILOSTAT</span>",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "data_download": "05_drivers_data.zip",
+      "data": "1wv1ALjkR9I4wBHn7AiIimyJ7fbxLsM0LFKs1YGCxY2M",
+      "translationPrefix": "goal_05.content.#19"
+    },
+    {
+      "text": "From the 2000s onward, these shifts—falling fertility, rising education levels, and gradual changes in social norms—combined with economic growth helped create more jobs for women.[reference: turkey-driver] As a result, female labor force participation began to rise again, reaching 41 percent in 2024.[reference: wdi-lfp] Still, this progress has only been possible where social attitudes allowed women the freedom to work and where economic conditions created opportunities in the labor market.[reference: social-norms]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#20"
+    },
+    {
+      "text": "Shifting social norms, preventing child marriage, expanding childcare support, and promoting equitable division of domestic responsibilities are therefore key drivers in enabling more women to enter and thrive in the labor market, both as employees and entrepreneurs.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#21"
+    },
+    {
+      "text": "Women represent a vast untapped source of productivity, innovation, and growth.[reference: unwomen-work] Increasing female labor force participation allows societies to fully reap the returns on investments in women’s education and health.<span style=\"background-color: rgb(255,255,0);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#22"
+    },
+    {
+      "text": "In many countries, removing barriers to women’s participation in the labor force could raise output by 15-20% and produce strong income gains.[reference: gender-distortions]  Yet, we continue to see a misallocation of talent: Women’s skills and potential are not used efficiently because social, legal, or institutional barriers prevent them from accessing the most productive jobs, or the job market altogether. As a result, the economy produces less output than it could if all talent were fully and optimally utilized. So, even when they are employed, women face greater and more complex challenges. These include the types of jobs available to them and the way their work is valued and compensated.[reference: gender-distortions]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#23"
+    },
+    {
+      "text": "Vulnerable employment",
+      "type": "subhed",
+      "translationPrefix": "goal_05.content.#24"
+    },
+    {
+      "text": "To explore these aspects of work, let’s have a closer look at the labor force in two very different countries. Switzerland and Tanzania have similar rates of labor force participation for both women and men but different types of employment patterns.[reference: ilo-employmenttype] In simple terms, the labor force includes everyone who is either working or unemployed.[reference: active-work]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#25"
+    },
+    {
+      "type": "scroller",
+      "graphic": "sdg5_better_jobs_for_women",
+      "title": "Tale of two countries: Similar labor force participation, different types of employment",
+      "subtitle": "Share of population by gender and employment status for Switzerland and Tanzania",
+      "source": "<span style=\"background-color: rgb(255,255,255);\">ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: </span><a href=\"https://ilostat.ilo.org/data/bulk/\" target=\"_blank\">https://ilostat.ilo.org/data/bulk/</a><span style=\"background-color: rgb(255,255,255);\">, publisher: ILOSTAT</span>",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "data_download": "5_components-allcountries-lfp.csv",
+      "data": "183cqyFR8V55HhgMQr1ChjErNAcwoh4jqIq0_wIMlNc0",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "scene_1",
+          "text": "Tanzania and Switzerland both have some of the highest female labor force participation rates in the world, at nearly 80 percent. Male participation in both countries is around 87–88 percent, meaning women’s participation is slightly lower, but the gap remains relatively small.",
+          "translationPrefix": "goal_05.content.#26.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "scene_2",
+          "text": "While overall participation rates are similar, the composition of the labor force in Tanzania, a lower-middle-income country, differs markedly from Switzerland, one of the richest countries in the world. Among the employed, some are wage and salaried workers, while others are in more precarious forms of work, categorized as vulnerable employment. These vulnerable forms of employment include contributing family workers—who typically receive no direct pay but share in household income—and own-account workers, who are self-employed without hired employees.",
+          "translationPrefix": "goal_05.content.#26.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "scene_2",
+          "text": "In Switzerland, the majority of both men and women are wage and salaried workers—about 68 percent of men and 65 percent of women. Contributing family and own-account employment is low, around 9 percent for both genders, and unemployment is relatively modest at about 4 percent.",
+          "translationPrefix": "goal_05.content.#26.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "scene_4",
+          "text": "In Tanzania, by contrast, the labor market is dominated by contributing family or own-account workers, with 69 percent of women and 68 percent of men working in such conditions. Only 7 percent of women hold wage and salaried jobs—less than half the rate for men, at 16 percent. ",
+          "translationPrefix": "goal_05.content.#26.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "scene_4",
+          "text": "When looking at employment shares within the labor force, the disparities become even starker. Nearly 89 percent of women and 78 percent of men are in vulnerable employment—a 12-percentage-point gap. Fewer than one in ten women in Tanzania hold wage or salaried jobs, compared with nearly one in five men. Even for men, this share is low, but for women it is strikingly worse.",
+          "translationPrefix": "goal_05.content.#26.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal_05.content.#26"
+    },
+    {
+      "text": "Contributing family workers and own-account workers are considered in vulnerable employment because they may lack contracts, social protection, and savings. A common example of an own-account worker is a street vendor, while contributing family workers are often agricultural workers. ",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#27"
+    },
+    {
+      "text": "Vulnerable employment is often mixed with but also overlaps with the common notion of informal employment. Informal work includes work in the informal economy (unregistered enterprises and/or making no social security protections), informal work in the formal economy (nondeclared jobs, earnings below social protection thresholds, or non-compliance with law), and informal work in households (contributing family workers). While informal employment is about the informality of working arrangements, vulnerable employment represents economic insecurity.[reference: ilo-vulnerable-informal]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#28"
+    },
+    {
+      "text": "People in vulnerable employment are highly exposed to economic shocks and are most likely to fall into poverty - and as in the case of Tanzania, they are predominantly women.[reference: ilo-employmenttype] Such high rates of vulnerable employment among women are not unique to Tanzania, but reflect a broader trend seen across many low- and middle-income countries.[reference: vulnerable-employment]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#29"
+    },
+    {
+      "type": "vis",
+      "graphic": "gender_gap_informal_gdp",
+      "title": "Vulnerable employment among women and men",
+      "subtitle": "Vis subtitle",
+      "source": "Source of the data",
+      "visdescription": "Vulnerable employment is common in low income countries. Among countries with the lowest income, vulnerable employment rates are as high as 90 percent. Poorer countries not only have a majority share of vulnerably employed, women tend to have a higher rate than men. <explain why>. In countries with higher incomes, vulnerable employment is less common. The share of men in vulnerable employment also tends to be higher than that of women. ",
+      "theme": "light (alternatively: dark)",
+      "data_download": "05.data.vulnerable_emp.csv",
+      "data": "1UGJFyH-_LgLeqOe2XSaZWHwmj2AaVzOKodi0r0fIHWE",
+      "translationPrefix": "goal_05.content.#30"
+    },
+    {
+      "text": "Vulnerable employment is widespread in low-income countries, where rates can reach as high as 90 percent. In these settings, not only is the majority of the workforce in vulnerable jobs, but women are disproportionately affected. The gender gap in vulnerable employment tends to be widest in poorer countries—particularly those with higher fertility rates and larger young-age dependency ratios. Discriminatory laws related to marriage and parenthood further limit women’s access to secure work. [reference: vulnerable-employment]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#31"
+    },
+    {
+      "text": "By contrast, in high-income countries—where legal and social barriers to employment are weaker—vulnerable employment is far less common. People in these economies typically attain higher levels of education and therefore have greater access to stable and secure jobs. Interestingly, in many high-income countries, men are slightly more likely than women to be in vulnerable employment. While there is limited research explaining this pattern, one possible explanation is that this concept is difficult to measure consistently across countries. At such low levels of vulnerable employment, the indicator may capture self-employed professionals such as accountants or attorneys rather than own-account workers like street vendors, leading to some distortion in the data.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#32"
+    },
+    {
+      "text": "Gender wage gap",
+      "type": "subhed",
+      "translationPrefix": "goal_05.content.#33"
+    },
+    {
+      "text": "Disadvantages for women persist beyond the type of employment and also in the value of their work, as reflected in persistent wage gaps. Several factors drive the gender gap in earnings, including occupational segregation, women’s underrepresentation in leadership, and disparities in education and skills.[reference: wage-gap]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#34"
+    },
+    {
+      "text": "Women are often concentrated in lower-paying sectors such as domestic work, clerical services, and contributing work in farms, while men are more likely to hold jobs in higher-paying fields like industry, technology, or formal wage employment. Even within the same sector, women are less likely to occupy supervisory or leadership positions, limiting their earning potential.[reference: occu-seg]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#35"
+    },
+    {
+      "text": "Gaps in education and skills—shaped by unequal access to schooling, training, and professional networks—further constrain women’s opportunities to move into higher-paying work. Restrictive social norms also reinforce these barriers by limiting women’s participation and advancement in the workforce even after receiving education.[reference: occu-seg]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#36"
+    },
+    {
+      "type": "scroller",
+      "graphic": "sdg5_wage_gap_beeswarm",
+      "title": "In most countries, wages are higher for men than women on average ",
+      "subtitle": "Ratio of women’s wage to men’s wage. A wage ratio higher than 1 signals higher wages for women while a wage ratio lower than 1 signals lower wages for women",
+      "source": "<span style=\"background-color: rgb(255,255,255);\">Wages and Working Time Statistics (COND), International Labour Organization (ILO), uri: </span><a href=\"https://ilostat.ilo.org/data/bulk/\" target=\"_blank\">https://ilostat.ilo.org/data/bulk/</a><span style=\"background-color: rgb(255,255,255);\">, publisher: ILOSTAT</span>",
+      "visdescription": "description",
+      "theme": "light (alternatively: dark)",
+      "data_download": "wage_month.csv",
+      "data": "11xTcc7eM3HUKOmEgw6-iIRzmMO8OPWGjes9_0tEJd6M",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "wage_ratio",
+          "text": "These dynamics are reflected in earnings: in the median country, women earn just 91 cents for every dollar earned by men. ",
+          "translationPrefix": "goal_05.content.#37.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "wage_ratio",
+          "text": "Of 131 countries with data, in 93 countries, men are paid more on average than women on an hourly basis. ",
+          "translationPrefix": "goal_05.content.#37.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "wage_month_ratio",
+          "text": "The gap widens when measured by monthly earnings, as women are more likely to require flexible work arrangements, work part-time or fewer hours due to care and household responsibilities that fall disproportionately on them, bringing the median monthly wage ratio down to 82 percent.",
+          "translationPrefix": "goal_05.content.#37.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_05.content.#37"
+    },
+    {
+      "text": "Yet, even after accounting for these differences, a portion of the earnings gap remains unexplained.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#38"
+    },
+    {
+      "text": "Narrowing the gender wage gap benefits not only individual women and their economic well-being, but also society as a whole. On average, countries could see a 14 percent increase in wealth by closing the gap in lifetime earnings between men and women.[reference: wage-wealth] ",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#39"
+    },
+    {
+      "text": "Such patterns of disadvantages for women in the work force whether in the type of employment, the employment arrangement or the value for their work point to structural inequalities in labor markets that limit women’s economic security and constrain broader development outcomes.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#40"
+    },
+    {
+      "text": "Unpaid work",
+      "type": "subhed",
+      "translationPrefix": "goal_05.content.#41"
+    },
+    {
+      "text": "Discussions of employment usually focus on work outside the household. However, a substantial share of productive activity consists of unpaid domestic and care work carried out within households.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#42"
+    },
+    {
+      "text": "Domestic and care work refers to food preparation, cleaning and upkeep of a dwelling, shopping, childcare, and care of the sick, elderly or disabled household members, among others.[reference: gdp-timespent] This work is important in daily life and contributes to human capital development and productivity; but it is not equally divided between women and men.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#43"
+    },
+    {
+      "type": "scroller",
+      "graphic": "unpaid_time_animation",
+      "title": "Women spend more time in unpaid work while men spend more time in paid work",
+      "subtitle": "Hours spent in a day in paid work and in unpaid work by women and men",
+      "source": "<span style=\"background-color: rgb(255,255,0);\">Source of the data</span>",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light (alternatively: dark)",
+      "visSize": "fullScreen",
+      "data_download": "unpaid-work.zip",
+      "data": "1FEkl6WKMlGhZNhWAXT705dWVr_Sdg4bdWmYOtht53h8",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "beeswarm",
+          "text": "Women provide the lion’s share of unpaid work in every single country, while men spend more time in paid work.",
+          "translationPrefix": "goal_05.content.#44.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "scatter_f",
+          "text": "The burden of unpaid work has implications for women’s ability to take up paid work opportunities. Female labor force participation is especially low in countries where women spend many hours on unpaid work.[emphasis:  ]Worldwide more than 708 million women are outside of the labor force due to care responsibilities.[reference: care-tradeoff]",
+          "translationPrefix": "goal_05.content.#44.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "scatter_mf",
+          "text": "Paradoxically, even when women have a job, they continue performing most of the unpaid work of the household. In countries with high levels of labor force participation, women face a “second shift”.[reference: second-shift]",
+          "translationPrefix": "goal_05.content.#44.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "scatter_mf",
+          "text": "Care arrangements differ across societies but in most countries with data available women’s total workload, encompassing both paid and unpaid work,  exceeds that of men. This means that on the whole women are typically more time-poor with negative implications for their wellbeing.[reference: total-work]",
+          "translationPrefix": "goal_05.content.#44.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal_05.content.#44"
+    },
+    {
+      "text": "Why do women shoulder a disproportionate amount of unpaid work? Specific reasons vary by family but often include social attitudes and cultural traditions that dictate gendered division of labor, economic inequalities including the gender pay gap, and lack of social services such as childcare. When access to childcare services is expanded, more women can join the labor force and those already in employment are able to work more hours.[reference: childcare-laborforce]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#45"
+    },
+    {
+      "text": "Formalizing and valuing the work that women perform outside the labor market could have an economy-wide triple effect. A conservative estimate of the total value of care work provided by women is $11 trillion, equivalent to 9 percent of the global Gross Domestic Product (GDP).[reference: carework-value]<span style=\"background-color: rgb(255,255,0);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#46"
+    },
+    {
+      "text": "Unequal burden of unpaid care and domestic work, which limits women’s time and opportunities for formal employment, is yet another constraint faced by women. However, with the changing labor force market itself, women’s participation may be further impacted.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#47"
+    },
+    {
+      "text": "Future of jobs",
+      "type": "subhed",
+      "translationPrefix": "goal_05.content.#48"
+    },
+    {
+      "text": "As artificial intelligence (AI) reshapes labor markets globally, the future of jobs remains complex and evolving. Globally, there are pronounced differences in AI exposure between women and men largely driven by women’s overrepresentation in sectors prone to AI adoption such as clerical work, administration, and services. ",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#49"
+    },
+    {
+      "text": "The gender gap in AI exposure exists across income levels but is largest in high and upper middle income countries where AI penetration is comparatively more advanced. In low income countries, AI exposure is still nascent given shortfalls in internet penetration and access to electricity.[reference: ai-exposure]  ",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#50"
+    },
+    {
+      "text": "Women’s jobs in developing countries are less susceptible to AI disruption because a significant share of women remain employed in agriculture and the informal sector. To ensure women are not left behind in the AI-driven economy, countries must close the gender digital divide.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#51"
+    },
+    {
+      "text": "Increased AI exposure can have different effects on jobs: displace, enhance or create new jobs. This will play out differently for different groups of women. In high-income countries, almost 10 percent of employed women work in jobs considered to be at the highest risk of AI-driven task automation compared to only 3.5 percent of men.[reference: genai-jobs] Similarly, in middle income countries, women are more exposed than men to the AI displacement effect, for examplein Malaysia and the Philippines.[reference: futurejobs-ai] As digitalization deepens in low income countries, women’s risk of displacement, especially in service sectors may grow unless proactive measures are taken.",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#52"
+    },
+    {
+      "type": "vis",
+      "graphic": "sdg5_ai_occupational_exposure_by_gender",
+      "title": "Occupational exposure to AI",
+      "subtitle": "by gender and region",
+      "source": "ILO",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "data_download": "ilo_ai_exposure_summary.csv",
+      "data": "1M43AbaYyQL6_Bdkemsog4a7gdHZqw9faSEUdKb6qag0",
+      "translationPrefix": "goal_05.content.#53"
+    },
+    {
+      "text": "But the diffusion of AI-enabled technologies can also benefit female employment. For example, in Europe, a 10 decile rise in AI exposure corresponds to a 2.2 – 2.9 percent increase in female employment share (more than double that for the total employment share). The largest positive effects on female employment from AI adoption are seen in countries where women have made greater educational progress and participate more in the labor market.[reference: ai-women-europe]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#54"
+    },
+    {
+      "text": "To adapt to the changing demand in skills, countries at all income levels need to scale up reskilling efforts focused on AI-related competencies.[reference: ai-unesco]",
+      "type": "text",
+      "translationPrefix": "goal_05.content.#55"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "wdi-lfp": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), date accessed: January 07, 2025. Retrieved from World Development Indicators (SL.TLF.ACTI.FE.ZS, SL.TLF.ACTI.MA.ZS). <a href=\"https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS\" target=\"_blank\">https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS</a>",
+    "wage-wealth": "<a href=\"https://documents1.worldbank.org/curated/en/099429503232391423/pdf/IDU01ce4677209e7504e49089f90e038fd3b4332.pdf\" target=\"_blank\">https://documents1.worldbank.org/curated/en/099429503232391423/pdf/IDU01ce4677209e7504e49089f90e038fd3b4332.pdf</a>",
+    "active-work": "Per ILO definition, unemployment refers to the share of the labor force that is without work and both available for and seeking employment during a specified reference period. Women may not be available for work during the reference period, as many need to make arrangements for childcare and other familiar duties before starting work, driving down estimates of unemployment among women.",
+    "social-norms": "Jayachandran, Seema. (2021). Social Norms as a Barrier to Women’s Employment in Developing Countries. IMF Economic Review. 69. 1-20. 10.1057/s41308-021-00140-w. <a href=\"https://www.researchgate.net/publication/353005285_Social_Norms_as_a_Barrier_to_Women's_Employment_in_Developing_Countries\" target=\"_blank\">https://www.researchgate.net/publication/353005285_Social_Norms_as_a_Barrier_to_Women's_Employment_in_Developing_Countries</a> ",
+    "progress-paper": "<span style=\"background-color: rgb(255,255,0);\">Link will be added when working paper version is made available</span>",
+    "turkey-driver": "​​Lugo, Maria Ana; Muller, Miriam; Wai-Poi, Matthew Grant. Middle East and North Africa - Women’s Economic Participation in Iraq, Jordan, and Lebanon (English). Washington, D.C. : World Bank Group. <a href=\"http://documents.worldbank.org/curated/en/933641600751429640\" target=\"_blank\">http://documents.worldbank.org/curated/en/933641600751429640</a> ",
+    "wdi-fertility": "World Population Prospects, United Nations ( UN ), publisher: UN Population Division; Statistical databases and publications from national statistical offices, National statistical offices; Demographic Statistics, Eurostat (ESTAT). Retrieved from World Development Indicators (SP.DYN.TFRT.IN) <a href=\"https://data.worldbank.org/indicator/SP.DYN.TFRT.IN\" target=\"_blank\">https://data.worldbank.org/indicator/SP.DYN.TFRT.IN</a>",
+    "wdi-sectors": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), publisher: ILOSTAT, date accessed: January 07, 2025. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS\" target=\"_blank\">SL.AGR.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.AGR.EMPL.MA.ZS\" target=\"_blank\">SL.AGR.EMPL.MA.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.IND.EMPL.FE.ZS\" target=\"_blank\">SL.IND.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.IND.EMPL.MA.ZS\" target=\"_blank\">SL.AGR.EMPL.MA.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.SRV.EMPL.FE.ZS\" target=\"_blank\">SL.SRV.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.SRV.EMPL.MA.ZS\" target=\"_blank\">SL.SRV.EMPL.MA.ZS</a>)",
+    "ilo-education": "<span style=\"background-color: rgb(255,255,255);\">Education and Mismatch Indicators database (EMI), International Labour Organization (ILO), uri: </span><a href=\"https://ilostat.ilo.org/data/bulk/\" target=\"_blank\">https://ilostat.ilo.org/data/bulk/</a><span style=\"background-color: rgb(255,255,255);\">, publisher: ILOSTAT</span>",
+    "unwomen-work": "<span style=\"background-color: rgb(255,255,255);\">UN Women. (2024, June 28). </span><span style=\"background-color: rgb(255,255,255);\">Facts and figures: Economic empowerment</span><span style=\"background-color: rgb(255,255,255);\">. </span><a href=\"https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-economic-empowerment?utm_source=chatgpt.com\" target=\"_blank\">https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-economic-empowerment</a><span style=\"background-color: rgb(255,255,255);\"></span>",
+    "ilo-employmenttype": "<span style=\"background-color: rgb(255,255,255);\">ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: </span><a href=\"https://ilostat.ilo.org/data/bulk/\" target=\"_blank\">https://ilostat.ilo.org/data/bulk/</a><span style=\"background-color: rgb(255,255,255);\">, publisher: ILOSTAT</span>",
+    "ilo-vulnerable-informal": "<span style=\"background-color: rgb(255,255,255);\">Gardner, J., Walsh, K., Frosch, M. . Engendering informality statistics: gaps and opportunities: Working paper to support revision of the standards for statistics on informality, ILO Working Paper (Geneva, ILO). </span><a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40dgreports/%40stat/documents/publication/wcms_861882.pdf\" target=\"_blank\">https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40dgreports/%40stat/documents/publication/wcms_861882.pdf</a><span style=\"background-color: rgb(255,255,255);\"> </span>",
+    "vulnerable-employment": "Maria C. Lo Bue, Tu Thi Ngoc Le, Manuel Santos Silva, Kunal Sen, Gender and vulnerable employment in the developing world: Evidence from global microdata, World Development, Volume 159, 2022, 106010, ISSN 0305-750X, https://doi.org/10.1016/j.worlddev.2022.106010.",
+    "wage-gap": "International Labour Organization. (2020). Understanding the gender pay gap (pp. 1-X). ILO.<a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40act_emp/documents/publication/wcms_735949.pdf\" target=\"_blank\"> </a><a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40act_emp/documents/publication/wcms_735949.pdf\" target=\"_blank\">https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40act_emp/documents/publication/wcms_735949.pdf</a>",
+    "occu-seg": "Das, S., & Kotikula, A. (2019). Gender-based employment segregation: Understanding causes and policy interventions (Jobs Group Papers, Notes & Guides No. 30947812). The World Bank.<a href=\"https://documents1.worldbank.org/curated/en/483621554129720460/pdf/Gender-Based-Employment-Segregation-Understanding-Causes-and-Policy-Interventions.pdf?utm_source=chatgpt.com\" target=\"_blank\"> </a><a href=\"https://documents1.worldbank.org/curated/en/483621554129720460/pdf/Gender-Based-Employment-Segregation-Understanding-Causes-and-Policy-Interventions.pdf?utm_source=chatgpt.com\" target=\"_blank\">https://documents1.worldbank.org/curated/en/483621554129720460/pdf/Gender-Based-Employment-Segregation-Understanding-Causes-and-Policy-Interventions.pdf</a>",
+    "care-tradeoff": "International Labour Organization. (2024, October 29). The impact of care responsibilities on women’s labour force participation: Statistical brief (GEDI-STAT Brief) [PDF].<a href=\"https://www.ilo.org/sites/default/files/2024-10/GEDI-STAT%20brief_formatted_28.10.24_final.pdf?utm_source=chatgpt.com\" target=\"_blank\"> </a><a href=\"https://www.ilo.org/sites/default/files/2024-10/GEDI-STAT%20brief_formatted_28.10.24_final.pdf?utm_source=chatgpt.com\" target=\"_blank\">https://www.ilo.org/sites/default/files/2024-10/GEDI-STAT%20brief_formatted_28.10.24_final.pdf</a>",
+    "second-shift": "Hochschild, A. R., & Machung, A. (1989). The second shift: Working parents and the revolution at home. Viking. <a href=\"https://catalogue.nla.gov.au/catalog/2059607\" target=\"_blank\">https://catalogue.nla.gov.au/catalog/2059607</a> ",
+    "total-work": "<span style=\"background-color: rgb(255,255,0);\">Paid plus unpaid work high for women… ILO?</span>",
+    "childcare-laborforce": "<span style=\"color: rgb(42,42,42);\">Daniel Halim, Elizaveta Perova, Sarah Reynolds, Childcare and Mothers’ Labor Market Outcomes in Lower- and Middle-Income Countries, </span><span style=\"color: rgb(42,42,42);\">The World Bank Research Observer</span><span style=\"color: rgb(42,42,42);\">, Volume 38, Issue 1, February 2023, Pages 73–114, </span><a href=\"https://doi.org/10.1093/wbro/lkac003\" target=\"_blank\">https://doi.org/10.1093/wbro/lkac003</a>",
+    "carework-value": "<span style=\"color: rgb(42,42,42);\">International Labour Organization. (2018). </span><span style=\"color: rgb(42,42,42);\">Care work and care jobs for the future of decent work</span><span style=\"color: rgb(42,42,42);\"> (Report No. WCMS 633166).</span><a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_633166.pdf\" target=\"_blank\"> </a><a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_633166.pdf\" target=\"_blank\">https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_633166.pdf</a><span style=\"color: rgb(42,42,42);\"></span>",
+    "ai-exposure": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Demombynes, Gabriel; Langbein, Jörg; Weber, Michael. 2025. The Exposure of Workers to Artificial Intelligence in Low- and Middle-Income Countries. Policy Research Working Paper; 11057. © World Bank. http://hdl.handle.net/10986/42765 License: </span><a href=\"https://creativecommons.org/licenses/by/3.0/igo/\" target=\"_blank\">CC BY 3.0 IGO</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">.</span>",
+    "genai-jobs": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., Rosłaniec, K., Troszyński, M. Generative AI and Jobs: A Refined Global Index of Occupational Exposure. ILO Working Paper 140. Geneva: International Labour Office, 2025.© ILO.</span>",
+    "futurejobs-eap": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Arias, Omar, Daisuke Fukuzawa, Duong Trung Le, and Aaditya Mattoo. 2025. Future Jobs: Robots, Artificial Intelligence, and Digital Platforms in East Asia and Pacific. East Asia and Pacific Development Studies. Washington, DC: World Bank. doi:10.1596/978-1-4648-2199-8. License: Creative Commons Attribution CC BY 3.0 IGO</span>",
+    "ai-women-europe": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Albanesi, S., Dias da Silva, A., Jimeno, J. F., Lamo, A., & Wabitsch, A. (2025). </span><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">AI and women’s employment in Europe</span><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"> (ECB Working Paper Series No. 3077). European Central Bank.</span><a href=\"https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3077~097ada5645.en.pdf?utm_source=chatgpt.com\" target=\"_blank\"> </a><a href=\"https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3077~097ada5645.en.pdf?utm_source=chatgpt.com\" target=\"_blank\">https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3077~097ada5645.en.pdf</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"></span>",
+    "ai-unesco": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">UNESCO, OECD, IDB  (2022). The Effects of AI on the Working Lives of Women. </span>",
+    "gender-distortions": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Goldberg, Penny; Gottlieb, Charles; Lall, Somik V.; Mehta, Meet; Peters, Michael; Ratan, Aishwarya Lakshmi. The Global Gender Distortions Index (GGDI) (English). Policy Research Working Paper;People Washington, D.C. : World Bank Group. http://documents.worldbank.org/curated/en/099549008112564861</span>",
+    "gdp-timespent": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">National statistical offices or national database and publications, United Nations (UN), uri: </span><a href=\"https://unstats.un.org/sdgs/dataportal/database\" target=\"_blank\">https://unstats.un.org/sdgs/dataportal/database</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">, note: Indicator code from the original source: SH_FPL_INFM; Indicator name from the original source: Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%), publisher: UN Statistics Division, type: Excel </span><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Retrieved from </span><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">World Bank Gender Data Portal. </span><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">sg-tim-uwrk: Time in unpaid work, survey-based</span><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"> [Data set]. Retrieved on December 3, 2025, from</span><a href=\"https://genderdata.worldbank.org/en/indicator/sg-tim-uwrk\" target=\"_blank\"> </a><a href=\"https://genderdata.worldbank.org/en/indicator/sg-tim-uwrk\" target=\"_blank\">https://genderdata.worldbank.org/en/indicator/sg-tim-uwrk</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"></span>",
+    "translationPrefix": "goal_05.references"
+  },
+  "translationPrefix": "goal_05"
+}

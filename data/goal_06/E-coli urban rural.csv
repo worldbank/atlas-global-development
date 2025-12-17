@@ -1,0 +1,39 @@
+country,survey,survey_year,urban_rural,very_high_risk,low_risk
+Ethiopia,ESS-WQ,2016,Rural,91.6,8.4
+Ethiopia,ESS-WQ,2016,Urban,62.5,37.4
+Kiribati,MICS,Invalid Date,Rural,91.4,8.5
+Kiribati,MICS,Invalid Date,Urban,79.5,20.5
+Madagascar,MICS,2018,Rural,89.4,10.6
+Madagascar,MICS,2018,Urban,54.5,45.6
+Lao,MICS,2017,Rural,88,12
+Lao,MICS,2017,Urban,72,27
+Togo,MICS,2017,Rural,80.1,19.8
+Togo,MICS,2017,Urban,49.2,50.8
+Nigeria,MICS,Invalid Date,Rural,80,20
+Nigeria,MICS,Invalid Date,Urban,73,27
+Congo,MICS,Invalid Date,Rural,74.9,25.1
+Congo,MICS,Invalid Date,Urban,35.6,64.4
+Nepal,MICS,2014,Rural,73.2,26.8
+Nepal,MICS,2014,Urban,62.6,37.4
+Suriname,MICS,2018,Rural,72.1,28
+Suriname,MICS,2018,Urban,36.4,63.7
+Co'te d'Ivoire,MICS,2016,Rural,71.8,28.2
+Co'te d'Ivoire,MICS,2016,Urban,32.4,67.6
+Zimbabwe,MICS,2019,Rural,70.9,29.1
+Zimbabwe,MICS,2019,Urban,32.4,67.6
+Gambia,MICS,2018,Rural,66.4,33.7
+Gambia,MICS,2018,Urban,34.6,65.3
+Paraguay,MICS,2016,Rural,54,46
+Paraguay,MICS,2016,Urban,29,72
+Georgia,MICS,2018,Rural,53.1,46.9
+Georgia,MICS,2018,Urban,5.7,94.4
+Iraq,MICS,2018,Rural,51.5,48.6
+Iraq,MICS,2018,Urban,35.4,64.6
+Bangladesh,MICS,2019,Rural,38.1,61.8
+Bangladesh,MICS,2019,Urban,48,52
+Democratic People's Republic of Korea,MICS,2017,Rural,45.2,54.8
+Democratic People's Republic of Korea,MICS,2017,Urban,9.8,90.3
+Mongolia,MICS,2018,Rural,33.2,66.8
+Mongolia,MICS,2018,Urban,8,92
+Tunisia,MICS,2018,Rural,30.4,69.5
+Tunisia,MICS,2018,Urban,15.9,84.1

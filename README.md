@@ -1,1 +1,1 @@
-# atlas-global-development
+# Atlas of Global Development

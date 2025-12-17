@@ -1,0 +1,127 @@
+region,year,value
+Africa,2005,4.05
+Africa,2006,5.96
+Africa,2007,4.45
+Africa,2008,6.07
+Africa,2009,5.36
+Africa,2010,4.24
+Africa,2011,4.15
+Africa,2012,3.51
+Africa,2013,3.9
+Africa,2014,5.35
+Africa,2015,5.17
+Africa,2016,3.37
+Africa,2017,3.73
+Africa,2018,5.29
+Africa,2019,4.81
+Africa,2020,3.96
+Africa,2021,3.22
+Africa,2022,3.84
+Asia,2005,4.77
+Asia,2006,4.83
+Asia,2007,3.94
+Asia,2008,3.91
+Asia,2009,4.05
+Asia,2010,3.72
+Asia,2011,3.72
+Asia,2012,3.66
+Asia,2013,4.2
+Asia,2014,3.32
+Asia,2015,2.85
+Asia,2016,3.6
+Asia,2017,3.34
+Asia,2018,3.13
+Asia,2019,3.49
+Asia,2020,3.65
+Asia,2021,2.42
+Asia,2022,2.48
+Europe,2005,4.91
+Europe,2006,3.96
+Europe,2007,4.9
+Europe,2008,6.04
+Europe,2009,5.33
+Europe,2010,4.72
+Europe,2011,4.66
+Europe,2012,4.61
+Europe,2013,5.24
+Europe,2014,5.5
+Europe,2015,4.84
+Europe,2016,3.68
+Europe,2017,3.38
+Europe,2018,5.07
+Europe,2019,4.56
+Europe,2020,5.09
+Europe,2021,4.73
+Europe,2022,5.57
+Northern America,2005,5.27
+Northern America,2006,5.45
+Northern America,2007,6.47
+Northern America,2008,7.06
+Northern America,2009,6.22
+Northern America,2010,6.99
+Northern America,2011,7.44
+Northern America,2012,6.67
+Northern America,2013,7.26
+Northern America,2014,8.29
+Northern America,2015,5.93
+Northern America,2016,4.76
+Northern America,2017,5.51
+Northern America,2018,6.54
+Northern America,2019,6.19
+Northern America,2020,6.64
+Northern America,2021,6.11
+Northern America,2022,5.49
+Oceania,2005,2.43
+Oceania,2006,2.92
+Oceania,2007,3.04
+Oceania,2008,3.59
+Oceania,2009,4.17
+Oceania,2010,4.43
+Oceania,2011,3.58
+Oceania,2012,2.33
+Oceania,2013,2.94
+Oceania,2014,2.63
+Oceania,2015,3.14
+Oceania,2016,1.81
+Oceania,2017,2.38
+Oceania,2018,2.18
+Oceania,2019,3.07
+Oceania,2020,5.03
+Oceania,2021,5.43
+Oceania,2022,3.44
+South America,2005,2.79
+South America,2006,2.99
+South America,2007,3.49
+South America,2008,3.4
+South America,2009,3.9
+South America,2010,3.83
+South America,2011,3.98
+South America,2012,3.27
+South America,2013,3.34
+South America,2014,3.91
+South America,2015,3.01
+South America,2016,4.32
+South America,2017,3.64
+South America,2018,2.79
+South America,2019,3.27
+South America,2020,3.5
+South America,2021,4.45
+South America,2022,3.31
+World,2005,4.53
+World,2006,4.71
+World,2007,4.19
+World,2008,4.53
+World,2009,4.43
+World,2010,4.07
+World,2011,4.18
+World,2012,3.87
+World,2013,4.37
+World,2014,4.05
+World,2015,3.48
+World,2016,3.59
+World,2017,3.45
+World,2018,3.71
+World,2019,3.82
+World,2020,3.93
+World,2021,3.1
+World,2022,3.16

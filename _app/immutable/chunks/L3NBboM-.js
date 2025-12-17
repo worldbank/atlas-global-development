@@ -1,0 +1,1 @@
+const o={"income.HIC":"高收入国家","income.UMC":"中高等收入国家","income.LMC":"中低等收入国家","income.LIC":"低收入国家"};export{o as default};

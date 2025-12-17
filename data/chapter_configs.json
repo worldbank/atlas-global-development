@@ -1,0 +1,276 @@
+{
+  "10": {
+    "en": {
+      "type": "config",
+      "goal": "10",
+      "shortTitle": "Inequality",
+      "title": "Tracking inequalities within and across countries: a new approach",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "11": {
+    "en": {
+      "type": "config",
+      "goal": "11",
+      "shortTitle": "to do",
+      "title": "todo",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "12": {
+    "en": {
+      "type": "config",
+      "goal": "12",
+      "shortTitle": "Energy sources",
+      "title": "Phasing out fossil-fuel subsidies: can it be done?",
+      "abstract": "The remarkable economic progress the world has experienced until now has largely been powered by fossil energy. The increased levels and variety in consumption are also anthropogenic factors contributing to the record levels of global warming evident in our world today. SDG 12 calls for responsible means of production and consumption that ensure sustainable development in the long run for all people on the planet. This story focuses on the real political and geopolitical issues that have undermined progress in the removal of fossil-fuel subsidies around the world and suggests reforms to address these issues.",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "13": {
+    "en": {
+      "type": "config",
+      "goal": "13",
+      "shortTitle": "Climate",
+      "title": "Vulnerability and adaptation to climate-related hazards",
+      "abstract": "Extreme weather events, such as floods, droughts, tornadoes, and heatwaves  occur more often and are stronger due to climate change and impact more than half the world’s population. A third of those affected are also highly vulnerable and require adaptation to a changing climate.",
+      "citation": "todo",
+      "credits": "Thijs Benschop",
+      "inputs": "todo",
+      "visuals": "Ændra Rininsland"
+    }
+  },
+  "14": {
+    "en": {
+      "type": "config",
+      "goal": "14",
+      "shortTitle": "Ocean pollution",
+      "title": "Pollution in the oceans",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "15": {
+    "en": {
+      "type": "config",
+      "goal": "15",
+      "shortTitle": "Life on land",
+      "title": "Land degradation and biodiversity",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "Maarten Lambrechts"
+    }
+  },
+  "16": {
+    "en": {
+      "type": "config",
+      "goal": "16",
+      "shortTitle": "to do",
+      "title": "to do",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "17": {
+    "en": {
+      "type": "config",
+      "goal": "17",
+      "shortTitle": "Statistics",
+      "title": "Can we even measure the SDGs?",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "99": {
+    "en": {
+      "type": "config",
+      "goal": "99",
+      "locale": "en",
+      "shortTitle": "",
+      "title": "Progress, challenges in ending extreme poverty",
+      "citation": "Mahler",
+      "credits": "Daniel Gerszon Mahler",
+      "inputs": "Andrés Castañeda, Carolina Diaz-Bonilla, Christoph Lakner, Dean Jolliffe, Gabriel Lara Ibara, Marta Schoch, Martha Viveros, Nishant Yonzan, Philip Wollburg, Samuel Kofi Tetteh Baah, Stephane Hallegatte",
+      "visuals": "Maarten Lambrechts",
+      "references": "1wrGVEkf-fHV7FDqcQm3UVid8_y9vYH4xNLGfcRylX1k"
+    }
+  },
+  "02": {
+    "en": {
+      "type": "config",
+      "goal": "02",
+      "shortTitle": "Global hunger",
+      "title": "Reversing Gains: Unpacking the Rise of Global Hunger",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "Sharad Alan Tandon, Divyanshi Wadhwa",
+      "inputs": "Bryce Charron, Lorena Corso",
+      "visuals": "Maarten Lambrechts"
+    }
+  },
+  "01": {
+    "en": {
+      "type": "config",
+      "goal": "01",
+      "shortTitle": "Extreme poverty",
+      "title": "100 Years of Past, Present, and Future Challenges in Tackling Extreme Poverty",
+      "abstract": "TODO",
+      "citation": "Mahler",
+      "credits": "Daniel Gerszon Mahler",
+      "inputs": "Christoph Lakner, Mario Negre, Rubena Sukaj, Nishant Yonzan.",
+      "visuals": "Maarten Lambrechts"
+    },
+    "es": {
+      "type": "config",
+      "locale": "es",
+      "goal": "01",
+      "shortTitle": "Pobreza extrema",
+      "title": "75 Años de Reducción de Pobreza Global",
+      "abstract": "TODO",
+      "citation": "Mahler",
+      "credits": "Daniel Gerszon Mahler",
+      "inputs": "TODO",
+      "visuals": "Maarten Lambrechts"
+    }
+  },
+  "04": {
+    "en": {
+      "type": "config",
+      "goal": "04",
+      "shortTitle": "School and work",
+      "title": "The impact of early education on work prospects",
+      "abstract": "Education is one of the most powerful drivers of growth and poverty reduction. Each year of schooling improves earnings by around 10%. However, learning doesn’t end at school. Around half of the skills that workers use are acquired at work.",
+      "citation": "todo",
+      "credits": "Brian Stacy",
+      "inputs": "Norbert Schady, Joana Silva, Alaka Holla",
+      "visuals": "todo"
+    }
+  },
+  "05": {
+    "en": {
+      "type": "config",
+      "goal": "05",
+      "shortTitle": "Gender and jobs",
+      "title": "Shaping the future: Women’s work, unpacked",
+      "abstract": "todo",
+      "citation": "Divyanshi Wadhwa, Anna Bonfert",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "Ændra Rininsland"
+    }
+  },
+  "dashboard": {
+    "en": {
+      "type": "config",
+      "goal": "dashboard",
+      "shortTitle": "Explore",
+      "title": "Progress towards the Sustainable Development Goals",
+      "abstract": "TODO",
+      "citation": "TODO",
+      "credits": "TODO",
+      "inputs": "TODO",
+      "visuals": "Alice Thudt"
+    }
+  },
+  "06": {
+    "en": {
+      "type": "config",
+      "goal": "06",
+      "shortTitle": "Water use",
+      "title": "Ensure availability and sustainable management of water and sanitation for all",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "09": {
+    "en": {
+      "type": "config",
+      "goal": "09",
+      "shortTitle": "Internet access",
+      "title": "Expanding access to Internet",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "progress": {
+    "en": {
+      "type": "config",
+      "goal": "progress",
+      "shortTitle": "Progress",
+      "title": "Measuring Progress",
+      "abstract": "TODO",
+      "citation": "Mahler",
+      "credits": "Daniel Gerszon Mahler",
+      "inputs": "Daniel Boller, Bob Rijkers, Nishant Yonzan,",
+      "visuals": "Maarten Lambrechts"
+    }
+  },
+  "03": {
+    "en": {
+      "type": "config",
+      "goal": "03",
+      "shortTitle": "Health",
+      "title": "Maternal mortality",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo"
+    }
+  },
+  "08": {
+    "en": {
+      "type": "config",
+      "goal": "08",
+      "shortTitle": "Economic growth",
+      "title": "Are some countries being left behind?",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "Nishant Yonzan",
+      "inputs": "todo",
+      "visuals": "Maarten Lambrechts"
+    }
+  },
+  "07": {
+    "en": {
+      "type": "config",
+      "goal": "07",
+      "shortTitle": "Electricity access",
+      "title": "Access to affordable, reliable, sustainable and modern energy for all",
+      "abstract": "todo",
+      "citation": "todo",
+      "credits": "todo",
+      "inputs": "todo",
+      "visuals": "todo",
+      "locale": "en"
+    }
+  }
+}

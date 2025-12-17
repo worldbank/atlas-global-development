@@ -1,0 +1,370 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "08",
+    "shortTitle": "Economic growth",
+    "title": "Are some countries being left behind?",
+    "abstract": "todo",
+    "citation": "todo",
+    "credits": "Nishant Yonzan",
+    "inputs": "todo",
+    "visuals": "Maarten Lambrechts",
+    "translationPrefix": "goal_08.config"
+  },
+  "content": [
+    {
+      "text": "Economic Growth",
+      "type": "subhed",
+      "translationPrefix": "goal_08.content.#0"
+    },
+    {
+      "text": "[target: 8.1] calls for sustained economic growth. Over the course of the past decades the global economy has experienced several setbacks. But it has always managed to bounce back. This includes the years of the COVID-19 pandemic, which caused the largest decrease in the global gross domestic product (GDP) per capita in recent times, albeit countered by a significant increase in subsequent years. As such, the global economy seemed poised to experience average economic growth rates in the 2020s similar to that of previous decades. \u000bHowever, the global economy is now <span style=\"background-color: rgb(255,255,255);\">facing substantial headwinds emanating largely from an increase in trade tensions and heightened global policy uncertainty </span>[reference: worldbank2025a]<span style=\"background-color: rgb(255,255,255);\">. These headwinds are likely to hit with varying intensity across countries with the poorest countries likely to suffer the most.</span>",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#1"
+    },
+    {
+      "type": "factoid",
+      "title": "SDG 8.1. calls for",
+      "number": "7",
+      "units": "percent",
+      "label": "annual growth in gross domestic product (GDP) of the least developed countries (LDCs).",
+      "translationPrefix": "goal_08.content.#2"
+    },
+    {
+      "text": "<span style=\"background-color: rgb(255,255,255);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#3"
+    },
+    {
+      "type": "vis",
+      "graphic": "gdp_growth_global_countries",
+      "title": "Economic growth over the past 65 years",
+      "subtitle": "On average, the world recovered after the substantial shock COVID-19 in 2020. However, recent projections indicate a slowdown of the global economy in the coming years.",
+      "y_axis_title": "Per capita GDP growth",
+      "y_axis_units": "annual %",
+      "source": "WB, World Development Indicators (NY.GDP.PCAP.KD.ZG)",
+      "visdescription": "",
+      "data_download": "08.data.gdp_growth.zip",
+      "data": "1qzVDPMLYFEucHzDtf8h1dTtEb9LKmKeNfRGbkO_irSE",
+      "translationPrefix": "goal_08.content.#4"
+    },
+    {
+      "text": "Since the late 1980s, the <a href=\"https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups\" target=\"_blank\">World Bank has classified countries by their income level </a>into four groups; low income, lower-middle income, upper-middle income and high income. When looking across these four groups of countries, as they were defined in 1990, the average per capita GDP growth over the next three decades is actually fairly similar. The group of countries that were defined as low-income in 1990 have experienced the highest average annual growth rate in their per capita GDP since then. Despite this, the growth rates are far from the SDG target of 7 percent per year.",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#5"
+    },
+    {
+      "type": "vis",
+      "graphic": "gdp_growth_income_levels",
+      "title": "Economic growth by income group",
+      "subtitle": "On average, poorer countries experienced higher growth rates in GDP per capita compared to countries in richer income classification groups.",
+      "mode": "income_levels",
+      "source": "WB, World Development Indicators (<span style=\"background-color: rgb(255,255,255);\">NY.GDP.PCAP.KD.ZG</span>)",
+      "visdescription": "",
+      "data_download": "08.data.gdp_growth.zip",
+      "data": "1qzVDPMLYFEucHzDtf8h1dTtEb9LKmKeNfRGbkO_irSE",
+      "translationPrefix": "goal_08.content.#6"
+    },
+    {
+      "text": "If we take a closer look at the growth rates of the countries classified as low-income in 1990, it becomes evident that averages hide a great divergence. The positive story of low-income countries experiencing larger growth than the rest of the world turns out to have more nuances. In fact, while some countries have experienced impressive growth, others have experienced little or no growth, and some countries have even regressed during this period. ",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#7"
+    },
+    {
+      "type": "scroller",
+      "graphic": "growth_since_90",
+      "title": "GDP trends for countries classified as low income in 1990",
+      "subtitle": "Indexed constant USD (1990=100), grouped by current income classification.",
+      "y_axis_title": "",
+      "y_axis_units": "Index (1990=100)",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "data_download": "08.data.lic_growth_rates.csv",
+      "data": "1JgVm6y5olvIBowRHLD3yP5kHkgEuQodjDahIsx4yyeY",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "hic",
+          "text": "High income",
+          "translationPrefix": "goal_08.content.#8.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "umc",
+          "text": "Upper middle income",
+          "translationPrefix": "goal_08.content.#8.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "lmc",
+          "text": "Lower middle income",
+          "translationPrefix": "goal_08.content.#8.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "lic",
+          "text": "Low income",
+          "translationPrefix": "goal_08.content.#8.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal_08.content.#8"
+    },
+    {
+      "text": "Let’s zoom out again and look at all countries, as they were defined by their income group in 1990.",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#9"
+    },
+    {
+      "type": "scroller",
+      "graphic": "income_world_map",
+      "title": "Countries by income group",
+      "subtitle": "Income classification in 1990",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "08.data.income_levels.csv",
+      "data": "1ud7kIIHA8R-QIU0WCPHDXT0izj4yor0dYi7D2ZXR0Oc",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "normal_map",
+          "text": "Let us have a look at income groups across all countries in 1990. ",
+          "translationPrefix": "goal_08.content.#10.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "shifted_countries",
+          "text": "And let us transition into a map, which puts equal emphasis on all countries across the world.",
+          "translationPrefix": "goal_08.content.#10.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "tiles",
+          "text": "Now, each tile represents a country with the color showing their income group as of 1990. ",
+          "translationPrefix": "goal_08.content.#10.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_08.content.#10"
+    },
+    {
+      "type": "scroller",
+      "graphic": "income_classification_scroller",
+      "title": "Income group classification",
+      "subtitle": "Developments since 1990",
+      "source": "Source of the data",
+      "no_income_classification": "No income classification",
+      "income_classification": "Income classification",
+      "in_1990": "In 1990",
+      "in_2024": "In 2024",
+      "legend_title": "Average GDP/capita growth, 2015-2024",
+      "inx_90": "No classification in 1990",
+      "hic_24": "High income in 2024",
+      "lmc_90": "Lower middle income in 1990",
+      "umc_24": "Upper middle income 2024",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "08.data.income_levels.csv",
+      "data": "1ud7kIIHA8R-QIU0WCPHDXT0izj4yor0dYi7D2ZXR0Oc",
+      "skip ssf": ".",
+      "skip income_left_behind": ".",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "income_1990",
+          "text": "The threshold for being a low income country was 610 USD in 1990. Countries with GDP per capita below this level were classified as low income. 49 countries belonged to the group of <span data-color-id=\"LIC\" class=\"LIC\">low-income countries</span>. That corresponded to 3 out of every 10 countries.",
+          "translationPrefix": "goal_08.content.#11.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "income_2024",
+          "text": "The threshold for being a low income country is updated annually for inflation. By 2024 the threshold stood at 1,135 USD.",
+          "translationPrefix": "goal_08.content.#11.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "income_change",
+          "text": "Compared to 1990, many countries managed to move to a higher income class by 2024.",
+          "translationPrefix": "goal_08.content.#11.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "escapees",
+          "text": "28 countries managed to escape <span style=\"color: rgb(255,255,255); background-color: rgb(59,77,166);\">low income</span> - Guyana even making it to <span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\">high income</span>.",
+          "translationPrefix": "goal_08.content.#11.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "fallen",
+          "text": "However, five additional countries have since been classified as low income.",
+          "translationPrefix": "goal_08.content.#11.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "income_ssf",
+          "text": "Of the 25 countries still classified as <span style=\"color: rgb(255,255,255); background-color: rgb(59,77,166);\">low income</span> in 2024, 21 are located in Sub-Saharan Africa. Within the region, one in three of the countries that were low income in 1987 managed to escape low-income status by 2024. Still, 22 of the 48 countries of the region are still low-income in 2024 according to the latest figures",
+          "translationPrefix": "goal_08.content.#11.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "gdp_growth",
+          "text": "The countries currently classified as low income have had average GDP per capita growth rates of a meager 0.47 percent per year since 1981. A recent Global Economic Prospects report by the World Bank (January 2025) finds that their outlook is bleak. Based on 2010-2019 growth rates only six of the current 25 LICs are on a path of becoming middle-income even by 2050.",
+          "translationPrefix": "goal_08.content.#11.scenes.#6"
+        }
+      ],
+      "translationPrefix": "goal_08.content.#11"
+    },
+    {
+      "text": "Jobs",
+      "type": "subhed",
+      "translationPrefix": "goal_08.content.#12"
+    },
+    {
+      "text": "The uneven path to prosperity",
+      "type": "subhed2",
+      "translationPrefix": "goal_08.content.#13"
+    },
+    {
+      "text": "Growth in GDP may not necessarily translate into improvements in living conditions for people. For one, GDP growth may be driven by exploitation of natural resources, without benefiting a broad group of the population. For instance, Guyana has tripled its GDP in just four years due to rapid expansion in oil production. Hence [goal: 8]also focuses on full and productive employment and decent work for all.",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#14"
+    },
+    {
+      "text": "In general, growth in GDP is closely linked to growth in labor income.  As much as 96 percent of cross-country variation in GDP growth over the past three decades can be explained by cross-country-variation in per capita labor income growth [reference: jobs report].",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#15"
+    },
+    {
+      "type": "scroller",
+      "graphic": "unemployment_global",
+      "title": "Global unemployment rate",
+      "subtitle": "[target: 8.5]measures unemployment.",
+      "source": "Source of the data",
+      "youth": "Age 15 - 24",
+      "adult": "Age 25+",
+      "unemployment_rate": "Unemployment rate",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "dark",
+      "data_download": "08.data.unemployment_global.csv",
+      "data": "1WS_25sPCM1tDWgSATVDeprv-_CAWpVF6Nu1Py1MA-8Q",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "unemployment_global",
+          "text": "When looking at unemployment at a global scale, things are looking positive. Following a short spike in unemployment in the COVID-years, unemployment is at a stable and very low level. In fact, global unemployment is at the lowest level since ILO started modelling it in 1991.",
+          "translationPrefix": "goal_08.content.#16.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "unemployment_age",
+          "text": "But these low global average unemployment levels mask great diversity, including across genders, and across age groups. Young people (age 15-24) have consistently experienced unemployment three times the level of those aged 25+ throughout the past three decades. Focusing on youth is particularly pertinent as 1.2 billion young people will reach working age in developing countries over the next decade. Based on current trajectories the World Bank estimates nearly 300 million of these could end up without employment.",
+          "translationPrefix": "goal_08.content.#16.scenes.#1"
+        }
+      ],
+      "translationPrefix": "goal_08.content.#16"
+    },
+    {
+      "text": "However, unemployment rates offer only a limited picture, especially in countries with large informal sectors and it does not capture the quality of jobs available.",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#17"
+    },
+    {
+      "text": "For youth particularly, it is more interesting to look at the share of youth, who are not currently in employment, education or training, the so-called NEET [target: 8.6]. The share differs greatly across countries for instance when looking across income levels; as income levels increase, the share of youth who are not currently in employment, education or training falls.",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#18"
+    },
+    {
+      "type": "scroller",
+      "graphic": "neet_gdp",
+      "title": "NEET and GDP",
+      "subtitle": "The share of NEET decreases as income levels increase.",
+      "source": "Source of the data",
+      "x_title": "GDP/capita",
+      "x_units": "$/year",
+      "y_title": "Share of youth not in education, employment or training",
+      "y_units": "%",
+      "female_neet_rate": "Female NEET rate",
+      "male_neet_rate": "Male NEET rate",
+      "total_neet_rate": "Total NEET rate",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "08.data.neet_gdp.csv",
+      "data": "1Ae7caE6nwzn2poda6CbglNTv1fp53N6x-80_SxWGoeM",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "countries",
+          "text": "The share of youth (15-24 years of age) not currently in employment, education or training (NEET) is correlated with the income level of the country in which they live. NEET differs greatly across regions with the highest rates observed in <span data-color-id=\"MEA\" class=\"MEA\">Middle East & North Africa</span>, <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span> and <span data-color-id=\"cat4\" class=\"cat4\">South Asia</span>. This regional pattern mimics that of labor force participation [goal: 5].",
+          "translationPrefix": "goal_08.content.#19.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "SAS",
+          "text": "In <span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span> levels are on average quite high.",
+          "translationPrefix": "goal_08.content.#19.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "MEA",
+          "text": "In the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East & North Africa</span> levels are on average quite high, but there is a strong negative correlation between NEET and GDP even within the region. ",
+          "translationPrefix": "goal_08.content.#19.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "SSF",
+          "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> has the highest levels of NEET on average of any region, without any clear relationship with a country’s income level.",
+          "translationPrefix": "goal_08.content.#19.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "all_countries",
+          "text": "<span style=\"color: rgb(4,1,16);\">Similar to the trends observed regarding labor force participation in </span>[goal: 5]<span style=\"color: rgb(4,1,16);\"> these regional differences tell a striking story related to gender differences.</span>",
+          "translationPrefix": "goal_08.content.#19.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "gender",
+          "text": "Generally, women are more likely to be outside employment, education or training. And in some regions, these differences across genders are substantial. Here, each orange line connecting an orange and purple dot shows the NEET for an individual country. The longer the line, the greater the difference between NEET rates across gender. Generally, countries with a lower income level tend to have a greater divergence in NEET rates across gender, although regional differences are substantial.",
+          "translationPrefix": "goal_08.content.#19.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "gender_SAS",
+          "text": "In South Asia, for instance, India stands out by having NEET rates for women almost 4 times the NEET rate for men. ",
+          "translationPrefix": "goal_08.content.#19.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "gender_MEA",
+          "text": "In the Middle East & North Africa, approximately 1 in 3 youth are not in employment, education or training and the share of females in NEET is almost twice that of men. These significant differences in NEET rates across gender persist across different income levels. ",
+          "translationPrefix": "goal_08.content.#19.scenes.#7"
+        },
+        {
+          "type": "scene",
+          "id": "gender_SSF",
+          "text": "While Sub-Saharan Africa has the highest level of NEET across regions, gender differences are less profound although a few countries exhibit significant differences in NEET across men and women.",
+          "translationPrefix": "goal_08.content.#19.scenes.#8"
+        }
+      ],
+      "translationPrefix": "goal_08.content.#19"
+    },
+    {
+      "text": "Ensuring meaningful education, employment or training for youth is a monumental task for the years ahead. Unaddressed, the potential gap of 300 million jobs could destabilize societies, derail economic growth, lead to increases in cross-border migration flows, and stall poverty reduction.",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#20"
+    },
+    {
+      "text": "It is not just about creating any job. The quality and type of job matters. Labor productivity increases as the composition of jobs change – moving from the agricultural sector to industry and services, moving from self-employment to wage employment or moving towards more complex jobs requiring greater skills. ",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#21"
+    },
+    {
+      "text": "Getting the policies right is not easy. The World Bank has recently proposed an ambitious policy framework [reference: Jobs report] to address the issues related to jobs by focusing on three pillars; production, people and places. The aim is to unlock the constraints preventing growth of productive firms, invest in education and labor force participation, and provide the required infrastructure and security.",
+      "type": "text",
+      "translationPrefix": "goal_08.content.#22"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "worldbank2025a": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">World Bank. 2025. Global Economic Prospects, June 2025. © World Bank, Washington DC. http://hdl.handle.net/10986/43168 License: </span><a href=\"http://creativecommons.org/licenses/by/3.0/igo\" target=\"_blank\">CC BY 3.0 IGO</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">.</span>",
+    "translationPrefix": "goal_08.references"
+  },
+  "translationPrefix": "goal_08"
+}

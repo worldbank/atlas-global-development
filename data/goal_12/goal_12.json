@@ -1,0 +1,449 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "12",
+    "shortTitle": "Energy sources",
+    "title": "Phasing out fossil-fuel subsidies: can it be done?",
+    "abstract": "The remarkable economic progress the world has experienced until now has largely been powered by fossil energy. The increased levels and variety in consumption are also anthropogenic factors contributing to the record levels of global warming evident in our world today. SDG 12 calls for responsible means of production and consumption that ensure sustainable development in the long run for all people on the planet. This story focuses on the real political and geopolitical issues that have undermined progress in the removal of fossil-fuel subsidies around the world and suggests reforms to address these issues.",
+    "citation": "todo",
+    "credits": "todo",
+    "inputs": "todo",
+    "visuals": "todo",
+    "translationPrefix": "goal_12.config"
+  },
+  "content": [
+    {
+      "text": "Introduction",
+      "type": "subhed",
+      "translationPrefix": "goal_12.content.#0"
+    },
+    {
+      "text": "This chapter focuses on [target: 12.c]: “Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions…phasing out those harmful subsidies…to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries…”",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#1"
+    },
+    {
+      "text": "Governments face tough choices in allocating scarce budgets—balancing investments in infrastructure, health, education, and other priorities. Yet political pressure has often pushed them to subsidize fossil fuel consumption, especially during recent price surges when crude oil rose from about USD 40 a barrel in 2021 to over USD 120 in 2022.",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#2"
+    },
+    {
+      "text": "The scale is striking: in 2022, governments spent one dollar on fossil fuel subsidies for every three dollars spent on education ([goal: 4]), and total subsidies exceeded six times the official development aid provided by high-income countries ([goal: 17]). While some of this surge reflected temporary responses to the energy crisis, it underscores the vast fiscal space consumed by fossil fuel subsidies.",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#3"
+    },
+    {
+      "type": "scroller",
+      "graphic": "intro_scroller",
+      "title": "Fossil fuel subsidies",
+      "subtitle": "Global trend",
+      "source": "Black, Liu, Parry, and Vernon (2023) [reference: black1]",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light (alternatively: dark)",
+      "visSize": "fullScreen",
+      "data_download": "12.1_global.zip",
+      "data": "1pMPXVMzsZfnsMZFRk2m76TRDI5xBb_vhVe0pUTmi27g",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "column_total",
+          "text": "Globally, government spending on fossil fuel subsidies in the period 2015-2022 has more than tripled to $1.3 trillion. Subsidies increased sharply in the aftermath of the pandemic. The largest year-on-year increase occurred in 2022, when governments had to cushion their populations from the energy price hikes following Russia's invasion of Ukraine. ",
+          "translationPrefix": "goal_12.content.#4.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "column_pct_gdp",
+          "text": "As a share of GDP, fossil fuel subsidies have also been increasing globally from 0.46 percent in 2015 to 1.3 percent in 2022. Governments' fiscal support in fossil fuel subsidies almost doubled in 2022 during the energy crisis. ",
+          "translationPrefix": "goal_12.content.#4.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "map_pct_change",
+          "text": "Between 2015 and 2022, fossil fuel subsidies (as a percent of GDP) increased in 121 out of 168 countries with data. On average, fossil fuel subsidies increased by 1 percentage point over the period. Typically, oil-exporting countries (such as Angola, Iran, Kazakhstan, Qatar, Sudan, and Algeria) have increased fossil fuel subsidies (as a share of GDP) by up to 14 percentage points over the period. ",
+          "translationPrefix": "goal_12.content.#4.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "map_pct_gdp",
+          "text": "By 2022, fossil fuel subsidies surged: 23 countries spent at least 5% of GDP, up from 11 in 2015. Governments expanded subsidies to shield populations from the energy crisis, with exporters leading the way. Algeria topped the list, spending 23% of GDP.",
+          "translationPrefix": "goal_12.content.#4.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "bubble_log",
+          "text": "Fossil fuel subsidies tend to rise with country income, particularly among exporters (i.e., highlighted countries). In 2022, fossil fuel subsidy was about $3.30 per capita in low-income countries, $16.50 in lower-middle, $74.50 in upper-middle, and $104 in high-income. ",
+          "translationPrefix": "goal_12.content.#4.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "bubble_linear",
+          "text": "At the same time, there are some high-income countries with impressive numbers below $30, such as Finland, Norway, Sweden, and Portugal.",
+          "translationPrefix": "goal_12.content.#4.scenes.#5"
+        }
+      ],
+      "translationPrefix": "goal_12.content.#4"
+    },
+    {
+      "text": "Why subsidies are harmful",
+      "type": "subhed",
+      "translationPrefix": "goal_12.content.#5"
+    },
+    {
+      "text": "[emphasis: Inefficient resource allocation. ]Fuel subsidies distort prices, encouraging excessive fossil fuel use at below-market costs. This misallocation reduces efficiency and delays investment in cleaner alternatives [reference: coady1].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#6"
+    },
+    {
+      "text": "[emphasis: Fiscal burden. ]Subsidies strain public budgets, diverting funds from health, education, and infrastructure. In many low- and middle-income economies, subsidy costs exceed spending on essential services [reference: imf1].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#7"
+    },
+    {
+      "text": "[emphasis: Economic inequality. ]Although often presented as pro-poor, subsidies disproportionately benefit wealthier households, who consume more fuel. Studies consistently show their regressive nature and impact on inequality [reference: arze1].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#8"
+    },
+    {
+      "text": "[emphasis: Corruption. ]Fuel subsidies are prone to corruption and smuggling. In Nigeria, their removal in 2023 revealed how cheap fuel had fueled cross-border leakages, a problem also documented elsewhere [reference: musa1].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#9"
+    },
+    {
+      "text": "[emphasis: Environmental damages. ]Subsidies lock in fossil fuel use, driving greenhouse gas emissions that undermine SDG 13. They also intensify air pollution, congestion, and traffic accidents, imposing heavy social and environmental costs [reference: iea1].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#10"
+    },
+    {
+      "text": "Efficient pricing of fossil fuel",
+      "type": "subhed",
+      "translationPrefix": "goal_12.content.#11"
+    },
+    {
+      "text": "Fossil fuel use imposes large external costs—local air pollution, global warming, road congestion, and accidents—that are rarely reflected in retail fuel prices [reference: black1]. The efficient price of fuel includes supply costs, these externalities, and applicable consumption taxes. When retail prices fall below this level, governments not only subsidize production but also forgo valuable tax revenue. For example, if the efficient gasoline price is $1.25 per liter (supply $0.50, external costs $0.60, VAT $0.15) but the pump price is $0.30, society bears the hidden costs through fiscal losses and environmental damages.",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#12"
+    },
+    {
+      "type": "scroller",
+      "graphic": "efficient_price_explanation",
+      "title": "Efficient fuel price",
+      "subtitle": "Illustration",
+      "source": "Black, Liu, Parry, and Vernon (2023) [reference: black1]",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light (alternatively: dark)",
+      "visSize": "fullScreen",
+      "publish_progress": "true",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro",
+          "text": "The “efficient price” of a fuel is its cost after externalities have been factored in.",
+          "translationPrefix": "goal_12.content.#13.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "price_at_pump",
+          "text": "Firms or households pay a price at the pump. This is the retail price.",
+          "translationPrefix": "goal_12.content.#13.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "subsidy",
+          "text": "The amount firms and individuals pay is reduced by government subsidies intended to keep affordable. This amount is added to the retail price when calculating the efficient price. These two amounts together equals the private/supply cost.",
+          "translationPrefix": "goal_12.content.#13.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "externalities_intro",
+          "text": "There are more costs on top of this, which are burdened by society at large.",
+          "translationPrefix": "goal_12.content.#13.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "air_pollution",
+          "text": "Burning fuels emits air pollution, which impacts life expectancy worldwide.",
+          "translationPrefix": "goal_12.content.#13.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "congestion",
+          "text": "Vehicles cause congestion and deteriorate roads, which must then be repaired to allow the continued operation.",
+          "translationPrefix": "goal_12.content.#13.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "global_warming",
+          "text": "In addition, fossil fuels release carbon dioxide into the atmosphere, which contributes to global warming.",
+          "translationPrefix": "goal_12.content.#13.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "forgone_vat",
+          "text": "On top of all of that, governments often forgo collecting VAT on fuels, which further subsidises them via lost tax revenues.",
+          "translationPrefix": "goal_12.content.#13.scenes.#7"
+        },
+        {
+          "type": "scene",
+          "id": "externalities_outro",
+          "text": "Together, these types of costs are known as externalities, or external costs.",
+          "translationPrefix": "goal_12.content.#13.scenes.#8"
+        },
+        {
+          "type": "scene",
+          "id": "outro",
+          "text": "When you add the [emphasis: private/supply costs] and the [emphasis: external costs] together, you get the [emphasis: efficient price]. ",
+          "translationPrefix": "goal_12.content.#13.scenes.#9"
+        }
+      ],
+      "translationPrefix": "goal_12.content.#13"
+    },
+    {
+      "text": "dotplot",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#14"
+    },
+    {
+      "type": "vis",
+      "graphic": "sdg12_efficient_price_dotplot",
+      "title": "Efficient price by income group and commodity",
+      "subtitle": "Across all income groups, the retail price of fuel is often a fraction of the efficient price. The gap is substantial in middle-income countries, especially upper-middle-income countries. The highest gap is observed for coal, followed by diesel. These are important sources of external costs, such as air pollution and global warming. In middle-income countries, the retail prices of coal and diesel should more than double to internalize all social costs.",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "data_download": "fossil_fuel_subsidy_20250920.zip",
+      "data": "1ocsqKO4Kz4tKxE3p94rdzkTJVPEb4rZlHGkfY12i3WA",
+      "translationPrefix": "goal_12.content.#15"
+    },
+    {
+      "type": "vis",
+      "graphic": "efficient_price_scroller",
+      "title": "Retail price versus Efficient Price, by country",
+      "subtitle": "",
+      "source": "Black, Liu, Parry, and Vernon (2023) [reference: black1]",
+      "visdescription": "Bar charts depicting the same data with country-level granularity follow.",
+      "theme": "light (alternatively: dark)",
+      "data_download": "fossil_fuel_subsidy_20250920.zip",
+      "data": "1ocsqKO4Kz4tKxE3p94rdzkTJVPEb4rZlHGkfY12i3WA",
+      "text_hic_gasoline": "[emphasis: High-income countries & gasoline: ]In 2022, the international price of gasoline has been roughly around $0.8 per liter (2021 prices) in most countries. In high-income countries, the environmental and social costs of using gasoline are estimated to outweigh the supply price. However, in these countries, the retail price is high enough to cover some of the external costs, if not all. Iceland, Norway, Finland, Portugal, and Barbados, fully internalize external costs in their pricing of gasoline. On the other hand, oil-producing, high-income countries, such as Qatar, Saudi Arabia, Bahrain, Oman, Brunei Darussalam, and Kuwait, set retail prices below the supply price.",
+      "text_umic_gasoline": "[emphasis: Upper-middle-income countries & gasoline: ]Similarly, environmental and social costs of gasoline are often larger than the supply price in upper-middle-income countries. In most of these countries, the retail price often is high enough to cover some of the external costs, if not all. Fewer countries fully internalize all costs, including Albania, Bosnia and Herzegovina, and Belize. Oil-producing countries typically set prices below the supply cost.",
+      "text_lmic_gasoline": "[emphasis: Low-middle-income countries & gasoline: ]Similar pattern holds for lower-middle-income countries. Most countries barely set a retail price for gasoline that internalizes all supply, environmental, and social costs.",
+      "text_lic_gasoline": "[emphasis: Low-income countries & gasoline: ]Due to limited consumption of gasoline in low-income countries, the estimated cost of environmental damage is lower than the supply cost in about half of the countries. Road accidents are important sources of external costs, due to poor infrastructure in these countries.",
+      "text_lic_coal": "[emphasis: Low-income countries & coal: ]The retail price of coal varies across low-income countries and is usually set as a mark-up on the supply price. However, retail prices remain below efficient levels. Coal is a major source of carbon emissions, resulting in significant global warming costs as a share of external costs.",
+      "text_lmic_coal": "[emphasis: Low-middle-income countries & coal: ]Similarly, the retail price of coal varies across lower-middle-income countries and is usually set at a mark-up on the supply price. Global warming costs are also significant shares of the external costs. High estimates of local air pollution are observed in a few countries, such as Uzbekistan, Bolivia, Moldova, Georgia, and Nicaragua. Retail prices fall short of efficient prices in all countries.",
+      "text_umic_coal": "[emphasis: Upper-middle-income countries & coal: ]In upper-income countries, too, the retail price of coal falls short of the efficient price by a substantial margin. External costs are typically global warming costs and local air pollution.",
+      "text_hic_coal": "[emphasis: High-income countries & coal: ]The retail price of coal also varies greatly across high-income countries, typically set at a mark-up on the supply costs. External costs are often split between local air pollution and global warming, with the latter being more. Only a few high-income countries charge retail prices high enough to internalize some of the external costs, if not all. These include Switzerland, Cyprus, Denmark, Finland, and Estonia.",
+      "text_hic_diesel": "[emphasis: High-income countries & diesel: ]A liter of diesel costs slightly below $1.00 (2021 prices). High-income countries typically set retail prices that cover a sizeable portion of the efficient price, which internalizes all costs, except for the oil-producing ones. Diesel use is associated with different types of external costs, such as local air pollution, road accidents, congestion, road damage, and global warming.",
+      "text_umic_diesel": "[emphasis: Upper-middle-income countries & diesel: ]Upper-middle-income countries typically set retail prices that cover a sizeable portion of the efficient price, which internalizes all costs, except the oil-producing ones. However, the retail price is, on average, X percent of the efficient price in upper-middle-income, compared to Y percent in high-income countries.",
+      "text_lmic_diesel": "[emphasis: Low-middle-income countries & diesel: ]Compared to richer countries, the consumption of diesel is limited in lower-middle-income countries. Therefore, the external costs are also limited. However, the retail price as a percentage of the efficient price is significantly lower than in richer countries.",
+      "text_lic_diesel": "[emphasis: Low-income countries & diesel: ]In low-income countries, the external costs are much lower than the supply cost in most countries. Due to the limited consumption of diesel per capita, the external costs are quite minimal. Yet, in nearly all countries, the retail price is lower than the efficient price.",
+      "text_hic_naturalgas": "[emphasis: High-income countries & natural gas: ]There is high variability in the retail price, supply price, and efficient price of natural gas across high-income countries. The external cost mainly consists of global warming and foregone VAT revenue for countries with high consumption of natural gas per capita. Unlike coal and diesel, the global warming costs of natural gas consist of a limited share of the efficient price.",
+      "text_umic_naturalgas": "[emphasis: Upper-middle-income countries & natural gas: ]There is also high variability in the retail price, supply price, and efficient price of natural gas across upper-middle-income countries. The global warming costs of natural gas consist of a limited share of the efficient price. The retail price is not high enough to cover all the global warming costs.",
+      "text_lmic_naturalgas": "[emphasis: Lower-middle-income countries & natural gas: ]The retail price is not high enough to cover all the supply and external costs. In a few countries, the retail price is so low it cannot even cover the supply costs (for example, Ukraine which is a net exporter of natural gas). Djibouti is the only countries that has fully internalized all costs of natural gas.",
+      "text_lic_naturalgas": "[emphasis: Lower-income countries & natural gas: ]Low-income countries typically set retail prices covering just about the supply cost of natural gas. Global warming is the main external cost of natural gas in low-income countries, but it consists of a limited share of the total efficient price. Comoros fully internalizes the cost of natural gas, while Rwanda sets a retail price significantly lower than the supply costs.",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "case_1",
+          "text": "[emphasis: High-income countries & diesel: ]A liter of diesel costs slightly below $1.00 (2021 prices). High-income countries typically set retail prices that cover a sizeable portion of the efficient price, which internalizes all costs, except for the oil-producing ones. Diesel use is associated with different types of external costs, such as local air pollution, road accidents, congestion, road damage, and global warming.",
+          "translationPrefix": "goal_12.content.#16.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "case_2",
+          "text": "[emphasis: High-income countries & gasoline: ]In 2022, the international price of gasoline has been roughly around $0.8 per liter (2021 prices) in most countries. In high-income countries, the environmental and social costs of using gasoline are estimated to outweigh the supply price. However, in these countries, the retail price is high enough to cover some of the external costs, if not all. Iceland, Norway, Finland, Portugal, and Barbados, fully internalize external costs in their pricing of gasoline. On the other hand, oil-producing, high-income countries, such as Qatar, Saudi Arabia, Bahrain, Oman, Brunei Darussalam, and Kuwait, set retail prices below the supply price.",
+          "translationPrefix": "goal_12.content.#16.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "explore",
+          "text": "[emphasis: Explore the data for different fuels and income groups]",
+          "translationPrefix": "goal_12.content.#16.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_12.content.#16"
+    },
+    {
+      "type": "scroller",
+      "graphic": "intro_scroller",
+      "title": "Fossil fuel subsidies",
+      "subtitle": "Including external costs",
+      "source": "Black, Liu, Parry, and Vernon (2023) [reference: black1]",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "fullScreen",
+      "theme": "light (alternatively: dark)",
+      "data_download": "12.1_global.zip",
+      "data": "1pMPXVMzsZfnsMZFRk2m76TRDI5xBb_vhVe0pUTmi27g",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "column_total",
+          "text": "Let’s return to the first chart of this chapter depicting how governments globally spent $1.3 trillion on fossil fuel subsidies from 2015-2022. ",
+          "translationPrefix": "goal_12.content.#17.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "column_total_externalities",
+          "text": "Fossil fuel subsidies (i.e., undercharging for the supply costs of fossil fuel) do not include environmental and social costs of using fossil fuel, such as air pollution and global warming. These additional, external costs have also increased between 2015 and 2022 by about $1.7 trillion to $5.7 trillion.",
+          "translationPrefix": "goal_12.content.#17.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "column_pct_externalities",
+          "text": "In fact, the external costs account for more than 80% of the estimated overall damages associated with fossil fuel consumption (fossil fuel subsidies borne by the government + external costs). Yet, the spike in the price of fossil in 2022 is evident, even when considering the overall damages. In 2015, 9% of the overall damages consisted of fossil fuel subsidies, which doubled by 2022.",
+          "translationPrefix": "goal_12.content.#17.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_12.content.#17"
+    },
+    {
+      "text": "Why subsidies are hard to remove",
+      "type": "subhed",
+      "translationPrefix": "goal_12.content.#18"
+    },
+    {
+      "text": "Subsidies persist due to intersecting political, economic, and social reasons. ",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#19"
+    },
+    {
+      "text": "[emphasis: Macroeconomic dependence:] In resource-rich countries, subsidies are seen as citizens’ share of resource wealth. Removing them breaks the social contract. Example: Nigeria’s 2012 reform attempt sparked nationwide strikes and a partial rollback [reference: worldbank2022].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#20"
+    },
+    {
+      "text": "[emphasis: Political economy:] Oil companies, miners, transport unions, and allied elites resist reform to protect profits, often with government ties. Example: Indonesia’s 2005–08 reforms faced union and elite pushback [reference: iea1].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#21"
+    },
+    {
+      "text": "[emphasis: Protests:] Subsidy cuts raise costs for food, transport, and energy, triggering unrest.  Example: Ecuador’s 2019 subsidy removal led to mass protests and reversal [reference: imf2023].",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#22"
+    },
+    {
+      "text": "[emphasis: Unfair green transition:] Industrialized nations have built wealth on fossil fuel and are now home to growing, energy-intensive data centers powering the AI-revolution. Yet poorer countries face pressure to quit fossil fuels, thus weakening compliance [reference: mit1], [reference: reuters1].[emphasis: ]",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#23"
+    },
+    {
+      "type": "vis",
+      "graphic": "sdg12_challenges_scroller",
+      "title": "Fuel-related protests",
+      "subtitle": "2021-2024",
+      "source": "ACLED [reference: acled1]",
+      "visdescription": "",
+      "theme": "light (alternatively: dark)",
+      "data_download": "12.20_fueldemonstrations_simpler.csv",
+      "data": "1fDSzrpi3toqe3O4yCuJrq6A0yFE5_DypTAXUGx1s6sw",
+      "translationPrefix": "goal_12.content.#24"
+    },
+    {
+      "text": "Following Russia’s invasion of Ukraine, the incidence of fuel-related protests swelled up between 2022 and 2023 across several months in different parts of the world. This occurred mostly in Latin America, Asia, and Europe. Country X had the highest incidence of fuel-related protests. Middle-income countries protested more frequently. [this is a placeholder.]",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#25"
+    },
+    {
+      "type": "scroller",
+      "graphic": "sdg12_datacenter_usage",
+      "title": "Top 50 Data centers",
+      "subtitle": "Electricity consumption, MW.",
+      "source": "Cushman & Wakefield (2025) [reference: cushman1]",
+      "visdescription": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"> </span>",
+      "theme": "light (alternatively: dark)",
+      "data_download": "12.20_datacenters.csv",
+      "data": "1PFrjC87ilBgAbdFxQerozZUE36UXo8S0D_bzVlsZFRw",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "s1",
+          "text": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Data centers—more than 10,000 globally—consume around 1–1.5% of global electricity (≈400 TWh), already matching the annual usage of countries like the UK or Spain. According to the IEA, demand could more than double by 2030. Data centers are typically clustered in big cities. About 60% of the electricity consumed by the top 50 data centers is generated using fossil energy. Some firms claim 100% carbon matching for data centers, but this is usually calculated annually and doesn’t ensure real-time clean power. In practice, data centers still draw on fossil-fuel grids during peak hours.   </span>",
+          "translationPrefix": "goal_12.content.#26.scenes.#0"
+        }
+      ],
+      "translationPrefix": "goal_12.content.#26"
+    },
+    {
+      "text": "Reforms",
+      "type": "subhed",
+      "translationPrefix": "goal_12.content.#27"
+    },
+    {
+      "text": "Reforms aimed at eliminating fossil fuel subsidies often fail. This is the outcome of a lack of good strategy and political will. Previous reforms around the world suggest what works when designing energy reforms. ",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#28"
+    },
+    {
+      "text": "[emphasis: Price Adjustment & Phasing: ]Gradual increases (e.g., India’s monthly diesel hikes); automatic pricing tied to global oil (e.g., Morocco, Kenya).",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#29"
+    },
+    {
+      "text": "[emphasis: Targeted Social Protection: ]Cash transfers (Indonesia, Iran); Redirect subsidies to the poor (India’s LPG DBT); Lifeline tariffs: cheap quota, market rates beyond.",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#30"
+    },
+    {
+      "text": "[emphasis: Transparency & Communication: ]Campaigns showing who really benefits (mostly wealthy); Show savings reinvested (schools, health, roads); Leverage peer examples to build public acceptance; Example: Ghana publicized fuel vs. health spending.",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#31"
+    },
+    {
+      "text": "[emphasis: Fiscal & Policy Reallocation: ]Reinvest savings in education, healthcare, and infrastructure; Fund renewables and public transport to cut fossil reliance.",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#32"
+    },
+    {
+      "text": "[emphasis: Institutional Reforms: ]Independent pricing bodies to depoliticize; Liberalize markets to reduce monopoly reliance; Publish regular subsidy cost/beneficiary reports.[emphasis: ]",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#33"
+    },
+    {
+      "text": "[emphasis: Timing & Sequencing: ]Reform during low oil prices (Morocco, 2014); Pair with safety nets before hikes; Start with non-essential fuels first.",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#34"
+    },
+    {
+      "text": "Conclusion",
+      "type": "subhed",
+      "translationPrefix": "goal_12.content.#35"
+    },
+    {
+      "text": "The consumption of fossil fuels drives climate change and local air pollution, yet governments continue to spend heavily on subsidies—rising from USD 0.5 trillion in 2020 to USD 1.3 trillion in 2022, partly to reduce suffering during the energy crisis.[reference: black1]",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#36"
+    },
+    {
+      "text": "Progress on subsidy removal is [emphasis: moving backward]: it is among the[emphasis:  33%] of SDG targets that have stalled or regressed.[reference: un2]  Though reforms have lacked political support, evidence from middle-income countries suggests that reforms would likely be successful to reduce fossil fuel subsidies, if the resources would be channelled into the provision of infrastructure, education, and healthcare.[reference: hoy] ",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#37"
+    },
+    {
+      "text": "A full reform in the pricing of fossil fuel (i.e., incorporating all supply and environmental costs) is estimated to reduce global CO2 emissions by approximately 43 percent below baseline levels by 2030, raise government revenue globally by about 3.6 percent of global GDP, and prevent about 1.6 million premature deaths per year from local air pollution.[reference: black1]  ",
+      "type": "text",
+      "translationPrefix": "goal_12.content.#38"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
+    "coady1": "Coady, D., Parry, I., Le, N. P., & Shang, B. (2019). Global fossil fuel subsidies remain large: An update based on country-level estimates (IMF Working Paper No. 19/89). International Monetary Fund. https://doi.org/10.5089/9781498316984.001",
+    "coady2": "Coady, D., Parry, I., Sears, L., & Shang, B. (2017). How large are global fossil fuel subsidies? World Development, 91, 11–27. https://doi.org/10.1016/j.worlddev.2016.10.004",
+    "couharde1": "Couharde, C., & Mouhoud, S. (2020). Fossil fuel subsidies, income inequality and poverty: Evidence from developing countries. Journal of Economic Surveys, 34(4), 924–956. https://doi.org/10.1111/joes.12384",
+    "iea1": "International Energy Agency (IEA). (2023). Fossil fuel subsidies database. Paris: IEA. https://www.iea.org/topics/fossil-fuel-subsidies",
+    "imf1": "International Monetary Fund (IMF). (2022). Fiscal Monitor: Helping people bounce back. Washington, DC: IMF. https://www.imf.org/en/Publications/FM",
+    "musa1": "Musa, A., & Abubakar, S. (2025). Fuel subsidy removal and smuggling dynamics in Nigeria’s border states. African Development Review, 37(1), 45–62. https://doi.org/10.1111/1467-8268.12700",
+    "undp1": "UNDP 2021. Fossil Fuel Subsidy Reform: Lessons and Opportunities. New York.",
+    "worldbank2022": "World Bank. 2022. The Political Economy of Energy Subsidy Reform. Washington, DC.",
+    "imf2023": "International Monetary Fund (2023). Ecuador: Ex-Post Evaluation of Exceptional Access under the 2020 Extended Fund Facility – Staff Report (IMF Country Report No. 23/381). Retrieved from<a href=\"https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx\" target=\"_blank\"> </a><a href=\"https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx\" target=\"_blank\">https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx</a>",
+    "black1": "Black, S., Liu, A., Parry, I., & Vernon, N. (2023). IMF fossil fuel subsidies data: 2023 update (IMF Working Paper No. 2023/169). International Monetary Fund. https://www.imf.org/en/Publications/WP/Issues/2023/08/22/IMF-Fossil-Fuel-Subsidies-Data-2023-Update-537281",
+    "arze1": "Arze del Granado, F. J., Coady, D., & Gillingham, R. (2012). The unequal benefits of fuel subsidies: A review of evidence for developing countries. World Development, 40(11), 2234–2248. https://doi.org/10.1016/j.worlddev.2012.05.005",
+    "mit1": "MIT Energy Initiative. 2024. The Multi-Faceted Challenge of Powering AI. Cambridge, MA.",
+    "reuters1": "Reuters. (2023, February 7). ‘Move away from hypocrisy’: Global South demands energy justice. Reuters.<a href=\"https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/\" target=\"_blank\"> </a><a href=\"https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/\" target=\"_blank\">https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/</a>",
+    "cushman1": "Cushman & Wakefield. (2023, January 19). Global data center market comparison report [Press release]. Cushman & Wakefield. Retrieved from<a href=\"https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison\" target=\"_blank\"> </a><a href=\"https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison\" target=\"_blank\">https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison</a>",
+    "acled1": "Armed Conflict Location & Event Data Project (ACLED). 2025. Conflict data. Retrieved August 25, 2025, from<a href=\"https://acleddata.com/conflict-data\" target=\"_blank\"> </a><a href=\"https://acleddata.com/conflict-data\" target=\"_blank\">https://acleddata.com/conflict-data</a>",
+    "hoy": "Hoy, C. A., Kim, Y. S., Nguyen, M. C., Sosa, M. E., & Tiwari, S. (2024). Attitudes towards reducing fossil fuel subsidies: Evidence across 12 middle-income countries (Policy Research Working Paper No. 10615). World Bank. https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099710312122331885/attitudes-towards-reducing-fossil-fuel-subsidies-evidence-across-12-middle-income-countries",
+    "un2": "United Nations, Department of Economic and Social Affairs. (2024). The Sustainable Development Goals Report 2024. United Nations.<a href=\"https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf?utm_source=chatgpt.com\" target=\"_blank\"> </a><a href=\"https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf?utm_source=chatgpt.com\" target=\"_blank\">https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf</a>",
+    "translationPrefix": "goal_12.references"
+  },
+  "translationPrefix": "goal_12"
+}

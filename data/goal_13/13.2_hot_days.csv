@@ -1,0 +1,216 @@
+code,name,Country Code,Short Name,Long Name,Region,days_hd30,ref_days_hd30,days_hd30_diff
+COG,Congo,COG,"Congo, Republic of",Republic of Congo,Sub-Saharan Africa,171.5458333,105.5566667,65.98916667
+GAB,Gabon,GAB,Gabon,Gabonese Republic,Sub-Saharan Africa,140.3429167,76.55066667,63.79225
+BLZ,Belize,BLZ,Belize,Belize,Latin America & Caribbean,178.0895833,117.996,60.09358333
+COD,Democratic Republic of Congo,COD,"Congo, Democratic Republic of",Democratic Republic of the Congo,Sub-Saharan Africa,163.4429167,103.6803333,59.76258333
+BRN,Brunei Darussalam,BRN,Brunei Darussalam,Brunei Darussalam,East Asia & Pacific,236.6458333,183.176,53.46983333
+CIV,Côte d'Ivoire,CIV,Côte d'Ivoire,Republic of Côte d'Ivoire,Sub-Saharan Africa,267.0404167,217.6113333,49.42908333
+SLV,El Salvador,SLV,El Salvador,Republic of El Salvador,Latin America & Caribbean,250.6891667,201.9806667,48.7085
+MYS,Malaysia,MYS,Malaysia,Malaysia,East Asia & Pacific,204.5129167,156.0813333,48.43158333
+PAN,Panama,PAN,Panama,Republic of Panama,Latin America & Caribbean,102.36125,57.78833333,44.57291667
+GUY,Guyana,GUY,Guyana,Co-operative Republic of Guyana,Latin America & Caribbean,165.5258333,121.6346667,43.89116667
+BRA,Brazil,BRA,Brazil,Federative Republic of Brazil,Latin America & Caribbean,215.2858333,172.064,43.22183333
+VEN,R. B. de Venezuela,VEN,"Venezuela, República Bolivariana de",República Bolivariana de Venezuela,Latin America & Caribbean,202.8525,159.9296667,42.92283333
+CMR,Cameroon,CMR,Cameroon,Republic of Cameroon,Sub-Saharan Africa,169.67,126.877,42.793
+IDN,Indonesia,IDN,Indonesia,Republic of Indonesia,East Asia & Pacific,157.215,115.2923333,41.92266667
+GTM,Guatemala,GTM,Guatemala,Republic of Guatemala,Latin America & Caribbean,139.4929167,98.68666667,40.80625
+SUR,Suriname,SUR,Suriname,Republic of Suriname,Latin America & Caribbean,222.17625,183.593,38.58325
+COL,Colombia,COL,Colombia,Republic of Colombia,Latin America & Caribbean,146.8354167,109.1516667,37.68375
+LBR,Liberia,LBR,Liberia,Republic of Liberia,Sub-Saharan Africa,146.2195833,108.6986667,37.52091667
+SGP,Singapore,SGP,Singapore,Republic of Singapore,East Asia & Pacific,78.11458333,41.20133333,36.91325
+SSD,South Sudan,SSD,South Sudan,Republic of South Sudan,Sub-Saharan Africa,297.865,261.43,36.435
+GNQ,Equatorial Guinea,GNQ,Equatorial Guinea,Republic of Equatorial Guinea,Sub-Saharan Africa,62.12791667,26.38066667,35.74725
+TTO,Trinidad and Tobago,TTO,Trinidad and Tobago,Republic of Trinidad and Tobago,Latin America & Caribbean,72.24541667,37.21566667,35.02975
+GHA,Ghana,GHA,Ghana,Republic of Ghana,Sub-Saharan Africa,273.5841667,240.0913333,33.49283333
+HTI,Haiti,HTI,Haiti,Republic of Haiti,Latin America & Caribbean,100.2054167,67.904,32.30141667
+LAO,Lao People's Democratic Republic,LAO,Lao PDR,Lao People's Democratic Republic,East Asia & Pacific,133.4275,101.2046667,32.22283333
+DOM,Dominican Republic,DOM,Dominican Republic,Dominican Republic,Latin America & Caribbean,101.5045833,69.87033333,31.63425
+KHM,Cambodia,KHM,Cambodia,Kingdom of Cambodia,East Asia & Pacific,294.3766667,263.083,31.29366667
+MDG,Madagascar,MDG,Madagascar,Republic of Madagascar,Sub-Saharan Africa,127.1545833,96.23866667,30.91591667
+THA,Thailand,THA,Thailand,Kingdom of Thailand,East Asia & Pacific,257.5533333,227.1653333,30.388
+LCA,Saint Lucia,LCA,St. Lucia,St. Lucia,Latin America & Caribbean,45.83791667,15.85233333,29.98558333
+TZA,Tanzania,TZA,Tanzania,United Republic of Tanzania,Sub-Saharan Africa,100.0620833,70.444,29.61808333
+UGA,Uganda,UGA,Uganda,Republic of Uganda,Sub-Saharan Africa,92.93708333,63.81,29.12708333
+PHL,Philippines,PHL,Philippines,Republic of the Philippines,East Asia & Pacific,126.6025,97.536,29.0665
+MMR,Myanmar,MMR,Myanmar,Republic of the Union of Myanmar,East Asia & Pacific,163.60625,134.889,28.71725
+GIN,Guinea,GIN,Guinea,Republic of Guinea,Sub-Saharan Africa,252.1645833,223.6673333,28.49725
+HND,Honduras,HND,Honduras,Republic of Honduras,Latin America & Caribbean,117.0170833,88.532,28.48508333
+PRY,Paraguay,PRY,Paraguay,Republic of Paraguay,Latin America & Caribbean,203.6133333,175.8113333,27.802
+JAM,Jamaica,JAM,Jamaica,Jamaica,Latin America & Caribbean,100.40125,72.663,27.73825
+BGD,Bangladesh,BGD,Bangladesh,People's Republic of Bangladesh,South Asia,208.4033333,180.7786667,27.62466667
+NIC,Nicaragua,NIC,Nicaragua,Republic of Nicaragua,Latin America & Caribbean,141.87125,114.781,27.09025
+CAF,Central African Republic,CAF,Central African Republic,Central African Republic,Sub-Saharan Africa,245.6604167,219.5413333,26.11908333
+PNG,Papua New Guinea,PNG,Papua New Guinea,The Independent State of Papua New Guinea,East Asia & Pacific,87.87666667,61.83433333,26.04233333
+NAM,Namibia,NAM,Namibia,Republic of Namibia,Sub-Saharan Africa,165.0295833,139.8806667,25.14891667
+KEN,Kenya,KEN,Kenya,Republic of Kenya,Sub-Saharan Africa,229.5754167,204.7283333,24.84708333
+PER,Peru,PER,Peru,Republic of Peru,Latin America & Caribbean,96.78291667,71.979,24.80391667
+MEX,Mexico,MEX,Mexico,United Mexican States,Latin America & Caribbean,132.36125,107.942,24.41925
+BOL,Bolivia,BOL,"Bolivia, Plurinational State of",Plurinational State of Bolivia,Latin America & Caribbean,149.3304167,125.0756667,24.25475
+CUB,Cuba,CUB,Cuba,Republic of Cuba,Latin America & Caribbean,168.235,145.21,23.025
+VNM,Vietnam,VNM,Viet Nam,Socialist Republic of Viet Nam,East Asia & Pacific,144.0166667,121.7913333,22.22533333
+ETH,Ethiopia,ETH,Ethiopia,Federal Democratic Republic of Ethiopia,Sub-Saharan Africa,169.4270833,147.2406667,22.18641667
+YEM,Republic of Yemen,YEM,"Yemen, Republic of",Republic of Yemen,"Middle East, North Africa, Afghanistan & Pakistan",222.11875,200.382,21.73675
+AGO,Angola,AGO,Angola,People's Republic of Angola,Sub-Saharan Africa,114.7245833,93.10633333,21.61825
+PSE,West Bank and Gaza,PSE,West Bank and Gaza,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",144.2929167,122.8133333,21.47958333
+MAR,Morocco,MAR,Morocco,Kingdom of Morocco,"Middle East, North Africa, Afghanistan & Pakistan",101.4745833,80.131,21.34358333
+ISR,Israel,ISR,Israel,State of Israel,"Middle East, North Africa, Afghanistan & Pakistan",137.79375,116.6476667,21.14608333
+ERI,Eritrea,ERI,Eritrea,State of Eritrea,Sub-Saharan Africa,265.8366667,245.2196667,20.617
+SLE,Sierra Leone,SLE,Sierra Leone,Republic of Sierra Leone,Sub-Saharan Africa,190.3741667,170.0056667,20.3685
+MDA,Moldova,MDA,Moldova,Republic of Moldova,Europe & Central Asia,29.43125,9.142333333,20.28891667
+DZA,Algeria,DZA,Algeria,People's Democratic Republic of Algeria,"Middle East, North Africa, Afghanistan & Pakistan",197.2575,177.2743333,19.98316667
+HKG,"Hong Kong, SAR",HKG,"Hong Kong SAR, China",Hong Kong Special Administrative Region of the People's Republic of China,East Asia & Pacific,80.39625,60.54,19.85625
+MOZ,Mozambique,MOZ,Mozambique,Republic of Mozambique,Sub-Saharan Africa,147.89375,128.1613333,19.73241667
+TUN,Tunisia,TUN,Tunisia,Republic of Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",130.2308333,110.5523333,19.6785
+TGO,Togo,TGO,Togo,Republic of Togo,Sub-Saharan Africa,270.85,251.232,19.618
+IND,India,IND,India,Republic of India,South Asia,209.4291667,190.2526667,19.1765
+GNB,Guinea-Bissau,GNB,Guinea-Bissau,Republic of Guinea-Bissau,Sub-Saharan Africa,300.3433333,281.1723333,19.171
+MAC,"Macau, SAR",MAC,"Macao SAR, China",Macao Special Administrative Region of the People's Republic of China,East Asia & Pacific,80.37583333,61.23933333,19.1365
+TLS,Timor-Leste,TLS,Timor-Leste,Democratic Republic of Timor-Leste,East Asia & Pacific,43.27375,24.20133333,19.07241667
+NGA,Nigeria,NGA,Nigeria,Federal Republic of Nigeria,Sub-Saharan Africa,275.2329167,256.1673333,19.06558333
+ZWE,Zimbabwe,ZWE,Zimbabwe,Republic of Zimbabwe,Sub-Saharan Africa,110.7354167,91.75533333,18.98008333
+SAU,Saudi Arabia,SAU,Saudi Arabia,Kingdom of Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",232.715,214.678,18.037
+MLI,Mali,MLI,Mali,Republic of Mali,Sub-Saharan Africa,300.485,282.9813333,17.50366667
+GMB,The Gambia,GMB,"Gambia, The",Republic of The Gambia,Sub-Saharan Africa,318.0966667,300.6273333,17.46933333
+OMN,Oman,OMN,Oman,Sultanate of Oman,"Middle East, North Africa, Afghanistan & Pakistan",259.1825,241.7936667,17.38883333
+SOM,Somalia,SOM,Somalia,Somali Democratic Republic,Sub-Saharan Africa,280.1116667,263.061,17.05066667
+NER,Niger,NER,Niger,Republic of Niger,Sub-Saharan Africa,285.7045833,268.6686667,17.03591667
+JOR,Jordan,JOR,Jordan,Hashemite Kingdom of Jordan,"Middle East, North Africa, Afghanistan & Pakistan",150.2454167,133.2546667,16.99075
+MKD,North Macedonia,MKD,North Macedonia,Republic of North Macedonia,Europe & Central Asia,35.93416667,19.17266667,16.7615
+TCD,Chad,TCD,Chad,Republic of Chad,Sub-Saharan Africa,288.6425,271.9186667,16.72383333
+MRT,Mauritania,MRT,Mauritania,Islamic Republic of Mauritania,Sub-Saharan Africa,268.4983333,251.8946667,16.60366667
+ESP,Spain,ESP,Spain,Kingdom of Spain,Europe & Central Asia,49.03833333,32.891,16.14733333
+IRN,Islamic Republic of Iran,IRN,"Iran, Islamic Republic of",Islamic Republic of Iran,"Middle East, North Africa, Afghanistan & Pakistan",138.4241667,122.284,16.14016667
+SRB,Serbia,SRB,Serbia,Republic of Serbia,Europe & Central Asia,33.0325,17.07533333,15.95716667
+LBN,Lebanon,LBN,Lebanon,Lebanese Republic,"Middle East, North Africa, Afghanistan & Pakistan",39.6475,23.91766667,15.72983333
+BGR,Bulgaria,BGR,Bulgaria,Republic of Bulgaria,Europe & Central Asia,27.7325,12.26666667,15.46583333
+BWA,Botswana,BWA,Botswana,Republic of Botswana,Sub-Saharan Africa,167.5745833,152.363,15.21158333
+ARE,United Arab Emirates,ARE,United Arab Emirates,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",248.5841667,233.4866667,15.0975
+ZAF,South Africa,ZAF,South Africa,Republic of South Africa,Sub-Saharan Africa,86.38208333,71.45566667,14.92641667
+BEN,Benin,BEN,Benin,Republic of Benin,Sub-Saharan Africa,295.5375,280.706,14.8315
+SDN,Sudan,SDN,Sudan,Republic of the Sudan,Sub-Saharan Africa,283.3416667,268.522,14.81966667
+GRC,Greece,GRC,Greece,Hellenic Republic,Europe & Central Asia,37.95875,23.30466667,14.65408333
+HRV,Croatia,HRV,Croatia,Republic of Croatia,Europe & Central Asia,26.36541667,11.74866667,14.61675
+HUN,Hungary,HUN,Hungary,Hungary,Europe & Central Asia,29.70083333,15.13733333,14.5635
+QAT,Qatar,QAT,Qatar,State of Qatar,"Middle East, North Africa, Afghanistan & Pakistan",225.7954167,211.2983333,14.49708333
+SEN,Senegal,SEN,Senegal,Republic of Senegal,Sub-Saharan Africa,339.48,325.4856667,13.99433333
+ECU,Ecuador,ECU,Ecuador,Republic of Ecuador,Latin America & Caribbean,56.82708333,42.97,13.85708333
+SYR,Syrian Arab Republic,SYR,Syrian Arab Republic,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",144.4633333,130.8183333,13.645
+ROU,Romania,ROU,Romania,Romania,Europe & Central Asia,23.50416667,9.993666667,13.5105
+BFA,Burkina Faso,BFA,Burkina Faso,Burkina Faso,Sub-Saharan Africa,324.1966667,310.7803333,13.41633333
+LBY,Libya,LBY,Libya,Socialist People's Libyan Arab Jamahiriya,"Middle East, North Africa, Afghanistan & Pakistan",184.1404167,170.7313333,13.40908333
+BHR,Bahrain,BHR,Bahrain,Kingdom of Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",160.6383333,147.3513333,13.287
+UKR,Ukraine,UKR,Ukraine,Ukraine,Europe & Central Asia,20.8925,7.617666667,13.27483333
+ZMB,Zambia,ZMB,Zambia,Republic of Zambia,Sub-Saharan Africa,90.95791667,78.032,12.92591667
+TUR,Türkiye,TUR,Türkiye,Republic of Türkiye,Europe & Central Asia,45.07375,32.151,12.92275
+EGY,Arab Republic of Egypt,EGY,"Egypt, Arab Republic of",Arab Republic of Egypt,"Middle East, North Africa, Afghanistan & Pakistan",187.4775,174.6216667,12.85583333
+PRI,Puerto Rico (U.S.),PRI,Puerto Rico (US),Puerto Rico (US),Latin America & Caribbean,50.56083333,37.74033333,12.8205
+TKM,Turkmenistan,TKM,Turkmenistan,Turkmenistan,Europe & Central Asia,131.5254167,118.964,12.56141667
+UZB,Uzbekistan,UZB,Uzbekistan,Republic of Uzbekistan,Europe & Central Asia,101.8104167,89.26566667,12.54475
+ALB,Albania,ALB,Albania,Republic of Albania,Europe & Central Asia,23.68708333,11.19433333,12.49275
+LKA,Sri Lanka,LKA,Sri Lanka,Democratic Socialist Republic of Sri Lanka,South Asia,194.1841667,182.013,12.17116667
+BIH,Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Europe & Central Asia,19.47208333,7.348666667,12.12341667
+DJI,Djibouti,DJI,Djibouti,Republic of Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",278.3333333,266.2686667,12.06466667
+ITA,Italy,ITA,Italy,Italian Republic,Europe & Central Asia,25.14375,13.219,11.92475
+AUS,Australia,AUS,Australia,Commonwealth of Australia,East Asia & Pacific,171.4316667,159.8703333,11.56133333
+PRT,Portugal,PRT,Portugal,Portuguese Republic,Europe & Central Asia,42.64375,31.434,11.20975
+CYP,Cyprus,CYP,Cyprus,Republic of Cyprus,Europe & Central Asia,75.58291667,64.42333333,11.15958333
+AZE,Azerbaijan,AZE,Azerbaijan,Republic of Azerbaijan,Europe & Central Asia,50.28041667,39.324,10.95641667
+PAK,Pakistan,PAK,Pakistan,Islamic Republic of Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",184.1629167,173.5823333,10.58058333
+SLB,Solomon Islands,SLB,Solomon Islands,Solomon Islands,East Asia & Pacific,13.85875,3.301333333,10.55741667
+SMR,San Marino,SMR,San Marino,Republic of San Marino,Europe & Central Asia,20.58333333,10.1,10.48333333
+AFG,Afghanistan,AFG,Afghanistan,Islamic State of Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",90.2825,80.058,10.2245
+IRQ,Iraq,IRQ,Iraq,Republic of Iraq,"Middle East, North Africa, Afghanistan & Pakistan",187.2666667,177.0486667,10.218
+URY,Uruguay,URY,Uruguay,Oriental Republic of Uruguay,Latin America & Caribbean,48.0225,37.94033333,10.08216667
+ARG,Argentina,ARG,Argentina,Argentine Republic,Latin America & Caribbean,62.92791667,53.21366667,9.71425
+FJI,Fiji,FJI,Fiji,Republic of Fiji,East Asia & Pacific,20.62416667,11.044,9.580166667
+KWT,Kuwait,KWT,Kuwait,State of Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",214.5720833,205.2106667,9.361416667
+NCL,New Caledonia (Fr.),NCL,New Caledonia,New Caledonia,East Asia & Pacific,17.45666667,8.319,9.137666667
+MWI,Malawi,MWI,Malawi,Republic of Malawi,Sub-Saharan Africa,47.98875,38.95133333,9.037416667
+SVN,Slovenia,SVN,Slovenia,Republic of Slovenia,Europe & Central Asia,11.57291667,2.993333333,8.579583333
+BHS,The Bahamas,BHS,"Bahamas, The",Commonwealth of The Bahamas,Latin America & Caribbean,25.52375,17.243,8.28075
+KOR,Republic of Korea,KOR,Korea,Republic of Korea,East Asia & Pacific,24.43083333,16.40533333,8.0255
+USA,United States of America,USA,United States,United States of America,North America,54.57083333,46.58333333,7.9875
+KAZ,Kazakhstan,KAZ,Kazakhstan,Republic of Kazakhstan,Europe & Central Asia,49.04166667,41.17666667,7.865
+SVK,Slovak Republic,SVK,Slovak Republic,Slovak Republic,Europe & Central Asia,11.84041667,4.345,7.495416667
+MNE,Montenegro,MNE,Montenegro,Montenegro,Europe & Central Asia,9.67375,2.320666667,7.353083333
+GEO,Georgia,GEO,Georgia,Georgia,Europe & Central Asia,14.18625,6.957333333,7.228916667
+CRI,Costa Rica,CRI,Costa Rica,Republic of Costa Rica,Latin America & Caribbean,54.06291667,47.03633333,7.026583333
+FRA,France,FRA,France,French Republic,Europe & Central Asia,13.07958333,6.167333333,6.91225
+MNG,Mongolia,MNG,Mongolia,Mongolia,East Asia & Pacific,16.67416667,10.09966667,6.5745
+CHN,China,CHN,China,People's Republic of China,East Asia & Pacific,34.94583333,28.42733333,6.5185
+JPN,Japan,JPN,Japan,Japan,East Asia & Pacific,17.91916667,12.242,5.677166667
+BDI,Burundi,BDI,Burundi,Republic of Burundi,Sub-Saharan Africa,9.825,4.204666667,5.620333333
+BLR,Belarus,BLR,Belarus,Republic of Belarus,Europe & Central Asia,6.475,1.666,4.809
+NPL,Nepal,NPL,Nepal,Nepal,South Asia,49.14666667,44.378,4.768666667
+ARM,Armenia,ARM,Armenia,Republic of Armenia,Europe & Central Asia,10.75541667,6.056,4.699416667
+COM,Comoros,COM,Comoros,Union of the Comoros,Sub-Saharan Africa,7.4475,2.913,4.5345
+TJK,Tajikistan,TJK,Tajikistan,Republic of Tajikistan,Europe & Central Asia,24.70416667,20.29066667,4.4135
+POL,Poland,POL,Poland,Republic of Poland,Europe & Central Asia,6.745,2.889,3.856
+CZE,Czech Republic,CZE,Czechia,Czech Republic,Europe & Central Asia,6.626666667,2.860666667,3.766
+RWA,Rwanda,RWA,Rwanda,Republic of Rwanda,Sub-Saharan Africa,4.227083333,0.5923333333,3.63475
+CYM,Cayman Islands (U.K.),CYM,Cayman Islands,Cayman Islands,Latin America & Caribbean,3.629583333,0.154,3.475583333
+PRK,D. P. R. of Korea,PRK,"Korea, Democratic People’s Republic of",Democratic People's Republic of Korea,East Asia & Pacific,8.25375,4.781666667,3.472083333
+DEU,Germany,DEU,Germany,Federal Republic of Germany,Europe & Central Asia,6.34625,2.912666667,3.433583333
+AUT,Austria,AUT,Austria,Republic of Austria,Europe & Central Asia,5.303333333,2.114,3.189333333
+LUX,Luxembourg,LUX,Luxembourg,Grand Duchy of Luxembourg,Europe & Central Asia,4.629583333,1.853,2.776583333
+BEL,Belgium,BEL,Belgium,Kingdom of Belgium,Europe & Central Asia,4.2125,1.606,2.6065
+NLD,Netherlands,NLD,Netherlands,Kingdom of the Netherlands,Europe & Central Asia,3.827916667,1.679666667,2.14825
+SWZ,Eswatini,SWZ,Eswatini,Kingdom of Eswatini,Sub-Saharan Africa,73.68583333,71.60333333,2.0825
+LSO,Lesotho,LSO,Lesotho,Kingdom of Lesotho,Sub-Saharan Africa,4.497083333,2.416666667,2.080416667
+LTU,Lithuania,LTU,Lithuania,Republic of Lithuania,Europe & Central Asia,2.748333333,0.847,1.901333333
+CHE,Switzerland,CHE,Switzerland,Switzerland,Europe & Central Asia,2.2725,0.4833333333,1.789166667
+RUS,Russian Federation,RUS,Russian Federation,Russian Federation,Europe & Central Asia,4.639166667,2.863666667,1.7755
+CPV,Cabo Verde,CPV,Cabo Verde,Republic of Cabo Verde,Sub-Saharan Africa,2.3075,0.8023333333,1.505166667
+LVA,Latvia,LVA,Latvia,Republic of Latvia,Europe & Central Asia,1.865416667,0.3966666667,1.46875
+BTN,Bhutan,BTN,Bhutan,Kingdom of Bhutan,South Asia,3.599166667,2.329666667,1.2695
+GIB,Gibraltar (U.K.),GIB,Gibraltar,Gibraltar,Europe & Central Asia,1.45625,0.4676666667,0.9885833333
+CHL,Chile,CHL,Chile,Republic of Chile,Latin America & Caribbean,1.990833333,1.182666667,0.8081666667
+EST,Estonia,EST,Estonia,Republic of Estonia,Europe & Central Asia,0.9433333333,0.175,0.7683333333
+KGZ,Kyrgyz Republic,KGZ,Kyrgyz Republic,Kyrgyz Republic,Europe & Central Asia,4.3075,3.61,0.6975
+MLT,Malta,MLT,Malta,Republic of Malta,"Middle East, North Africa, Afghanistan & Pakistan",0.4429166667,0,0.4429166667
+LIE,Liechtenstein,LIE,Liechtenstein,Principality of Liechtenstein,Europe & Central Asia,0.54625,0.114,0.43225
+CAN,Canada,CAN,Canada,Canada,North America,1.755833333,1.409,0.3468333333
+TUV,Tuvalu,TUV,Tuvalu,Tuvalu,East Asia & Pacific,0.2729166667,0.007,0.2659166667
+FIN,Finland,FIN,Finland,Republic of Finland,Europe & Central Asia,0.4475,0.1913333333,0.2561666667
+MDV,Maldives,MDV,Maldives,Republic of Maldives,South Asia,0.7758333333,0.5256666667,0.2501666667
+VUT,Vanuatu,VUT,Vanuatu,Republic of Vanuatu,East Asia & Pacific,0.8641666667,0.6196666667,0.2445
+GBR,United Kingdom,GBR,United Kingdom,United Kingdom of Great Britain and Northern Ireland,Europe & Central Asia,0.3808333333,0.1666666667,0.2141666667
+MUS,Mauritius,MUS,Mauritius,Republic of Mauritius,Sub-Saharan Africa,0.275,0.079,0.196
+TCA,Turks and Caicos Islands (U.K.),TCA,Turks and Caicos Islands,Turks and Caicos Islands,Latin America & Caribbean,0.1516666667,0,0.1516666667
+SYC,Seychelles,SYC,Seychelles,Republic of Seychelles,Sub-Saharan Africa,0.1529166667,0.014,0.1389166667
+BRB,Barbados,BRB,Barbados,Barbados,Latin America & Caribbean,0.09333333333,0,0.09333333333
+NRU,Nauru,NRU,Nauru,Republic of Nauru,East Asia & Pacific,0.125,0.03333333333,0.09166666667
+MNP,Northern Mariana Islands (U.S.),MNP,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,East Asia & Pacific,0.07208333333,0,0.07208333333
+WSM,Samoa,WSM,Samoa,Independent State of Samoa,East Asia & Pacific,0.0475,0.001333333333,0.04616666667
+ABW,Aruba (Neth.),ABW,Aruba,Aruba,Latin America & Caribbean,0.04166666667,0,0.04166666667
+GRD,Grenada,GRD,Grenada,Grenada,Latin America & Caribbean,0.0375,0,0.0375
+KIR,Kiribati,KIR,Kiribati,Republic of Kiribati,East Asia & Pacific,0.05291666667,0.017,0.03591666667
+CUW,Curaçao (Neth.),CUW,Curaçao,Curaçao,Latin America & Caribbean,0.025,0,0.025
+SWE,Sweden,SWE,Sweden,Kingdom of Sweden,Europe & Central Asia,0.2645833333,0.241,0.02358333333
+FSM,Federated States of Micronesia,FSM,"Micronesia, Federated States of",Federated States of Micronesia,East Asia & Pacific,0.02083333333,0,0.02083333333
+NZL,New Zealand,NZL,New Zealand,New Zealand,East Asia & Pacific,0.07708333333,0.05633333333,0.02075
+DNK,Denmark,DNK,Denmark,Kingdom of Denmark,Europe & Central Asia,0.16375,0.156,0.00775
+NOR,Norway,NOR,Norway,Kingdom of Norway,Europe & Central Asia,0.06083333333,0.054,0.006833333333
+MAF,Saint-Martin (Fr.),MAF,St. Martin (French part),St. Martin (French part),Latin America & Caribbean,0.003333333333,0,0.003333333333
+TON,Tonga,TON,Tonga,Kingdom of Tonga,East Asia & Pacific,0.002916666667,0,0.002916666667
+MHL,Marshall Islands,MHL,Marshall Islands,Republic of the Marshall Islands,East Asia & Pacific,0.002083333333,0,0.002083333333
+SXM,Sint Maarten (Neth.),SXM,Sint Maarten (Dutch part),Sint Maarten (Dutch part),Latin America & Caribbean,0.0008333333333,0,0.0008333333333
+ASM,American Samoa (U.S.),ASM,American Samoa,American Samoa,East Asia & Pacific,0,0,0
+FRO,Faroe Islands (Den.),FRO,Faroe Islands,Faroe Islands,Europe & Central Asia,0,0,0
+GRL,Greenland (Den.),GRL,Greenland,Greenland,Europe & Central Asia,0,0,0
+IMN,Isle of Man (U.K.),IMN,Isle of Man,Isle of Man,Europe & Central Asia,0,0,0
+GUM,Guam (U.S.),GUM,Guam,Guam,East Asia & Pacific,0,0,0
+KNA,Saint Kitts and Nevis,KNA,St. Kitts and Nevis,St. Kitts and Nevis,Latin America & Caribbean,0,0,0
+BMU,Bermuda (U.K.),BMU,Bermuda,The Bermudas,North America,0,0,0
+VIR,United States Virgin Islands (U.S.),VIR,Virgin Islands (US),Virgin Islands of the United States,Latin America & Caribbean,0,0,0
+VGB,British Virgin Islands (U.K.),VGB,British Virgin Islands,British Virgin Islands,Latin America & Caribbean,0,0,0
+DMA,Dominica,DMA,Dominica,Commonwealth of Dominica,Latin America & Caribbean,0,0,0
+VCT,Saint Vincent and the Grenadines,VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,Latin America & Caribbean,0,0,0
+MCO,Monaco,MCO,Monaco,Principality of Monaco,Europe & Central Asia,0,0,0
+PLW,Palau,PLW,Palau,Republic of Palau,East Asia & Pacific,0,0,0
+ISL,Iceland,ISL,Iceland,Republic of Iceland,Europe & Central Asia,0,0,0
+STP,São Tomé and Príncipe,STP,São Tomé and Principe,Democratic Republic of São Tomé and Principe,Sub-Saharan Africa,0,0,0
+ATG,Antigua and Barbuda,ATG,Antigua and Barbuda,Antigua and Barbuda,Latin America & Caribbean,0,0,0
+PYF,French Polynesia (Fr.),PYF,French Polynesia,French Polynesia,East Asia & Pacific,0,0.0006666666667,-0.0006666666667
+IRL,Ireland,IRL,Ireland,Ireland,Europe & Central Asia,0.004583333333,0.005333333333,-0.00075
+AND,Andorra,AND,Andorra,Principality of Andorra,Europe & Central Asia,0,0.004,-0.004

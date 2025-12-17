@@ -1,0 +1,472 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "02",
+    "shortTitle": "Global hunger",
+    "title": "Reversing Gains: Unpacking the Rise of Global Hunger",
+    "abstract": "todo",
+    "citation": "todo",
+    "credits": "Sharad Alan Tandon, Divyanshi Wadhwa",
+    "inputs": "Bryce Charron, Lorena Corso",
+    "visuals": "Maarten Lambrechts",
+    "translationPrefix": "goal_02.config"
+  },
+  "content": [
+    {
+      "text": "Access to sufficient food is a fundamental human need. Hunger limits people’s opportunities and undermines their ability to live healthy, fulfilling lives—making its eradication a vital global priority. [reference: fao-foodright]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#0"
+    },
+    {
+      "text": "Hunger can have profound and far-reaching consequences for individuals and societies. It undermines physical health, leading to malnutrition, weakened immunity, and, in children, stunted growth, impaired cognitive development, and long-term health complications that can persist into adulthood. It limits educational attainment and future opportunities, perpetuating cycles of poverty across generations.[reference: wb-nutrition] Beyond individual impacts, widespread hunger can destabilize communities, exacerbate social inequalities, and fuel conflict and migration.[reference: wfp-conflict]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#1"
+    },
+    {
+      "type": "factoid",
+      "title": "",
+      "number": "9.1",
+      "units": "%",
+      "label": "Global prevalence of undernourishment in 2022",
+      "translationPrefix": "goal_02.content.#2"
+    },
+    {
+      "text": "Ensuring access to adequate and nutritious food is therefore essential not only for human survival and well-being but also for promoting social stability, economic development, and global security.",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#3"
+    },
+    {
+      "type": "scroller",
+      "graphic": "prevalence_undernourishment_regions",
+      "title": "Rising undernourishment in four regions",
+      "subtitle": "",
+      "source": "Retrieved from World Development Indicators (<a href=\"http://SN.ITK.DEFC.ZS\" target=\"_blank\">SN.ITK.DEFC.ZS</a>). Food and Agriculture Organization of the United Nations ( FAO ), uri: <a href=\"http://fao.org/faostat/en/#home\" target=\"_blank\">fao.org/faostat/en/#home</a> ",
+      "visdescription": "Describe what the visualization shows",
+      "y_axis_title": "Prevalence of undernourishment",
+      "y_axis_units": "%",
+      "data_download": "02.data.prevalence_undernourishment_regions.csv",
+      "data": "1EJwFXk2VfNuwjtcf_yiUzJDCqWzMQLX34MN3J4b86dE",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "global15",
+          "text": "Between 2001 and 2018, global hunger fell impressively, nearly halving from 13 percent to 7 percent.",
+          "translationPrefix": "goal_02.content.#4.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "global_full",
+          "text": "Since then, however, progress has stalled and even reversed. By 2022, nearly one in ten people faced undernourishment.",
+          "translationPrefix": "goal_02.content.#4.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "regions15",
+          "text": "This pattern is true for nearly all regions. <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, <span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span>, <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span>, and <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Latin America & the Caribbean</span> all saw significant improvements in the early 2000s…",
+          "translationPrefix": "goal_02.content.#4.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "regions_full",
+          "text": "…only for gains to slow or reverse.",
+          "translationPrefix": "goal_02.content.#4.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "risen",
+          "text": "In <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, <span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span>, and <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Latin America & the Caribbean</span>, hunger rates have risen again…",
+          "translationPrefix": "goal_02.content.#4.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "stalled",
+          "text": "…while progress in <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span> has largely stalled.",
+          "translationPrefix": "goal_02.content.#4.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "mea",
+          "text": "The most concerning trend is in the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East & North Africa</span>, where hunger has been on a continuous rise since 2012.",
+          "translationPrefix": "goal_02.content.#4.scenes.#6"
+        }
+      ],
+      "translationPrefix": "goal_02.content.#4"
+    },
+    {
+      "text": "[target: 2.1]set an ambitious goal: end global hunger by 2030. The prevalence of undernourishment is one of the most commonly used measures of hunger, reflecting the share of the population whose dietary energy intake is insufficient to meet minimum daily requirements.[reference: fao-sdg] ",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#5"
+    },
+    {
+      "text": "The prevalence of undernourishment is calculated using data on food availability, population dietary needs, and distribution patterns.[reference: fao-method] Due to measurement limitations for undernourishment, countries with negligible levels of hunger are assigned a minimum value of 2.5 percent.[reference: wdi-undernourishment] ",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#6"
+    },
+    {
+      "type": "scroller",
+      "graphic": "prevalence_undernourishment_gridmap",
+      "title": "Some countries have met the target",
+      "subtitle": "",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "legend_title": "Prevalence of undernourishment, 2022",
+      "legend_units": "%",
+      "no_data": "No data available",
+      "target_reached": "Target met",
+      "progress_speed": "Speed of progress",
+      "data_download": "02.data.prevalence_undernourishment_countries.csv",
+      "data": "12cUB9RF2QpVRyfvajuGvqDUx_mMsDz0_mu3SHEgRLi8",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "histogram",
+          "text": "By that measure, 60 countries have already met the target—49 of them before the SDGs began in 2015. ",
+          "translationPrefix": "goal_02.content.#7.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "tile_map",
+          "text": "These success stories are concentrated in North America and Europe & Central Asia, where food insecurity is rare.",
+          "translationPrefix": "goal_02.content.#7.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "tile_map",
+          "text": "In contrast, the countries facing the steepest challenges in reaching the target are largely in Sub-Saharan Africa.",
+          "translationPrefix": "goal_02.content.#7.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "speed_scores",
+          "text": "Since 2015, progress has <span style=\"color: rgb(255,255,255); background-color: rgb(122,61,150);\">regressed</span> in 61 countries (mostly concentrated in Sub-Saharan Africa and the Caribbean regions). ",
+          "translationPrefix": "goal_02.content.#7.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "speed_scores",
+          "text": "In another 12 countries, progress has been slower than typical historical progress.",
+          "translationPrefix": "goal_02.content.#7.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal_02.content.#7"
+    },
+    {
+      "text": "Despite some progress early in the century, the prevalence of undernourishment in Sub-Saharan Africa remains alarmingly high. Food prices are persistently elevated, reflecting the region’s especially fragile supply chains. These food supply chains are typically four times longer than those in Europe and can account for nearly half the retail price of staple foods such as rice, grains, and cassava. The challenges are compounded by weak supporting infrastructure, and as a result, more than one-third of locally produced food is lost or wasted due to inadequate storage.[reference: transport-africa]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#8"
+    },
+    {
+      "type": "factoid",
+      "title": "Food lost or wasted",
+      "number": "1/3",
+      "units": "rd",
+      "label": "of locally produced due to inadequate storage.",
+      "translationPrefix": "goal_02.content.#9"
+    },
+    {
+      "text": "Sub-Saharan African countries with the highest rates of undernourishment hold the greatest potential to make rapid progress in reducing hunger. Strengthening these supply chains with better infrastructure will be key to improve hunger and related health outcomes.",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#10"
+    },
+    {
+      "text": "But why has progress reversed in recent years globally? Examining acute food insecurity hotspots and their underlying drivers helps shed light on this question.",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#11"
+    },
+    {
+      "text": "Drivers of rising hunger",
+      "type": "subhed",
+      "translationPrefix": "goal_02.content.#12"
+    },
+    {
+      "text": "Urgent attention is required in several countries facing heightened prevalence of hunger. The FAO and WFP identify the countries in greatest need of intervention in the Hunger Hotspots Report—a collaborative early-warning system launched in 2020 and updated every 3 to 4 months. This report identifies countries at high risk of acute food insecurity by combining food security data, forecasts, and risk analysis.[reference: hunger-hotspots25]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#13"
+    },
+    {
+      "type": "vis",
+      "graphic": "food_insecurity_hotspots",
+      "title": "Food insecurity hotspots",
+      "subtitle": "In the most recent report (June to October 2025), 13 countries are identified as hunger hotspots. Over the last five years, a total of 26 countries have been classified as hunger hotspots at various points in time. ",
+      "source": "[reference: hunger-hotspots]",
+      "visSize": "default",
+      "visdescription": "In the most recent report (June to October 2025), 13 countries are identified as hunger hotspots. Over the last five years, a total of 26 countries have been classified as hunger hotspots at various points in time. ",
+      "high_concern": "High concern",
+      "very_high_concern": "Very high concern",
+      "highest_concern": "Highest concern",
+      "legend_title": "Food insecurity drivers",
+      "no_concern": "No concern",
+      "conflict": "Conflict related",
+      "conflict_security": "Insecurity",
+      "displacement": "Displacement",
+      "social_instability": "Social instability",
+      "climate": "Climate related",
+      "dry_conditions": "Dry conditions",
+      "flood": "Flooding",
+      "tropical_cyclone": "Tropical cyclone",
+      "economic_shock": "Economic shock",
+      "data_download": "02.hunger_hotspots.csv",
+      "data": "1TBxw1KeuooU3EiPEiB7PAqCTITAV_Obq5CXA8yV6CU0",
+      "translationPrefix": "goal_02.content.#14"
+    },
+    {
+      "type": "vis",
+      "graphic": "food_insecurity_matrix",
+      "title": "Food insecurity hotspots",
+      "subtitle": "The primary drivers of food insecurity in these countries are often linked to <span style=\"color: rgb(255,255,255); background-color: rgb(8,155,212);\">conflict</span>, such as insecurity, displacement, and social instability, as well as <span style=\"color: rgb(255,255,255); background-color: rgb(229,98,69);\">climate change</span> factors, including droughts, flooding, and tropical cyclones. Additional contributing factors include the <span style=\"color: rgb(255,255,255); background-color: rgb(163,122,205);\">economic impacts</span> of the COVID-19 pandemic, which has left many countries struggling to recover from significant job losses.[reference: wdr22] Additionally, rising global food prices have hit hardest in areas reliant on imports due to their lack of local food production [reference: unctad-trade].",
+      "source": "[reference: hunger-hotspots25]",
+      "visdescription": "The primary drivers of food insecurity in these countries are often linked to <span style=\"color: rgb(255,255,255); background-color: rgb(8,155,212);\">conflict</span>, such as insecurity, displacement, and social instability, as well as <span style=\"color: rgb(255,255,255); background-color: rgb(229,98,69);\">climate change</span> factors, including droughts, flooding, and tropical cyclones.",
+      "conflict": "Conflict related",
+      "conflict_security": "Insecurity",
+      "displacement": "Displacement",
+      "social_instability": "Social instability",
+      "climate": "Climate related",
+      "dry_conditions": "Dry conditions",
+      "flood": "Flooding",
+      "tropical_cyclone": "Tropical cyclone",
+      "economic_shock": "Economic shock",
+      "data_download": "02.hunger_hotspots.csv",
+      "data": "1TBxw1KeuooU3EiPEiB7PAqCTITAV_Obq5CXA8yV6CU0",
+      "translationPrefix": "goal_02.content.#15"
+    },
+    {
+      "text": "Conflict",
+      "type": "subhed2",
+      "translationPrefix": "goal_02.content.#16"
+    },
+    {
+      "text": "Armed conflict is one of the leading drivers of hunger worldwide, with impacts that extend far beyond the battlefield. The prevalence of undernourishment has consistently been higher in fragile and conflict-affected economies than in more stable countries.[reference: wdi-undernourishment] ",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#17"
+    },
+    {
+      "type": "factoid",
+      "title": "",
+      "number": "1 in 4",
+      "label": "people in fragile and conflict affected economies face hunger",
+      "translationPrefix": "goal_02.content.#18"
+    },
+    {
+      "type": "vis",
+      "graphic": "undernourishment_conflict",
+      "title": "Hunger is rising rapidly in fragile and conflict affected economies",
+      "subtitle": "During the first decade of the twenty-first century, undernourishment in these regions fell from 24 percent in 2001 to 16 percent in 2011, mirroring global trends. However, since then, hunger has risen faster in the fragile and conflict affected economies than the global average, and by 2022 around 22 percent of people in these countries faced hunger, a striking 11 percentage points higher than the global rate of 9 percent.[reference: wdi-undernourishment] ",
+      "y_axis_title": "Prevalence of undernourishment",
+      "y_axis_units": "% of population",
+      "fcs": "Fragile and conflict affected economies",
+      "non_fcs": "Other economies",
+      "source": "[reference: wdi-undernourishment]",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "02.data.undernourishment_conflict.csv",
+      "data": "1VbUWrxrJxMBUYx3uaxbb93rnCWT486kgh93A9108--k",
+      "translationPrefix": "goal_02.content.#19"
+    },
+    {
+      "text": "Conflict contributes directly to these alarming figures by destabilizing entire food systems, disrupting every stage from agricultural production to the availability of food in markets, and ultimately triggering widespread food insecurity that can engulf entire countries and spill over into neighboring regions.[reference: ifpri-conflictchannels]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#20"
+    },
+    {
+      "text": "Conflict often destroys farmland, livestock, and irrigation systems, while displacement forces families to abandon their crops and livelihoods. Local markets and supply chains break down as roads are blocked, markets are closed, making food hard to find. With low availability of food in the markets, prices rise sharply, making even basic food unaffordable. In many conflict zones, people are left with few options other than relying on humanitarian assistance. Conflict also limits the delivery of that aid. Food convoys and humanitarian workers face insecurity, while warring parties may restrict supplies and delivery pathways.[reference: ifpri-conflictchannels]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#21"
+    },
+    {
+      "text": "The impact of conflict on hunger is evident in rising food prices. While price spikes often begin in areas directly affected by violence, their effects ripple across entire economies because food supply chains are deeply interconnected. Myanmar offers a stark example. ",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#22"
+    },
+    {
+      "type": "scroller",
+      "graphic": "myanmar_foodprices_conflict",
+      "title": "With rising conflict, food prices surged",
+      "subtitle": "Circles on the map represent violent events with fatalities. The size of the circle represents the number of fatalities",
+      "events_title": "Number of monthly violent events with fatalities",
+      "price_title": "Food price index",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "publish_progress": "true",
+      "data_download": "02.data.myanmar_markets_conflict.zip",
+      "data": "11_2hIONYC-s4nRasbR5THTjWmX8tEDGApR2E2QAe4gM",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro",
+          "text": "Following the surge in conflict incidents beginning in February 2021, food prices rose sharply and have remained elevated since. According to the World Food Programme, prices have more than quadrupled since the conflict began, deepening food insecurity for millions.",
+          "translationPrefix": "goal_02.content.#23.scenes.#0"
+        }
+      ],
+      "translationPrefix": "goal_02.content.#23"
+    },
+    {
+      "text": "Some conflicts have impacts that reach far beyond national or even regional borders. The war between Russia and Ukraine, for instance, disrupted global agricultural exports, including staples such as wheat, maize, and fertilizers. Both countries are among the world’s major grain exporters, and the sudden interruption in supply chains sent global food prices soaring, with low-income and import-dependent countries hit the hardest. The crisis underscored the vulnerability of global food systems to large-scale conflicts, as prices remained volatile and supplies constrained until alternative trade routes and new supply channels were gradually established.[reference: ec-ukraine]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#24"
+    },
+    {
+      "text": "Beyond the immediate crisis, conflict traps communities in a cycle of poverty and food insecurity. Families lose their livelihoods and assets, leaving them unable to recover even after the fighting stops. This makes addressing hunger in conflict-affected regions a humanitarian priority.",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#25"
+    },
+    {
+      "text": "Climate[emphasis: <span style=\"color: rgb(0,0,0);\"></span>]",
+      "type": "subhed2",
+      "translationPrefix": "goal_02.content.#26"
+    },
+    {
+      "text": "Food security depends on productive agriculture that can keep up with the growing demand of a rising global population. And farming itself depends on stable climate conditions and is highly sensitive to shifts in temperature, rainfall, and other weather patterns.[reference: epa-ccimpact]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#27"
+    },
+    {
+      "text": "Climate change is already estimated to be slowing growth in agricultural productivity. Some simulations indicate that human-induced climate shifts have reduced productivity gains by the equivalent of the past seven years of progress, while others present a more mixed picture.[reference: naturecc2021] Another set of projections show that staple crops such as wheat, maize, and rice will likely face yield declines in tropical and subtropical regions, where food insecurity is already high. In contrast, higher-latitude regions may experience modest yield gains due to longer growing seasons. These uneven impacts risk deepening the food insecurity divide between low- and high-income countries, and increase instability in the global food supply chain.[reference: naturefood2021]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#28"
+    },
+    {
+      "text": "Rising global temperatures heighten heat-stress risks for agricultural workers, severely constraining farming in hot regions. Excessive heat reduces labor productivity, threatens health, and in extreme cases can be fatal. Even mild heat stress can cause rashes, cramps, and exhaustion, while moderate stress can impair physical and cognitive function. In cases of high heat stress, the risks of organ failure, loss of consciousness, and death increase sharply. [reference: ipcc2014] Conservative estimates suggest that by 2030, heat stress will cut global working hours by 2.2 percent and reduce global GDP by $2.4 trillion, with 60 percent of these losses attributable to agriculture. The burden will fall disproportionately on low- and middle-income countries, where smallholder farmers are already highly vulnerable.[reference: ilo-heatstress]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#29"
+    },
+    {
+      "type": "factoid",
+      "title": "",
+      "number": "60",
+      "units": "%",
+      "label": "Of total losses in working hours can be attributed to agriculture",
+      "translationPrefix": "goal_02.content.#30"
+    },
+    {
+      "text": "Beyond reducing yields, climate shocks such as droughts, floods, and storms also disrupt food access. Climate change is driving these events to become more frequent and more intense, with severe consequences for agricultural productivity. [reference: adb-disasters]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#31"
+    },
+    {
+      "text": "This point is illustrated by the devastating floods that struck Pakistan’s Sindh region in August 2022—among the worst in the country’s history. ",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#32"
+    },
+    {
+      "text": "Satellite remote sensing provides a way to assess loss and damage to agriculture. Using the Normalized Difference Vegetation Index (NDVI)—a measure of plant greenness and productivity—researchers can detect changes in cropland biomass. This approach helps quantify the extent and intensity of agricultural losses in disaster-affected areas.",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#33"
+    },
+    {
+      "type": "scroller",
+      "graphic": "ndvi_map_scroller",
+      "title": "Loss and damage to cropland, pre and post flooding event in Sindh, Pakistan",
+      "subtitle": "",
+      "no_damage": "No damage",
+      "moderate_damage": "Moderate damage",
+      "extreme_damage": "Extreme damage",
+      "ndvi": "NDVI",
+      "damage_level": "Level of damage",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "fullScreen",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro",
+          "text": "This is the Sindh province in southeastern Pakistan.",
+          "translationPrefix": "goal_02.content.#34.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "cultivated",
+          "text": "One-third of the province is <span style=\"color: rgb(255,255,255); background-color: rgb(100,198,134);\">agricultural land</span>, and is central to Pakistan’s food supply. The region produces staple cereals such as wheat and rice, industrial crops including cotton and sugarcane, as well as fruit (mango and guava) and horticultural crops (chili, tomato, and sunflower).<span style=\"background-color: rgb(100,198,134);\"></span>",
+          "translationPrefix": "goal_02.content.#34.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "ndvi_before",
+          "text": "In August 2021, much of the Sindh area was green. Positive values in NDVI values reflect normal vegetation conditions, while negative values correspond to flood-induced damage and reduced greenness.",
+          "translationPrefix": "goal_02.content.#34.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "ndvi_after",
+          "text": "However, during the floods in August 2022, approximately 57 percent of cropland (2.8 million hectares out of 4.9 million) was severely affected (large negative NDVI difference compared to 2021). The floods affected an estimated 33 million people, or roughly 13 percent of Pakistan’s population, while severely damaging the country’s agricultural base.[reference: naturesr23]",
+          "translationPrefix": "goal_02.content.#34.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "ndvi_difference",
+          "text": "The analysis projected severe production losses, including 88 percent (3.1 million bales) of cotton, 80 percent (1.8 million tons) of rice, and 61 percent (10.5 million tons) of sugarcane.[reference: naturesr23]",
+          "translationPrefix": "goal_02.content.#34.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal_02.content.#34"
+    },
+    {
+      "text": "Loss metrics were aggregated at the tehsil (sub-district) levels to show the spatial distribution of flood impacts across the province. As expected, tehsils and districts along the Indus River—such as Bhiria, Ratodero, and Jacobabad—were among the most severely affected.[reference: naturesr23]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#35"
+    },
+    {
+      "text": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#36"
+    },
+    {
+      "text": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#37"
+    },
+    {
+      "text": "Beyond destruction to agricultural land, storage and food processing infrastructure can be damaged, transport routes can be blocked, and as a result disrupt the entire food supply chains. For communities already facing poverty or marginalization, such shocks translate into immediate food insecurity, as households lose both subsistence harvests and market access. [reference: wfpusa]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#38"
+    },
+    {
+      "text": "Conclusion",
+      "type": "subhed",
+      "translationPrefix": "goal_02.content.#39"
+    },
+    {
+      "text": "Hunger and food insecurity have long-term effects on individuals and societies, particularly for children, where impacts may carry over into future generations. The threat to global hunger is magnified by climate change and conflict, which undermine food security through declining agricultural productivity, uneven crop yields, extreme heat, and disruptions to food supply chains. ",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#40"
+    },
+    {
+      "text": "Building resilience in food systems is therefore essential—not only to adapt to immediate risks but also to safeguard progress for decades to come. Achieving this requires robust data and sound measurement. National statistical systems must integrate best practices and expand the collection of household-level data that captures consumption patterns and nutritional outcomes.[reference: hh-data]",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#41"
+    },
+    {
+      "text": "Ultimately, tackling hunger in a changing climate with rising conflict demands adaptation strategies that protect the most vulnerable and mitigation policies that align with global climate targets. Building resilient food systems and making climate-aware policies can help secure a world free from hunger.",
+      "type": "text",
+      "translationPrefix": "goal_02.content.#42"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "fao-foodright": "<a href=\"https://www.fao.org/right-to-food/en\" target=\"_blank\">https://www.fao.org/right-to-food/en</a> ",
+    "naturecc2021": "<a href=\"https://www.nature.com/articles/s41558-021-01000-1\" target=\"_blank\">https://www.nature.com/articles/s41558-021-01000-1</a> ",
+    "epa-ccimpact": "<a href=\"https://www.epa.gov/climateimpacts/climate-change-impacts-agriculture-and-food-supply\" target=\"_blank\">https://www.epa.gov/climateimpacts/climate-change-impacts-agriculture-and-food-supply</a> ",
+    "wfpusa": "<a href=\"https://www.wfpusa.org/news/how-climate-change-is-causing-world-hunger/\" target=\"_blank\">https://www.wfpusa.org/news/how-climate-change-is-causing-world-hunger/</a> ",
+    "Ilo-heat stress": "<a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_711919.pdf\" target=\"_blank\">https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_711919.pdf</a> ",
+    "ipcc2014": "2014a. Climate Change 2014: Impacts, adaptation, and vulnerability. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (New York, NY, Cambridge University Press).",
+    "adb-disasters": "<a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709331\" target=\"_blank\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709331</a> ",
+    "wb-nutrition": "<a href=\"https://www.worldbank.org/en/news/opinion/2023/05/30/undernutrition-a-public-health-imperative\" target=\"_blank\">https://www.worldbank.org/en/news/opinion/2023/05/30/undernutrition-a-public-health-imperative</a> ",
+    "wfp-conflict": "<a href=\"https://www.wfp.org/conflict-and-hunger\" target=\"_blank\">https://www.wfp.org/conflict-and-hunger</a> ",
+    "fao-method": "<a href=\"https://www.fao.org/4/y4249e/y4249e06.htm\" target=\"_blank\">https://www.fao.org/4/y4249e/y4249e06.htm</a> ",
+    "fao-sdg": "<a href=\"https://www.fao.org/sustainable-development-goals-data-portal/data/indicators/2.1.1-prevalence-of-undernourishment/en\" target=\"_blank\">https://www.fao.org/sustainable-development-goals-data-portal/data/indicators/2.1.1-prevalence-of-undernourishment/en</a> ",
+    "wdi-undernourishment": "<a href=\"https://data.worldbank.org/indicator/SN.ITK.DEFC.ZS\" target=\"_blank\">https://data.worldbank.org/indicator/SN.ITK.DEFC.ZS</a> ",
+    "transport-africa": "<a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/6dc858d9-90c2-4c4d-b46e-c4fc4d570a36/content\" target=\"_blank\">Transport Connectivity for Food Security in Africa: Strengthening Supply Chains</a> ",
+    "hunger-hotspots25": "<a href=\"https://docs.wfp.org/api/documents/WFP-0000166954/download/?_ga=2.148246704.643635978.1756224658-378799793.1756224658\" target=\"_blank\">https://docs.wfp.org/api/documents/WFP-0000166954/download/?_ga=2.148246704.643635978.1756224658-378799793.1756224658</a> ",
+    "wdr22": "<a href=\"https://www.worldbank.org/en/publication/wdr2022\" target=\"_blank\">https://www.worldbank.org/en/publication/wdr2022</a> ",
+    "unctad-trade": "<a href=\"https://unctad.org/system/files/official-document/ditc-tad-trade-against-hunger_en.pdf\" target=\"_blank\">https://unctad.org/system/files/official-document/ditc-tad-trade-against-hunger_en.pdf</a> ",
+    "ifpri-conflictchannels": "<a href=\"https://www.ifpri.org/blog/how-conflict-drives-hunger-six-channels-through-the-food-system/\" target=\"_blank\">https://www.ifpri.org/blog/how-conflict-drives-hunger-six-channels-through-the-food-system/</a> ",
+    "ec-ukraine": "<a href=\"https://www.consilium.europa.eu/en/infographics/how-the-russian-invasion-of-ukraine-has-further-aggravated-the-global-food-crisis/\" target=\"_blank\">https://www.consilium.europa.eu/en/infographics/how-the-russian-invasion-of-ukraine-has-further-aggravated-the-global-food-crisis/</a> ",
+    "naturefood2021": "<a href=\"https://www.nature.com/articles/s43016-021-00400-y\" target=\"_blank\">https://www.nature.com/articles/s43016-021-00400-y</a> ",
+    "naturesr23": "<a href=\"https://www.nature.com/articles/s41598-023-30347-y\" target=\"_blank\">https://www.nature.com/articles/s41598-023-30347-y</a> ",
+    "fao-foodghg": "<a href=\"https://www.fao.org/statistics/highlights-archive/highlights-detail/greenhouse-gas-emissions-from-agrifood-systems.-global--regional-and-country-trends--2000-2022/en\" target=\"_blank\">https://www.fao.org/statistics/highlights-archive/highlights-detail/greenhouse-gas-emissions-from-agrifood-systems.-global--regional-and-country-trends--2000-2022/en</a> ",
+    "faostat-cc": "<a href=\"https://www.fao.org/faostat/en/#data/GT\" target=\"_blank\">https://www.fao.org/faostat/en/#data/GT</a> ",
+    "wb-csa": "<a href=\"https://www.worldbank.org/en/topic/climate-smart-agriculture\" target=\"_blank\">https://www.worldbank.org/en/topic/climate-smart-agriculture</a> ",
+    "hh-data": "<a href=\"https://www.sciencedirect.com/science/article/pii/S0306919214000682\" target=\"_blank\">https://www.sciencedirect.com/science/article/pii/S0306919214000682</a> ",
+    "translationPrefix": "goal_02.references"
+  },
+  "translationPrefix": "goal_02"
+}

@@ -1,0 +1,292 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "10",
+    "shortTitle": "Inequality",
+    "title": "Tracking inequalities within and across countries: a new approach",
+    "abstract": "todo",
+    "citation": "todo",
+    "credits": "todo",
+    "inputs": "todo",
+    "visuals": "todo",
+    "translationPrefix": "goal_10.config"
+  },
+  "content": [
+    {
+      "text": "Measuring inequalities",
+      "type": "subhed",
+      "translationPrefix": "goal_10.content.#0"
+    },
+    {
+      "text": "The objective of [goal: 10] is to address and reduce economic, social, and political inequalities within and between countries. [target: 10.1] tracks the income growth among the bottom 40 percent of the population and the total population within countries. If the bottom 40 percent grows at a faster pace than the average of the entire population, global progress is shared more equally. ",
+      "type": "text",
+      "translationPrefix": "goal_10.content.#1"
+    },
+    {
+      "type": "scroller",
+      "graphic": "shared_prosperity_scatter",
+      "title": "Growth in the bottom 40 percent compared to the growth of the entire population",
+      "subtitle": "Progress is shared more equally when the poorest 40 percent grows faster than the average growth in the entire population.",
+      "source": "Global Database on Shared Prosperity (September 2025)",
+      "fasterlabel": "Faster growth for bottom 40%",
+      "slowerlabel": "Slower growth for bottom 40%",
+      "xaxistitle": "Growth of the bottom 40% income",
+      "yaxistitle": "Growth in average income",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "10.data.shared_prosperity.csv",
+      "data": "1Xc3ceq3jZck-SqU6nNrKFRgpsu0oirNFDNi4zv2xiJ0",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "all_countries",
+          "text": "In the chart, the 45-degree line would suggest equal growth rates for the bottom 40 percent and the entire population. Anything to the right of the line of equality means income in the bottom 40 grew faster than the average of the population.",
+          "translationPrefix": "goal_10.content.#2.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "lcn",
+          "text": "For instance, between 2016 and 2021, the bottom 40 percent in Bolivia grew more than 4 percent while the entire population grew at less than 1 percent. On the other hand, in a similar timeframe, the bottom 40 percent regressed in Jamaica while the entire population grew more than 2 percent on average. Shared prosperity increased in this period in Bolivia and decreased in Jamaica.",
+          "translationPrefix": "goal_10.content.#2.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "lcn",
+          "text": "While the growth of the bottom 40 percent is a simple way to understand shared prosperity, it doesn’t fully capture inequality. One practical concern is that the measure doesn’t easily aggregate or disaggregate. For instance, the country estimates of bottom 40 in <span data-color-id=\"LCN\" class=\"LCN\">Latin America and the Caribbean</span> (shown in green in the chart) cannot be aggregated to the regional bottom 40 growth, nor can the country bottom 40 growth be disaggregated within the country by population groups.",
+          "translationPrefix": "goal_10.content.#2.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_10.content.#2"
+    },
+    {
+      "text": "The Prosperity Gap",
+      "type": "subhed",
+      "translationPrefix": "goal_10.content.#3"
+    },
+    {
+      "text": "The Prosperity Gap captures how far a society is from a prosperity standard of $28 per person per day (in 2021 PPP$), which is approximately the average income when countries reach high-income status. [reference: kraay2023]. The Prosperity Gap brings together the notions of progress (measured by growth in average income) and improvements in equity (measured by the reduction in inequality in society) into one indicator of inclusive growth. The prosperity gap is a decomposable measure, which allows for breaking global progress into progress by regions or countries or to assess the prosperity gap within a country by different subgroups. Furthermore, the prosperity gap puts emphasis on the bottom of the global income distribution, thereby providing more insights on the population groups of particular importance to the World Bank vision and mission.",
+      "type": "text",
+      "translationPrefix": "goal_10.content.#4"
+    },
+    {
+      "type": "scroller",
+      "graphic": "prosperity_gap_scroller",
+      "title": "The Prosperity Gap",
+      "subtitle": "The Prosperity Gap brings together the notions of progress and improvements in equity ",
+      "source": "Poverty and Inequality Platform (September 2025)",
+      "income_title": "Income ($/day)",
+      "prosperity_gap_title": "Prosperity Gap",
+      "average_prosperity_gap": "Prosperity Gap",
+      "x_axis_title": "Income percentiles",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "10.data.prosperity_gap.csv",
+      "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "prosperity_gap_intro",
+          "text": "Consider the income distributions of 2 countries, Peru and Colombia, in 2025. The population of each country is divided into 100 equal parts, each representing the average income of a specific percentile of the population. ",
+          "translationPrefix": "goal_10.content.#5.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "prosperity_gap_distributions",
+          "text": "The percentiles are ranked from the poorest on the left to the richest on the right. The height of the bars represent the income of each percentile.",
+          "translationPrefix": "goal_10.content.#5.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "prosperity_gap_threshold",
+          "text": "The Prosperity Gap is the factor by which incomes need to be multiplied to reach the prosperity standard of $28. ",
+          "translationPrefix": "goal_10.content.#5.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "percentiles20",
+          "text": "For example, the income of the 20th percentile in Peru is $5.70 and in Colombia $5.28. A Peruvian in the 20th percentile needs to increase their income [emphasis: 4.9] times to reach the prosperity standard, while a Colombian in the same percentile of their country needs to increase their income [emphasis: 5.3] times to reach the same standard.   ",
+          "translationPrefix": "goal_10.content.#5.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "prosperity_gap_example",
+          "text": "If the income of each percentile represented the average height of the percentile, then one can view the Prosperity Gap as how high each percentile would need to jump, relative to their own height, to reach the prosperity standard. An average Colombian in the 20th percentile would need to jump 5.3 times their own height to reach the standard.",
+          "translationPrefix": "goal_10.content.#5.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "all_gaps",
+          "text": "The lower the income, the larger is the required increase in income to reach the prosperity standard. In other words - the higher the percentile needs to jump. For example, the 10th percentile in Columbia would need to jump 8 times its height to reach the prosperity standard.[emphasis: ]",
+          "translationPrefix": "goal_10.content.#5.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "prosperity_gap",
+          "text": "Notice that poorer Colombians had to jump much higher to reach the prosperity standard compared to their counterparts in Peru. ",
+          "translationPrefix": "goal_10.content.#5.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "prosperity_gap_averages",
+          "text": "The society’s gap is the average of the gaps of all individuals. The Prosperity Gap is higher in the society of Colombia than in Peru reflecting the larger shortfalls for poor people in the country compared to Peru. This also shows that inequality among the poor in Colombia is higher than that in Peru. A measure that doesn’t account for inequality, such as average income, would rank Colombia as a wealthier country than Peru. The prosperity gap complements Gini estimates of the two countries which show significantly higher inequality in Colombia (Gini of 54 in 2023) compared to that of Peru (Gini of 41 in 2023). The prosperity gap also adds nuance to the bottom 40 measure, according to which incomes grew faster than average amongst the bottom 40 percent of the population in Peru, while the bottom 40 percent in Colombia experienced slower growth than the average income growth of the country. ",
+          "translationPrefix": "goal_10.content.#5.scenes.#7"
+        }
+      ],
+      "translationPrefix": "goal_10.content.#5"
+    },
+    {
+      "text": "Trends in Prosperity Gaps",
+      "type": "subhed",
+      "translationPrefix": "goal_10.content.#6"
+    },
+    {
+      "type": "scroller",
+      "graphic": "prosperity_gaps",
+      "title": "From country gaps to regional and global gaps",
+      "subtitle": "Aggregating the individual country gaps weighed by the country’s population gives the regional and global Prosperity Gaps",
+      "source": "Poverty and Inequality Platform, nowcasts (June 2025)",
+      "million_people": "million people",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "10.data.prosperity_gaps.zip",
+      "data": "1dMwhGsyOLcQQI7y3WNmSHxSO09ftZGYRUOc5128tY_s",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "col_mex",
+          "text": "The Prosperity Gap for Colombia in 2025 is 4.4 and that for Peru is 3.6.",
+          "translationPrefix": "goal_10.content.#7.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "country_gaps",
+          "text": "Likewise, the Prosperity Gaps for each country can be estimated from their income distributions. Each dot here represents a country’s Prosperity Gap in 2025 grouped by regional colors. The size of the dot represents the population of each country.",
+          "translationPrefix": "goal_10.content.#7.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "region_gaps",
+          "text": "The regional Prosperity Gap is the population-weighted average of country Prosperity Gaps. The population in <span data-color-id=\"AFE\" class=\"AFE\">Sub-Saharan Africa</span> on average would have to increase incomes 12 times to reach the prosperity standard. In comparison, the population in <span data-color-id=\"EAS\" class=\"EAS\">East Asia</span> in 2025 would only have to increase incomes 2.6 times to reach the prosperity standard.",
+          "translationPrefix": "goal_10.content.#7.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "global_gap",
+          "text": "Likewise, the <span data-color-id=\"WLD\" class=\"WLD\">Global Prosperity Gap</span> is the population-weighted average of regional Prosperity Gaps. In 2025, a typical person living in the world would have to increase their income 4.6 times to reach the prosperity standard of $28 per day.",
+          "translationPrefix": "goal_10.content.#7.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal_10.content.#7"
+    },
+    {
+      "type": "scroller",
+      "graphic": "prosperity_gap_trends",
+      "title": "Trends in the Prosperity Gap",
+      "prosperity_gap": "Prosperity Gap",
+      "subtitle": "",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "10.data.prosperity_gap_timeseries.csv",
+      "data": "1ZZvJlpIh4hGGvvrdjPxmvzLt9o9HbYPc0RXeK6Jkq8k",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "world",
+          "text": "The Global Prosperity Gap has improved from close to an 11-fold deficit in 1990 to less than 5-fold deficit in 2025. This reflects growth in mean income of the countries but also a reduction in inequality between countries.",
+          "translationPrefix": "goal_10.content.#8.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "regions",
+          "text": "Prosperity Gaps regional trends",
+          "translationPrefix": "goal_10.content.#8.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "countries",
+          "text": "Prosperity Gap trends in selected countries",
+          "translationPrefix": "goal_10.content.#8.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_10.content.#8"
+    },
+    {
+      "text": "Simulations",
+      "type": "subhed",
+      "translationPrefix": "goal_10.content.#9"
+    },
+    {
+      "text": "Changes in a society's Prosperity Gap are driven by changes in average income or inequality. To see this, consider first what happens to the Prosperity Gap if every Colombian’s income increased by 1 percent? Since income increases proportionally for everyone, the relative inequality remains unchanged and hence all the change in the Prosperity Gap is driven by the change in mean income.",
+      "type": "text",
+      "translationPrefix": "goal_10.content.#10"
+    },
+    {
+      "type": "vis",
+      "graphic": "income_prosperity_gap",
+      "title": "1 % higher income for everyone",
+      "simulation": "percent_for_everyone",
+      "subtitle": "A 1 % higher income would increase mean income from $19.55/day to $19.74/day. Prosperity Gap on the other hand decreases exactly 1 % from 4.4 to 4.3. In other words, all changes in the Prosperity Gap comes from the improvement in mean income.",
+      "source": "Source of the data",
+      "income": "Income",
+      "prosperity_gap": "Prosperity Gap",
+      "average_income": "Average income:",
+      "average_income_units": "$/day",
+      "average_prosperity_gap": "Average Prosperity Gap:",
+      "reality": "Reality",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "10.data.prosperity_gap.csv",
+      "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
+      "translationPrefix": "goal_10.content.#11"
+    },
+    {
+      "text": "Next, consider what happens if every Colombian gets an extra $1 per day? This would increase both the mean income and reduce the relative inequality in the country, since 1 additional dollar matters relatively more for a poorer person. Both changes contribute to a reduction in the Prosperity Gap. ",
+      "type": "text",
+      "translationPrefix": "goal_10.content.#12"
+    },
+    {
+      "type": "vis",
+      "graphic": "income_prosperity_gap",
+      "title": "1 dollar for everyone",
+      "simulation": "dollar_for_everyone",
+      "subtitle": "The average income increases by 1 dollar (or 5 %) from $19.55/day to $20.55/day. The Prosperity Gap, however, decreases by 35 % from 4.4 to 3.1. The larger decrease in the Prosperity Gap is explained by the decrease in inequality. ",
+      "source": "Source of the data",
+      "income": "Income",
+      "prosperity_gap": "Prosperity Gap",
+      "average_income": "Average income:",
+      "average_income_units": "$/day",
+      "average_prosperity_gap": "Average prosperity gap",
+      "reality": "Reality",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "10.data.prosperity_gap.csv",
+      "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
+      "translationPrefix": "goal_10.content.#13"
+    },
+    {
+      "text": "We can compare for any country the changes in the Prosperity Gap from an equal absolute increase in income – which changes both mean income and relative inequality – and an equal relative increase in income – which changes only the mean income while keeping relative inequality unchanged.",
+      "type": "text",
+      "translationPrefix": "goal_10.content.#14"
+    },
+    {
+      "type": "vis",
+      "graphic": "prosperity_gap_playground",
+      "title": "Prosperity Gap Playground",
+      "subtitle": "",
+      "absolute_change": "Change absolute income ($/day)",
+      "relative_change": "Change relative income (%)",
+      "prosperity_gap": "Prosperity Gap",
+      "income": "Income",
+      "average_income": "Average income:",
+      "average_income_units": "$/day",
+      "average_prosperity_gap": "Average Prosperity Gap:",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "data_download": "10.data.prosperity_gap_interactive.csv",
+      "data": "1L99hy4R6DNW1aCn6GZym-ijXMU7Woim8vhWEaUowtHU",
+      "translationPrefix": "goal_10.content.#15"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "kraay2023": "Kraay, Aart; Lakner, Christoph; Özler, Berk; Decerf, Benoit; Jolliffe, Dean; Sterck, Olivier; Yonzan, Nishant. 2023. A New Distribution Sensitive Index for Measuring Welfare, Poverty, and Inequality. Policy Research Working Paper; 10470. © World Bank. <a href=\"http://hdl.handle.net/10986/39913\" target=\"_blank\">http://hdl.handle.net/10986/39913</a>.",
+    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
+    "translationPrefix": "goal_10.references"
+  },
+  "translationPrefix": "goal_10"
+}

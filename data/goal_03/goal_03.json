@@ -1,0 +1,462 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "03",
+    "shortTitle": "Health",
+    "title": "Maternal mortality",
+    "abstract": "todo",
+    "citation": "todo",
+    "credits": "todo",
+    "inputs": "todo",
+    "visuals": "todo",
+    "translationPrefix": "goal_03.config"
+  },
+  "content": [
+    {
+      "text": "SDG 3 goal: Ensure healthy lives and well-being for all ages​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#0"
+    },
+    {
+      "text": "Target 3.8: Achieve universal health coverage, including financial",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#1"
+    },
+    {
+      "text": "risk protection, access to quality essential health-care services and",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#2"
+    },
+    {
+      "text": "access to safe, effective, quality and affordable essential medicines",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#3"
+    },
+    {
+      "text": "and vaccines for all​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#4"
+    },
+    {
+      "text": "Without UHC → fragmented progress and inequity​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#5"
+    },
+    {
+      "text": "Maternal and child health: core outcomes reflecting system strength",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#6"
+    },
+    {
+      "type": "scroller",
+      "graphic": "uhc_scroller",
+      "title": "UHC Service Coverage",
+      "subtitle": "",
+      "source": "",
+      "visdescription": "",
+      "data_download": "03.data.uhc_scroller.zip",
+      "data": "1t5DmOFCUgveLaSk4ustdj-HDhyjb_EfiNaCl0jj9Fuk",
+      "x_title": "UHC SCI",
+      "x_unit": "",
+      "y_title": "",
+      "y_unit": "",
+      "label_UHC_SCI_RMNCH": "RMNCH",
+      "label_UHC_SCI_NCD": "Noncommunicable disease",
+      "label_UHC_SCI_CAPACITY": "Service capacity and access",
+      "label_UHC_SCI_INFECT": "Infectious disease",
+      "label_UHC_INDEX_REPORTED": "UHC SCI",
+      "title_scene_1": "UCH Service Coverage Index by regions",
+      "title_scene_2": "UCH Service Coverage Index by sub-components",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "1",
+          "text": "[emphasis: The global UHC SCI score ]steadily increased from 45 to 68 between 2000 and 2021, but the progress has slowed since 2015",
+          "translationPrefix": "goal_03.content.#7.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "[emphasis: The UHC Service Coverage Index] is defined as coverage of essential services (including RMNCH, infectious diseases, NCDs, capacity & access).​",
+          "translationPrefix": "goal_03.content.#7.scenes.#1"
+        }
+      ],
+      "translationPrefix": "goal_03.content.#7"
+    },
+    {
+      "text": "Inequalities in health service coverage remain despite global progress​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#8"
+    },
+    {
+      "type": "scroller",
+      "graphic": "uhc_index_scroller",
+      "title": "Global UHC Service Coverage Index",
+      "subtitle": "",
+      "source": "",
+      "visdescription": "",
+      "data_download": "03.data.uhc_countries.csv",
+      "data": "1-a89ebZR0jYf5UHSdJ5_ycZwrpN8ksNBWjo5v7RMxl4",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "1",
+          "text": "countries",
+          "translationPrefix": "goal_03.content.#9.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "income levels",
+          "translationPrefix": "goal_03.content.#9.scenes.#1"
+        }
+      ],
+      "translationPrefix": "goal_03.content.#9"
+    },
+    {
+      "text": " ",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#10"
+    },
+    {
+      "text": "Maternal & child health outcomes in the UHC framework",
+      "type": "subhed",
+      "translationPrefix": "goal_03.content.#11"
+    },
+    {
+      "text": "Target 3.1: By 2030, reduce the global maternal mortality ratio to less than 70",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#12"
+    },
+    {
+      "text": "per 100,000 live births​ ",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#13"
+    },
+    {
+      "text": "Target 3.2: By 2030, end preventable deaths of newborns and children under 5",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#14"
+    },
+    {
+      "text": "years of age, with all countries aiming to reduce neonatal mortality to at least",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#15"
+    },
+    {
+      "text": "as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#16"
+    },
+    {
+      "text": "per 1,000 live births",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#17"
+    },
+    {
+      "text": "Linked to UHC monitoring: coverage of maternal and child health services is a key sub-index in the UHC framework.​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#18"
+    },
+    {
+      "text": "Proof of progress: falling mortality indicates better access to life-saving care.​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#19"
+    },
+    {
+      "text": "System quality: high deaths reveal gaps in timely, affordable, quality care​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#20"
+    },
+    {
+      "text": "Interlinked outcomes: maternal and child survival are closely connected — the loss of a",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#21"
+    },
+    {
+      "text": "mother greatly increases a child’s risk of dying.",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#22"
+    },
+    {
+      "type": "vis",
+      "graphic": "mortality_plot",
+      "title": "Maternal Mortality vs Neonatal Mortality (2020)",
+      "subtitle": "",
+      "source": "",
+      "visdescription": "",
+      "visSize": "default",
+      "x_title": "Neonatal Mortality Ratio (per 1,000 live births)",
+      "x_unit": "",
+      "y_title": "Maternal Mortality Ratio (per 100,000 live births)",
+      "y_unit": "",
+      "data_download": "03.data.mortality_plot.csv",
+      "data": "1-TZbOllJkAX7Z_iNvx9IJVJfvuEbDv-LVUDZp4aPnfY",
+      "translationPrefix": "goal_03.content.#23"
+    },
+    {
+      "text": " ",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#24"
+    },
+    {
+      "text": "Levels and trends in maternal mortality​",
+      "type": "subhed",
+      "translationPrefix": "goal_03.content.#25"
+    },
+    {
+      "type": "scroller",
+      "graphic": "mortality_region_scroller",
+      "title": "Levels and trends in maternal mortality",
+      "subtitle": "",
+      "source": "",
+      "visdescription": "",
+      "data_download": "03.data.mortality_region_scroller.zip",
+      "data": "1p7e61R9f_HoAQN8G4jC8vPgjyRQ62dgWZXzIhmO6Rjw",
+      "x_title": "",
+      "x_unit": "",
+      "y_title_mmr": "Maternal deaths per 100,000 live births",
+      "y_title_mr": "Death per 1,000 live births",
+      "y_unit": "",
+      "title_scene_1": "Maternal Mortality​ Rate",
+      "title_scene_2": "Under-5 Mortality Rate",
+      "title_scene_3": "Neonatal Mortality Rate ",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "1",
+          "text": "Overall [emphasis: maternal mortality​ rate] of 197 maternal deaths per 100,000 live births in 2023​. Despite major reductions since 2000, the pace of decline has stagnated in recent years, with a temporary uptick duringCOVID-19 before returning to previous trends.[emphasis: ]",
+          "translationPrefix": "goal_03.content.#26.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "The global [emphasis: under-5 mortality rate] has halved from 77 in 2000 to 37 deaths per 1,000 live births in 2023, saving millions of young lives. ​ Despite progress, Sub-Saharan Africa still records mortality rates (68) more than 10 times higher than high-income countries (5). Progress in reducing neonatal deaths has been slower — 17 per 1,000 live births in 2023, making newborns an increasing share of child mortality.​[emphasis: ]",
+          "translationPrefix": "goal_03.content.#26.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "3",
+          "text": "In terms of the [emphasis: neonatal mortality rate ]South Asia and Sub-Saharan Africa still face the highest burdens, though both regions show steady improvement.",
+          "translationPrefix": "goal_03.content.#26.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_03.content.#26"
+    },
+    {
+      "text": "Progress",
+      "type": "subhed",
+      "translationPrefix": "goal_03.content.#27"
+    },
+    {
+      "text": "While some countries like Sierra Leone and Ethiopia in Sub-Saharan Africa made",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#28"
+    },
+    {
+      "text": "faster progress, many countries in Latin America & the Caribbean regressedin reducing maternal mortality.",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#29"
+    },
+    {
+      "type": "scroller",
+      "graphic": "uhc_speed_scores_scroller",
+      "title": "Country speed scores",
+      "subtitle": "",
+      "source": "",
+      "visdescription": "",
+      "data_download": "03.data.speed_scores_scroller.zip",
+      "data": "1jNNLrejvMRWJooxlTh-GB6qQ8AiI8GnJDXfoGRyWVCw",
+      "speed_score_label": "Speed score",
+      "title_scene_1": "Maternal Mortality​ — Speed scores",
+      "title_scene_2": "Under-5 Mortality​ — Speed scores",
+      "title_scene_3": "Neonatal Mortality​ — Speed scores",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "1",
+          "text": "While some countries like Sierra Leone and Ethiopia in Sub-Saharan Africa made faster progress, many countries in Latin America & the Caribbean regressed in reducing maternal mortality.",
+          "translationPrefix": "goal_03.content.#30.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "Rwanda and Malawi in Sub-Saharan Africa, along with several countries in Asia and the Pacific, advanced quickly, but many Sub-Saharan African countries still show slower declines in under-5 mortality.",
+          "translationPrefix": "goal_03.content.#30.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "3",
+          "text": "Cambodia, China, and India in Asia and the Pacific and South Asia made faster gains, yet Sub-Saharan Africa shows uneven improvements in reducing",
+          "translationPrefix": "goal_03.content.#30.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_03.content.#30"
+    },
+    {
+      "text": "What drives progress?​",
+      "type": "subhed",
+      "translationPrefix": "goal_03.content.#31"
+    },
+    {
+      "text": "Common Factors Behind Progress – studies to be cited​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#32"
+    },
+    {
+      "text": "Skilled birth attendance​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#33"
+    },
+    {
+      "text": "RMNCH service coverage​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#34"
+    },
+    {
+      "text": "Health workforce & infrastructure​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#35"
+    },
+    {
+      "text": "Financial protection → reduces catastrophic spending",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#36"
+    },
+    {
+      "text": "RMNCH outcomes and UHC",
+      "type": "subhed2",
+      "translationPrefix": "goal_03.content.#37"
+    },
+    {
+      "text": "RMNCH service is a core component of the UHC SCI.​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#38"
+    },
+    {
+      "text": "Countries that increased overall UHC (e.g., Sierra Leone, Ethiopia, Bangladesh) also show progress in maternal mortality reduction.​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#39"
+    },
+    {
+      "text": "Service coverage helps ensure essential RMNCH care is available and accessible.",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#40"
+    },
+    {
+      "type": "scroller",
+      "graphic": "uhc_outcomes_scroller",
+      "title": "Levels and trends in maternal mortality",
+      "subtitle": "",
+      "source": "",
+      "visdescription": "",
+      "data_download": "03.data.uhc_outcomes_scroller.zip",
+      "data": "1YwwHj2p4H3XtiZSI5K0v56DOfuEvD8pWQLLdbKQojvk",
+      "x_title": "Universal Health Coverage Index (0-100)",
+      "x_unit": "",
+      "y_title_1": "Maternal Mortality Rate (per 100,000 live births)",
+      "y_title_2": "Under-5 Mortality Rate (per 1,000 live births)",
+      "y_title_3": "Neonatal Mortality Rate (per 1,000 live births)",
+      "y_unit": "",
+      "title_scene_1": "Maternal Mortality​ Rate vs UHC Index",
+      "title_scene_2": "Under-5 Mortality Rate vs UHC Index",
+      "title_scene_3": "Neonatal Mortality Rate vs UHC Index",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "1",
+          "text": "Maternal Mortality",
+          "translationPrefix": "goal_03.content.#41.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "Countries that increased overall UHC (e.g., Rwanda, Cambodia, India and China) also show progress in [emphasis: child mortality reduction].",
+          "translationPrefix": "goal_03.content.#41.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "3",
+          "text": "Neonatal Mortality",
+          "translationPrefix": "goal_03.content.#41.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_03.content.#41"
+    },
+    {
+      "text": "Countries that achieved faster reductions in maternal mortality also tended to record",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#42"
+    },
+    {
+      "text": "improvements in the RMNCH sub-index.",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#43"
+    },
+    {
+      "type": "scroller",
+      "graphic": "rmnch_progress_scroller",
+      "title": "RMNCH Sub-Index Progress",
+      "subtitle": "",
+      "source": "",
+      "visdescription": "",
+      "data_download": "03.data.rmnch_progress_scroller.zip",
+      "data": "1Z48ap9utYIR6P45cgxV0l1bhyF25vZboMptPSBz8uYg",
+      "title_scene_1": "RMNCH Sub-Index Progress – High-Progress MMR Countries",
+      "title_scene_2": "RMNCH Sub-Index Progress – High-Progress U5MR Countries",
+      "title_scene_3": "RMNCH Sub-Index Progress – High-Progress NMR Countries",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "1",
+          "text": "Countries that achieved faster reductions (speed score>2) in child mortality also tended",
+          "translationPrefix": "goal_03.content.#44.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "U5MR Countries",
+          "translationPrefix": "goal_03.content.#44.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "NMR Countries",
+          "translationPrefix": "goal_03.content.#44.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_03.content.#44"
+    },
+    {
+      "text": "Conclusion",
+      "type": "subhed",
+      "translationPrefix": "goal_03.content.#45"
+    },
+    {
+      "text": "UHC is critical to sustaining maternal and child health gains and ensuring",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#46"
+    },
+    {
+      "text": "equity​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#47"
+    },
+    {
+      "text": "Integrating health service and financing policies is key to expanding both coverage and affordability​",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#48"
+    },
+    {
+      "text": "Monitoring SDG 3.1, 3.2, and 3.8 together keeps attention on survival, access, and protection—and accelerates progress to 2030",
+      "type": "text",
+      "translationPrefix": "goal_03.content.#49"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
+    "translationPrefix": "goal_03.references"
+  },
+  "translationPrefix": "goal_03"
+}

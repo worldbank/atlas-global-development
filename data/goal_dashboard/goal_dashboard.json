@@ -1,0 +1,104 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "dashboard",
+    "shortTitle": "Explore",
+    "title": "Progress towards the Sustainable Development Goals",
+    "abstract": "TODO",
+    "citation": "TODO",
+    "credits": "TODO",
+    "inputs": "TODO",
+    "visuals": "Alice Thudt",
+    "translationPrefix": "goal_dashboard.config"
+  },
+  "content": [
+    {
+      "text": "How far have we come? ",
+      "type": "subhed",
+      "translationPrefix": "goal_dashboard.content.#0"
+    },
+    {
+      "text": "This page explains how progress towards the Sustainable Development Goals can be measured and compared. In the Atlas we are using a new way to show progress. If you want to understand this in more detail you can read about it here. \u000b\u000bThis chapter explains how progress is talked about in the Atlas and gives you the opportunity to explore progress across all 17 goals. Change goal to see how the progress compares across goals.\u000b",
+      "type": "text",
+      "translationPrefix": "goal_dashboard.content.#1"
+    },
+    {
+      "type": "scroller",
+      "graphic": "dashboard_scroller",
+      "title": "",
+      "subtitle": "",
+      "source": "Source of the data",
+      "visSize": "fullScreen",
+      "visdescription": "Describe what the visualization shows",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro",
+          "text": "The progress of countries towards the Sustainable Development Goals are measured as [emphasis: indicators]. In the Atlas, each square represents an indicator value for a single country and year.",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "indicator",
+          "text": "Here we see  the [emphasis: latest values] for a single indicator. You can look at other indicators by changing the goal in the navigation.",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "target_reached",
+          "text": "How many countries have already [emphasis: reached the target]?",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "diff_to_target",
+          "text": "... and [emphasis: how close to the target] are the other countries?",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "progress_top",
+          "text": "But which country has [emphasis: progressed the fastest] since 2015?",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "progress_comparison",
+          "text": "Let´s look at a [emphasis: slow], a [emphasis: typical], and a [emphasis: fast country] in comparison...",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "progress_all",
+          "text": "Let´s compare it to the speed of the other countries?",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "progress_start",
+          "text": "If we order the countries by where they have started we can clearly see which countries made better progress than is common for countries with a similar starting point.",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#7"
+        },
+        {
+          "type": "scene",
+          "id": "progress_latest",
+          "text": "Now let´s rank them by how far they have come until the latest measurement!",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#8"
+        },
+        {
+          "type": "scene",
+          "id": "explore",
+          "text": "Explore this data a bit more! You can bring up details by hovering over the countries.<span id=\"explore-scene\" />",
+          "translationPrefix": "goal_dashboard.content.#2.scenes.#9"
+        }
+      ],
+      "translationPrefix": "goal_dashboard.content.#2"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "easterly2009": "Easterly, William. \"How the millennium development goals are unfair to Africa.\" World Development 37, no. 1 (2009): 26-35.",
+    "translationPrefix": "goal_dashboard.references"
+  },
+  "translationPrefix": "goal_dashboard"
+}

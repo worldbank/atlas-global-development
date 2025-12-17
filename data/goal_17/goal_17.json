@@ -1,0 +1,246 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "17",
+    "shortTitle": "Statistics",
+    "title": "Can we even measure the SDGs?",
+    "abstract": "todo",
+    "citation": "todo",
+    "credits": "todo",
+    "inputs": "todo",
+    "visuals": "todo",
+    "translationPrefix": "goal_17.config"
+  },
+  "content": [
+    {
+      "text": "Intro",
+      "type": "subhed",
+      "translationPrefix": "goal_17.content.#0"
+    },
+    {
+      "text": "We are missing a lot of data.",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#1"
+    },
+    {
+      "type": "vis",
+      "graphic": "missing_children_data_waffles",
+      "title": "Millions of children are missing key data",
+      "subtitle": "",
+      "source": "World Bank. Learning assessment data is from the World Bank’s Learning Poverty and Country Learning Outcomes database. Stunting data availability is from the UNICEF/WHO/The World Bank: Joint child malnutrition estimates (JME) database. Birth registration data is from the UNSD Population and Vital Statistics Report",
+      "square_represents": "Every square represents 1 million children",
+      "birth_reg": "Birth registration, children under 5",
+      "birth_reg_label": "207 million",
+      "stunting": "Stunting, children under 5",
+      "stunting_label": "292 million",
+      "learn_assess": "Learning assessment, children age 5-14",
+      "learn_assess_label": "772 million",
+      "note": "Availability of data between 2019 and 2024 for the following indicators: Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age), ",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light (alternatively: dark)",
+      "data_download": "17.data.missing_children_data.zip",
+      "data": "16LO3tJWmK2Uwznl1-PxydYvqen5-rgn6zhUY2cygRfs",
+      "translationPrefix": "goal_17.content.#2"
+    },
+    {
+      "text": "Note: More than 772 million children (57% of children age 5-14) are missing a comparable learning assessment. 292 million children are in a country with no recent data about stunting (22% of children under 5). 209 million children’s births are not registered in their countries CRVS (16% of children under 5).",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#3"
+    },
+    {
+      "text": "For learning assessments, the % missing is greater than 50% of children in East Asia, South Asia, and Sub-Saharan Africa. More than 50% of children in East Asia & Pacific and MENA are missing stunting data. Around half of all children under age 5 in East Asia & Pacific & Sub-Saharan Africa did not have their birth registered.",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#4"
+    },
+    {
+      "text": "For learning assessments, the number shown is the count of all children age 5-14 living in a country where no internationally comparable learning assessment has taken place since 2019. For Stunting, the number shown is the count of all children under 5 living in a country where no stunting data has been collected since 2019. For birth registration, the number shown is the count of all children under 5 living in a country multiplied times the proportion of births not registered in the country using the CRVS. To produce the proportion of births not registered, the CRVS is compared to other data sources, such as the DHS or census.",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#5"
+    },
+    {
+      "text": "Note: More than 772 million children are missing a comparable learning assessment. 292 million children are in a country with no recent data about stunting. 209 million children’s births are not registered in their countries CRVS.",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#6"
+    },
+    {
+      "text": "SDG data reporting is not great",
+      "type": "subhed",
+      "translationPrefix": "goal_17.content.#7"
+    },
+    {
+      "text": "Explain SDG data availability, show starting situation in 2015.",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#8"
+    },
+    {
+      "type": "scroller",
+      "graphic": "sdg_data_availability_scroller",
+      "title": "Vis title",
+      "subtitle": "",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "missing_data": "Missing data",
+      "global_average": "Global average: ",
+      "theme": "light (alternatively: dark)",
+      "data_download": "17.data.sdg_availability.csv",
+      "data": "1Vj6ZkUDo5T5eZrEkmEZ1JWeH2SCgFM3N6msiL4ztJfI",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "availability_15",
+          "text": "SDG data availability in 2015",
+          "translationPrefix": "goal_17.content.#9.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "availability_23",
+          "text": "SDG data availability in 2023. Discuss average yearly progress?",
+          "translationPrefix": "goal_17.content.#9.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "availability_30",
+          "text": "Projection of SDG data availability in 2030",
+          "translationPrefix": "goal_17.content.#9.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "availability_domestic_violence",
+          "text": "Illustration that there is a lot to do: no data availability on domestic violence",
+          "translationPrefix": "goal_17.content.#9.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal_17.content.#9"
+    },
+    {
+      "text": "Does it matter?",
+      "type": "subhed",
+      "translationPrefix": "goal_17.content.#10"
+    },
+    {
+      "text": "Only one country has at least 10 of the 14 Indicators Related to SDG 5 (Gender Equality)",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#11"
+    },
+    {
+      "type": "vis",
+      "graphic": "image",
+      "title": "Global poverty fell as data coverage improved",
+      "filename": "sdg17/sdg17-poverty-data-coverage.jpg",
+      "translationPrefix": "goal_17.content.#12"
+    },
+    {
+      "type": "vis",
+      "graphic": "image",
+      "title": "Average country improved less than 2 pp per year",
+      "filename": "sdg17/sdg17-data-production-change.png",
+      "translationPrefix": "goal_17.content.#13"
+    },
+    {
+      "text": "What explains it?",
+      "type": "subhed",
+      "translationPrefix": "goal_17.content.#14"
+    },
+    {
+      "type": "scroller",
+      "graphic": "sdg_data_correlations_scroller",
+      "title": "What explains it?",
+      "subtitle": "",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "five_year_data_availability": "5 year data availability (%)",
+      "gdp_per_capita": "GDP per capita, log scale ($)",
+      "spi": "SPI overall score, excluding Pillar 1 & 3 (%)",
+      "spi_improvement": "Improvement speed - SPI overall score",
+      "sdg_improvement": "Improvement speed - SDG overall score",
+      "theme": "light (alternatively: dark)",
+      "data_download": "17.data.sdg_data_availability_correlations.csv",
+      "data": "1OUuIQvBrAQ0YE_Saq8XJivd7nk9WqH6KId1fbfJrlKk",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "gdp",
+          "text": "Not GDP per capita.",
+          "translationPrefix": "goal_17.content.#15.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "spi",
+          "text": "Statistical Performance is much more predictive.",
+          "translationPrefix": "goal_17.content.#15.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "spi_change",
+          "text": "Changes in Statistical Performance also predict improvements in data availability.",
+          "translationPrefix": "goal_17.content.#15.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_17.content.#15"
+    },
+    {
+      "text": "SDG 17.18.1",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#16"
+    },
+    {
+      "text": "Pillar 1 & Pillar 3 are excluded. Index includes data infrastructure, data sources, data services",
+      "type": "text",
+      "translationPrefix": "goal_17.content.#17"
+    },
+    {
+      "type": "vis",
+      "graphic": "spi_trends",
+      "title": "While overall  statistical capacity has increased, data collection appears to have stagnated ",
+      "subtitle": "Vis subtitle",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "overall": "Overall SPI score",
+      "accessibility": "Data accessibility",
+      "collection": "Data collection",
+      "y_axis_title": "Statistical Performance Index score",
+      "y_axis_units": "%",
+      "theme": "light (alternatively: dark)",
+      "data_download": "17.data.spi_trends.csv",
+      "data": "1r0vYiZcGKZunEQAQkowzHK_p3472P8_CAXPsJkt2Okw",
+      "translationPrefix": "goal_17.content.#18"
+    },
+    {
+      "text": "What to do about it?",
+      "type": "subhed",
+      "translationPrefix": "goal_17.content.#19"
+    },
+    {
+      "type": "vis",
+      "graphic": "statistical_legislation_grid_map",
+      "title": "Statistical legislation complies with UN fundamental principles of official statistics?",
+      "subtitle": "",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light (alternatively: dark)",
+      "data_download": "17.data.statistical_legislation.csv",
+      "data": "1IbbBAeLZyLJ-deIVQSHWZ9G5ym0iFkxeDmCDAKM8D-M",
+      "translationPrefix": "goal_17.content.#20"
+    },
+    {
+      "type": "vis",
+      "graphic": "financing_statistics",
+      "title": "Financing for statistics",
+      "subtitle": "",
+      "source": "PRESS Data",
+      "y_axis_title": "Financing for statistics capacity",
+      "y_axis_units": "million dollars",
+      "visdescription": "Describe what the visualization shows",
+      "theme": "light (alternatively: dark)",
+      "data_download": "17.data.financing_statistics.csv",
+      "data": "1whECvjNlEJHkzUVSl3IwUWgjOdrS8mon0YE5uNTbpOU",
+      "translationPrefix": "goal_17.content.#21"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
+    "translationPrefix": "goal_17.references"
+  },
+  "translationPrefix": "goal_17"
+}

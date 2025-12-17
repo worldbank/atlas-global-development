@@ -1,0 +1,21 @@
+region,gender,g1,g2,g3,g4,pct_emp,total_jobs_millions,filter
+World,m,7.3,8.4,3.1,2.4,21,448,aggregates
+World,f,7.6,9.7,5.7,4.7,28,390,aggregates
+Africa,m,6.2,8.7,q,?,17,53,regions
+Africa,f,6.3,14.2,?,?,22,52,regions
+High income,m,5.1,11.2,8.3,3.5,28,107,aggregates
+High income,f,7,9.8,14.4,9.6,41,128,aggregates
+Asia and the Pacific,m,7.9,7.9,2.4,2.5,21,256,regions
+Asia and the Pacific,f,7.7,8.3,4.2,4.2,24,186,regions
+Upper-middle income,m,8.5,7.3,2.4,2.5,21,161,aggregates
+Upper-middle income,f,10.1,10.1,4.6,5,30,173,aggregates
+Arab states,m,7.9,8.9,4.8,2.2,24,12,regions
+Arab states,f,5.5,8.6,10.9,6.3,31,3,regions
+Lower-middle income,m,7.6,8.8,1.9,2.2,20,163,aggregates
+Lower-middle income,f,5.1,10.4,1.9,1.5,19,77,aggregates
+Americas,m,7,9.2,4.9,2.9,24,66,regions
+Americas,f,9.1,9.7,9.6,7,35,74,regions
+Low-income,m,4.8,5.4,0.6,0.6,11,17,aggregates
+Low-income,f,5.9,4.5,0.5,0.5,11,12,aggregates
+Europe and Central Asia,m,5.7,10.3,6.9,3.3,26,61,regions
+Europe and Central Asia,f,7.4,9.8,12.7,8.6,39,75,regions

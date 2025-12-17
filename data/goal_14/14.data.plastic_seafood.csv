@@ -1,0 +1,10 @@
+category,particle_concentration,standard_error
+shrimp_vessel,10.67,2.26
+shrimp_retail,7.6,1.62
+herring_vessel,1.08,0.2
+juvenile_lamprey_vessel,1,0.15
+adult_lamprey_vessel,0.6,0.25
+rockfish_retail,0.11,0.02
+lingcod_retail,0.09,0.009
+salmon_vessel,0.03,0.008
+lingcod_vessel,0.02,0.006

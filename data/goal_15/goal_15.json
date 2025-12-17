@@ -1,0 +1,357 @@
+{
+  "config": {
+    "type": "config",
+    "goal": "15",
+    "shortTitle": "Life on land",
+    "title": "Land degradation and biodiversity",
+    "abstract": "todo",
+    "citation": "todo",
+    "credits": "todo",
+    "inputs": "todo",
+    "visuals": "Maarten Lambrechts",
+    "translationPrefix": "goal_15.config"
+  },
+  "content": [
+    {
+      "text": "Land degradation",
+      "type": "subhed",
+      "translationPrefix": "goal_15.content.#0"
+    },
+    {
+      "text": "Healthy land provides vital services to humans and the environment: it offers fertile soils, allowing high agricultural productivity and guaranteeing food security, it acts as a water buffer preventing floods and providing stored fresh water in times of drought, it provides habitats for thriving ecosystems and high biodiversity, and it acts as a carbon sink, storing twice the amount of carbon in the atmosphere.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#1"
+    },
+    {
+      "text": "But in many areas human activities and natural conditions are negatively impacting the health and productivity of land. Factors contributing to this process of land degradation are land use change (deforestation, urbanization), intensive agricultural practices and an increase in the frequency and the intensity of extreme weather events like droughts and floods.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#2"
+    },
+    {
+      "text": "Each year an additional 1 million square kilometers of healthy land becomes degraded [reference: unccd23], adding to the global stock of already degraded land. As a result, agricultural productivity diminishes, leading to higher food prices and loss of income for rural communities, water cycles are disrupted, biodiversity is lost and climate change is accelerated. Land degradation is estimated to harm the well-being of at least 3.2 billion people and to cost more than 10% of annual global GDP in lost ecosystem services [reference: ipbes]",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#3"
+    },
+    {
+      "text": "Degradation of arable land",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#4"
+    },
+    {
+      "text": "99 percent of the food eaten around the world is produced on land. But only 10 percent of the global land surface area is arable land, defined as land used to grow the main agricultural crops like wheat, maize, rice and soybeans. With the global population projected to peak to more than 10 billion people by the 2080s, increasing the productivity of agricultural land is imperative for food security. But arable lands are suffering from multiple, overlapping land degradation processes.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#5"
+    },
+    {
+      "type": "scroller",
+      "graphic": "map_scroller",
+      "title": "Degradation processes in arable land",
+      "subtitle": "Vis subtitle",
+      "source": "[reference: pravalie21]",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "fullScreen",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "arable_land",
+          "text": "Global <span style=\"color: rgb(255,255,255); background-color: rgb(0,184,0);\">arable lands</span> cover 14.2 million square kilometers, 1.5 times the land area of the United States or China. Taking into account the global population, this corresponds to an area of 40 by 40 meters for each person on earth.",
+          "translationPrefix": "goal_15.content.#6.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "salinization",
+          "text": "<span style=\"color: rgb(255,255,255); background-color: rgb(255,5,14);\">Salinization</span>, the process of accumulation of salts, mostly caused by poor irrigation practices, affects almost 2 percent of arable lands.",
+          "translationPrefix": "goal_15.content.#6.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "vegetation_carbon_decline",
+          "text": "<span style=\"background-color: rgb(253,76,255);\">Vegetation decline</span> (8.4 percent of arable lands) and a <span style=\"background-color: rgb(253,76,255);\">decline in soil organic carbon</span> (3.3 percent) also contribute to arable land degradation.",
+          "translationPrefix": "goal_15.content.#6.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "erosion",
+          "text": "A more important factor in the degradation of arable land is <span style=\"background-color: rgb(255,121,29);\">soil erosion</span>, affecting 30 percent of all arable land.",
+          "translationPrefix": "goal_15.content.#6.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "aridity",
+          "text": "But by far the largest pressure for these agricultural systems is rising<span style=\"color: rgb(255,255,255);\"> </span><span style=\"color: rgb(255,255,255); background-color: rgb(248,68,68);\">aridity</span>, affecting 55% of arable land.",
+          "translationPrefix": "goal_15.content.#6.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal_15.content.#6"
+    },
+    {
+      "text": "Adopting agricultural practices like incorporating plant residues into the soil, improved irrigation, reduced tillage and agroforestry (the integration of trees and shrubs into crop systems) all can contribute to stopping and reversing land degradation processes like salinization, declines in vegetation and soil organic carbon, and soil erosion. But these measures alone won't  stop the most widespread cause of degradation of arable lands, rising aridity, as it has its roots outside of agricultural practices themselves.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#7"
+    },
+    {
+      "text": "Aridity",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#8"
+    },
+    {
+      "text": "In contrast to drought, which is defined as a short-term, lower-than-normal amount of precipitation, aridity is a climate characteristic over the longer term. Temperature, sunlight, wind and air humidity over an area determine how much water can be lost through evaporation (through plants, or directly from the soil). Aridity is defined as the ratio between this potential evapotranspiration, and the amount of precipitation over the same area.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#9"
+    },
+    {
+      "type": "scroller",
+      "graphic": "map_scroller",
+      "title": "Vis title",
+      "subtitle": "Vis subtitle",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "fullScreen",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "humid",
+          "text": "<span style=\"color: rgb(255,255,255); background-color: rgb(1,133,113);\">Humid areas</span> have more than two thirds of their potential evaporation replenished by precipitation.",
+          "translationPrefix": "goal_15.content.#10.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "drylands",
+          "text": "When average precipitation is less than two thirds of potential evaporation, an area is classified as dryland. Drylands are further classified as <span style=\"background-color: rgb(128,205,193);\">dry subhumid</span>, <span style=\"background-color: rgb(223,194,125);\">semi-arid</span>, <span style=\"color: rgb(255,255,255); background-color: rgb(191,129,47);\">arid</span> or <span style=\"color: rgb(255,255,255); background-color: rgb(140,81,10);\">hyperarid</span>. Together, drylands cover 41 percent of global lands (excluding Antarctica).",
+          "translationPrefix": "goal_15.content.#10.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "aridity_index_change",
+          "text": "More than three quarters of all land on Earth experienced a <span style=\"color: rgb(255,255,255); background-color: rgb(166,97,26);\">more arid climate</span> during the 1990-2020 period than during 1960-1990. Some smaller areas experienced a <span style=\"color: rgb(255,255,255); background-color: rgb(1,133,113);\">more humid climate</span>. [reference: aridityreport]",
+          "translationPrefix": "goal_15.content.#10.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "drylands_expansion",
+          "text": "As a result, many areas shifted to a drier aridity class. Together, drylands now span an additional 4.3 million km2 compared to 30 years ago, an area equal to twice the size of Greenland.",
+          "translationPrefix": "goal_15.content.#10.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "drylands_expansion",
+          "text": "Hotspots showing significant dryland expansion include the western United States, the Yucatan Peninsula, north-eastern Brazil, north-western Argentina, the entire Mediterranean region, the northern side of the Black Sea, the Sahel, the Rift Valley, north-eastern South Africa, the bordering area between Russia and Kazakhstan, large parts of Mongolia and north-eastern China and south-eastern Australia.",
+          "translationPrefix": "goal_15.content.#10.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal_15.content.#10"
+    },
+    {
+      "text": "In 1990, 1.2 billion people, or 22.5 percent of the global population, were living in drylands. Population growth and the expansion of drylands made these numbers rise to 2.3 billion and 30.9 percent in 2020, and the number of people living in drylands is expected to rise even more into the future.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#11"
+    },
+    {
+      "text": "The aridity impacts cascade",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#12"
+    },
+    {
+      "text": "The impact of land degradation processes on arable land, of which aridity is the most important, are directly felt by agricultural communities: lower agricultural production leads to lower incomes and more food insecurity.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#13"
+    },
+    {
+      "text": "But the impacts of increased aridity go far beyond these direct impacts, and cascade down as chain reactions through interconnected natural and socioeconomic systems, ultimately resulting in negative consequences for human health and well being.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#14"
+    },
+    {
+      "text": "\u000b",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#15"
+    },
+    {
+      "type": "scroller",
+      "graphic": "aridity_impact_cascade",
+      "title": "The aridity impacts cascade",
+      "subtitle": "Vis subtitle",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "land_degradation",
+          "text": "Aridity and land degradation",
+          "translationPrefix": "goal_15.content.#16.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "water_scarcity",
+          "text": "Water scarcity",
+          "translationPrefix": "goal_15.content.#16.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "agriculture",
+          "text": "Agricultural production",
+          "translationPrefix": "goal_15.content.#16.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "wildfires",
+          "text": "Wildfires",
+          "translationPrefix": "goal_15.content.#16.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "sand_storms",
+          "text": "Sand and dust storms",
+          "translationPrefix": "goal_15.content.#16.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "human_health",
+          "text": "Human health impacts",
+          "translationPrefix": "goal_15.content.#16.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "human_migration",
+          "text": "Human migration",
+          "translationPrefix": "goal_15.content.#16.scenes.#6"
+        }
+      ],
+      "translationPrefix": "goal_15.content.#16"
+    },
+    {
+      "text": "Aridity and biodiversity",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#17"
+    },
+    {
+      "text": "The high biodiversity in tropical rainforest versus the lower biodiversity in arid ecosystems illustrate the negative correlation between aridity and species richness: higher water availability can support more plant and animal life. So the expansion of drylands has a negative impact on biodiversity.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#18"
+    },
+    {
+      "text": "Research has shed light on how ecosystems react and ultimately break down under increasing arid conditions. Parameters measuring the health of ecosystems change abruptly to changes in aridity at certain threshold values, meaning that small changes in aridity can provoke big, systemic changes.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#19"
+    },
+    {
+      "text": "When a healthy ecosystem is exposed to more arid conditions, it will first enter a [emphasis: vegetation decline phase]: plants react to protect themselves from drying out, but will have less capacity for photosynthesis as a result. Plants grow slower, and provide a smaller base for the organisms higher in the food pyramid. The (fewer) species able to thrive in drier conditions (eg. grasses) outcompete less drought-tolerant species (like many tree species), and forests turn to grasslands.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#20"
+    },
+    {
+      "text": "When aridity keeps increasing, researchers identified a [emphasis: soil disruption phase], in which the levels of vital components of healthy and functional soils, like organic carbon, total nitrogen, clay content and symbiotic fungi beneficial to plants decrease abruptly. Grasslands turn to shrublands.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#21"
+    },
+    {
+      "text": "Even more arid conditions lead to [emphasis: systemic breakdown], in which very few species manage to survive. ",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#22"
+    },
+    {
+      "type": "vis",
+      "graphic": "image",
+      "title": "Consequences of increased aridity on ecosystems and land degradation",
+      "subtitle": "Vis subtitle",
+      "source": "Source of the data",
+      "filename": "sdg15/aridification-ecosystems.png",
+      "translationPrefix": "goal_15.content.#23"
+    },
+    {
+      "text": "\"According to current climatic forecasts (IPCC´s RCP8.5 scenario, 3), up to 22% of terrestrial surface (28.6% of current dryland area) will cross one or more of the three phases identified by 2100.\" => Maybe show where these thresholds were crossed between 1960-1990 and 1990 - 2020?",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#24"
+    },
+    {
+      "text": "Rising aridity also has an effect on the biodiversity of ephemeral river ecosystems and dryland rivers.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#25"
+    },
+    {
+      "text": "Biodiversity",
+      "type": "subhed",
+      "translationPrefix": "goal_15.content.#26"
+    },
+    {
+      "text": "Why is biodiversity data unavailable?",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#27"
+    },
+    {
+      "text": "Biodiversity is the biological diversity in an environment as indicated by numbers of different species of plants and animals",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#28"
+    },
+    {
+      "text": "Challenging to measure biodiversity",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#29"
+    },
+    {
+      "text": "Biodiversity is under pressure - most effectively shown by extinction of species",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#30"
+    },
+    {
+      "text": "In December 2022, at the 15th Conference of the Parties (COP) to the UN Convention on Biological Diversity, the Kunming-Montreal Global Biodiversity Framework (GBF) was adopted.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#31"
+    },
+    {
+      "text": "Declining populations",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#32"
+    },
+    {
+      "text": "Living Planet Index ",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#33"
+    },
+    {
+      "text": "The global Living Planet Index is the main indicator derived from our data. The Living Planet Index (LPI) is a measure of the state of the world's biological diversity based on population trends of vertebrate species from terrestrial, freshwater and marine habitats. The LPI has been adopted by the Convention of Biological Diversity (CBD) as an indicator of progress towards the post-2020 goals and targets of the Kunming-Montreal Global Biodiversity Framework.",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#34"
+    },
+    {
+      "text": "Extinction risk",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#35"
+    },
+    {
+      "text": "Red List Index SDG 15.5.1 indicator, data from <a href=\"https://unstats.un.org/sdgs/dataportal/database\" target=\"_blank\">https://unstats.un.org/sdgs/dataportal/database</a> ",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#36"
+    },
+    {
+      "text": "Where do threatened species live?",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#37"
+    },
+    {
+      "text": "Do protected areas help biodiversity?",
+      "type": "subhed2",
+      "translationPrefix": "goal_15.content.#38"
+    },
+    {
+      "text": "Are protected areas in the right place?",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#39"
+    },
+    {
+      "text": "<a href=\"https://iucn.org/our-work/topic/effective-protected-areas\" target=\"_blank\">https://iucn.org/our-work/topic/effective-protected-areas</a>",
+      "type": "text",
+      "translationPrefix": "goal_15.content.#40"
+    }
+  ],
+  "references": {
+    "type": "references",
+    "pravalie2021": "<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0013935120315966\" target=\"_blank\">https://www.sciencedirect.com/science/article/abs/pii/S0013935120315966</a>",
+    "aridityreport": "<a href=\"https://www.unccd.int/sites/default/files/2024-12/aridity_report.pdf\" target=\"_blank\">The global threat of Drying Lands</a>, UNCDD",
+    "unccd23": "<a href=\"https://www.unccd.int/news-stories/press-releases/least-100-million-hectares-healthy-land-now-lost-each-year\" target=\"_blank\">UNCDD</a>",
+    "ipbes": "<a href=\"https://files.ipbes.net/ipbes-web-prod-public-files/spm_3bi_ldr_digital.pdf\" target=\"_blank\">IPBES assessment report on land degradation and restoration</a>",
+    "translationPrefix": "goal_15.references"
+  },
+  "translationPrefix": "goal_15"
+}
