@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Information and Communications Technology Professionals</title>
+  <!-- Laptop screen -->
+  <rect x="220" y="180" width="584" height="400" rx="20" />
+  <!-- Code brackets on screen -->
+  <path d="M400 320 L340 420 L400 520" stroke-width="14" />
+  <path d="M624 320 L684 420 L624 520" stroke-width="14" />
+  <line x1="480" y1="300" x2="544" y2="540" stroke-width="14" />
+  <!-- Laptop base -->
+  <path d="M220 580 L160 680 L864 680 L804 580" />
+  <!-- Keyboard line -->
+  <line x1="300" y1="630" x2="724" y2="630" stroke-width="8" />
+</svg>
+

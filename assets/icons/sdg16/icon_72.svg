@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Metal, Machinery and Related Trades Workers</title>
+  <!-- Outer gear teeth -->
+  <path d="M480 160 L544 160 L554 220 L570 222 L600 170 L656 198 L638 254 L652 264 L698 228 L740 274 L700 314 L710 330 L770 320 L790 382 L732 400 L734 418 L794 432 L782 498 L720 490 L712 506 L760 546 L720 598 L674 566 L660 578 L690 632 L630 664 L604 612 L586 618 L598 680 L534 692 L526 630 L508 630 L502 692 L438 682 L448 618 L430 612 L402 664 L344 632 L374 578 L358 566 L314 598 L274 546 L320 506 L312 490 L250 498 L240 432 L300 418 L300 400 L240 382 L262 320 L322 330 L330 314 L290 274 L332 228 L380 264 L394 254 L376 198 L432 170 L462 222 L478 220 Z" />
+  <!-- Inner circle -->
+  <circle cx="512" cy="430" r="120" />
+  <!-- Center hole -->
+  <circle cx="512" cy="430" r="50" />
+</svg>
+

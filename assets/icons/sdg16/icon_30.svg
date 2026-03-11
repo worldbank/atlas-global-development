@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Technicians and Associate Professionals</title>
+  <rect x="262" y="280" width="380" height="480" rx="16"/>
+  <rect x="362" y="240" width="180" height="80" rx="16"/>
+  <line x1="320" y1="400" x2="580" y2="400"/>
+  <line x1="320" y1="460" x2="580" y2="460"/>
+  <line x1="320" y1="520" x2="580" y2="520"/>
+  <line x1="320" y1="580" x2="480" y2="580"/>
+  <path d="M 660 380 Q 780 300 836 360 Q 896 420 816 540 L 700 648 Q 648 698 594 644 Q 540 590 598 536 L 706 440 Q 750 400 728 358"/>
+  <circle cx="808" cy="372" r="44"/>
+</svg>

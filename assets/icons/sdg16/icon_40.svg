@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Clerical Support Workers</title>
+  <rect x="262" y="200" width="340" height="620" rx="16"/>
+  <line x1="262" y1="407" x2="602" y2="407"/>
+  <line x1="262" y1="614" x2="602" y2="614"/>
+  <line x1="390" y1="303" x2="474" y2="303"/>
+  <line x1="390" y1="510" x2="474" y2="510"/>
+  <line x1="390" y1="717" x2="474" y2="717"/>
+  <rect x="490" y="180" width="60" height="100" rx="4"/>
+  <line x1="700" y1="200" x2="770" y2="790"/>
+  <path d="M 760 768 L 782 820 L 736 808 Z"/>
+</svg>

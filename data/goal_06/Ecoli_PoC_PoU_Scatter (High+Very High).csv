@@ -1,0 +1,61 @@
+country,year,point,level,value
+Bangladesh,2019,PoC,High + Very high,18
+Bangladesh,2019,PoU,High + Very high,61
+Benin,2022,PoC,High + Very high,67
+Benin,2022,PoU,High + Very high,85
+Central African Republic,2019,PoC,High + Very high,57
+Central African Republic,2019,PoU,High + Very high,73
+Chad,2019,PoC,High + Very high,67
+Chad,2019,PoU,High + Very high,95
+Congo,2015,PoC,High + Very high,25
+Congo,2015,PoU,High + Very high,54
+Côte d’Ivoire,2016,PoC,High + Very high,41
+Côte d’Ivoire,2016,PoU,High + Very high,64
+Dominican Republic,2019,PoC,High + Very high,28
+Dominican Republic,2019,PoU,High + Very high,56
+Eswatini,2022,PoC,High + Very high,40
+Eswatini,2022,PoU,High + Very high,53
+Ethiopia,2016,PoC,High + Very high,63
+Ethiopia,2016,PoU,High + Very high,85
+Gambia,2018,PoC,High + Very high,26
+Gambia,2018,PoU,High + Very high,50
+Ghana,2018,PoC,High + Very high,30
+Ghana,2018,PoU,High + Very high,60
+Guinea-Bissau,2019,PoC,High + Very high,44
+Guinea-Bissau,2019,PoU,High + Very high,54
+Honduras,2019,PoC,High + Very high,32
+Honduras,2019,PoU,High + Very high,40
+Kiribati,2019,PoC,High + Very high,63
+Kiribati,2019,PoU,High + Very high,69
+Lao People's Democratic Republic,2023,PoC,High + Very high,50
+Lao People's Democratic Republic,2023,PoU,High + Very high,48
+Madagascar,2018,PoC,High + Very high,70
+Madagascar,2018,PoU,High + Very high,79
+Malawi,2020,PoC,High + Very high,36
+Malawi,2020,PoU,High + Very high,81
+Mozambique,2023,PoC,High + Very high,55
+Mozambique,2023,PoU,High + Very high,78
+Nauru,2023,PoC,High + Very high,50
+Nauru,2023,PoU,High + Very high,51
+Nepal,2019,PoC,High + Very high,48
+Nepal,2019,PoU,High + Very high,60
+Nigeria,2021,PoC,High + Very high,55
+Nigeria,2021,PoU,High + Very high,59
+Pakistan,2019,PoC,High + Very high,43
+Pakistan,2019,PoU,High + Very high,67
+Sierra Leone,2017,PoC,High + Very high,80
+Sierra Leone,2017,PoU,High + Very high,87
+Sri Lanka,2021,PoC,High + Very high,37
+Sri Lanka,2021,PoU,High + Very high,41
+Togo,2017,PoC,High + Very high,53
+Togo,2017,PoU,High + Very high,77
+Tonga,2019,PoC,High + Very high,45
+Tonga,2019,PoU,High + Very high,55
+Tuvalu,2020,PoC,High + Very high,71
+Tuvalu,2020,PoU,High + Very high,61
+United Republic of Tanzania,2021,PoC,High + Very high,57
+United Republic of Tanzania,2021,PoU,High + Very high,71
+Vanuatu,2023,PoC,High + Very high,57
+Vanuatu,2023,PoU,High + Very high,64
+Zimbabwe,2019,PoC,High + Very high,40
+Zimbabwe,2019,PoU,High + Very high,64

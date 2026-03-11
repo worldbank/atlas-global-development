@@ -1,0 +1,1 @@
+.play-pause.svelte-cuskxl{margin:.25em;font-size:1.25em;text-align:center;width:2em;height:2em;display:block;border-radius:100%;min-width:unset;min-height:unset;padding:0}.play-pause.playing.svelte-cuskxl:before{content:"⏸︎";position:relative;left:.5px;top:0}.play-pause.paused.svelte-cuskxl:before{content:"⏵︎";position:relative;left:1px;top:0}

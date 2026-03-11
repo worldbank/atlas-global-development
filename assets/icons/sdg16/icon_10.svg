@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Managers</title>
+  <rect x="412" y="160" width="200" height="100" rx="12"/>
+  <line x1="512" y1="260" x2="512" y2="360"/>
+  <line x1="260" y1="360" x2="764" y2="360"/>
+  <line x1="260" y1="360" x2="260" y2="420"/>
+  <line x1="512" y1="360" x2="512" y2="420"/>
+  <line x1="764" y1="360" x2="764" y2="420"/>
+  <rect x="160" y="420" width="200" height="100" rx="12"/>
+  <rect x="412" y="420" width="200" height="100" rx="12"/>
+  <rect x="664" y="420" width="200" height="100" rx="12"/>
+  <circle cx="512" cy="185" r="20"/>
+</svg>

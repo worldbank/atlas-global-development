@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Personal Service Workers</title>
+  <!-- Serving dome -->
+  <path d="M200 560 Q200 280 512 240 Q824 280 824 560" />
+  <!-- Tray -->
+  <line x1="160" y1="560" x2="864" y2="560" stroke-width="18" />
+  <!-- Handle on dome -->
+  <ellipse cx="512" cy="220" rx="50" ry="24" />
+  <!-- Tray base -->
+  <rect x="360" y="580" width="304" height="40" rx="8" />
+  <!-- Steam -->
+  <path d="M400 180 Q390 140 410 100" stroke-width="10" />
+  <path d="M512 160 Q502 120 522 80" stroke-width="10" />
+  <path d="M624 180 Q614 140 634 100" stroke-width="10" />
+</svg>
+

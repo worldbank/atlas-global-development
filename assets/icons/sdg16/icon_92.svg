@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Agricultural, Forestry and Fishery Labourers</title>
+  <!-- Shovel handle -->
+  <line x1="280" y1="140" x2="620" y2="540" stroke-width="20" />
+  <!-- Handle grip -->
+  <line x1="240" y1="120" x2="320" y2="160" stroke-width="22" />
+  <!-- Blade -->
+  <path d="M620 540 L760 600 Q820 720 720 820 Q620 860 560 760 L580 600 Z" />
+  <!-- Dirt -->
+  <ellipse cx="400" cy="820" rx="160" ry="40" stroke-width="12" />
+</svg>
+

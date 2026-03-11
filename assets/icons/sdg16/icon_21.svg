@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Science and Engineering Professionals</title>
+  <!-- Central nucleus -->
+  <circle cx="512" cy="512" r="40" stroke-width="16" />
+  <!-- Electron orbit 1 (horizontal ellipse) -->
+  <ellipse cx="512" cy="512" rx="320" ry="120" />
+  <!-- Electron orbit 2 (tilted) -->
+  <ellipse cx="512" cy="512" rx="320" ry="120" transform="rotate(60 512 512)" />
+  <!-- Electron orbit 3 (tilted other way) -->
+  <ellipse cx="512" cy="512" rx="320" ry="120" transform="rotate(-60 512 512)" />
+  <!-- Electrons -->
+  <circle cx="832" cy="512" r="20" fill="currentColor" />
+  <circle cx="352" cy="236" r="20" fill="currentColor" />
+  <circle cx="352" cy="788" r="20" fill="currentColor" />
+</svg>
+

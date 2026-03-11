@@ -1,733 +1,1027 @@
 iso3c,country,region,income,gender,type,value
-AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Total,years,4.968999863
-AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Male,years,7.65500021
-AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Female,years,1.970000029
-AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Total,lays,2.820474148
-AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Male,lays,4.382269859
-AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Female,lays,1.103660703
-ALB,Albania,Europe & Central Asia,umc,Total,years,11.65200043
-ALB,Albania,Europe & Central Asia,umc,Male,years,11.65499973
-ALB,Albania,Europe & Central Asia,umc,Female,years,11.73799992
-ALB,Albania,Europe & Central Asia,umc,Total,lays,8.093527794
-ALB,Albania,Europe & Central Asia,umc,Male,lays,7.913178444
-ALB,Albania,Europe & Central Asia,umc,Female,lays,8.344727516
-ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,11.13799953
-ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,11.3760004
-ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,10.36999989
-ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,7.984443188
-ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,7.867516994
-ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,7.688956261
-ARG,Argentina,Latin America & Caribbean,umc,Total,years,9.460000038
-ARG,Argentina,Latin America & Caribbean,umc,Male,years,9.13599968
-ARG,Argentina,Latin America & Caribbean,umc,Female,years,9.793999672
-ARG,Argentina,Latin America & Caribbean,umc,Total,lays,6.178101063
-ARG,Argentina,Latin America & Caribbean,umc,Male,lays,5.992373466
-ARG,Argentina,Latin America & Caribbean,umc,Female,lays,6.36927557
-ARM,Armenia,Europe & Central Asia,umc,Total,years,11.67700005
-ARM,Armenia,Europe & Central Asia,umc,Male,years,11.44299984
-ARM,Armenia,Europe & Central Asia,umc,Female,years,11.87199974
-ARM,Armenia,Europe & Central Asia,umc,Total,lays,8.276086807
-ARM,Armenia,Europe & Central Asia,umc,Male,lays,8.029296875
-ARM,Armenia,Europe & Central Asia,umc,Female,lays,8.50453949
-AUS,Australia,East Asia & Pacific,hic,Total,years,12.78999996
-AUS,Australia,East Asia & Pacific,hic,Male,years,12.57699966
-AUS,Australia,East Asia & Pacific,hic,Female,years,13.01399994
-AUS,Australia,East Asia & Pacific,hic,Total,lays,10.55298519
-AUS,Australia,East Asia & Pacific,hic,Male,lays,10.30009079
-AUS,Australia,East Asia & Pacific,hic,Female,lays,10.82032013
-AUT,Austria,Europe & Central Asia,hic,Total,years,12.2510004
-AUT,Austria,Europe & Central Asia,hic,Male,years,12.18400002
-AUT,Austria,Europe & Central Asia,hic,Female,years,12.32499981
-AUT,Austria,Europe & Central Asia,hic,Total,lays,9.950544357
-AUT,Austria,Europe & Central Asia,hic,Male,lays,9.85846138
-AUT,Austria,Europe & Central Asia,hic,Female,lays,10.04991436
-BDI,Burundi,Sub-Saharan Africa,lic,Total,years,2.243999958
-BDI,Burundi,Sub-Saharan Africa,lic,Male,years,2.694999933
-BDI,Burundi,Sub-Saharan Africa,lic,Female,years,1.812000036
-BDI,Burundi,Sub-Saharan Africa,lic,Total,lays,1.51783371
-BDI,Burundi,Sub-Saharan Africa,lic,Male,lays,1.789286137
-BDI,Burundi,Sub-Saharan Africa,lic,Female,lays,1.253046989
-BEL,Belgium,Europe & Central Asia,hic,Total,years,12.61900043
-BEL,Belgium,Europe & Central Asia,hic,Male,years,12.34500027
-BEL,Belgium,Europe & Central Asia,hic,Female,years,12.76099968
-BEL,Belgium,Europe & Central Asia,hic,Total,lays,10.43455791
-BEL,Belgium,Europe & Central Asia,hic,Male,lays,10.19490528
-BEL,Belgium,Europe & Central Asia,hic,Female,lays,10.56541443
-BEN,Benin,Sub-Saharan Africa,lmc,Total,years,4.987999916
-BEN,Benin,Sub-Saharan Africa,lmc,Male,years,6.481999874
-BEN,Benin,Sub-Saharan Africa,lmc,Female,years,3.499000072
-BEN,Benin,Sub-Saharan Africa,lmc,Total,lays,3.064011335
-BEN,Benin,Sub-Saharan Africa,lmc,Male,lays,3.983525753
-BEN,Benin,Sub-Saharan Africa,lmc,Female,lays,2.148488998
-BGD,Bangladesh,South Asia,lmc,Total,years,9.210000038
-BGD,Bangladesh,South Asia,lmc,Male,years,10.05200005
-BGD,Bangladesh,South Asia,lmc,Female,years,8.37899971
-BGD,Bangladesh,South Asia,lmc,Total,lays,5.427494049
-BGD,Bangladesh,South Asia,lmc,Male,lays,5.897939682
-BGD,Bangladesh,South Asia,lmc,Female,lays,4.957724094
-BGR,Bulgaria,Europe & Central Asia,hic,Total,years,12.26299953
-BGR,Bulgaria,Europe & Central Asia,hic,Male,years,12.07800007
-BGR,Bulgaria,Europe & Central Asia,hic,Female,years,12.45800018
-BGR,Bulgaria,Europe & Central Asia,hic,Total,lays,8.654603958
-BGR,Bulgaria,Europe & Central Asia,hic,Male,lays,8.348537445
-BGR,Bulgaria,Europe & Central Asia,hic,Female,lays,8.997051239
-BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,11.57800007
-BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,11.53299999
-BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,11.64000034
-BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,8.367763519
-BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,8.000085831
-BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,8.757818222
-BRA,Brazil,Latin America & Caribbean,umc,Total,years,9.625
-BRA,Brazil,Latin America & Caribbean,umc,Male,years,9.163999557
-BRA,Brazil,Latin America & Caribbean,umc,Female,years,10.04599953
-BRA,Brazil,Latin America & Caribbean,umc,Total,lays,6.363969326
-BRA,Brazil,Latin America & Caribbean,umc,Male,lays,6.014499664
-BRA,Brazil,Latin America & Caribbean,umc,Female,lays,6.691256046
-BRN,Brunei Darussalam,East Asia & Pacific,hic,Total,years,9.392000198
-BRN,Brunei Darussalam,East Asia & Pacific,hic,Male,years,8.946000099
-BRN,Brunei Darussalam,East Asia & Pacific,hic,Female,years,9.902999878
-BRN,Brunei Darussalam,East Asia & Pacific,hic,Total,lays,6.57463932
-BRN,Brunei Darussalam,East Asia & Pacific,hic,Male,lays,6.155784607
-BRN,Brunei Darussalam,East Asia & Pacific,hic,Female,lays,7.052719593
-BWA,Botswana,Sub-Saharan Africa,umc,Total,years,11.13300037
-BWA,Botswana,Sub-Saharan Africa,umc,Male,years,11.39700031
-BWA,Botswana,Sub-Saharan Africa,umc,Female,years,10.8920002
-BWA,Botswana,Sub-Saharan Africa,umc,Total,lays,6.97047472
-BWA,Botswana,Sub-Saharan Africa,umc,Male,lays,6.944083691
-BWA,Botswana,Sub-Saharan Africa,umc,Female,lays,6.994748592
-CAN,Canada,North America,hic,Total,years,13.52799988
-CAN,Canada,North America,hic,Male,years,13.18799973
-CAN,Canada,North America,hic,Female,years,13.86800003
-CAN,Canada,North America,hic,Total,lays,11.55827904
-CAN,Canada,North America,hic,Male,lays,11.17339611
-CAN,Canada,North America,hic,Female,lays,11.94959831
-CHE,Switzerland,Europe & Central Asia,hic,Total,years,13.37100029
-CHE,Switzerland,Europe & Central Asia,hic,Male,years,13.29399967
-CHE,Switzerland,Europe & Central Asia,hic,Female,years,13.45100021
-CHE,Switzerland,Europe & Central Asia,hic,Total,lays,11.02067852
-CHE,Switzerland,Europe & Central Asia,hic,Male,lays,10.87823677
-CHE,Switzerland,Europe & Central Asia,hic,Female,lays,11.17548656
-CHL,Chile,Latin America & Caribbean,hic,Total,years,11.84399986
-CHL,Chile,Latin America & Caribbean,hic,Male,years,11.80099964
-CHL,Chile,Latin America & Caribbean,hic,Female,years,11.88599968
-CHL,Chile,Latin America & Caribbean,hic,Total,lays,8.569716454
-CHL,Chile,Latin America & Caribbean,hic,Male,lays,8.512827873
-CHL,Chile,Latin America & Caribbean,hic,Female,lays,8.626732826
-CHN,China,East Asia & Pacific,umc,Total,years,8.852000237
-CHN,China,East Asia & Pacific,umc,Male,years,8.899000168
-CHN,China,East Asia & Pacific,umc,Female,years,8.807999611
-CHN,China,East Asia & Pacific,umc,Total,lays,6.245971203
-CHN,China,East Asia & Pacific,umc,Male,lays,6.27913475
-CHN,China,East Asia & Pacific,umc,Female,lays,6.214924335
-CIV,Cote d'Ivoire,Sub-Saharan Africa,lmc,Total,years,5.539000034
-CIV,Cote d'Ivoire,Sub-Saharan Africa,lmc,Male,years,6.587999821
-CIV,Cote d'Ivoire,Sub-Saharan Africa,lmc,Female,years,4.488999844
-CIV,Cote d'Ivoire,Sub-Saharan Africa,lmc,Total,lays,3.307718277
-CIV,Cote d'Ivoire,Sub-Saharan Africa,lmc,Male,lays,3.952130795
-CIV,Cote d'Ivoire,Sub-Saharan Africa,lmc,Female,lays,2.666181326
-CMR,Cameroon,Sub-Saharan Africa,lmc,Total,years,7.06799984
-CMR,Cameroon,Sub-Saharan Africa,lmc,Male,years,7.539999962
-CMR,Cameroon,Sub-Saharan Africa,lmc,Female,years,6.600999832
-CMR,Cameroon,Sub-Saharan Africa,lmc,Total,lays,4.28455162
-CMR,Cameroon,Sub-Saharan Africa,lmc,Male,lays,4.530790329
-CMR,Cameroon,Sub-Saharan Africa,lmc,Female,lays,4.042974949
-COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Total,years,9.437000275
-COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Male,years,10.56900024
-COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Female,years,8.248999596
-COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Total,lays,4.683728695
-COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Male,lays,5.274019241
-COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Female,lays,4.070579052
-COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Total,years,5.603000164
-COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Male,years,6.68900013
-COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Female,years,4.543000221
-COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Total,lays,3.322481155
-COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Male,lays,3.978901386
-COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Female,lays,2.685389757
-COL,Colombia,Latin America & Caribbean,umc,Total,years,10.31599998
-COL,Colombia,Latin America & Caribbean,umc,Male,years,10.04800034
-COL,Colombia,Latin America & Caribbean,umc,Female,years,10.56200027
-COL,Colombia,Latin America & Caribbean,umc,Total,lays,6.916300774
-COL,Colombia,Latin America & Caribbean,umc,Male,lays,6.799784184
-COL,Colombia,Latin America & Caribbean,umc,Female,lays,7.017424107
-CRI,Costa Rica,Latin America & Caribbean,hic,Total,years,9.404999733
-CRI,Costa Rica,Latin America & Caribbean,hic,Male,years,9.105999947
-CRI,Costa Rica,Latin America & Caribbean,hic,Female,years,9.715999603
-CRI,Costa Rica,Latin America & Caribbean,hic,Total,lays,6.448905945
-CRI,Costa Rica,Latin America & Caribbean,hic,Male,lays,6.278381824
-CRI,Costa Rica,Latin America & Caribbean,hic,Female,lays,6.626218796
-CYP,Cyprus,Europe & Central Asia,hic,Total,years,13.3920002
-CYP,Cyprus,Europe & Central Asia,hic,Male,years,13.03199959
-CYP,Cyprus,Europe & Central Asia,hic,Female,years,13.75899982
-CYP,Cyprus,Europe & Central Asia,hic,Total,lays,10.75992966
-CYP,Cyprus,Europe & Central Asia,hic,Male,lays,10.50514603
-CYP,Cyprus,Europe & Central Asia,hic,Female,lays,11.01719284
-CZE,Czechia,Europe & Central Asia,hic,Total,years,12.76299953
-CZE,Czechia,Europe & Central Asia,hic,Male,years,12.56099987
-CZE,Czechia,Europe & Central Asia,hic,Female,years,12.98600006
-CZE,Czechia,Europe & Central Asia,hic,Total,lays,10.45997524
-CZE,Czechia,Europe & Central Asia,hic,Male,lays,10.19215584
-CZE,Czechia,Europe & Central Asia,hic,Female,lays,10.75321293
-DEU,Germany,Europe & Central Asia,hic,Total,years,12.16100025
-DEU,Germany,Europe & Central Asia,hic,Male,years,12.01000023
-DEU,Germany,Europe & Central Asia,hic,Female,years,12.31999969
-DEU,Germany,Europe & Central Asia,hic,Total,lays,10.06505585
-DEU,Germany,Europe & Central Asia,hic,Male,lays,9.881995201
-DEU,Germany,Europe & Central Asia,hic,Female,lays,10.26597214
-DNK,Denmark,Europe & Central Asia,hic,Total,years,13.69299984
-DNK,Denmark,Europe & Central Asia,hic,Male,years,12.91100025
-DNK,Denmark,Europe & Central Asia,hic,Female,years,14.41800022
-DNK,Denmark,Europe & Central Asia,hic,Total,lays,11.34608078
-DNK,Denmark,Europe & Central Asia,hic,Male,lays,10.60346413
-DNK,Denmark,Europe & Central Asia,hic,Female,lays,12.05270767
-DOM,Dominican Republic,Latin America & Caribbean,umc,Total,years,10.22900009
-DOM,Dominican Republic,Latin America & Caribbean,umc,Male,years,9.305000305
-DOM,Dominican Republic,Latin America & Caribbean,umc,Female,years,11.17800045
-DOM,Dominican Republic,Latin America & Caribbean,umc,Total,lays,5.649951935
-DOM,Dominican Republic,Latin America & Caribbean,umc,Male,lays,5.028993607
-DOM,Dominican Republic,Latin America & Caribbean,umc,Female,lays,6.306128025
-DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Total,years,8.654000282
-DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Male,years,8.237000465
-DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Female,years,9.057999611
-DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Total,lays,5.179787159
-DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Male,lays,4.820403099
-DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Female,lays,5.556115627
-ECU,Ecuador,Latin America & Caribbean,umc,Total,years,9.637000084
-ECU,Ecuador,Latin America & Caribbean,umc,Male,years,9.548000336
-ECU,Ecuador,Latin America & Caribbean,umc,Female,years,9.741999626
-ECU,Ecuador,Latin America & Caribbean,umc,Total,lays,6.478354931
-ECU,Ecuador,Latin America & Caribbean,umc,Male,lays,6.399364948
-ECU,Ecuador,Latin America & Caribbean,umc,Female,lays,6.565964222
-EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,9.010000229
-EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,11.94900036
-EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,5.883999825
-EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,5.131901741
-EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,6.572490692
-EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,3.46513176
-ESP,Spain,Europe & Central Asia,hic,Total,years,11.43700027
-ESP,Spain,Europe & Central Asia,hic,Male,years,10.90200043
-ESP,Spain,Europe & Central Asia,hic,Female,years,11.96399975
-ESP,Spain,Europe & Central Asia,hic,Total,lays,9.270762444
-ESP,Spain,Europe & Central Asia,hic,Male,lays,8.877056122
-ESP,Spain,Europe & Central Asia,hic,Female,lays,9.652970314
-EST,Estonia,Europe & Central Asia,hic,Total,years,12.79899979
-EST,Estonia,Europe & Central Asia,hic,Male,years,12.38099957
-EST,Estonia,Europe & Central Asia,hic,Female,years,13.24199963
-EST,Estonia,Europe & Central Asia,hic,Total,lays,11.12399101
-EST,Estonia,Europe & Central Asia,hic,Male,lays,10.67158985
-EST,Estonia,Europe & Central Asia,hic,Female,lays,11.60440922
-FIN,Finland,Europe & Central Asia,hic,Total,years,12.28600025
-FIN,Finland,Europe & Central Asia,hic,Male,years,11.95899963
-FIN,Finland,Europe & Central Asia,hic,Female,years,12.60299969
-FIN,Finland,Europe & Central Asia,hic,Total,lays,10.49141121
-FIN,Finland,Europe & Central Asia,hic,Male,lays,9.95240593
-FIN,Finland,Europe & Central Asia,hic,Female,lays,11.04643536
-FJI,Fiji,East Asia & Pacific,umc,Total,years,10.10200024
-FJI,Fiji,East Asia & Pacific,umc,Male,years,9.880000114
-FJI,Fiji,East Asia & Pacific,umc,Female,years,10.33100033
-FJI,Fiji,East Asia & Pacific,umc,Total,lays,6.195936203
-FJI,Fiji,East Asia & Pacific,umc,Male,lays,5.81542778
-FJI,Fiji,East Asia & Pacific,umc,Female,lays,6.608831406
-FRA,France,Europe & Central Asia,hic,Total,years,11.68999958
-FRA,France,Europe & Central Asia,hic,Male,years,11.3739996
-FRA,France,Europe & Central Asia,hic,Female,years,11.97299957
-FRA,France,Europe & Central Asia,hic,Total,lays,9.543913841
-FRA,France,Europe & Central Asia,hic,Male,lays,9.228402138
-FRA,France,Europe & Central Asia,hic,Female,lays,9.837165833
-GAB,Gabon,Sub-Saharan Africa,umc,Total,years,9.883999825
-GAB,Gabon,Sub-Saharan Africa,umc,Male,years,9.095999718
-GAB,Gabon,Sub-Saharan Africa,umc,Female,years,10.71500015
-GAB,Gabon,Sub-Saharan Africa,umc,Total,lays,7.213385582
-GAB,Gabon,Sub-Saharan Africa,umc,Male,lays,6.66441679
-GAB,Gabon,Sub-Saharan Africa,umc,Female,lays,7.790885925
-GBR,United Kingdom,Europe & Central Asia,hic,Total,years,13.65499973
-GBR,United Kingdom,Europe & Central Asia,hic,Male,years,13.47900009
-GBR,United Kingdom,Europe & Central Asia,hic,Female,years,13.82999992
-GBR,United Kingdom,Europe & Central Asia,hic,Total,lays,11.36874771
-GBR,United Kingdom,Europe & Central Asia,hic,Male,lays,11.2046175
-GBR,United Kingdom,Europe & Central Asia,hic,Female,lays,11.53148651
-GHA,Ghana,Sub-Saharan Africa,lmc,Total,years,8.597999573
-GHA,Ghana,Sub-Saharan Africa,lmc,Male,years,9.253000259
-GHA,Ghana,Sub-Saharan Africa,lmc,Female,years,7.925000191
-GHA,Ghana,Sub-Saharan Africa,lmc,Total,lays,4.227131367
-GHA,Ghana,Sub-Saharan Africa,lmc,Male,lays,4.565790653
-GHA,Ghana,Sub-Saharan Africa,lmc,Female,lays,3.881567478
-GMB,"Gambia, The",Sub-Saharan Africa,lic,Total,years,6.962999821
-GMB,"Gambia, The",Sub-Saharan Africa,lic,Male,years,9.255999565
-GMB,"Gambia, The",Sub-Saharan Africa,lic,Female,years,4.886000156
-GMB,"Gambia, The",Sub-Saharan Africa,lic,Total,lays,3.93158412
-GMB,"Gambia, The",Sub-Saharan Africa,lic,Male,lays,5.214829445
-GMB,"Gambia, The",Sub-Saharan Africa,lic,Female,lays,2.763951778
-GRC,Greece,Europe & Central Asia,hic,Total,years,12.64599991
-GRC,Greece,Europe & Central Asia,hic,Male,years,12.23600006
-GRC,Greece,Europe & Central Asia,hic,Female,years,13.07299995
-GRC,Greece,Europe & Central Asia,hic,Total,lays,9.482197762
-GRC,Greece,Europe & Central Asia,hic,Male,lays,9.002118111
-GRC,Greece,Europe & Central Asia,hic,Female,lays,9.992155075
-GTM,Guatemala,Latin America & Caribbean,umc,Total,years,6.848999977
-GTM,Guatemala,Latin America & Caribbean,umc,Male,years,7.304999828
-GTM,Guatemala,Latin America & Caribbean,umc,Female,years,6.375999928
-GTM,Guatemala,Latin America & Caribbean,umc,Total,lays,4.440974712
-GTM,Guatemala,Latin America & Caribbean,umc,Male,lays,4.703008175
-GTM,Guatemala,Latin America & Caribbean,umc,Female,lays,4.163469791
-GUY,Guyana,Latin America & Caribbean,hic,Total,years,10.15600014
-GUY,Guyana,Latin America & Caribbean,hic,Male,years,9.574999809
-GUY,Guyana,Latin America & Caribbean,hic,Female,years,10.71500015
-GUY,Guyana,Latin America & Caribbean,hic,Total,lays,5.628307343
-GUY,Guyana,Latin America & Caribbean,hic,Male,lays,5.174648762
-GUY,Guyana,Latin America & Caribbean,hic,Female,lays,6.106957912
-HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Total,years,14.65600014
-HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Male,years,14.80300045
-HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Female,years,14.59700012
-HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Total,lays,12.86518764
-HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Male,lays,12.802845
-HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Female,lays,13.01249695
-HND,Honduras,Latin America & Caribbean,lmc,Total,years,7.888999939
-HND,Honduras,Latin America & Caribbean,lmc,Male,years,7.546999931
-HND,Honduras,Latin America & Caribbean,lmc,Female,years,8.239999771
-HND,Honduras,Latin America & Caribbean,lmc,Total,lays,5.045814514
-HND,Honduras,Latin America & Caribbean,lmc,Male,lays,4.838341236
-HND,Honduras,Latin America & Caribbean,lmc,Female,lays,5.257917881
-HRV,Croatia,Europe & Central Asia,hic,Total,years,12.79699993
-HRV,Croatia,Europe & Central Asia,hic,Male,years,12.56400013
-HRV,Croatia,Europe & Central Asia,hic,Female,years,13.04800034
-HRV,Croatia,Europe & Central Asia,hic,Total,lays,9.983323097
-HRV,Croatia,Europe & Central Asia,hic,Male,lays,9.70717907
-HRV,Croatia,Europe & Central Asia,hic,Female,lays,10.27585793
-HTI,Haiti,Latin America & Caribbean,lmc,Total,years,5.985000134
-HTI,Haiti,Latin America & Caribbean,lmc,Male,years,7.461999893
-HTI,Haiti,Latin America & Caribbean,lmc,Female,years,4.647999763
-HTI,Haiti,Latin America & Caribbean,lmc,Total,lays,3.234919548
-HTI,Haiti,Latin America & Caribbean,lmc,Male,lays,3.980942249
-HTI,Haiti,Latin America & Caribbean,lmc,Female,lays,2.545844555
-HUN,Hungary,Europe & Central Asia,hic,Total,years,12.74499989
-HUN,Hungary,Europe & Central Asia,hic,Male,years,12.51000023
-HUN,Hungary,Europe & Central Asia,hic,Female,years,12.99600029
-HUN,Hungary,Europe & Central Asia,hic,Total,lays,10.10385323
-HUN,Hungary,Europe & Central Asia,hic,Male,lays,9.881171227
-HUN,Hungary,Europe & Central Asia,hic,Female,lays,10.33993626
-IDN,Indonesia,East Asia & Pacific,umc,Total,years,9.078000069
-IDN,Indonesia,East Asia & Pacific,umc,Male,years,9.093000412
-IDN,Indonesia,East Asia & Pacific,umc,Female,years,9.072999954
-IDN,Indonesia,East Asia & Pacific,umc,Total,lays,5.736063004
-IDN,Indonesia,East Asia & Pacific,umc,Male,lays,5.64007473
-IDN,Indonesia,East Asia & Pacific,umc,Female,lays,5.834831238
-IND,India,South Asia,lmc,Total,years,8.484999657
-IND,India,South Asia,lmc,Male,years,9.373000145
-IND,India,South Asia,lmc,Female,years,7.498000145
-IND,India,South Asia,lmc,Total,lays,5.416823864
-IND,India,South Asia,lmc,Male,lays,5.983723164
-IND,India,South Asia,lmc,Female,lays,4.786723137
-IRL,Ireland,Europe & Central Asia,hic,Total,years,12.4630003
-IRL,Ireland,Europe & Central Asia,hic,Male,years,12.15799999
-IRL,Ireland,Europe & Central Asia,hic,Female,years,12.75599957
-IRL,Ireland,Europe & Central Asia,hic,Total,lays,10.39570904
-IRL,Ireland,Europe & Central Asia,hic,Male,lays,10.08083916
-IRL,Ireland,Europe & Central Asia,hic,Female,lays,10.70282078
-IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Total,years,10.14000034
-IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Male,years,10.00599957
-IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Female,years,10.25699997
-IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Total,lays,7.010523796
-IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Male,lays,6.718031406
-IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Female,lays,7.323617458
-IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",umc,Total,years,9.031999588
-IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",umc,Male,years,9.550000191
-IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",umc,Female,years,8.536999702
-IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",umc,Total,lays,5.252035618
-IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",umc,Male,lays,5.395120144
-IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",umc,Female,lays,5.145581722
-ISL,Iceland,Europe & Central Asia,hic,Total,years,6.294000149
-ISL,Iceland,Europe & Central Asia,hic,Male,years,5.828000069
-ISL,Iceland,Europe & Central Asia,hic,Female,years,6.80700016
-ISL,Iceland,Europe & Central Asia,hic,Total,lays,5.011864662
-ISL,Iceland,Europe & Central Asia,hic,Male,lays,4.547240734
-ISL,Iceland,Europe & Central Asia,hic,Female,lays,5.528207302
-ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,13.13500023
-ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,12.77400017
-ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,13.50699997
-ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,10.10348797
-ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,9.545718193
-ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,10.65586853
-ITA,Italy,Europe & Central Asia,hic,Total,years,12.42800045
-ITA,Italy,Europe & Central Asia,hic,Male,years,12.06400013
-ITA,Italy,Europe & Central Asia,hic,Female,years,12.79100037
-ITA,Italy,Europe & Central Asia,hic,Total,lays,9.802964211
-ITA,Italy,Europe & Central Asia,hic,Male,lays,9.500295639
-ITA,Italy,Europe & Central Asia,hic,Female,lays,10.10696983
-JAM,Jamaica,Latin America & Caribbean,umc,Total,years,12.20300007
-JAM,Jamaica,Latin America & Caribbean,umc,Male,years,12.1079998
-JAM,Jamaica,Latin America & Caribbean,umc,Female,years,12.30099964
-JAM,Jamaica,Latin America & Caribbean,umc,Total,lays,7.558694363
-JAM,Jamaica,Latin America & Caribbean,umc,Male,lays,7.206039906
-JAM,Jamaica,Latin America & Caribbean,umc,Female,lays,7.946775913
-JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,11.09000015
-JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,10.93000031
-JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,11.24499989
-JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,7.629105091
-JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,7.256850719
-JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,7.996060371
-JPN,Japan,East Asia & Pacific,hic,Total,years,13.61699963
-JPN,Japan,East Asia & Pacific,hic,Male,years,13.49100018
-JPN,Japan,East Asia & Pacific,hic,Female,years,13.74800014
-JPN,Japan,East Asia & Pacific,hic,Total,lays,11.71548843
-JPN,Japan,East Asia & Pacific,hic,Male,lays,11.58176041
-JPN,Japan,East Asia & Pacific,hic,Female,lays,11.85278416
-KAZ,Kazakhstan,Europe & Central Asia,umc,Total,years,11.67399979
-KAZ,Kazakhstan,Europe & Central Asia,umc,Male,years,11.5
-KAZ,Kazakhstan,Europe & Central Asia,umc,Female,years,11.84700012
-KAZ,Kazakhstan,Europe & Central Asia,umc,Total,lays,7.77310276
-KAZ,Kazakhstan,Europe & Central Asia,umc,Male,lays,7.558030128
-KAZ,Kazakhstan,Europe & Central Asia,umc,Female,lays,7.996418476
-KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Total,years,11.46899986
-KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Male,years,11.32900047
-KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Female,years,11.60999966
-KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Total,lays,7.708755493
-KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Male,lays,7.51171875
-KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Female,lays,7.917392254
-KOR,"Korea, Rep.",East Asia & Pacific,hic,Total,years,14.22200012
-KOR,"Korea, Rep.",East Asia & Pacific,hic,Male,years,14.11200047
-KOR,"Korea, Rep.",East Asia & Pacific,hic,Female,years,14.34599972
-KOR,"Korea, Rep.",East Asia & Pacific,hic,Total,lays,12.22431469
-KOR,"Korea, Rep.",East Asia & Pacific,hic,Male,lays,12.07578468
-KOR,"Korea, Rep.",East Asia & Pacific,hic,Female,lays,12.39136124
-KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,7.215000153
-KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,6.894000053
-KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,7.611999989
-KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,4.42599535
-KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,4.06771183
-KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,4.84165144
-LAO,Lao PDR,East Asia & Pacific,lmc,Total,years,7.271999836
-LAO,Lao PDR,East Asia & Pacific,lmc,Male,years,8.048000336
-LAO,Lao PDR,East Asia & Pacific,lmc,Female,years,6.478000164
-LAO,Lao PDR,East Asia & Pacific,lmc,Total,lays,4.283406734
-LAO,Lao PDR,East Asia & Pacific,lmc,Male,lays,4.668727398
-LAO,Lao PDR,East Asia & Pacific,lmc,Female,lays,3.872476339
-LBR,Liberia,Sub-Saharan Africa,lic,Total,years,4.803999901
-LBR,Liberia,Sub-Saharan Africa,lic,Male,years,5.723999977
-LBR,Liberia,Sub-Saharan Africa,lic,Female,years,3.875
-LBR,Liberia,Sub-Saharan Africa,lic,Total,lays,2.549932003
-LBR,Liberia,Sub-Saharan Africa,lic,Male,lays,3.071587563
-LBR,Liberia,Sub-Saharan Africa,lic,Female,lays,2.031407356
-LTU,Lithuania,Europe & Central Asia,hic,Total,years,12.54100037
-LTU,Lithuania,Europe & Central Asia,hic,Male,years,12.12100029
-LTU,Lithuania,Europe & Central Asia,hic,Female,years,12.97200012
-LTU,Lithuania,Europe & Central Asia,hic,Total,lays,9.950256348
-LTU,Lithuania,Europe & Central Asia,hic,Male,lays,9.466334343
-LTU,Lithuania,Europe & Central Asia,hic,Female,lays,10.4607048
-LUX,Luxembourg,Europe & Central Asia,hic,Total,years,12.87699986
-LUX,Luxembourg,Europe & Central Asia,hic,Male,years,12.50300026
-LUX,Luxembourg,Europe & Central Asia,hic,Female,years,13.24600029
-LUX,Luxembourg,Europe & Central Asia,hic,Total,lays,10.15424252
-LUX,Luxembourg,Europe & Central Asia,hic,Male,lays,9.773159981
-LUX,Luxembourg,Europe & Central Asia,hic,Female,lays,10.5390749
-LVA,Latvia,Europe & Central Asia,hic,Total,years,12.71500015
-LVA,Latvia,Europe & Central Asia,hic,Male,years,12.01399994
-LVA,Latvia,Europe & Central Asia,hic,Female,years,13.43099976
-LVA,Latvia,Europe & Central Asia,hic,Total,lays,10.2507267
-LVA,Latvia,Europe & Central Asia,hic,Male,lays,9.573279381
-LVA,Latvia,Europe & Central Asia,hic,Female,lays,10.9496727
-MAC,"Macao SAR, China",East Asia & Pacific,hic,Total,years,11.79500008
-MAC,"Macao SAR, China",East Asia & Pacific,hic,Male,years,11.42099953
-MAC,"Macao SAR, China",East Asia & Pacific,hic,Female,years,12.13000011
-MAC,"Macao SAR, China",East Asia & Pacific,hic,Total,lays,10.57989883
-MAC,"Macao SAR, China",East Asia & Pacific,hic,Male,lays,10.18429565
-MAC,"Macao SAR, China",East Asia & Pacific,hic,Female,lays,10.94598579
-MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,6.46600008
-MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,7.282000065
-MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,5.68200016
-MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,3.935520172
-MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,4.368252754
-MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,3.512955666
-MDA,Moldova,Europe & Central Asia,umc,Total,years,11.38799953
-MDA,Moldova,Europe & Central Asia,umc,Male,years,11.20100021
-MDA,Moldova,Europe & Central Asia,umc,Female,years,11.66100025
-MDA,Moldova,Europe & Central Asia,umc,Total,lays,7.992023945
-MDA,Moldova,Europe & Central Asia,umc,Male,lays,7.704590321
-MDA,Moldova,Europe & Central Asia,umc,Female,lays,8.355443001
-MEX,Mexico,Latin America & Caribbean,umc,Total,years,10.15600014
-MEX,Mexico,Latin America & Caribbean,umc,Male,years,10.0880003
-MEX,Mexico,Latin America & Caribbean,umc,Female,years,10.22000027
-MEX,Mexico,Latin America & Caribbean,umc,Total,lays,6.988386154
-MEX,Mexico,Latin America & Caribbean,umc,Male,lays,6.972627163
-MEX,Mexico,Latin America & Caribbean,umc,Female,lays,7.003456116
-MLI,Mali,Sub-Saharan Africa,lic,Total,years,2.684000015
-MLI,Mali,Sub-Saharan Africa,lic,Male,years,3.332000017
-MLI,Mali,Sub-Saharan Africa,lic,Female,years,2.009000063
-MLI,Mali,Sub-Saharan Africa,lic,Total,lays,1.319948077
-MLI,Mali,Sub-Saharan Africa,lic,Male,lays,1.638313651
-MLI,Mali,Sub-Saharan Africa,lic,Female,lays,0.988198996
-MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,13.3039999
-MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,12.99300003
-MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,13.6260004
-MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,10.09901333
-MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,9.584259033
-MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,10.66199207
-MMR,Myanmar,East Asia & Pacific,lmc,Total,years,6.572999954
-MMR,Myanmar,East Asia & Pacific,lmc,Male,years,6.010000229
-MMR,Myanmar,East Asia & Pacific,lmc,Female,years,7.065999985
-MMR,Myanmar,East Asia & Pacific,lmc,Total,lays,4.465762138
-MMR,Myanmar,East Asia & Pacific,lmc,Male,lays,4.021527767
-MMR,Myanmar,East Asia & Pacific,lmc,Female,lays,4.877262115
-MNG,Mongolia,East Asia & Pacific,umc,Total,years,9.850999832
-MNG,Mongolia,East Asia & Pacific,umc,Male,years,9.241000175
-MNG,Mongolia,East Asia & Pacific,umc,Female,years,10.4659996
-MNG,Mongolia,East Asia & Pacific,umc,Total,lays,6.85028553
-MNG,Mongolia,East Asia & Pacific,umc,Male,lays,6.430468082
-MNG,Mongolia,East Asia & Pacific,umc,Female,lays,7.275262356
-MOZ,Mozambique,Sub-Saharan Africa,lic,Total,years,5.742000103
-MOZ,Mozambique,Sub-Saharan Africa,lic,Male,years,6.537000179
-MOZ,Mozambique,Sub-Saharan Africa,lic,Female,years,4.96999979
-MOZ,Mozambique,Sub-Saharan Africa,lic,Total,lays,3.383127689
-MOZ,Mozambique,Sub-Saharan Africa,lic,Male,lays,3.819107056
-MOZ,Mozambique,Sub-Saharan Africa,lic,Female,lays,2.948993444
-MRT,Mauritania,Sub-Saharan Africa,lmc,Total,years,5.610000134
-MRT,Mauritania,Sub-Saharan Africa,lmc,Male,years,6.482999802
-MRT,Mauritania,Sub-Saharan Africa,lmc,Female,years,4.710000038
-MRT,Mauritania,Sub-Saharan Africa,lmc,Total,lays,3.070631981
-MRT,Mauritania,Sub-Saharan Africa,lmc,Male,lays,3.53170681
-MRT,Mauritania,Sub-Saharan Africa,lmc,Female,lays,2.587394238
-MYS,Malaysia,East Asia & Pacific,umc,Total,years,12.79199982
-MYS,Malaysia,East Asia & Pacific,umc,Male,years,12.65100002
-MYS,Malaysia,East Asia & Pacific,umc,Female,years,12.94099998
-MYS,Malaysia,East Asia & Pacific,umc,Total,lays,9.121726036
-MYS,Malaysia,East Asia & Pacific,umc,Male,lays,8.883316994
-MYS,Malaysia,East Asia & Pacific,umc,Female,lays,9.361903191
-NER,Niger,Sub-Saharan Africa,lic,Total,years,2.381999969
-NER,Niger,Sub-Saharan Africa,lic,Male,years,3.089999914
-NER,Niger,Sub-Saharan Africa,lic,Female,years,1.753000021
-NER,Niger,Sub-Saharan Africa,lic,Total,lays,1.162119627
-NER,Niger,Sub-Saharan Africa,lic,Male,lays,1.518255472
-NER,Niger,Sub-Saharan Africa,lic,Female,lays,0.8473000526
-NIC,Nicaragua,Latin America & Caribbean,lmc,Total,years,8.199000359
-NIC,Nicaragua,Latin America & Caribbean,lmc,Male,years,7.78399992
-NIC,Nicaragua,Latin America & Caribbean,lmc,Female,years,8.607999802
-NIC,Nicaragua,Latin America & Caribbean,lmc,Total,lays,5.142287731
-NIC,Nicaragua,Latin America & Caribbean,lmc,Male,lays,4.880637646
-NIC,Nicaragua,Latin America & Caribbean,lmc,Female,lays,5.400099754
-NLD,Netherlands,Europe & Central Asia,hic,Total,years,12.90299988
-NLD,Netherlands,Europe & Central Asia,hic,Male,years,12.66899967
-NLD,Netherlands,Europe & Central Asia,hic,Female,years,13.1420002
-NLD,Netherlands,Europe & Central Asia,hic,Total,lays,10.72775364
-NLD,Netherlands,Europe & Central Asia,hic,Male,lays,10.41169071
-NLD,Netherlands,Europe & Central Asia,hic,Female,lays,11.05315876
-NOR,Norway,Europe & Central Asia,hic,Total,years,12.94999981
-NOR,Norway,Europe & Central Asia,hic,Male,years,12.64999962
-NOR,Norway,Europe & Central Asia,hic,Female,years,13.28499985
-NOR,Norway,Europe & Central Asia,hic,Total,lays,10.64153957
-NOR,Norway,Europe & Central Asia,hic,Male,lays,10.1763649
-NOR,Norway,Europe & Central Asia,hic,Female,lays,11.15151215
-NZL,New Zealand,East Asia & Pacific,hic,Total,years,11.56200027
-NZL,New Zealand,East Asia & Pacific,hic,Male,years,11.21700001
-NZL,New Zealand,East Asia & Pacific,hic,Female,years,11.91699982
-NZL,New Zealand,East Asia & Pacific,hic,Total,lays,9.614930153
-NZL,New Zealand,East Asia & Pacific,hic,Male,lays,9.275276184
-NZL,New Zealand,East Asia & Pacific,hic,Female,lays,9.967082024
-PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,6.532000065
-PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,7.137000084
-PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,5.895999908
-PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,3.539367437
-PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,3.820743084
-PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,3.234834194
-PAN,Panama,Latin America & Caribbean,hic,Total,years,10.71199989
-PAN,Panama,Latin America & Caribbean,hic,Male,years,10.36299992
-PAN,Panama,Latin America & Caribbean,hic,Female,years,11.06400013
-PAN,Panama,Latin America & Caribbean,hic,Total,lays,6.459159374
-PAN,Panama,Latin America & Caribbean,hic,Male,lays,6.232312679
-PAN,Panama,Latin America & Caribbean,hic,Female,lays,6.688659191
-PER,Peru,Latin America & Caribbean,umc,Total,years,10.56400013
-PER,Peru,Latin America & Caribbean,umc,Male,years,10.79800034
-PER,Peru,Latin America & Caribbean,umc,Female,years,10.3210001
-PER,Peru,Latin America & Caribbean,umc,Total,lays,7.014925957
-PER,Peru,Latin America & Caribbean,umc,Male,lays,7.228359699
-PER,Peru,Latin America & Caribbean,umc,Female,lays,6.795791149
-PHL,Philippines,East Asia & Pacific,lmc,Total,years,9.199999809
-PHL,Philippines,East Asia & Pacific,lmc,Male,years,8.791999817
-PHL,Philippines,East Asia & Pacific,lmc,Female,years,9.567000389
-PHL,Philippines,East Asia & Pacific,lmc,Total,lays,5.323429108
-PHL,Philippines,East Asia & Pacific,lmc,Male,lays,4.981257915
-PHL,Philippines,East Asia & Pacific,lmc,Female,lays,5.637993336
-PNG,Papua New Guinea,East Asia & Pacific,lmc,Total,years,5.269999981
-PNG,Papua New Guinea,East Asia & Pacific,lmc,Male,years,5.665999889
-PNG,Papua New Guinea,East Asia & Pacific,lmc,Female,years,4.855000019
-PNG,Papua New Guinea,East Asia & Pacific,lmc,Total,lays,3.063519478
-PNG,Papua New Guinea,East Asia & Pacific,lmc,Male,lays,3.255859375
-PNG,Papua New Guinea,East Asia & Pacific,lmc,Female,lays,2.847119808
-POL,Poland,Europe & Central Asia,hic,Total,years,13.16399956
-POL,Poland,Europe & Central Asia,hic,Male,years,12.79199982
-POL,Poland,Europe & Central Asia,hic,Female,years,13.56299973
-POL,Poland,Europe & Central Asia,hic,Total,lays,11.16487885
-POL,Poland,Europe & Central Asia,hic,Male,lays,10.74148083
-POL,Poland,Europe & Central Asia,hic,Female,lays,11.61755657
-PRT,Portugal,Europe & Central Asia,hic,Total,years,11.19499969
-PRT,Portugal,Europe & Central Asia,hic,Male,years,10.65100002
-PRT,Portugal,Europe & Central Asia,hic,Female,years,11.72299957
-PRT,Portugal,Europe & Central Asia,hic,Total,lays,9.1085186
-PRT,Portugal,Europe & Central Asia,hic,Male,lays,8.639480591
-PRT,Portugal,Europe & Central Asia,hic,Female,lays,9.568050385
-PRY,Paraguay,Latin America & Caribbean,umc,Total,years,10.11200047
-PRY,Paraguay,Latin America & Caribbean,umc,Male,years,9.961000443
-PRY,Paraguay,Latin America & Caribbean,umc,Female,years,10.27900028
-PRY,Paraguay,Latin America & Caribbean,umc,Total,lays,6.237798214
-PRY,Paraguay,Latin America & Caribbean,umc,Male,lays,6.189026833
-PRY,Paraguay,Latin America & Caribbean,umc,Female,lays,6.296120644
-QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,9.114999771
-QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,8.656000137
-QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,11.02799988
-QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,6.234336853
-QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,5.620503426
-QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,7.936088562
-ROU,Romania,Europe & Central Asia,hic,Total,years,11.75500011
-ROU,Romania,Europe & Central Asia,hic,Male,years,11.64500046
-ROU,Romania,Europe & Central Asia,hic,Female,years,11.8760004
-ROU,Romania,Europe & Central Asia,hic,Total,lays,8.316178322
-ROU,Romania,Europe & Central Asia,hic,Male,lays,8.151019096
-ROU,Romania,Europe & Central Asia,hic,Female,lays,8.49639225
-RUS,Russian Federation,Europe & Central Asia,hic,Total,years,11.76500034
-RUS,Russian Federation,Europe & Central Asia,hic,Male,years,11.61999989
-RUS,Russian Federation,Europe & Central Asia,hic,Female,years,11.89000034
-RUS,Russian Federation,Europe & Central Asia,hic,Total,lays,9.365810394
-RUS,Russian Federation,Europe & Central Asia,hic,Male,lays,9.184993744
-RUS,Russian Federation,Europe & Central Asia,hic,Female,lays,9.53113842
-RWA,Rwanda,Sub-Saharan Africa,lic,Total,years,5.125999928
-RWA,Rwanda,Sub-Saharan Africa,lic,Male,years,5.706999779
-RWA,Rwanda,Sub-Saharan Africa,lic,Female,years,4.538000107
-RWA,Rwanda,Sub-Saharan Africa,lic,Total,lays,2.936861515
-RWA,Rwanda,Sub-Saharan Africa,lic,Male,lays,3.208634853
-RWA,Rwanda,Sub-Saharan Africa,lic,Female,lays,2.650891304
-SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,9.869000435
-SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,10.5010004
-SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,9
-SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,6.299879551
-SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,6.436794281
-SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,5.988398075
-SDN,Sudan,Sub-Saharan Africa,lic,Total,years,4.521999836
-SDN,Sudan,Sub-Saharan Africa,lic,Male,years,4.756000042
-SDN,Sudan,Sub-Saharan Africa,lic,Female,years,4.282999992
-SDN,Sudan,Sub-Saharan Africa,lic,Total,lays,2.746725321
-SDN,Sudan,Sub-Saharan Africa,lic,Male,lays,2.825335741
-SDN,Sudan,Sub-Saharan Africa,lic,Female,lays,2.668277502
-SEN,Senegal,Sub-Saharan Africa,lmc,Total,years,3.75999999
-SEN,Senegal,Sub-Saharan Africa,lmc,Male,years,5.296000004
-SEN,Senegal,Sub-Saharan Africa,lmc,Female,years,2.35800004
-SEN,Senegal,Sub-Saharan Africa,lmc,Total,lays,2.481322289
-SEN,Senegal,Sub-Saharan Africa,lmc,Male,lays,3.535179377
-SEN,Senegal,Sub-Saharan Africa,lmc,Female,lays,1.540088654
-SGP,Singapore,East Asia & Pacific,hic,Total,years,14.66899967
-SGP,Singapore,East Asia & Pacific,hic,Male,years,14.61100006
-SGP,Singapore,East Asia & Pacific,hic,Female,years,14.73400021
-SGP,Singapore,East Asia & Pacific,hic,Total,lays,13.50186729
-SGP,Singapore,East Asia & Pacific,hic,Male,lays,13.39053917
-SGP,Singapore,East Asia & Pacific,hic,Female,lays,13.62244034
-SLE,Sierra Leone,Sub-Saharan Africa,lic,Total,years,4.449999809
-SLE,Sierra Leone,Sub-Saharan Africa,lic,Male,years,5.311999798
-SLE,Sierra Leone,Sub-Saharan Africa,lic,Female,years,3.519000053
-SLE,Sierra Leone,Sub-Saharan Africa,lic,Total,lays,2.249036551
-SLE,Sierra Leone,Sub-Saharan Africa,lic,Male,lays,2.701412916
-SLE,Sierra Leone,Sub-Saharan Africa,lic,Female,lays,1.767617822
-SLV,El Salvador,Latin America & Caribbean,umc,Total,years,9.774000168
-SLV,El Salvador,Latin America & Caribbean,umc,Male,years,9.581999779
-SLV,El Salvador,Latin America & Caribbean,umc,Female,years,9.928999901
-SLV,El Salvador,Latin America & Caribbean,umc,Total,lays,6.81713438
-SLV,El Salvador,Latin America & Caribbean,umc,Male,lays,6.637009621
-SLV,El Salvador,Latin America & Caribbean,umc,Female,lays,6.976507664
-SRB,Serbia,Europe & Central Asia,umc,Total,years,12.41100025
-SRB,Serbia,Europe & Central Asia,umc,Male,years,12.19499969
-SRB,Serbia,Europe & Central Asia,umc,Female,years,12.64000034
-SRB,Serbia,Europe & Central Asia,umc,Total,lays,9.083929062
-SRB,Serbia,Europe & Central Asia,umc,Male,lays,8.803283691
-SRB,Serbia,Europe & Central Asia,umc,Female,lays,9.383473396
-SVK,Slovak Republic,Europe & Central Asia,hic,Total,years,12.23700047
-SVK,Slovak Republic,Europe & Central Asia,hic,Male,years,11.93299961
-SVK,Slovak Republic,Europe & Central Asia,hic,Female,years,12.56900024
-SVK,Slovak Republic,Europe & Central Asia,hic,Total,lays,9.502765656
-SVK,Slovak Republic,Europe & Central Asia,hic,Male,lays,9.152780533
-SVK,Slovak Republic,Europe & Central Asia,hic,Female,lays,9.878926277
-SVN,Slovenia,Europe & Central Asia,hic,Total,years,12.79300022
-SVN,Slovenia,Europe & Central Asia,hic,Male,years,12.32199955
-SVN,Slovenia,Europe & Central Asia,hic,Female,years,13.26099968
-SVN,Slovenia,Europe & Central Asia,hic,Total,lays,10.66033554
-SVN,Slovenia,Europe & Central Asia,hic,Male,lays,10.10323238
-SVN,Slovenia,Europe & Central Asia,hic,Female,lays,11.23625755
-SWE,Sweden,Europe & Central Asia,hic,Total,years,12.78899956
-SWE,Sweden,Europe & Central Asia,hic,Male,years,12.44900036
-SWE,Sweden,Europe & Central Asia,hic,Female,years,13.15400028
-SWE,Sweden,Europe & Central Asia,hic,Total,lays,10.627388
-SWE,Sweden,Europe & Central Asia,hic,Male,lays,10.2001009
-SWE,Sweden,Europe & Central Asia,hic,Female,lays,11.08379078
-TGO,Togo,Sub-Saharan Africa,lic,Total,years,7.138999939
-TGO,Togo,Sub-Saharan Africa,lic,Male,years,8.574000359
-TGO,Togo,Sub-Saharan Africa,lic,Female,years,5.744999886
-TGO,Togo,Sub-Saharan Africa,lic,Total,lays,4.382978439
-TGO,Togo,Sub-Saharan Africa,lic,Male,lays,5.27115202
-TGO,Togo,Sub-Saharan Africa,lic,Female,lays,3.521527767
-THA,Thailand,East Asia & Pacific,umc,Total,years,9.727000237
-THA,Thailand,East Asia & Pacific,umc,Male,years,9.494999886
-THA,Thailand,East Asia & Pacific,umc,Female,years,9.923999786
-THA,Thailand,East Asia & Pacific,umc,Total,lays,6.639260769
-THA,Thailand,East Asia & Pacific,umc,Male,lays,6.274416447
-THA,Thailand,East Asia & Pacific,umc,Female,lays,6.96364212
-TON,Tonga,East Asia & Pacific,umc,Total,years,11.84700012
-TON,Tonga,East Asia & Pacific,umc,Male,years,11.58500004
-TON,Tonga,East Asia & Pacific,umc,Female,years,12.04599953
-TON,Tonga,East Asia & Pacific,umc,Total,lays,7.315887928
-TON,Tonga,East Asia & Pacific,umc,Male,lays,6.947014332
-TON,Tonga,East Asia & Pacific,umc,Female,lays,7.698548794
-TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Total,years,11.88399982
-TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Male,years,11.68700027
-TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Female,years,12.07800007
-TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Total,lays,8.714089394
-TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Male,lays,8.317838669
-TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Female,lays,9.104955673
-TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,10.29599953
-TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,10.03499985
-TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,10.51099968
-TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,6.327158928
-TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,6.124755859
-TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,6.497285366
-TUR,Turkiye,Europe & Central Asia,umc,Total,years,9.199999809
-TUR,Turkiye,Europe & Central Asia,umc,Male,years,9.684000015
-TUR,Turkiye,Europe & Central Asia,umc,Female,years,8.736000061
-TUR,Turkiye,Europe & Central Asia,umc,Total,lays,7.035610199
-TUR,Turkiye,Europe & Central Asia,umc,Male,lays,7.334372997
-TUR,Turkiye,Europe & Central Asia,umc,Female,lays,6.746272087
-TZA,Tanzania,Sub-Saharan Africa,lmc,Total,years,6.507999897
-TZA,Tanzania,Sub-Saharan Africa,lmc,Male,years,6.864999771
-TZA,Tanzania,Sub-Saharan Africa,lmc,Female,years,6.150000095
-TZA,Tanzania,Sub-Saharan Africa,lmc,Total,lays,4.045166016
-TZA,Tanzania,Sub-Saharan Africa,lmc,Male,lays,4.194390297
-TZA,Tanzania,Sub-Saharan Africa,lmc,Female,lays,3.885492086
-UKR,Ukraine,Europe & Central Asia,umc,Total,years,11.09300041
-UKR,Ukraine,Europe & Central Asia,umc,Male,years,10.98799992
-UKR,Ukraine,Europe & Central Asia,umc,Female,years,11.1960001
-UKR,Ukraine,Europe & Central Asia,umc,Total,lays,8.487003326
-UKR,Ukraine,Europe & Central Asia,umc,Male,lays,8.339242935
-UKR,Ukraine,Europe & Central Asia,umc,Female,lays,8.64212513
-URY,Uruguay,Latin America & Caribbean,hic,Total,years,10.40999985
-URY,Uruguay,Latin America & Caribbean,hic,Male,years,9.887999535
-URY,Uruguay,Latin America & Caribbean,hic,Female,years,10.93099976
-URY,Uruguay,Latin America & Caribbean,hic,Total,lays,7.290275097
-URY,Uruguay,Latin America & Caribbean,hic,Male,lays,6.895197868
-URY,Uruguay,Latin America & Caribbean,hic,Female,lays,7.685088158
-USA,United States,North America,hic,Total,years,13.81900024
-USA,United States,North America,hic,Male,years,13.76299953
-USA,United States,North America,hic,Female,years,13.88300037
-USA,United States,North America,hic,Total,lays,11.31607342
-USA,United States,North America,hic,Male,lays,11.22090626
-USA,United States,North America,hic,Female,lays,11.42041206
-VNM,Viet Nam,East Asia & Pacific,lmc,Total,years,8.501999855
-VNM,Viet Nam,East Asia & Pacific,lmc,Male,years,8.583999634
-VNM,Viet Nam,East Asia & Pacific,lmc,Female,years,8.420000076
-VNM,Viet Nam,East Asia & Pacific,lmc,Total,lays,7.061424732
-VNM,Viet Nam,East Asia & Pacific,lmc,Male,lays,7.056785583
-VNM,Viet Nam,East Asia & Pacific,lmc,Female,lays,7.061399937
-YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",lic,Total,years,5.320000172
-YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",lic,Male,years,7.18200016
-YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",lic,Female,years,3.346999884
-YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",lic,Total,lays,2.735135794
-YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",lic,Male,lays,3.685385227
-YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",lic,Female,lays,1.725163698
-ZAF,South Africa,Sub-Saharan Africa,umc,Total,years,11.42199993
-ZAF,South Africa,Sub-Saharan Africa,umc,Male,years,11.36800003
-ZAF,South Africa,Sub-Saharan Africa,umc,Female,years,11.47900009
-ZAF,South Africa,Sub-Saharan Africa,umc,Total,lays,6.264080048
-ZAF,South Africa,Sub-Saharan Africa,umc,Male,lays,5.962019444
-ZAF,South Africa,Sub-Saharan Africa,umc,Female,lays,6.589330673
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Total,years,4.271336585
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Male,years,5.875634909
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Female,years,2.5723373
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Total,lays,1.951673587
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Male,lays,2.878238861
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",lic,Female,lays,1.057924458
+ALB,Albania,Europe & Central Asia,umc,Total,years,11.912319
+ALB,Albania,Europe & Central Asia,umc,Male,years,12.2106241
+ALB,Albania,Europe & Central Asia,umc,Female,years,11.58135116
+ALB,Albania,Europe & Central Asia,umc,Total,lays,8.406087279
+ALB,Albania,Europe & Central Asia,umc,Male,lays,8.462806751
+ALB,Albania,Europe & Central Asia,umc,Female,lays,8.33000897
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,12.86075211
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,12.86379337
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,12.85770988
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,9.613363846
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,9.527366309
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,9.704343351
+ARG,Argentina,Latin America & Caribbean,umc,Total,years,12.24680907
+ARG,Argentina,Latin America & Caribbean,umc,Male,years,12.09681028
+ARG,Argentina,Latin America & Caribbean,umc,Female,years,12.4123289
+ARG,Argentina,Latin America & Caribbean,umc,Total,lays,8.013925552
+ARG,Argentina,Latin America & Caribbean,umc,Male,lays,7.927402445
+ARG,Argentina,Latin America & Caribbean,umc,Female,lays,8.110335098
+ARM,Armenia,Europe & Central Asia,umc,Total,years,11.46274111
+ARM,Armenia,Europe & Central Asia,umc,Male,years,11.54751834
+ARM,Armenia,Europe & Central Asia,umc,Female,years,11.38148186
+ARM,Armenia,Europe & Central Asia,umc,Total,lays,8.894405379
+ARM,Armenia,Europe & Central Asia,umc,Male,lays,8.976069257
+ARM,Armenia,Europe & Central Asia,umc,Female,lays,8.815106635
+ATG,Antigua and Barbuda,Latin America & Caribbean,hic,Total,years,12.22332931
+ATG,Antigua and Barbuda,Latin America & Caribbean,hic,Male,years,11.93004799
+ATG,Antigua and Barbuda,Latin America & Caribbean,hic,Female,years,12.56300837
+ATG,Antigua and Barbuda,Latin America & Caribbean,hic,Total,lays,8.208433553
+ATG,Antigua and Barbuda,Latin America & Caribbean,hic,Male,lays,7.812228237
+ATG,Antigua and Barbuda,Latin America & Caribbean,hic,Female,lays,8.651768445
+AUS,Australia,East Asia & Pacific,hic,Total,years,12.88273132
+AUS,Australia,East Asia & Pacific,hic,Male,years,12.86297321
+AUS,Australia,East Asia & Pacific,hic,Female,years,12.91141123
+AUS,Australia,East Asia & Pacific,hic,Total,lays,10.7303515
+AUS,Australia,East Asia & Pacific,hic,Male,lays,10.77768427
+AUS,Australia,East Asia & Pacific,hic,Female,lays,10.68938383
+AUT,Austria,Europe & Central Asia,hic,Total,years,12.28860158
+AUT,Austria,Europe & Central Asia,hic,Male,years,12.22953719
+AUT,Austria,Europe & Central Asia,hic,Female,years,12.35673481
+AUT,Austria,Europe & Central Asia,hic,Total,lays,9.987535731
+AUT,Austria,Europe & Central Asia,hic,Male,lays,9.988276247
+AUT,Austria,Europe & Central Asia,hic,Female,lays,9.99113628
+AZE,Azerbaijan,Europe & Central Asia,umc,Total,years,11.86581391
+AZE,Azerbaijan,Europe & Central Asia,umc,Male,years,11.87866628
+AZE,Azerbaijan,Europe & Central Asia,umc,Female,years,11.85025495
+AZE,Azerbaijan,Europe & Central Asia,umc,Total,lays,8.570374949
+AZE,Azerbaijan,Europe & Central Asia,umc,Male,lays,8.530905476
+AZE,Azerbaijan,Europe & Central Asia,umc,Female,lays,8.614076466
+BDI,Burundi,Sub-Saharan Africa,lic,Total,years,5.785280466
+BDI,Burundi,Sub-Saharan Africa,lic,Male,years,5.646899879
+BDI,Burundi,Sub-Saharan Africa,lic,Female,years,5.928767294
+BDI,Burundi,Sub-Saharan Africa,lic,Total,lays,3.341535625
+BDI,Burundi,Sub-Saharan Africa,lic,Male,lays,3.280495898
+BDI,Burundi,Sub-Saharan Africa,lic,Female,lays,3.41002662
+BEL,Belgium,Europe & Central Asia,hic,Total,years,12.45182419
+BEL,Belgium,Europe & Central Asia,hic,Male,years,12.41931945
+BEL,Belgium,Europe & Central Asia,hic,Female,years,12.48593581
+BEL,Belgium,Europe & Central Asia,hic,Total,lays,10.00207005
+BEL,Belgium,Europe & Central Asia,hic,Male,lays,10.02741795
+BEL,Belgium,Europe & Central Asia,hic,Female,lays,9.974933641
+BEN,Benin,Sub-Saharan Africa,lmc,Total,years,7.27856636
+BEN,Benin,Sub-Saharan Africa,lmc,Male,years,7.606566906
+BEN,Benin,Sub-Saharan Africa,lmc,Female,years,6.941353023
+BEN,Benin,Sub-Saharan Africa,lmc,Total,lays,3.993010843
+BEN,Benin,Sub-Saharan Africa,lmc,Male,lays,4.201607569
+BEN,Benin,Sub-Saharan Africa,lmc,Female,lays,3.778692273
+BFA,Burkina Faso,Sub-Saharan Africa,lic,Total,years,5.914455831
+BFA,Burkina Faso,Sub-Saharan Africa,lic,Male,years,5.80226557
+BFA,Burkina Faso,Sub-Saharan Africa,lic,Female,years,6.033958822
+BFA,Burkina Faso,Sub-Saharan Africa,lic,Total,lays,3.13380359
+BFA,Burkina Faso,Sub-Saharan Africa,lic,Male,lays,3.083768443
+BFA,Burkina Faso,Sub-Saharan Africa,lic,Female,lays,3.185461212
+BGD,Bangladesh,South Asia,lmc,Total,years,10.57586676
+BGD,Bangladesh,South Asia,lmc,Male,years,10.17249322
+BGD,Bangladesh,South Asia,lmc,Female,years,11.01175028
+BGD,Bangladesh,South Asia,lmc,Total,lays,5.867150054
+BGD,Bangladesh,South Asia,lmc,Male,lays,5.624318354
+BGD,Bangladesh,South Asia,lmc,Female,lays,6.129201502
+BGR,Bulgaria,Europe & Central Asia,hic,Total,years,12.00574803
+BGR,Bulgaria,Europe & Central Asia,hic,Male,years,12.03551728
+BGR,Bulgaria,Europe & Central Asia,hic,Female,years,11.97126693
+BGR,Bulgaria,Europe & Central Asia,hic,Total,lays,9.211663425
+BGR,Bulgaria,Europe & Central Asia,hic,Male,lays,9.152715289
+BGR,Bulgaria,Europe & Central Asia,hic,Female,lays,9.278355565
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,12.25209761
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,12.18423426
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,12.3137396
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,8.894345049
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,8.633600259
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,9.163723872
+BIH,Bosnia and Herzegovina,Europe & Central Asia,umc,Total,years,11.3860622
+BIH,Bosnia and Herzegovina,Europe & Central Asia,umc,Male,years,11.25377223
+BIH,Bosnia and Herzegovina,Europe & Central Asia,umc,Female,years,11.53095463
+BIH,Bosnia and Herzegovina,Europe & Central Asia,umc,Total,lays,8.156471264
+BIH,Bosnia and Herzegovina,Europe & Central Asia,umc,Male,lays,8.050930519
+BIH,Bosnia and Herzegovina,Europe & Central Asia,umc,Female,lays,8.271101956
+BLR,Belarus,Europe & Central Asia,umc,Total,years,12.52821749
+BLR,Belarus,Europe & Central Asia,umc,Male,years,12.58319926
+BLR,Belarus,Europe & Central Asia,umc,Female,years,12.46906412
+BLR,Belarus,Europe & Central Asia,umc,Total,lays,9.809071881
+BLR,Belarus,Europe & Central Asia,umc,Male,lays,9.810069203
+BLR,Belarus,Europe & Central Asia,umc,Female,lays,9.807907685
+BRA,Brazil,Latin America & Caribbean,umc,Total,years,12.66635227
+BRA,Brazil,Latin America & Caribbean,umc,Male,years,12.68006164
+BRA,Brazil,Latin America & Caribbean,umc,Female,years,12.65570414
+BRA,Brazil,Latin America & Caribbean,umc,Total,lays,8.280890031
+BRA,Brazil,Latin America & Caribbean,umc,Male,lays,8.356187862
+BRA,Brazil,Latin America & Caribbean,umc,Female,lays,8.207620862
+BRN,Brunei Darussalam,East Asia & Pacific,hic,Total,years,12.0055418
+BRN,Brunei Darussalam,East Asia & Pacific,hic,Male,years,11.90003335
+BRN,Brunei Darussalam,East Asia & Pacific,hic,Female,years,12.11656219
+BRN,Brunei Darussalam,East Asia & Pacific,hic,Total,lays,8.742056263
+BRN,Brunei Darussalam,East Asia & Pacific,hic,Male,lays,8.482712746
+BRN,Brunei Darussalam,East Asia & Pacific,hic,Female,lays,9.015975338
+BTN,Bhutan,South Asia,lmc,Total,years,9.358129412
+BTN,Bhutan,South Asia,lmc,Male,years,8.665958107
+BTN,Bhutan,South Asia,lmc,Female,years,10.10891101
+BTN,Bhutan,South Asia,lmc,Total,lays,5.804955512
+BTN,Bhutan,South Asia,lmc,Male,lays,5.409605868
+BTN,Bhutan,South Asia,lmc,Female,lays,6.003054389
+BWA,Botswana,Sub-Saharan Africa,umc,Total,years,10.58494747
+BWA,Botswana,Sub-Saharan Africa,umc,Male,years,10.53497183
+BWA,Botswana,Sub-Saharan Africa,umc,Female,years,10.64402986
+BWA,Botswana,Sub-Saharan Africa,umc,Total,lays,6.627333809
+BWA,Botswana,Sub-Saharan Africa,umc,Male,lays,6.418858029
+BWA,Botswana,Sub-Saharan Africa,umc,Female,lays,6.835503981
+CAF,Central African Republic,Sub-Saharan Africa,lic,Total,years,5.897409767
+CAF,Central African Republic,Sub-Saharan Africa,lic,Male,years,6.245574147
+CAF,Central African Republic,Sub-Saharan Africa,lic,Female,years,5.541079462
+CAF,Central African Republic,Sub-Saharan Africa,lic,Total,lays,3.587972296
+CAF,Central African Republic,Sub-Saharan Africa,lic,Male,lays,3.799794807
+CAF,Central African Republic,Sub-Saharan Africa,lic,Female,lays,3.371181651
+CAN,Canada,North America,hic,Total,years,12.39820021
+CAN,Canada,North America,hic,Male,years,12.47764689
+CAN,Canada,North America,hic,Female,years,12.31883371
+CAN,Canada,North America,hic,Total,lays,10.2866947
+CAN,Canada,North America,hic,Male,lays,10.40056344
+CAN,Canada,North America,hic,Female,lays,10.17628296
+CHE,Switzerland,Europe & Central Asia,hic,Total,years,12.35439956
+CHE,Switzerland,Europe & Central Asia,hic,Male,years,12.34918106
+CHE,Switzerland,Europe & Central Asia,hic,Female,years,12.35414487
+CHE,Switzerland,Europe & Central Asia,hic,Total,lays,10.20394982
+CHE,Switzerland,Europe & Central Asia,hic,Male,lays,10.16075663
+CHE,Switzerland,Europe & Central Asia,hic,Female,lays,10.24378427
+CHL,Chile,Latin America & Caribbean,hic,Total,years,12.61762226
+CHL,Chile,Latin America & Caribbean,hic,Male,years,12.61805367
+CHL,Chile,Latin America & Caribbean,hic,Female,years,12.60399497
+CHL,Chile,Latin America & Caribbean,hic,Total,lays,9.06801773
+CHL,Chile,Latin America & Caribbean,hic,Male,lays,9.178268736
+CHL,Chile,Latin America & Caribbean,hic,Female,lays,8.942267332
+CHN,China,East Asia & Pacific,umc,Total,years,12.01490808
+CHN,China,East Asia & Pacific,umc,Male,years,11.8618176
+CHN,China,East Asia & Pacific,umc,Female,years,12.19201589
+CHN,China,East Asia & Pacific,umc,Total,lays,8.477719138
+CHN,China,East Asia & Pacific,umc,Male,lays,8.369698497
+CHN,China,East Asia & Pacific,umc,Female,lays,8.602686409
+CIV,Côte d'Ivoire,Sub-Saharan Africa,lmc,Total,years,7.015770108
+CIV,Côte d'Ivoire,Sub-Saharan Africa,lmc,Male,years,6.958983555
+CIV,Côte d'Ivoire,Sub-Saharan Africa,lmc,Female,years,7.064701259
+CIV,Côte d'Ivoire,Sub-Saharan Africa,lmc,Total,lays,3.541643994
+CIV,Côte d'Ivoire,Sub-Saharan Africa,lmc,Male,lays,3.536008035
+CIV,Côte d'Ivoire,Sub-Saharan Africa,lmc,Female,lays,3.541050423
+CMR,Cameroon,Sub-Saharan Africa,lmc,Total,years,7.696431339
+CMR,Cameroon,Sub-Saharan Africa,lmc,Male,years,7.790879667
+CMR,Cameroon,Sub-Saharan Africa,lmc,Female,years,7.601069242
+CMR,Cameroon,Sub-Saharan Africa,lmc,Total,lays,4.00324427
+CMR,Cameroon,Sub-Saharan Africa,lmc,Male,lays,4.054699033
+CMR,Cameroon,Sub-Saharan Africa,lmc,Female,lays,3.951709422
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Total,years,9.022702038
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Male,years,9.011127621
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Female,years,9.0330742
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Total,lays,4.654776737
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Male,lays,4.701860314
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,lic,Female,lays,4.605999379
+COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Total,years,8.146313246
+COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Male,years,8.266859271
+COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Female,years,8.025011519
+COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Total,lays,4.544846458
+COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Male,lays,4.566633244
+COG,"Congo, Rep.",Sub-Saharan Africa,lmc,Female,lays,4.521451755
+COL,Colombia,Latin America & Caribbean,umc,Total,years,11.53017485
+COL,Colombia,Latin America & Caribbean,umc,Male,years,11.34891927
+COL,Colombia,Latin America & Caribbean,umc,Female,years,11.71734869
+COL,Colombia,Latin America & Caribbean,umc,Total,lays,7.659119072
+COL,Colombia,Latin America & Caribbean,umc,Male,lays,7.55246583
+COL,Colombia,Latin America & Caribbean,umc,Female,lays,7.770315732
+COM,Comoros,Sub-Saharan Africa,lmc,Total,years,9.970853537
+COM,Comoros,Sub-Saharan Africa,lmc,Male,years,9.912119895
+COM,Comoros,Sub-Saharan Africa,lmc,Female,years,10.04163215
+COM,Comoros,Sub-Saharan Africa,lmc,Total,lays,4.037131654
+COM,Comoros,Sub-Saharan Africa,lmc,Male,lays,3.885006268
+COM,Comoros,Sub-Saharan Africa,lmc,Female,lays,4.204857462
+CRI,Costa Rica,Latin America & Caribbean,hic,Total,years,12.05279422
+CRI,Costa Rica,Latin America & Caribbean,hic,Male,years,11.96667749
+CRI,Costa Rica,Latin America & Caribbean,hic,Female,years,12.14565682
+CRI,Costa Rica,Latin America & Caribbean,hic,Total,lays,8.060332028
+CRI,Costa Rica,Latin America & Caribbean,hic,Male,lays,8.092934267
+CRI,Costa Rica,Latin America & Caribbean,hic,Female,lays,8.027863433
+CUB,Cuba,Latin America & Caribbean,umc,Total,years,12.09805375
+CUB,Cuba,Latin America & Caribbean,umc,Male,years,12.05771494
+CUB,Cuba,Latin America & Caribbean,umc,Female,years,12.14568061
+CUB,Cuba,Latin America & Caribbean,umc,Total,lays,8.167629425
+CUB,Cuba,Latin America & Caribbean,umc,Male,lays,8.075255993
+CUB,Cuba,Latin America & Caribbean,umc,Female,lays,8.268491727
+CYP,Cyprus,Europe & Central Asia,hic,Total,years,12.84829122
+CYP,Cyprus,Europe & Central Asia,hic,Male,years,12.83505797
+CYP,Cyprus,Europe & Central Asia,hic,Female,years,12.85664368
+CYP,Cyprus,Europe & Central Asia,hic,Total,lays,10.07980002
+CYP,Cyprus,Europe & Central Asia,hic,Male,lays,10.12226193
+CYP,Cyprus,Europe & Central Asia,hic,Female,lays,10.03073959
+CZE,Czechia,Europe & Central Asia,hic,Total,years,12.6608721
+CZE,Czechia,Europe & Central Asia,hic,Male,years,12.63201123
+CZE,Czechia,Europe & Central Asia,hic,Female,years,12.69894052
+CZE,Czechia,Europe & Central Asia,hic,Total,lays,10.47621637
+CZE,Czechia,Europe & Central Asia,hic,Male,lays,10.47863203
+CZE,Czechia,Europe & Central Asia,hic,Female,lays,10.47910867
+DEU,Germany,Europe & Central Asia,hic,Total,years,12.35507441
+DEU,Germany,Europe & Central Asia,hic,Male,years,12.30287492
+DEU,Germany,Europe & Central Asia,hic,Female,years,12.41127795
+DEU,Germany,Europe & Central Asia,hic,Total,lays,10.07635829
+DEU,Germany,Europe & Central Asia,hic,Male,lays,10.05142839
+DEU,Germany,Europe & Central Asia,hic,Female,lays,10.10414137
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,5.837645441
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,6.13793093
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,5.544978723
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,3.057448272
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,3.214721844
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,2.904165007
+DMA,Dominica,Latin America & Caribbean,umc,Total,years,11.4005419
+DMA,Dominica,Latin America & Caribbean,umc,Male,years,11.61593127
+DMA,Dominica,Latin America & Caribbean,umc,Female,years,11.20374453
+DMA,Dominica,Latin America & Caribbean,umc,Total,lays,7.595439032
+DMA,Dominica,Latin America & Caribbean,umc,Male,lays,7.538703096
+DMA,Dominica,Latin America & Caribbean,umc,Female,lays,7.692005754
+DNK,Denmark,Europe & Central Asia,hic,Total,years,12.62834322
+DNK,Denmark,Europe & Central Asia,hic,Male,years,12.59783292
+DNK,Denmark,Europe & Central Asia,hic,Female,years,12.66557491
+DNK,Denmark,Europe & Central Asia,hic,Total,lays,10.41890112
+DNK,Denmark,Europe & Central Asia,hic,Male,lays,10.42830401
+DNK,Denmark,Europe & Central Asia,hic,Female,lays,10.41614159
+DOM,Dominican Republic,Latin America & Caribbean,umc,Total,years,10.73964071
+DOM,Dominican Republic,Latin America & Caribbean,umc,Male,years,10.38648707
+DOM,Dominican Republic,Latin America & Caribbean,umc,Female,years,11.10921061
+DOM,Dominican Republic,Latin America & Caribbean,umc,Total,lays,6.236191053
+DOM,Dominican Republic,Latin America & Caribbean,umc,Male,lays,5.878011744
+DOM,Dominican Republic,Latin America & Caribbean,umc,Female,lays,6.595965241
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Total,years,11.06017876
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Male,years,10.58311743
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Female,years,11.5847857
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Total,lays,6.636500409
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Male,lays,6.20899614
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",umc,Female,lays,7.123553172
+ECU,Ecuador,Latin America & Caribbean,umc,Total,years,11.77482319
+ECU,Ecuador,Latin America & Caribbean,umc,Male,years,11.5903427
+ECU,Ecuador,Latin America & Caribbean,umc,Female,years,11.96426481
+ECU,Ecuador,Latin America & Caribbean,umc,Total,lays,7.561145791
+ECU,Ecuador,Latin America & Caribbean,umc,Male,lays,7.424132896
+ECU,Ecuador,Latin America & Caribbean,umc,Female,lays,7.702079011
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,10.83487874
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,10.83762076
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,10.83035839
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,6.556967587
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,6.42095004
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,6.694648013
+ESP,Spain,Europe & Central Asia,hic,Total,years,12.10472298
+ESP,Spain,Europe & Central Asia,hic,Male,years,12.00058764
+ESP,Spain,Europe & Central Asia,hic,Female,years,12.21547562
+ESP,Spain,Europe & Central Asia,hic,Total,lays,9.643193278
+ESP,Spain,Europe & Central Asia,hic,Male,lays,9.593631888
+ESP,Spain,Europe & Central Asia,hic,Female,lays,9.696741173
+EST,Estonia,Europe & Central Asia,hic,Total,years,12.37668461
+EST,Estonia,Europe & Central Asia,hic,Male,years,12.33265388
+EST,Estonia,Europe & Central Asia,hic,Female,years,12.41610193
+EST,Estonia,Europe & Central Asia,hic,Total,lays,10.58078537
+EST,Estonia,Europe & Central Asia,hic,Male,lays,10.46724965
+EST,Estonia,Europe & Central Asia,hic,Female,lays,10.69574431
+ETH,Ethiopia,Sub-Saharan Africa,lic,Total,years,7.147253692
+ETH,Ethiopia,Sub-Saharan Africa,lic,Male,years,7.536663413
+ETH,Ethiopia,Sub-Saharan Africa,lic,Female,years,6.749097228
+ETH,Ethiopia,Sub-Saharan Africa,lic,Total,lays,4.106254639
+ETH,Ethiopia,Sub-Saharan Africa,lic,Male,lays,4.375080215
+ETH,Ethiopia,Sub-Saharan Africa,lic,Female,lays,3.835351795
+FIN,Finland,Europe & Central Asia,hic,Total,years,12.7118873
+FIN,Finland,Europe & Central Asia,hic,Male,years,12.69358861
+FIN,Finland,Europe & Central Asia,hic,Female,years,12.73631138
+FIN,Finland,Europe & Central Asia,hic,Total,lays,10.57141652
+FIN,Finland,Europe & Central Asia,hic,Male,lays,10.42322749
+FIN,Finland,Europe & Central Asia,hic,Female,lays,10.73053139
+FJI,Fiji,East Asia & Pacific,umc,Total,years,12.30567205
+FJI,Fiji,East Asia & Pacific,umc,Male,years,12.38231272
+FJI,Fiji,East Asia & Pacific,umc,Female,years,12.22555548
+FJI,Fiji,East Asia & Pacific,umc,Total,lays,7.85839496
+FJI,Fiji,East Asia & Pacific,umc,Male,lays,7.716483158
+FJI,Fiji,East Asia & Pacific,umc,Female,lays,7.911150981
+FRA,France,Europe & Central Asia,hic,Total,years,12.8041147
+FRA,France,Europe & Central Asia,hic,Male,years,12.77997589
+FRA,France,Europe & Central Asia,hic,Female,years,12.83207303
+FRA,France,Europe & Central Asia,hic,Total,lays,10.03826837
+FRA,France,Europe & Central Asia,hic,Male,lays,10.06155895
+FRA,France,Europe & Central Asia,hic,Female,lays,10.01756834
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,lmc,Total,years,9.529439509
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,lmc,Male,years,9.327269077
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,lmc,Female,years,9.745238543
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,lmc,Total,lays,5.632686045
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,lmc,Male,lays,5.453028464
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,lmc,Female,lays,5.84025722
+GAB,Gabon,Sub-Saharan Africa,umc,Total,years,8.365985453
+GAB,Gabon,Sub-Saharan Africa,umc,Male,years,8.292599499
+GAB,Gabon,Sub-Saharan Africa,umc,Female,years,8.439681768
+GAB,Gabon,Sub-Saharan Africa,umc,Total,lays,5.080038785
+GAB,Gabon,Sub-Saharan Africa,umc,Male,lays,5.077057797
+GAB,Gabon,Sub-Saharan Africa,umc,Female,lays,5.079365603
+GBR,United Kingdom,Europe & Central Asia,hic,Total,years,12.82092005
+GBR,United Kingdom,Europe & Central Asia,hic,Male,years,12.79473037
+GBR,United Kingdom,Europe & Central Asia,hic,Female,years,12.85007238
+GBR,United Kingdom,Europe & Central Asia,hic,Total,lays,10.5072786
+GBR,United Kingdom,Europe & Central Asia,hic,Male,lays,10.51004259
+GBR,United Kingdom,Europe & Central Asia,hic,Female,lays,10.50603534
+GEO,Georgia,Europe & Central Asia,umc,Total,years,12.8449567
+GEO,Georgia,Europe & Central Asia,umc,Male,years,12.81399453
+GEO,Georgia,Europe & Central Asia,umc,Female,years,12.88183451
+GEO,Georgia,Europe & Central Asia,umc,Total,lays,8.898830455
+GEO,Georgia,Europe & Central Asia,umc,Male,lays,8.793009345
+GEO,Georgia,Europe & Central Asia,umc,Female,lays,9.015328607
+GHA,Ghana,Sub-Saharan Africa,lmc,Total,years,10.69885778
+GHA,Ghana,Sub-Saharan Africa,lmc,Male,years,10.64504844
+GHA,Ghana,Sub-Saharan Africa,lmc,Female,years,10.74524915
+GHA,Ghana,Sub-Saharan Africa,lmc,Total,lays,5.894987054
+GHA,Ghana,Sub-Saharan Africa,lmc,Male,lays,6.026695733
+GHA,Ghana,Sub-Saharan Africa,lmc,Female,lays,5.748547223
+GIN,Guinea,Sub-Saharan Africa,lmc,Total,years,6.874195844
+GIN,Guinea,Sub-Saharan Africa,lmc,Male,years,7.34849605
+GIN,Guinea,Sub-Saharan Africa,lmc,Female,years,6.385867894
+GIN,Guinea,Sub-Saharan Africa,lmc,Total,lays,3.442456304
+GIN,Guinea,Sub-Saharan Africa,lmc,Male,lays,3.689062708
+GIN,Guinea,Sub-Saharan Africa,lmc,Female,lays,3.189479093
+GMB,"Gambia, The",Sub-Saharan Africa,lic,Total,years,9.637554824
+GMB,"Gambia, The",Sub-Saharan Africa,lic,Male,years,8.907179117
+GMB,"Gambia, The",Sub-Saharan Africa,lic,Female,years,10.3826949
+GMB,"Gambia, The",Sub-Saharan Africa,lic,Total,lays,4.524948224
+GMB,"Gambia, The",Sub-Saharan Africa,lic,Male,lays,4.103788804
+GMB,"Gambia, The",Sub-Saharan Africa,lic,Female,lays,4.951434701
+GNB,Guinea-Bissau,Sub-Saharan Africa,lic,Total,years,7.654203773
+GNB,Guinea-Bissau,Sub-Saharan Africa,lic,Male,years,7.97330451
+GNB,Guinea-Bissau,Sub-Saharan Africa,lic,Female,years,7.337971032
+GNB,Guinea-Bissau,Sub-Saharan Africa,lic,Total,lays,3.533512717
+GNB,Guinea-Bissau,Sub-Saharan Africa,lic,Male,lays,3.748761629
+GNB,Guinea-Bissau,Sub-Saharan Africa,lic,Female,lays,3.32943488
+GRC,Greece,Europe & Central Asia,hic,Total,years,12.27247131
+GRC,Greece,Europe & Central Asia,hic,Male,years,12.19747347
+GRC,Greece,Europe & Central Asia,hic,Female,years,12.35548782
+GRC,Greece,Europe & Central Asia,hic,Total,lays,8.879262428
+GRC,Greece,Europe & Central Asia,hic,Male,lays,8.729146305
+GRC,Greece,Europe & Central Asia,hic,Female,lays,9.039337634
+GRD,Grenada,Latin America & Caribbean,umc,Total,years,10.90357316
+GRD,Grenada,Latin America & Caribbean,umc,Male,years,10.75285304
+GRD,Grenada,Latin America & Caribbean,umc,Female,years,11.02765799
+GRD,Grenada,Latin America & Caribbean,umc,Total,lays,7.101811313
+GRD,Grenada,Latin America & Caribbean,umc,Male,lays,6.746152555
+GRD,Grenada,Latin America & Caribbean,umc,Female,lays,7.441456609
+GTM,Guatemala,Latin America & Caribbean,umc,Total,years,8.439980865
+GTM,Guatemala,Latin America & Caribbean,umc,Male,years,8.385315239
+GTM,Guatemala,Latin America & Caribbean,umc,Female,years,8.487276375
+GTM,Guatemala,Latin America & Caribbean,umc,Total,lays,5.022803637
+GTM,Guatemala,Latin America & Caribbean,umc,Male,lays,5.000236357
+GTM,Guatemala,Latin America & Caribbean,umc,Female,lays,5.040975947
+HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Total,years,12.35776025
+HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Male,years,12.50546932
+HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Female,years,12.1925168
+HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Total,lays,10.87319741
+HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Male,lays,11.03169732
+HKG,"Hong Kong SAR, China",East Asia & Pacific,hic,Female,lays,10.70041946
+HND,Honduras,Latin America & Caribbean,lmc,Total,years,7.685694516
+HND,Honduras,Latin America & Caribbean,lmc,Male,years,7.371724963
+HND,Honduras,Latin America & Caribbean,lmc,Female,years,8.006238043
+HND,Honduras,Latin America & Caribbean,lmc,Total,lays,4.718841553
+HND,Honduras,Latin America & Caribbean,lmc,Male,lays,4.523538081
+HND,Honduras,Latin America & Caribbean,lmc,Female,lays,4.918748448
+HRV,Croatia,Europe & Central Asia,hic,Total,years,12.80098253
+HRV,Croatia,Europe & Central Asia,hic,Male,years,12.73987961
+HRV,Croatia,Europe & Central Asia,hic,Female,years,12.86481297
+HRV,Croatia,Europe & Central Asia,hic,Total,lays,10.05326413
+HRV,Croatia,Europe & Central Asia,hic,Male,lays,9.879139642
+HRV,Croatia,Europe & Central Asia,hic,Female,lays,10.23921834
+HTI,Haiti,Latin America & Caribbean,lmc,Total,years,11.53924739
+HTI,Haiti,Latin America & Caribbean,lmc,Male,years,11.30978155
+HTI,Haiti,Latin America & Caribbean,lmc,Female,years,11.77196604
+HTI,Haiti,Latin America & Caribbean,lmc,Total,lays,6.431849723
+HTI,Haiti,Latin America & Caribbean,lmc,Male,lays,6.222200021
+HTI,Haiti,Latin America & Caribbean,lmc,Female,lays,6.649268561
+HUN,Hungary,Europe & Central Asia,hic,Total,years,11.89003837
+HUN,Hungary,Europe & Central Asia,hic,Male,years,11.83392221
+HUN,Hungary,Europe & Central Asia,hic,Female,years,11.94785219
+HUN,Hungary,Europe & Central Asia,hic,Total,lays,9.631879729
+HUN,Hungary,Europe & Central Asia,hic,Male,lays,9.653030309
+HUN,Hungary,Europe & Central Asia,hic,Female,lays,9.611132333
+IDN,Indonesia,East Asia & Pacific,umc,Total,years,11.95145023
+IDN,Indonesia,East Asia & Pacific,umc,Male,years,11.89446867
+IDN,Indonesia,East Asia & Pacific,umc,Female,years,12.00931913
+IDN,Indonesia,East Asia & Pacific,umc,Total,lays,7.314419426
+IDN,Indonesia,East Asia & Pacific,umc,Male,lays,7.165703586
+IDN,Indonesia,East Asia & Pacific,umc,Female,lays,7.459201556
+IND,India,South Asia,lmc,Total,years,11.00602138
+IND,India,South Asia,lmc,Male,years,10.92900896
+IND,India,South Asia,lmc,Female,years,11.08793026
+IND,India,South Asia,lmc,Total,lays,7.026244049
+IND,India,South Asia,lmc,Male,lays,6.977079321
+IND,India,South Asia,lmc,Female,lays,7.078534679
+IRL,Ireland,Europe & Central Asia,hic,Total,years,12.90276706
+IRL,Ireland,Europe & Central Asia,hic,Male,years,12.88476431
+IRL,Ireland,Europe & Central Asia,hic,Female,years,12.91862088
+IRL,Ireland,Europe & Central Asia,hic,Total,lays,10.86818718
+IRL,Ireland,Europe & Central Asia,hic,Male,lays,10.88568181
+IRL,Ireland,Europe & Central Asia,hic,Female,lays,10.84472302
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Total,years,11.89004922
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Male,years,11.83442152
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Female,years,11.94649827
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Total,lays,8.056751924
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Male,lays,7.931973059
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",umc,Female,lays,8.185453622
+ISL,Iceland,Europe & Central Asia,hic,Total,years,12.4860819
+ISL,Iceland,Europe & Central Asia,hic,Male,years,12.44249636
+ISL,Iceland,Europe & Central Asia,hic,Female,years,12.52357244
+ISL,Iceland,Europe & Central Asia,hic,Total,lays,9.967519684
+ISL,Iceland,Europe & Central Asia,hic,Male,lays,9.732757594
+ISL,Iceland,Europe & Central Asia,hic,Female,lays,10.19609953
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,12.39543438
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,12.31797373
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,12.47781241
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,9.579804803
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,9.538874659
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,9.624681397
+ITA,Italy,Europe & Central Asia,hic,Total,years,12.56086224
+ITA,Italy,Europe & Central Asia,hic,Male,years,12.56273949
+ITA,Italy,Europe & Central Asia,hic,Female,years,12.55109864
+ITA,Italy,Europe & Central Asia,hic,Total,lays,10.04999985
+ITA,Italy,Europe & Central Asia,hic,Male,lays,10.13901163
+ITA,Italy,Europe & Central Asia,hic,Female,lays,9.951501979
+JAM,Jamaica,Latin America & Caribbean,umc,Total,years,10.85257554
+JAM,Jamaica,Latin America & Caribbean,umc,Male,years,10.82755375
+JAM,Jamaica,Latin America & Caribbean,umc,Female,years,10.83815265
+JAM,Jamaica,Latin America & Caribbean,umc,Total,lays,7.132451482
+JAM,Jamaica,Latin America & Caribbean,umc,Male,lays,6.895790364
+JAM,Jamaica,Latin America & Caribbean,umc,Female,lays,7.310066711
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,11.63215262
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,11.37375826
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,11.89770794
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,7.295720768
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,6.910338976
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,7.685204769
+JPN,Japan,East Asia & Pacific,hic,Total,years,12.98856086
+JPN,Japan,East Asia & Pacific,hic,Male,years,NA
+JPN,Japan,East Asia & Pacific,hic,Female,years,NA
+JPN,Japan,East Asia & Pacific,hic,Total,lays,11.70549145
+JPN,Japan,East Asia & Pacific,hic,Male,lays,NA
+JPN,Japan,East Asia & Pacific,hic,Female,lays,NA
+KAZ,Kazakhstan,Europe & Central Asia,umc,Total,years,11.67922956
+KAZ,Kazakhstan,Europe & Central Asia,umc,Male,years,11.60652781
+KAZ,Kazakhstan,Europe & Central Asia,umc,Female,years,11.75186962
+KAZ,Kazakhstan,Europe & Central Asia,umc,Total,lays,8.311730154
+KAZ,Kazakhstan,Europe & Central Asia,umc,Male,lays,8.236519752
+KAZ,Kazakhstan,Europe & Central Asia,umc,Female,lays,8.388144831
+KEN,Kenya,Sub-Saharan Africa,lmc,Total,years,11.95214355
+KEN,Kenya,Sub-Saharan Africa,lmc,Male,years,11.93277556
+KEN,Kenya,Sub-Saharan Africa,lmc,Female,years,11.97187662
+KEN,Kenya,Sub-Saharan Africa,lmc,Total,lays,7.9949248
+KEN,Kenya,Sub-Saharan Africa,lmc,Male,lays,7.981969329
+KEN,Kenya,Sub-Saharan Africa,lmc,Female,lays,8.008124475
+KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Total,years,12.01815391
+KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Male,years,11.97049069
+KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Female,years,12.06928045
+KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Total,lays,7.987752737
+KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Male,lays,8.063954957
+KGZ,Kyrgyz Republic,Europe & Central Asia,lmc,Female,lays,7.916523329
+KHM,Cambodia,East Asia & Pacific,lmc,Total,years,8.600953102
+KHM,Cambodia,East Asia & Pacific,lmc,Male,years,8.371780753
+KHM,Cambodia,East Asia & Pacific,lmc,Female,years,8.843549371
+KHM,Cambodia,East Asia & Pacific,lmc,Total,lays,4.813740527
+KHM,Cambodia,East Asia & Pacific,lmc,Male,lays,4.603387567
+KHM,Cambodia,East Asia & Pacific,lmc,Female,lays,5.021931282
+KIR,Kiribati,East Asia & Pacific,lmc,Total,years,11.28535134
+KIR,Kiribati,East Asia & Pacific,lmc,Male,years,10.60127294
+KIR,Kiribati,East Asia & Pacific,lmc,Female,years,11.96547121
+KIR,Kiribati,East Asia & Pacific,lmc,Total,lays,7.756202107
+KIR,Kiribati,East Asia & Pacific,lmc,Male,lays,7.013195503
+KIR,Kiribati,East Asia & Pacific,lmc,Female,lays,8.520093816
+KNA,St. Kitts and Nevis,Latin America & Caribbean,hic,Total,years,12.86676621
+KNA,St. Kitts and Nevis,Latin America & Caribbean,hic,Male,years,12.84848404
+KNA,St. Kitts and Nevis,Latin America & Caribbean,hic,Female,years,12.88919377
+KNA,St. Kitts and Nevis,Latin America & Caribbean,hic,Total,lays,8.68462113
+KNA,St. Kitts and Nevis,Latin America & Caribbean,hic,Male,lays,8.55435693
+KNA,St. Kitts and Nevis,Latin America & Caribbean,hic,Female,lays,8.831041813
+KOR,"Korea, Rep.",East Asia & Pacific,hic,Total,years,12.88118011
+KOR,"Korea, Rep.",East Asia & Pacific,hic,Male,years,12.88159311
+KOR,"Korea, Rep.",East Asia & Pacific,hic,Female,years,12.8745783
+KOR,"Korea, Rep.",East Asia & Pacific,hic,Total,lays,11.5657223
+KOR,"Korea, Rep.",East Asia & Pacific,hic,Male,lays,11.56908708
+KOR,"Korea, Rep.",East Asia & Pacific,hic,Female,lays,11.56124055
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,9.791353792
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,9.119039685
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,10.59959683
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,6.163244139
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,5.668816734
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,6.754132452
+LAO,Lao PDR,East Asia & Pacific,lmc,Total,years,9.900719881
+LAO,Lao PDR,East Asia & Pacific,lmc,Male,years,9.932518721
+LAO,Lao PDR,East Asia & Pacific,lmc,Female,years,9.876596272
+LAO,Lao PDR,East Asia & Pacific,lmc,Total,lays,5.139666249
+LAO,Lao PDR,East Asia & Pacific,lmc,Male,lays,5.148004083
+LAO,Lao PDR,East Asia & Pacific,lmc,Female,lays,5.135968469
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,8.116852283
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,7.804961801
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,8.445369363
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,5.15571122
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,4.921433907
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,5.397912261
+LCA,St. Lucia,Latin America & Caribbean,umc,Total,years,11.49519914
+LCA,St. Lucia,Latin America & Caribbean,umc,Male,years,11.49681181
+LCA,St. Lucia,Latin America & Caribbean,umc,Female,years,11.41009998
+LCA,St. Lucia,Latin America & Caribbean,umc,Total,lays,7.923611022
+LCA,St. Lucia,Latin America & Caribbean,umc,Male,lays,7.763599412
+LCA,St. Lucia,Latin America & Caribbean,umc,Female,lays,8.02191425
+LSO,Lesotho,Sub-Saharan Africa,lmc,Total,years,7.210836709
+LSO,Lesotho,Sub-Saharan Africa,lmc,Male,years,6.885119796
+LSO,Lesotho,Sub-Saharan Africa,lmc,Female,years,7.543752909
+LSO,Lesotho,Sub-Saharan Africa,lmc,Total,lays,3.683572487
+LSO,Lesotho,Sub-Saharan Africa,lmc,Male,lays,3.364315285
+LSO,Lesotho,Sub-Saharan Africa,lmc,Female,lays,4.024957577
+LTU,Lithuania,Europe & Central Asia,hic,Total,years,12.88679242
+LTU,Lithuania,Europe & Central Asia,hic,Male,years,12.87059993
+LTU,Lithuania,Europe & Central Asia,hic,Female,years,12.90632838
+LTU,Lithuania,Europe & Central Asia,hic,Total,lays,10.58883822
+LTU,Lithuania,Europe & Central Asia,hic,Male,lays,10.53736503
+LTU,Lithuania,Europe & Central Asia,hic,Female,lays,10.64181728
+LUX,Luxembourg,Europe & Central Asia,hic,Total,years,11.75329089
+LUX,Luxembourg,Europe & Central Asia,hic,Male,years,11.66520393
+LUX,Luxembourg,Europe & Central Asia,hic,Female,years,11.84352309
+LUX,Luxembourg,Europe & Central Asia,hic,Total,lays,9.291269134
+LUX,Luxembourg,Europe & Central Asia,hic,Male,lays,9.141325989
+LUX,Luxembourg,Europe & Central Asia,hic,Female,lays,9.446432759
+LVA,Latvia,Europe & Central Asia,hic,Total,years,12.72685021
+LVA,Latvia,Europe & Central Asia,hic,Male,years,12.60761404
+LVA,Latvia,Europe & Central Asia,hic,Female,years,12.85781366
+LVA,Latvia,Europe & Central Asia,hic,Total,lays,10.50162259
+LVA,Latvia,Europe & Central Asia,hic,Male,lays,10.38764221
+LVA,Latvia,Europe & Central Asia,hic,Female,lays,10.62439887
+MAC,"Macao SAR, China",East Asia & Pacific,hic,Total,years,10.83897424
+MAC,"Macao SAR, China",East Asia & Pacific,hic,Male,years,10.64609778
+MAC,"Macao SAR, China",East Asia & Pacific,hic,Female,years,11.04798949
+MAC,"Macao SAR, China",East Asia & Pacific,hic,Total,lays,9.658356963
+MAC,"Macao SAR, China",East Asia & Pacific,hic,Male,lays,9.55538115
+MAC,"Macao SAR, China",East Asia & Pacific,hic,Female,lays,9.768048617
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,10.71897531
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,10.42626125
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,11.0422461
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,6.360913155
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,6.133619817
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,6.611891003
+MDA,Moldova,Europe & Central Asia,umc,Total,years,12.79983115
+MDA,Moldova,Europe & Central Asia,umc,Male,years,12.78560543
+MDA,Moldova,Europe & Central Asia,umc,Female,years,12.81677508
+MDA,Moldova,Europe & Central Asia,umc,Total,lays,8.786107849
+MDA,Moldova,Europe & Central Asia,umc,Male,lays,8.665132556
+MDA,Moldova,Europe & Central Asia,umc,Female,lays,8.9214436
+MDG,Madagascar,Sub-Saharan Africa,lic,Total,years,6.899873853
+MDG,Madagascar,Sub-Saharan Africa,lic,Male,years,6.672830999
+MDG,Madagascar,Sub-Saharan Africa,lic,Female,years,7.12945503
+MDG,Madagascar,Sub-Saharan Africa,lic,Total,lays,3.576422934
+MDG,Madagascar,Sub-Saharan Africa,lic,Male,lays,3.436604734
+MDG,Madagascar,Sub-Saharan Africa,lic,Female,lays,3.720252678
+MEX,Mexico,Latin America & Caribbean,umc,Total,years,11.55246329
+MEX,Mexico,Latin America & Caribbean,umc,Male,years,11.43142855
+MEX,Mexico,Latin America & Caribbean,umc,Female,years,11.67563558
+MEX,Mexico,Latin America & Caribbean,umc,Total,lays,7.791167957
+MEX,Mexico,Latin America & Caribbean,umc,Male,lays,7.76872963
+MEX,Mexico,Latin America & Caribbean,umc,Female,lays,7.820581291
+MHL,Marshall Islands,East Asia & Pacific,umc,Total,years,12.0326401
+MHL,Marshall Islands,East Asia & Pacific,umc,Male,years,11.71236426
+MHL,Marshall Islands,East Asia & Pacific,umc,Female,years,12.39038557
+MHL,Marshall Islands,East Asia & Pacific,umc,Total,lays,7.228293623
+MHL,Marshall Islands,East Asia & Pacific,umc,Male,lays,6.889705627
+MHL,Marshall Islands,East Asia & Pacific,umc,Female,lays,7.60695622
+MKD,North Macedonia,Europe & Central Asia,umc,Total,years,11.75986326
+MKD,North Macedonia,Europe & Central Asia,umc,Male,years,11.7127614
+MKD,North Macedonia,Europe & Central Asia,umc,Female,years,11.81568873
+MKD,North Macedonia,Europe & Central Asia,umc,Total,lays,7.955647407
+MKD,North Macedonia,Europe & Central Asia,umc,Male,lays,7.83402556
+MKD,North Macedonia,Europe & Central Asia,umc,Female,lays,8.09071324
+MLI,Mali,Sub-Saharan Africa,lic,Total,years,4.741697401
+MLI,Mali,Sub-Saharan Africa,lic,Male,years,5.053402483
+MLI,Mali,Sub-Saharan Africa,lic,Female,years,4.418754846
+MLI,Mali,Sub-Saharan Africa,lic,Total,lays,2.404735398
+MLI,Mali,Sub-Saharan Africa,lic,Male,lays,2.56232995
+MLI,Mali,Sub-Saharan Africa,lic,Female,lays,2.241421163
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,12.28679383
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,12.25765109
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,12.31007195
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,9.593964778
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,9.509252294
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,9.679318207
+MMR,Myanmar,East Asia & Pacific,lmc,Total,years,10.61502174
+MMR,Myanmar,East Asia & Pacific,lmc,Male,years,10.33584762
+MMR,Myanmar,East Asia & Pacific,lmc,Female,years,11.04349018
+MMR,Myanmar,East Asia & Pacific,lmc,Total,lays,5.777986983
+MMR,Myanmar,East Asia & Pacific,lmc,Male,lays,5.609175678
+MMR,Myanmar,East Asia & Pacific,lmc,Female,lays,6.030983716
+MNE,Montenegro,Europe & Central Asia,umc,Total,years,12.75487304
+MNE,Montenegro,Europe & Central Asia,umc,Male,years,12.74581891
+MNE,Montenegro,Europe & Central Asia,umc,Female,years,12.76524258
+MNE,Montenegro,Europe & Central Asia,umc,Total,lays,9.061823486
+MNE,Montenegro,Europe & Central Asia,umc,Male,lays,9.021351842
+MNE,Montenegro,Europe & Central Asia,umc,Female,lays,9.104351763
+MNG,Mongolia,East Asia & Pacific,umc,Total,years,11.91012347
+MNG,Mongolia,East Asia & Pacific,umc,Male,years,11.6162374
+MNG,Mongolia,East Asia & Pacific,umc,Female,years,12.2251572
+MNG,Mongolia,East Asia & Pacific,umc,Total,lays,8.008537413
+MNG,Mongolia,East Asia & Pacific,umc,Male,lays,7.669186837
+MNG,Mongolia,East Asia & Pacific,umc,Female,lays,8.37194166
+MUS,Mauritius,Sub-Saharan Africa,umc,Total,years,11.73603684
+MUS,Mauritius,Sub-Saharan Africa,umc,Male,years,11.56457162
+MUS,Mauritius,Sub-Saharan Africa,umc,Female,years,11.90827405
+MUS,Mauritius,Sub-Saharan Africa,umc,Total,lays,8.370555213
+MUS,Mauritius,Sub-Saharan Africa,umc,Male,lays,8.248260175
+MUS,Mauritius,Sub-Saharan Africa,umc,Female,lays,8.493400869
+MWI,Malawi,Sub-Saharan Africa,lic,Total,years,7.515399754
+MWI,Malawi,Sub-Saharan Africa,lic,Male,years,7.46889925
+MWI,Malawi,Sub-Saharan Africa,lic,Female,years,7.558201909
+MWI,Malawi,Sub-Saharan Africa,lic,Total,lays,4.185709232
+MWI,Malawi,Sub-Saharan Africa,lic,Male,lays,4.159810731
+MWI,Malawi,Sub-Saharan Africa,lic,Female,lays,4.209547934
+MYS,Malaysia,East Asia & Pacific,umc,Total,years,10.31026
+MYS,Malaysia,East Asia & Pacific,umc,Male,years,10.002819
+MYS,Malaysia,East Asia & Pacific,umc,Female,years,10.65054071
+MYS,Malaysia,East Asia & Pacific,umc,Total,lays,6.911367001
+MYS,Malaysia,East Asia & Pacific,umc,Male,lays,6.62115846
+MYS,Malaysia,East Asia & Pacific,umc,Female,lays,7.227864121
+NAM,Namibia,Sub-Saharan Africa,lmc,Total,years,10.72097504
+NAM,Namibia,Sub-Saharan Africa,lmc,Male,years,10.42040521
+NAM,Namibia,Sub-Saharan Africa,lmc,Female,years,11.03005689
+NAM,Namibia,Sub-Saharan Africa,lmc,Total,lays,5.875272308
+NAM,Namibia,Sub-Saharan Africa,lmc,Male,lays,5.71055505
+NAM,Namibia,Sub-Saharan Africa,lmc,Female,lays,6.044654294
+NER,Niger,Sub-Saharan Africa,lic,Total,years,4.749274686
+NER,Niger,Sub-Saharan Africa,lic,Male,years,4.9419505
+NER,Niger,Sub-Saharan Africa,lic,Female,years,4.549640581
+NER,Niger,Sub-Saharan Africa,lic,Total,lays,2.422043824
+NER,Niger,Sub-Saharan Africa,lic,Male,lays,2.516775886
+NER,Niger,Sub-Saharan Africa,lic,Female,lays,2.323948634
+NGA,Nigeria,Sub-Saharan Africa,lmc,Total,years,9.243067503
+NGA,Nigeria,Sub-Saharan Africa,lmc,Male,years,9.288348794
+NGA,Nigeria,Sub-Saharan Africa,lmc,Female,years,9.194813371
+NGA,Nigeria,Sub-Saharan Africa,lmc,Total,lays,4.700215364
+NGA,Nigeria,Sub-Saharan Africa,lmc,Male,lays,4.665245978
+NGA,Nigeria,Sub-Saharan Africa,lmc,Female,lays,4.734336672
+NIC,Nicaragua,Latin America & Caribbean,lmc,Total,years,10.61329073
+NIC,Nicaragua,Latin America & Caribbean,lmc,Male,years,10.47356898
+NIC,Nicaragua,Latin America & Caribbean,lmc,Female,years,10.75315851
+NIC,Nicaragua,Latin America & Caribbean,lmc,Total,lays,6.35371179
+NIC,Nicaragua,Latin America & Caribbean,lmc,Male,lays,6.272723763
+NIC,Nicaragua,Latin America & Caribbean,lmc,Female,lays,6.434669575
+NLD,Netherlands,Europe & Central Asia,hic,Total,years,12.92025393
+NLD,Netherlands,Europe & Central Asia,hic,Male,years,12.90989596
+NLD,Netherlands,Europe & Central Asia,hic,Female,years,12.9368431
+NLD,Netherlands,Europe & Central Asia,hic,Total,lays,10.59283421
+NLD,Netherlands,Europe & Central Asia,hic,Male,lays,10.62423796
+NLD,Netherlands,Europe & Central Asia,hic,Female,lays,10.56718361
+NOR,Norway,Europe & Central Asia,hic,Total,years,12.75822031
+NOR,Norway,Europe & Central Asia,hic,Male,years,12.73790514
+NOR,Norway,Europe & Central Asia,hic,Female,years,12.77568167
+NOR,Norway,Europe & Central Asia,hic,Total,lays,10.46176308
+NOR,Norway,Europe & Central Asia,hic,Male,lays,10.47598657
+NOR,Norway,Europe & Central Asia,hic,Female,lays,10.44735798
+NPL,Nepal,South Asia,lmc,Total,years,10.29314673
+NPL,Nepal,South Asia,lmc,Male,years,10.35029536
+NPL,Nepal,South Asia,lmc,Female,years,10.2272734
+NPL,Nepal,South Asia,lmc,Total,lays,6.259398729
+NPL,Nepal,South Asia,lmc,Male,lays,6.294151571
+NPL,Nepal,South Asia,lmc,Female,lays,6.219340289
+NRU,Nauru,East Asia & Pacific,hic,Total,years,11.62098587
+NRU,Nauru,East Asia & Pacific,hic,Male,years,11.36223465
+NRU,Nauru,East Asia & Pacific,hic,Female,years,11.90704477
+NRU,Nauru,East Asia & Pacific,hic,Total,lays,6.72805091
+NRU,Nauru,East Asia & Pacific,hic,Male,lays,6.070511871
+NRU,Nauru,East Asia & Pacific,hic,Female,lays,7.315858655
+NZL,New Zealand,East Asia & Pacific,hic,Total,years,12.67598522
+NZL,New Zealand,East Asia & Pacific,hic,Male,years,12.63633978
+NZL,New Zealand,East Asia & Pacific,hic,Female,years,12.71586573
+NZL,New Zealand,East Asia & Pacific,hic,Total,lays,10.25374309
+NZL,New Zealand,East Asia & Pacific,hic,Male,lays,10.27041037
+NZL,New Zealand,East Asia & Pacific,hic,Female,lays,10.22674867
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,11.05890965
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,11.01535761
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,11.10358602
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,7.611345868
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,7.442930304
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,7.789627518
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,9.326435745
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,9.871474504
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,8.759755701
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,5.300901076
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,5.475141033
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,5.121222648
+PAN,Panama,Latin America & Caribbean,hic,Total,years,10.7227295
+PAN,Panama,Latin America & Caribbean,hic,Male,years,10.61331385
+PAN,Panama,Latin America & Caribbean,hic,Female,years,10.84187996
+PAN,Panama,Latin America & Caribbean,hic,Total,lays,6.728896018
+PAN,Panama,Latin America & Caribbean,hic,Male,lays,6.622342494
+PAN,Panama,Latin America & Caribbean,hic,Female,lays,6.842520083
+PER,Peru,Latin America & Caribbean,umc,Total,years,12.19840455
+PER,Peru,Latin America & Caribbean,umc,Male,years,12.14116704
+PER,Peru,Latin America & Caribbean,umc,Female,years,12.26229447
+PER,Peru,Latin America & Caribbean,umc,Total,lays,8.132706095
+PER,Peru,Latin America & Caribbean,umc,Male,lays,8.167260511
+PER,Peru,Latin America & Caribbean,umc,Female,lays,8.101985355
+PHL,Philippines,East Asia & Pacific,lmc,Total,years,10.97218001
+PHL,Philippines,East Asia & Pacific,lmc,Male,years,10.81385326
+PHL,Philippines,East Asia & Pacific,lmc,Female,years,11.13201356
+PHL,Philippines,East Asia & Pacific,lmc,Total,lays,6.413443872
+PHL,Philippines,East Asia & Pacific,lmc,Male,lays,6.130699204
+PHL,Philippines,East Asia & Pacific,lmc,Female,lays,6.697568892
+PLW,Palau,East Asia & Pacific,hic,Total,years,11.94162935
+PLW,Palau,East Asia & Pacific,hic,Male,years,NA
+PLW,Palau,East Asia & Pacific,hic,Female,years,NA
+PLW,Palau,East Asia & Pacific,hic,Total,lays,8.857773541
+PLW,Palau,East Asia & Pacific,hic,Male,lays,NA
+PLW,Palau,East Asia & Pacific,hic,Female,lays,NA
+PNG,Papua New Guinea,East Asia & Pacific,lmc,Total,years,8.309097528
+PNG,Papua New Guinea,East Asia & Pacific,lmc,Male,years,8.41705364
+PNG,Papua New Guinea,East Asia & Pacific,lmc,Female,years,8.197559834
+PNG,Papua New Guinea,East Asia & Pacific,lmc,Total,lays,5.212701786
+PNG,Papua New Guinea,East Asia & Pacific,lmc,Male,lays,5.263210766
+PNG,Papua New Guinea,East Asia & Pacific,lmc,Female,lays,5.166617356
+POL,Poland,Europe & Central Asia,hic,Total,years,12.76498121
+POL,Poland,Europe & Central Asia,hic,Male,years,12.72657949
+POL,Poland,Europe & Central Asia,hic,Female,years,12.79936123
+POL,Poland,Europe & Central Asia,hic,Total,lays,10.80496572
+POL,Poland,Europe & Central Asia,hic,Male,lays,10.75577793
+POL,Poland,Europe & Central Asia,hic,Female,lays,10.85179842
+PRT,Portugal,Europe & Central Asia,hic,Total,years,12.70892519
+PRT,Portugal,Europe & Central Asia,hic,Male,years,12.66377872
+PRT,Portugal,Europe & Central Asia,hic,Female,years,12.75693417
+PRT,Portugal,Europe & Central Asia,hic,Total,lays,10.25133926
+PRT,Portugal,Europe & Central Asia,hic,Male,lays,10.2928448
+PRT,Portugal,Europe & Central Asia,hic,Female,lays,10.21045701
+PRY,Paraguay,Latin America & Caribbean,umc,Total,years,10.37591195
+PRY,Paraguay,Latin America & Caribbean,umc,Male,years,10.25506443
+PRY,Paraguay,Latin America & Caribbean,umc,Female,years,10.4993633
+PRY,Paraguay,Latin America & Caribbean,umc,Total,lays,6.204479206
+PRY,Paraguay,Latin America & Caribbean,umc,Male,lays,6.086801356
+PRY,Paraguay,Latin America & Caribbean,umc,Female,lays,6.324740067
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,11.36361361
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,11.21336246
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,11.51468641
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,7.066908121
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,6.663277826
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,7.523896255
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,11.50382102
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,11.35558188
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,11.66467589
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,8.322995968
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,8.129652915
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,8.528738273
+ROU,Romania,Europe & Central Asia,hic,Total,years,10.45846319
+ROU,Romania,Europe & Central Asia,hic,Male,years,10.41722924
+ROU,Romania,Europe & Central Asia,hic,Female,years,10.50228924
+ROU,Romania,Europe & Central Asia,hic,Total,lays,8.491846726
+ROU,Romania,Europe & Central Asia,hic,Male,lays,8.467254646
+ROU,Romania,Europe & Central Asia,hic,Female,lays,8.518200651
+RUS,Russian Federation,Europe & Central Asia,hic,Total,years,11.15010947
+RUS,Russian Federation,Europe & Central Asia,hic,Male,years,11.13954049
+RUS,Russian Federation,Europe & Central Asia,hic,Female,years,11.16085309
+RUS,Russian Federation,Europe & Central Asia,hic,Total,lays,10.11732187
+RUS,Russian Federation,Europe & Central Asia,hic,Male,lays,9.991363905
+RUS,Russian Federation,Europe & Central Asia,hic,Female,lays,10.24838577
+RWA,Rwanda,Sub-Saharan Africa,lic,Total,years,8.654518664
+RWA,Rwanda,Sub-Saharan Africa,lic,Male,years,8.417212248
+RWA,Rwanda,Sub-Saharan Africa,lic,Female,years,8.899202168
+RWA,Rwanda,Sub-Saharan Africa,lic,Total,lays,5.774415289
+RWA,Rwanda,Sub-Saharan Africa,lic,Male,lays,5.462955286
+RWA,Rwanda,Sub-Saharan Africa,lic,Female,lays,6.096139464
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,years,12.41450429
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,years,12.33865112
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,years,12.47955817
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Total,lays,8.114847416
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Male,lays,7.904462231
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",hic,Female,lays,8.320836203
+SDN,Sudan,Sub-Saharan Africa,lic,Total,years,6.808326304
+SDN,Sudan,Sub-Saharan Africa,lic,Male,years,6.878476441
+SDN,Sudan,Sub-Saharan Africa,lic,Female,years,6.744104147
+SDN,Sudan,Sub-Saharan Africa,lic,Total,lays,4.264657474
+SDN,Sudan,Sub-Saharan Africa,lic,Male,lays,4.213854755
+SDN,Sudan,Sub-Saharan Africa,lic,Female,lays,4.332776712
+SEN,Senegal,Sub-Saharan Africa,lmc,Total,years,7.194542199
+SEN,Senegal,Sub-Saharan Africa,lmc,Male,years,6.707094744
+SEN,Senegal,Sub-Saharan Africa,lmc,Female,years,7.716635704
+SEN,Senegal,Sub-Saharan Africa,lmc,Total,lays,4.107526792
+SEN,Senegal,Sub-Saharan Africa,lmc,Male,lays,3.827699998
+SEN,Senegal,Sub-Saharan Africa,lmc,Female,lays,4.406796574
+SGP,Singapore,East Asia & Pacific,hic,Total,years,12.9163782
+SGP,Singapore,East Asia & Pacific,hic,Male,years,NA
+SGP,Singapore,East Asia & Pacific,hic,Female,years,NA
+SGP,Singapore,East Asia & Pacific,hic,Total,lays,12.28072463
+SGP,Singapore,East Asia & Pacific,hic,Male,lays,NA
+SGP,Singapore,East Asia & Pacific,hic,Female,lays,NA
+SLB,Solomon Islands,East Asia & Pacific,lmc,Total,years,10.38471544
+SLB,Solomon Islands,East Asia & Pacific,lmc,Male,years,10.3020792
+SLB,Solomon Islands,East Asia & Pacific,lmc,Female,years,10.47367644
+SLB,Solomon Islands,East Asia & Pacific,lmc,Total,lays,6.906262716
+SLB,Solomon Islands,East Asia & Pacific,lmc,Male,lays,6.822638975
+SLB,Solomon Islands,East Asia & Pacific,lmc,Female,lays,6.996604063
+SLE,Sierra Leone,Sub-Saharan Africa,lic,Total,years,9.808962941
+SLE,Sierra Leone,Sub-Saharan Africa,lic,Male,years,9.758975744
+SLE,Sierra Leone,Sub-Saharan Africa,lic,Female,years,9.861539781
+SLE,Sierra Leone,Sub-Saharan Africa,lic,Total,lays,3.766484194
+SLE,Sierra Leone,Sub-Saharan Africa,lic,Male,lays,3.771131262
+SLE,Sierra Leone,Sub-Saharan Africa,lic,Female,lays,3.763546149
+SLV,El Salvador,Latin America & Caribbean,umc,Total,years,9.536022842
+SLV,El Salvador,Latin America & Caribbean,umc,Male,years,9.23653692
+SLV,El Salvador,Latin America & Caribbean,umc,Female,years,9.86211127
+SLV,El Salvador,Latin America & Caribbean,umc,Total,lays,5.697946861
+SLV,El Salvador,Latin America & Caribbean,umc,Male,lays,5.508848765
+SLV,El Salvador,Latin America & Caribbean,umc,Female,lays,5.903208438
+SRB,Serbia,Europe & Central Asia,umc,Total,years,12.42874599
+SRB,Serbia,Europe & Central Asia,umc,Male,years,12.35080564
+SRB,Serbia,Europe & Central Asia,umc,Female,years,12.50738794
+SRB,Serbia,Europe & Central Asia,umc,Total,lays,9.694333265
+SRB,Serbia,Europe & Central Asia,umc,Male,lays,9.640480443
+SRB,Serbia,Europe & Central Asia,umc,Female,lays,9.750665585
+SSD,South Sudan,Sub-Saharan Africa,lic,Total,years,5.092523642
+SSD,South Sudan,Sub-Saharan Africa,lic,Male,years,5.801193357
+SSD,South Sudan,Sub-Saharan Africa,lic,Female,years,4.370413179
+SSD,South Sudan,Sub-Saharan Africa,lic,Total,lays,2.819796981
+SSD,South Sudan,Sub-Saharan Africa,lic,Male,lays,3.212196676
+SSD,South Sudan,Sub-Saharan Africa,lic,Female,lays,2.419954968
+STP,São Tomé and Principe,Sub-Saharan Africa,lmc,Total,years,9.808329821
+STP,São Tomé and Principe,Sub-Saharan Africa,lmc,Male,years,9.357910097
+STP,São Tomé and Principe,Sub-Saharan Africa,lmc,Female,years,10.26452619
+STP,São Tomé and Principe,Sub-Saharan Africa,lmc,Total,lays,6.27538235
+STP,São Tomé and Principe,Sub-Saharan Africa,lmc,Male,lays,6.001015273
+STP,São Tomé and Principe,Sub-Saharan Africa,lmc,Female,lays,6.55139248
+SVK,Slovak Republic,Europe & Central Asia,hic,Total,years,12.13603801
+SVK,Slovak Republic,Europe & Central Asia,hic,Male,years,12.10712868
+SVK,Slovak Republic,Europe & Central Asia,hic,Female,years,12.16909075
+SVK,Slovak Republic,Europe & Central Asia,hic,Total,lays,9.632541658
+SVK,Slovak Republic,Europe & Central Asia,hic,Male,lays,9.611663241
+SVK,Slovak Republic,Europe & Central Asia,hic,Female,lays,9.662116636
+SVN,Slovenia,Europe & Central Asia,hic,Total,years,12.67854327
+SVN,Slovenia,Europe & Central Asia,hic,Male,years,12.64701837
+SVN,Slovenia,Europe & Central Asia,hic,Female,years,12.71458155
+SVN,Slovenia,Europe & Central Asia,hic,Total,lays,10.36438844
+SVN,Slovenia,Europe & Central Asia,hic,Male,lays,10.27520099
+SVN,Slovenia,Europe & Central Asia,hic,Female,lays,10.46200842
+SWE,Sweden,Europe & Central Asia,hic,Total,years,12.90125656
+SWE,Sweden,Europe & Central Asia,hic,Male,years,12.90723401
+SWE,Sweden,Europe & Central Asia,hic,Female,years,12.88646615
+SWE,Sweden,Europe & Central Asia,hic,Total,lays,10.84252595
+SWE,Sweden,Europe & Central Asia,hic,Male,lays,10.91208319
+SWE,Sweden,Europe & Central Asia,hic,Female,lays,10.76755861
+SWZ,Eswatini,Sub-Saharan Africa,lmc,Total,years,10.56805247
+SWZ,Eswatini,Sub-Saharan Africa,lmc,Male,years,10.47842312
+SWZ,Eswatini,Sub-Saharan Africa,lmc,Female,years,10.66723531
+SWZ,Eswatini,Sub-Saharan Africa,lmc,Total,lays,6.43205679
+SWZ,Eswatini,Sub-Saharan Africa,lmc,Male,lays,6.042730608
+SWZ,Eswatini,Sub-Saharan Africa,lmc,Female,lays,6.81994637
+SYC,Seychelles,Sub-Saharan Africa,hic,Total,years,12.44382495
+SYC,Seychelles,Sub-Saharan Africa,hic,Male,years,12.266357
+SYC,Seychelles,Sub-Saharan Africa,hic,Female,years,12.62594104
+SYC,Seychelles,Sub-Saharan Africa,hic,Total,lays,7.870349853
+SYC,Seychelles,Sub-Saharan Africa,hic,Male,lays,7.758106648
+SYC,Seychelles,Sub-Saharan Africa,hic,Female,lays,7.985532874
+TCA,Turks and Caicos Islands,Latin America & Caribbean,hic,Total,years,11.91853476
+TCA,Turks and Caicos Islands,Latin America & Caribbean,hic,Male,years,12.34602547
+TCA,Turks and Caicos Islands,Latin America & Caribbean,hic,Female,years,11.27130353
+TCA,Turks and Caicos Islands,Latin America & Caribbean,hic,Total,lays,8.737619828
+TCA,Turks and Caicos Islands,Latin America & Caribbean,hic,Male,lays,9.0581119
+TCA,Turks and Caicos Islands,Latin America & Caribbean,hic,Female,lays,8.256088397
+TCD,Chad,Sub-Saharan Africa,lic,Total,years,5.613683432
+TCD,Chad,Sub-Saharan Africa,lic,Male,years,6.19154802
+TCD,Chad,Sub-Saharan Africa,lic,Female,years,5.009862751
+TCD,Chad,Sub-Saharan Africa,lic,Total,lays,2.73080865
+TCD,Chad,Sub-Saharan Africa,lic,Male,lays,3.053700204
+TCD,Chad,Sub-Saharan Africa,lic,Female,lays,2.392119198
+TGO,Togo,Sub-Saharan Africa,lic,Total,years,9.694940329
+TGO,Togo,Sub-Saharan Africa,lic,Male,years,9.842586875
+TGO,Togo,Sub-Saharan Africa,lic,Female,years,9.547795892
+TGO,Togo,Sub-Saharan Africa,lic,Total,lays,4.807826947
+TGO,Togo,Sub-Saharan Africa,lic,Male,lays,4.879220223
+TGO,Togo,Sub-Saharan Africa,lic,Female,lays,4.73660653
+THA,Thailand,East Asia & Pacific,umc,Total,years,12.55302376
+THA,Thailand,East Asia & Pacific,umc,Male,years,12.48815453
+THA,Thailand,East Asia & Pacific,umc,Female,years,12.62193793
+THA,Thailand,East Asia & Pacific,umc,Total,lays,8.204039708
+THA,Thailand,East Asia & Pacific,umc,Male,lays,8.009385838
+THA,Thailand,East Asia & Pacific,umc,Female,lays,8.391718853
+TJK,Tajikistan,Europe & Central Asia,lmc,Total,years,10.0426316
+TJK,Tajikistan,Europe & Central Asia,lmc,Male,years,10.75685659
+TJK,Tajikistan,Europe & Central Asia,lmc,Female,years,9.340197571
+TJK,Tajikistan,Europe & Central Asia,lmc,Total,lays,6.471732183
+TJK,Tajikistan,Europe & Central Asia,lmc,Male,lays,6.931997288
+TJK,Tajikistan,Europe & Central Asia,lmc,Female,lays,6.019065485
+TKM,Turkmenistan,Europe & Central Asia,umc,Total,years,11.61177555
+TKM,Turkmenistan,Europe & Central Asia,umc,Male,years,11.58726802
+TKM,Turkmenistan,Europe & Central Asia,umc,Female,years,11.65223163
+TKM,Turkmenistan,Europe & Central Asia,umc,Total,lays,8.628461504
+TKM,Turkmenistan,Europe & Central Asia,umc,Male,lays,8.5847585
+TKM,Turkmenistan,Europe & Central Asia,umc,Female,lays,8.685746992
+TON,Tonga,East Asia & Pacific,umc,Total,years,11.81604004
+TON,Tonga,East Asia & Pacific,umc,Male,years,11.34510398
+TON,Tonga,East Asia & Pacific,umc,Female,years,12.27759206
+TON,Tonga,East Asia & Pacific,umc,Total,lays,7.326473315
+TON,Tonga,East Asia & Pacific,umc,Male,lays,6.887346725
+TON,Tonga,East Asia & Pacific,umc,Female,lays,7.794710483
+TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Total,years,9.650052935
+TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Male,years,9.550056279
+TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Female,years,9.761307538
+TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Total,lays,7.084303175
+TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Male,lays,6.804953222
+TTO,Trinidad and Tobago,Latin America & Caribbean,hic,Female,lays,7.367087579
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,years,10.74420714
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,years,10.15873468
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,years,11.38397294
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Total,lays,6.619003436
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Male,lays,6.215910008
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",lmc,Female,lays,7.054177221
+TUR,Türkiye,Europe & Central Asia,umc,Total,years,12.50879985
+TUR,Türkiye,Europe & Central Asia,umc,Male,years,12.50568485
+TUR,Türkiye,Europe & Central Asia,umc,Female,years,12.52392912
+TUR,Türkiye,Europe & Central Asia,umc,Total,lays,10.19591543
+TUR,Türkiye,Europe & Central Asia,umc,Male,lays,10.16337496
+TUR,Türkiye,Europe & Central Asia,umc,Female,lays,10.23576507
+TUV,Tuvalu,East Asia & Pacific,umc,Total,years,11.03280723
+TUV,Tuvalu,East Asia & Pacific,umc,Male,years,10.64723802
+TUV,Tuvalu,East Asia & Pacific,umc,Female,years,11.46240497
+TUV,Tuvalu,East Asia & Pacific,umc,Total,lays,6.480974262
+TUV,Tuvalu,East Asia & Pacific,umc,Male,lays,6.008656479
+TUV,Tuvalu,East Asia & Pacific,umc,Female,lays,7.01590469
+TZA,Tanzania,Sub-Saharan Africa,lmc,Total,years,7.900955915
+TZA,Tanzania,Sub-Saharan Africa,lmc,Male,years,7.949206054
+TZA,Tanzania,Sub-Saharan Africa,lmc,Female,years,7.856467009
+TZA,Tanzania,Sub-Saharan Africa,lmc,Total,lays,4.05766785
+TZA,Tanzania,Sub-Saharan Africa,lmc,Male,lays,4.082447515
+TZA,Tanzania,Sub-Saharan Africa,lmc,Female,lays,4.034819829
+UGA,Uganda,Sub-Saharan Africa,lic,Total,years,8.325795174
+UGA,Uganda,Sub-Saharan Africa,lic,Male,years,8.209886014
+UGA,Uganda,Sub-Saharan Africa,lic,Female,years,8.439545631
+UGA,Uganda,Sub-Saharan Africa,lic,Total,lays,5.115127074
+UGA,Uganda,Sub-Saharan Africa,lic,Male,lays,5.043915849
+UGA,Uganda,Sub-Saharan Africa,lic,Female,lays,5.185012056
+UKR,Ukraine,Europe & Central Asia,umc,Total,years,12.48340988
+UKR,Ukraine,Europe & Central Asia,umc,Male,years,12.39581251
+UKR,Ukraine,Europe & Central Asia,umc,Female,years,12.57943034
+UKR,Ukraine,Europe & Central Asia,umc,Total,lays,9.574182295
+UKR,Ukraine,Europe & Central Asia,umc,Male,lays,9.431059791
+UKR,Ukraine,Europe & Central Asia,umc,Female,lays,9.733433118
+URY,Uruguay,Latin America & Caribbean,hic,Total,years,12.08401823
+URY,Uruguay,Latin America & Caribbean,hic,Male,years,11.96027565
+URY,Uruguay,Latin America & Caribbean,hic,Female,years,12.2020914
+URY,Uruguay,Latin America & Caribbean,hic,Total,lays,8.508451052
+URY,Uruguay,Latin America & Caribbean,hic,Male,lays,8.438444005
+URY,Uruguay,Latin America & Caribbean,hic,Female,lays,8.57435898
+USA,United States,North America,hic,Total,years,12.20271212
+USA,United States,North America,hic,Male,years,12.15868878
+USA,United States,North America,hic,Female,years,12.24185377
+USA,United States,North America,hic,Total,lays,9.952751867
+USA,United States,North America,hic,Male,lays,9.975120076
+USA,United States,North America,hic,Female,lays,9.922214958
+UZB,Uzbekistan,Europe & Central Asia,lmc,Total,years,12.17368579
+UZB,Uzbekistan,Europe & Central Asia,lmc,Male,years,12.27705801
+UZB,Uzbekistan,Europe & Central Asia,lmc,Female,years,12.06052798
+UZB,Uzbekistan,Europe & Central Asia,lmc,Total,lays,7.626881911
+UZB,Uzbekistan,Europe & Central Asia,lmc,Male,lays,7.689653754
+UZB,Uzbekistan,Europe & Central Asia,lmc,Female,lays,7.557523746
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,umc,Total,years,11.41581899
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,umc,Male,years,11.33707589
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,umc,Female,years,11.46026683
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,umc,Total,lays,7.372230552
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,umc,Male,lays,7.216310088
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,umc,Female,lays,7.502944361
+VNM,Viet Nam,East Asia & Pacific,lmc,Total,years,11.92140949
+VNM,Viet Nam,East Asia & Pacific,lmc,Male,years,11.80987895
+VNM,Viet Nam,East Asia & Pacific,lmc,Female,years,12.04953158
+VNM,Viet Nam,East Asia & Pacific,lmc,Total,lays,9.256143228
+VNM,Viet Nam,East Asia & Pacific,lmc,Male,lays,9.168804808
+VNM,Viet Nam,East Asia & Pacific,lmc,Female,lays,9.356327714
+VUT,Vanuatu,East Asia & Pacific,lmc,Total,years,11.05032271
+VUT,Vanuatu,East Asia & Pacific,lmc,Male,years,11.08288085
+VUT,Vanuatu,East Asia & Pacific,lmc,Female,years,11.00732714
+VUT,Vanuatu,East Asia & Pacific,lmc,Total,lays,6.417154412
+VUT,Vanuatu,East Asia & Pacific,lmc,Male,lays,6.294089797
+VUT,Vanuatu,East Asia & Pacific,lmc,Female,lays,6.538696837
+WSM,Samoa,East Asia & Pacific,umc,Total,years,11.54048398
+WSM,Samoa,East Asia & Pacific,umc,Male,years,11.34269589
+WSM,Samoa,East Asia & Pacific,umc,Female,years,11.74529302
+WSM,Samoa,East Asia & Pacific,umc,Total,lays,7.130141518
+WSM,Samoa,East Asia & Pacific,umc,Male,lays,6.713399424
+WSM,Samoa,East Asia & Pacific,umc,Female,lays,7.596481604
+XKX,Kosovo,Europe & Central Asia,umc,Total,years,12.165
+XKX,Kosovo,Europe & Central Asia,umc,Male,years,12.165
+XKX,Kosovo,Europe & Central Asia,umc,Female,years,12.165
+XKX,Kosovo,Europe & Central Asia,umc,Total,lays,7.7030461
+XKX,Kosovo,Europe & Central Asia,umc,Male,lays,7.6866679
+XKX,Kosovo,Europe & Central Asia,umc,Female,lays,7.717226522
+ZAF,South Africa,Sub-Saharan Africa,umc,Total,years,10.74992388
+ZAF,South Africa,Sub-Saharan Africa,umc,Male,years,10.31350595
+ZAF,South Africa,Sub-Saharan Africa,umc,Female,years,11.21116364
+ZAF,South Africa,Sub-Saharan Africa,umc,Total,lays,6.142228836
+ZAF,South Africa,Sub-Saharan Africa,umc,Male,lays,5.710907015
+ZAF,South Africa,Sub-Saharan Africa,umc,Female,lays,6.613689873
+ZMB,Zambia,Sub-Saharan Africa,lmc,Total,years,9.646072
+ZMB,Zambia,Sub-Saharan Africa,lmc,Male,years,9.775693864
+ZMB,Zambia,Sub-Saharan Africa,lmc,Female,years,9.516434014
+ZMB,Zambia,Sub-Saharan Africa,lmc,Total,lays,4.880824355
+ZMB,Zambia,Sub-Saharan Africa,lmc,Male,lays,4.955755546
+ZMB,Zambia,Sub-Saharan Africa,lmc,Female,lays,4.806589115
+ZWE,Zimbabwe,Sub-Saharan Africa,lmc,Total,years,10.36131036
+ZWE,Zimbabwe,Sub-Saharan Africa,lmc,Male,years,10.27557623
+ZWE,Zimbabwe,Sub-Saharan Africa,lmc,Female,years,10.45312047
+ZWE,Zimbabwe,Sub-Saharan Africa,lmc,Total,lays,5.797218918
+ZWE,Zimbabwe,Sub-Saharan Africa,lmc,Male,lays,5.612500171
+ZWE,Zimbabwe,Sub-Saharan Africa,lmc,Female,lays,5.99837057

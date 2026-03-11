@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Chief Executives Senior Officials and Legislators</title>
+  <path d="M 320 460 L 270 800 L 754 800 L 704 460 Z"/>
+  <rect x="320" y="380" width="384" height="80" rx="12"/>
+  <rect x="488" y="240" width="48" height="120" rx="24"/>
+  <line x1="512" y1="360" x2="512" y2="400"/>
+  <line x1="680" y1="200" x2="800" y2="320"/>
+  <rect x="740" y="160" width="80" height="116" rx="10" transform="rotate(45 780 218)"/>
+  <line x1="395" y1="425" x2="515" y2="425" stroke-width="8"/>
+  <line x1="395" y1="450" x2="515" y2="450" stroke-width="8"/>
+</svg>

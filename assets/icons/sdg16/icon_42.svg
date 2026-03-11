@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Customer Services Clerks</title>
+  <!-- Head arc -->
+  <path d="M280 540 Q280 200 512 180 Q744 200 744 540" />
+  <!-- Left ear cup -->
+  <rect x="240" y="480" width="80" height="160" rx="20" />
+  <!-- Right ear cup -->
+  <rect x="704" y="480" width="80" height="160" rx="20" />
+  <!-- Microphone arm -->
+  <path d="M704 600 Q704 720 600 760 L540 760" />
+  <!-- Microphone -->
+  <ellipse cx="520" cy="760" rx="40" ry="30" />
+</svg>
+

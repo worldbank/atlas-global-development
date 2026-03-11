@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Other Clerical Support Workers</title>
+  <rect x="160" y="300" width="560" height="400" rx="16"/>
+  <path d="M 160 300 L 440 520 L 720 300"/>
+  <path d="M 160 700 L 340 500"/>
+  <path d="M 720 700 L 540 500"/>
+  <rect x="740" y="220" width="160" height="180" rx="8"/>
+  <rect x="760" y="240" width="120" height="140" rx="4" stroke-width="8"/>
+  <line x1="780" y1="280" x2="860" y2="280" stroke-width="8"/>
+  <line x1="780" y1="316" x2="860" y2="316" stroke-width="8"/>
+  <line x1="780" y1="352" x2="840" y2="352" stroke-width="8"/>
+  <rect x="800" y="160" width="80" height="60" rx="8"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Production and Specialized Services Managers</title>
+  <!-- Factory building -->
+  <rect x="160" y="450" width="704" height="380" rx="16" />
+  <!-- Factory roof sawtooth -->
+  <path d="M160 450 L340 280 L340 450 L520 280 L520 450 L700 280 L700 450" />
+  <!-- Smokestack -->
+  <rect x="760" y="200" width="60" height="250" rx="8" />
+  <!-- Smoke -->
+  <path d="M790 200 Q770 160 790 130 Q810 100 790 60" stroke-width="12" />
+  <!-- Door -->
+  <rect x="460" y="650" width="104" height="180" rx="12" />
+  <!-- Windows -->
+  <rect x="240" y="540" width="80" height="70" rx="8" />
+  <rect x="700" y="540" width="80" height="70" rx="8" />
+</svg>
+

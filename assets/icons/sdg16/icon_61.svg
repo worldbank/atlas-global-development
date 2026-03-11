@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Market-oriented Skilled Agricultural Workers</title>
+  <!-- Tractor body -->
+  <rect x="300" y="340" width="424" height="240" rx="20" />
+  <!-- Cabin -->
+  <path d="M500 340 L500 200 L700 200 L724 340" />
+  <!-- Cabin window -->
+  <rect x="540" y="230" width="130" height="90" rx="8" />
+  <!-- Big rear wheel -->
+  <circle cx="380" cy="640" r="140" />
+  <circle cx="380" cy="640" r="60" />
+  <!-- Small front wheel -->
+  <circle cx="680" cy="660" r="80" />
+  <circle cx="680" cy="660" r="35" />
+  <!-- Exhaust pipe -->
+  <line x1="340" y1="340" x2="340" y2="260" stroke-width="14" />
+  <path d="M340 260 Q330 230 350 210" stroke-width="10" />
+</svg>
+

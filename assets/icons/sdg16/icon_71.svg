@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Building and Related Trades Workers</title>
+  <rect x="180" y="400" width="200" height="80" rx="4"/>
+  <rect x="400" y="400" width="200" height="80" rx="4"/>
+  <rect x="620" y="400" width="200" height="80" rx="4"/>
+  <rect x="290" y="500" width="200" height="80" rx="4"/>
+  <rect x="510" y="500" width="200" height="80" rx="4"/>
+  <rect x="180" y="600" width="200" height="80" rx="4"/>
+  <rect x="400" y="600" width="200" height="80" rx="4"/>
+  <rect x="620" y="600" width="200" height="80" rx="4"/>
+  <path d="M 280 300 Q 280 180 440 180 Q 600 180 600 300 L 620 340 L 260 340 Z"/>
+  <line x1="240" y1="340" x2="640" y2="340"/>
+  <path d="M 740 160 L 860 280 Q 876 320 836 360 L 736 240 Z"/>
+  <line x1="736" y1="240" x2="656" y2="320"/>
+</svg>

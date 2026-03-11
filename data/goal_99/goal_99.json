@@ -3,176 +3,225 @@
     "type": "config",
     "goal": "99",
     "locale": "en",
-    "shortTitle": "",
-    "title": "Progress, challenges in ending extreme poverty",
-    "abstract": "[goal: 1] calls for an [emphasis: end to poverty by 2030]. On the eve of the pandemic, 659 million people struggled on less than $2.15 a day[footnote:  footnote!!! and a <a href=\"https://www.google.com\" target=\"_blank\">link within</a> 🤷]. The pandemic halted years of progress in ending extreme poverty, expanding the number of extremely poor people by 70 million. Poor countries will need to grow to end extreme poverty and it can be done without significantly contributing to global emissions.",
+    "shortTitle": "Story Topic",
+    "title": "A catchy title for your story",
+    "abstract": "The abstract of the chapter. In this part, please provide a brief summary of your chapter (about 50 words). Lorem ipsum odor amet, consectetuer adipiscing elit. Facilisi convallis fringilla elit dapibus mauris risus curae. Facilisis porta eros mus penatibus, tincidunt a. Cras vehicula quis viverra ridiculus convallis volutpat nam molestie ligula. Phasellus venenatis euismod in cras id porttitor; bibendum dignissim.",
     "citation": "Mahler, Daniel Gerszon, and Maarten Lambrechts. 2023. “Progress, challenges in ending extreme poverty” In Atlas of  Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. <a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\">https://doi.org/10.60616/f7gk-me57</a>",
     "credits": "Daniel Gerszon Mahler",
     "inputs": "Andrés Castañeda, Carolina Diaz-Bonilla, Christoph Lakner, Dean Jolliffe, Gabriel Lara Ibara, Marta Schoch, Martha Viveros, Nishant Yonzan, Philip Wollburg, Samuel Kofi Tetteh Baah, Stephane Hallegatte",
     "visuals": "Maarten Lambrechts",
-    "references": "1wrGVEkf-fHV7FDqcQm3UVid8_y9vYH4xNLGfcRylX1k",
     "translationPrefix": "goal_99.config"
   },
   "content": [
     {
-      "text": "Measuring extreme poverty",
-      "type": "subhed",
+      "text": "Subheading (this) and other text elements",
+      "type": "subhed2",
       "translationPrefix": "goal_99.content.#0"
+    },
+    {
+      "text": "In the first paragraph, provide an introduction. You can add a heading like the one above from the SDGA 2025 Toolbar with Set Text elements > Subheading, or by changing the text style to Heading 1. ",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#1"
     },
     {
       "text": "This is a secondary subheading",
       "type": "subhed2",
-      "translationPrefix": "goal_99.content.#1"
+      "translationPrefix": "goal_99.content.#2"
     },
     {
-      "text": "The objective of [goal: 1] is to end poverty in all its forms everywhere, and [target: 1.1] calls for eradicating extreme poverty by 2030. Extreme poverty is measured as the share of people living below the international poverty line, which is set at $3.00 per person per day.[reference: foster2025] The international poverty line reflects the standard of poverty used in the poorest countries of the world, and having less than $3.00 per person per day is associated with not satisfying basic caloric needs…. ",
+      "text": "You can create it like the Subheading from the toolbar or from the Google Doc menu by picking Subheading 2 (toolbar) or Heading 2 (menu). ",
       "type": "text",
-      "translationPrefix": "goal_99.content.#2"
+      "translationPrefix": "goal_99.content.#3"
+    },
+    {
+      "text": "Footnotes References and Links",
+      "type": "subhed",
+      "translationPrefix": "goal_99.content.#4"
+    },
+    {
+      "text": "You can add footnotes[footnote:  hi footnote] from the Menu by choosing Insert > Page elements > Footnotes or by pressing Ctrl + Option + F.[footnote:  On Mac use cmd + option + F to create a footnote or use the menu. This footnote was created like that!] ",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#5"
+    },
+    {
+      "text": "For references you have to create a table at the bottom of your document of the type references (like the one at the bottom of this document. After that, you can add your references there. You can use the keys you create in the first column to create references in the text like this [reference: foster2025]. Please make sure there is no space between the last word and the [. ",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#6"
+    },
+    {
+      "text": "You can add links anywhere in the text (in references, footnotes, scene texts etc.). Simply select the text you want to <a href=\"https://data.worldbank.org/\" target=\"_blank\">turn into a link</a> and select Insert Link from the context Menu or the top menu.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#7"
+    },
+    {
+      "text": "Factoids",
+      "type": "subhed",
+      "translationPrefix": "goal_99.content.#8"
+    },
+    {
+      "text": "You can use Factoids to highlight important numbers in your story. Please only use them when the fact you want to highlight is a number. If you want to highlight text or a key sentence, there you can use the Emphasis from the toolbar. See explanation below.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#9"
+    },
+    {
+      "text": "Here is an example for a factoid:",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#10"
     },
     {
       "type": "factoid",
       "title": "International poverty line",
       "number": "3",
-      "label": "per day",
       "units": "$ per person",
-      "translationPrefix": "goal_99.content.#3"
-    },
-    {
-      "text": "Extreme poverty is ideally measured from surveys that elicit the consumption or income patterns of a representative sample of households in a country. Such surveys are not carried out in all countries every year, but under strong assumptions about how national economic growth trickles down to the poor, data from the World Bank’s <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">Poverty and Inequality Platform</a> can be interpolated, extrapolated back to 1950, and extrapolated forward to 2025.[reference: mahler2025a][reference: mahler2025b][reference: worldbank2025a] ",
-      "type": "text",
-      "translationPrefix": "goal_99.content.#4"
-    },
-    {
-      "text": "A Subheading 2 in the middle of a paragraph",
-      "type": "subhed2",
-      "translationPrefix": "goal_99.content.#5"
-    },
-    {
-      "text": "Lorem [emphasis: ipsum odor amet, consectetuer adipiscing elit]. Facilisi convallis fringilla elit dapibus mauris risus curae. Facilisis porta eros mus penatibus, tincidunt a. Cras vehicula quis viverra ridiculus convallis volutpat nam molestie ligula. Phasellus venenatis euismod in cras id porttitor; bibendum dignissim. Sociosqu malesuada viverra torquent mi libero sed. Suscipit penatibus dapibus potenti torquent a ad. Vitae mattis lacus auctor praesent et dapibus maecenas mauris. Interdum rutrum bibendum libero tempor scelerisque porttitor at. Ultrices ut porttitor interdum porta magnis semper!",
-      "type": "text",
-      "translationPrefix": "goal_99.content.#6"
-    },
-    {
-      "text": "Visualizations and scrollers can be added from the sidebar by clicking on 'Insert visualization' or 'Insert scroller+vis'. This will create a table like this:",
-      "type": "text_emphasis",
-      "translationPrefix": "goal_99.content.#7"
-    },
-    {
-      "text": "[emphasis: Auctor libero torquent] dapibus mi semper purus. Leo sodales quis; dui laoreet nam venenatis ipsum. Congue amet lacus montes est cras. Eleifend et aenean feugiat blandit aenean. Fringilla eget <a href=\"https://www.google.com\" target=\"_blank\">quam condimentum</a> habitasse commodo vivamus. Platea rhoncus inceptos mauris dignissim iaculis; placerat fusce. Here's a reference.",
-      "type": "text",
-      "translationPrefix": "goal_99.content.#8"
-    },
-    {
-      "type": "scroller",
-      "graphic": "basic_scatterplot_particles",
-      "title": "Affordability of a diet depends on cost and income",
-      "subtitle": "Cost (PPP $) for energy sufficient, nutrient-adequate and healthy diets",
-      "visdescription": "Description of the vis",
-      "theme": "dark",
-      "data_download": "Test Data 01.csv",
-      "data": "1W6Sb8eKhaFPuPG6GAPtQq3o4U7TAkNp_vqU9mthTlGM",
-      "source": "Scroller with particles (theme: dark)",
-      "note": "This is a note",
-      "scenes": [
-        {
-          "type": "scene",
-          "id": "firstID",
-          "text": "In 1990, nearly [emphasis: 2 billion people] <a href=\"https://www.worldbank.org\" target=\"_blank\">worldwide</a> lived in extreme poverty – in other words, on less than $2.15 per day.",
-          "translationPrefix": "goal_99.content.#9.scenes.#0"
-        },
-        {
-          "type": "scene",
-          "id": "secondID",
-          "text": "",
-          "translationPrefix": "goal_99.content.#9.scenes.#1"
-        },
-        {
-          "type": "scene",
-          "id": "thirdID",
-          "text": "Over the same period, the world’s population increased by around 2.4 billion people and the number of people with incomes above the international poverty line [emphasis: increased from 3.3 billion to 7 billion]. As a result, the share of the global population living in extreme poverty was reduced from about 38 percent to 8.5 percent.",
-          "translationPrefix": "goal_99.content.#9.scenes.#2"
-        }
-      ],
-      "translationPrefix": "goal_99.content.#9"
-    },
-    {
-      "text": "This is a subheading (subheading)",
-      "type": "subhed",
-      "translationPrefix": "goal_99.content.#10"
-    },
-    {
-      "text": "And this is a secondary subheading (secondary subheading)",
-      "type": "subhed2",
+      "label": "per day",
       "translationPrefix": "goal_99.content.#11"
     },
     {
-      "text": "[emphasis: Auctor libero torquent] dapibus mi semper purus. Leo sodales quis; dui laoreet nam venenatis ipsum. Congue amet lacus montes est cras. Eleifend et aenean feugiat blandit aenean. Fringilla eget <a href=\"https://www.google.com\" target=\"_blank\">quam condimentum</a> habitasse commodo vivamus. Platea rhoncus inceptos mauris dignissim iaculis; placerat fusce. Here's a reference.",
+      "text": "You can add it by choosing Insert Component > Other components > Factoid and press Insert component from the toolbar. The properties should be filled out as follows:",
       "type": "text",
       "translationPrefix": "goal_99.content.#12"
     },
     {
-      "text": "[goal: 1] Egestas duis posuere himenaeos duis ac dignissim nostra? Vehicula nisi senectus purus morbi varius auctor malesuada aliquet[footnote:  Here's my footnote text!]. Lorem dictumst risus ultricies augue himenaeos curae. Ornare egestas enim condimentum feugiat lectus. Felis viverra nunc taciti imperdiet faucibus. Class quisque accumsan; cras quam risus himenaeos inceptos.",
+      "text": "[emphasis: title]: the main title (usually the indicator title)",
       "type": "text",
       "translationPrefix": "goal_99.content.#13"
     },
     {
-      "text": "Visualizations and scrollers can be added from the sidebar by clicking on 'Insert visualization' or 'Insert scroller+vis'. This will create a table like this:",
-      "type": "text_emphasis",
+      "text": "[emphasis: number]: the value you want to highlight",
+      "type": "text",
       "translationPrefix": "goal_99.content.#14"
     },
     {
-      "text": "Lorem [emphasis: ipsum odor amet, consectetuer adipiscing elit]. Facilisi convallis fringilla elit dapibus mauris risus curae. Facilisis porta eros mus penatibus, tincidunt a. Cras vehicula quis viverra ridiculus convallis volutpat nam molestie ligula. Phasellus venenatis euismod in cras id porttitor; bibendum dignissim. Sociosqu malesuada viverra torquent mi libero sed. Suscipit penatibus dapibus potenti torquent a ad. Vitae mattis lacus auctor praesent et dapibus maecenas mauris. Interdum rutrum bibendum libero tempor scelerisque porttitor at. Ultrices ut porttitor interdum porta magnis semper!",
+      "text": "[emphasis: units]: the indicator unit (optional)",
       "type": "text",
       "translationPrefix": "goal_99.content.#15"
     },
     {
-      "type": "vis",
-      "graphic": "simplevis",
-      "title": "Vis title",
-      "textParagraph": "If all countries make progress at the pace Korea did over the past decades, global extreme poverty would be reduced to 1.5% by 2050. Yet copying Korea's trajectory will be difficult. If countries manage to make progress at the pace of Brazil, Tunisia, or Turkey, there will still be modest declines, while if they make progress at the speed typically observed since 1950, there will still be around 8% poverty by 2050. Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.",
-      "visSize": "fullScreen",
-      "subtitle": "Vis subtitle",
-      "source": "Standalone fullScreen vis with particles ",
-      "visdescription": "Describe what the visualization shows",
-      "theme": "dark",
-      "data_download": "Multi-Sheet-Test Data 01.zip",
-      "data": "1L2CgGKD6hdtjImi4p69covKqGjyWnZQP0bDYk5XEpNg",
-      "annotation": "Here's some text that shows the currently selected variable {value}",
+      "text": "[emphasis: label]: additional text e.g. the year the value was measured or other secondary information.",
+      "type": "text",
       "translationPrefix": "goal_99.content.#16"
     },
     {
-      "text": "Lorem [emphasis: ipsum odor amet, consectetuer adipiscing elit]. Facilisi convallis fringilla elit dapibus mauris risus curae. Facilisis porta eros mus penatibus, tincidunt a. Cras vehicula quis viverra ridiculus convallis volutpat nam molestie ligula. Phasellus venenatis euismod in cras id porttitor; bibendum dignissim. Sociosqu malesuada viverra torquent mi libero sed. Suscipit penatibus dapibus potenti torquent a ad. Vitae mattis lacus auctor praesent et dapibus maecenas mauris. Interdum rutrum bibendum libero tempor scelerisque porttitor at. Ultrices ut porttitor interdum porta magnis semper!",
-      "type": "text",
+      "text": "Text Emphasis",
+      "type": "subhed",
       "translationPrefix": "goal_99.content.#17"
     },
     {
-      "type": "vis",
-      "graphic": "simplevis",
-      "title": "Vis title",
-      "subtitle": "Vis subtitle",
-      "textParagraph": "If all countries make progress at the pace Korea did over the past decades, global extreme poverty would be reduced to 1.5% by 2050. Yet copying Korea's trajectory will be difficult. If countries manage to make progress at the pace of Brazil, Tunisia, or Turkey, there will still be modest declines, while if they make progress at the speed typically observed since 1950, there will still be around 8% poverty by 2050. Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.",
-      "source": "Standalone default vis with particles (no visSize defined)",
-      "visdescription": "Standalone vis with particles (no visSize defined, theme: dark)",
-      "theme": "dark",
-      "data_download": "Multi-Sheet-Test Data 01.zip",
-      "data": "1L2CgGKD6hdtjImi4p69covKqGjyWnZQP0bDYk5XEpNg",
-      "annotation": "Here's some text that shows the currently selected variable {value}",
+      "text": "You can highlight key takeaways of your story by creating a callout with a text emphasis. You simply have to highlight the text and choose Set Text elements > Emphasis from the toolbar. Like this:",
+      "type": "text",
       "translationPrefix": "goal_99.content.#18"
     },
     {
-      "text": "[emphasis: Auctor libero torquent] dapibus mi semper purus. Leo sodales quis; dui laoreet nam venenatis ipsum. Congue amet lacus montes est cras. Eleifend et aenean feugiat blandit aenean. Fringilla eget <a href=\"https://www.google.com\" target=\"_blank\">quam condimentum</a> habitasse commodo vivamus. Platea rhoncus inceptos mauris dignissim iaculis; placerat fusce. Here's a reference.",
-      "type": "text",
+      "text": "Of all global extreme poor, [emphasis: more than 50%] live in countries where extreme poverty has increased in the past 10 years.",
+      "type": "text_emphasis",
       "translationPrefix": "goal_99.content.#19"
     },
     {
-      "text": "The next 25 years",
-      "type": "subhed",
+      "text": "You can further [emphasis: emphasise words or numbers] inside and outside of Emphasis by making them bold (just choose bold from the edit menu). ",
+      "type": "text",
       "translationPrefix": "goal_99.content.#20"
     },
     {
-      "text": "Where does this leave global poverty going forward? What the future holds is unclear, yet we can explore how global poverty will evolve if countries follow the paths other countries have taken over the past decades.",
+      "text": "If the fact you want to highlight requires a lot of text, consider using Emphasis instead of a factoid. The Factoid below show the same text as the emphasis, but is hard to grasp at a glance:",
       "type": "text",
       "translationPrefix": "goal_99.content.#21"
+    },
+    {
+      "type": "factoid",
+      "title": "Of all global extreme poor",
+      "number": ">50%",
+      "label": "live in countries where extreme poverty has increased in the past 10 years.",
+      "translationPrefix": "goal_99.content.#22"
+    },
+    {
+      "text": "Visualizations and their properties",
+      "type": "subhed",
+      "translationPrefix": "goal_99.content.#23"
+    },
+    {
+      "text": "Visualizations and scrollers can be added from the sidebar by clicking on 'Insert visualization' or 'Insert scroller+vis'. Here are some properties you can specify:",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#24"
+    },
+    {
+      "text": "[emphasis: title]: a title that describes the main takeaway or poses a question of what to look out for in the visualization. It should tell the reader what to watch out for.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#25"
+    },
+    {
+      "text": "[emphasis: subtitle ](optional): Data related details and information about the data",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#26"
+    },
+    {
+      "text": "[emphasis: textParagraph] (optional): Here you can provide some more text to describe the visualization. This is only available for visualizations outside of scrollers.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#27"
+    },
+    {
+      "text": "[emphasis: source]: The source of the visualization and data",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#28"
+    },
+    {
+      "text": "[emphasis: note] (optional): Some additional notes or disclaimers.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#29"
+    },
+    {
+      "text": "[emphasis: visdescription]: This will not show up on the page, but will be read by screenreaders. Provide information in addition to the other text properties above, that will help people with vision impairments, who are using a screen reader. Here you can for example say what type of chart (e.g. linechart) is shown and what trends are visible. For scrollers, this should describe the content to the entire scroller, but the scene texts will also be read by screen readers so do not repeat those.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#30"
+    },
+    {
+      "text": "[emphasis: visSize] (optional): if you set this property to fullScreen the visualization will be wider. If you leave out this property entirely your vis will have the default size.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#31"
+    },
+    {
+      "text": "usesPart",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#32"
+    },
+    {
+      "text": "Static vis in default size",
+      "type": "subhed2",
+      "translationPrefix": "goal_99.content.#33"
+    },
+    {
+      "text": "If you do not specify visSize and use type: vis in the vis config table, this is what your visualization looks like. ",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#34"
+    },
+    {
+      "type": "vis",
+      "graphic": "poverty_projections",
+      "title": "Global poverty could increase if current trends continue",
+      "subtitle": "Past values and projections",
+      "textParagraph": "If all countries make progress at Korea’s pace, global extreme poverty would be reduced to 1.5% by 2050. Yet copying Korea's trajectory will be difficult. If countries manage to make progress at the pace of Brazil, Tunisia, or Turkey, there will still be modest declines, while if they make progress at the speed typically observed since 1950, there will still be around 8% poverty by 2050. Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed.]",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025b)</a>.",
+      "note": "This is for small notes or disclaimers",
+      "visdescription": "Describe what the visualization shows",
+      "y_axis_title": "Poverty rate",
+      "y_axis_units": "%",
+      "rate4": "Korea’s path",
+      "rate2": "Brazil's path",
+      "rate1": "Typical path",
+      "rateH": "Current path",
+      "global_poverty_rate": "Global poverty rate",
+      "data_download": "01.data.global_projections.zip",
+      "data": "1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg",
+      "translationPrefix": "goal_99.content.#35"
+    },
+    {
+      "text": "FullScreen Scroller",
+      "type": "subhed2",
+      "translationPrefix": "goal_99.content.#36"
+    },
+    {
+      "text": "This is what a fullscreen scroller looks like instead:",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#37"
     },
     {
       "type": "scroller",
@@ -195,65 +244,82 @@
         {
           "type": "scene",
           "id": "rate4",
-          "text": "If all countries make progress at the pace Korea did over the past decades, global extreme poverty would be reduced to miniscule levels by 2050.",
-          "translationPrefix": "goal_99.content.#22.scenes.#0"
+          "text": "You can use the colors from the sidebar or use the Highlight color from the Google Docs menu with the color picker to <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">highlight parts of your text</span> and associate it with the visualization elements. If the color is too dark. make sure to change the text color to white too.",
+          "translationPrefix": "goal_99.content.#38.scenes.#0"
         },
         {
           "type": "scene",
           "id": "rate1",
           "text": "Yet copying Korea’s trajectory will be difficult. If countries manage to make progress at the typical speed observed since 1950, there will still be around 8% poverty by 2050. ",
-          "translationPrefix": "goal_99.content.#22.scenes.#1"
+          "translationPrefix": "goal_99.content.#38.scenes.#1"
         },
         {
           "type": "scene",
           "id": "rateH",
           "text": "Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.",
-          "translationPrefix": "goal_99.content.#22.scenes.#2"
+          "translationPrefix": "goal_99.content.#38.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_99.content.#22"
+      "translationPrefix": "goal_99.content.#38"
     },
     {
-      "text": "There are several factors behind this projected increase in global poverty if countries follow their current speed of progress.  Most of the countries that over the past decades have made fast progress have nearly or completely eliminated extreme poverty, and can therefore no longer contribute to decline in the global poverty rate. ",
-      "type": "text",
-      "translationPrefix": "goal_99.content.#23"
+      "text": "Particle Visualizations",
+      "type": "subhed2",
+      "translationPrefix": "goal_99.content.#39"
     },
     {
-      "text": "At the same time, many of the countries home to a large fraction of the extreme poor today have not experienced notable declines in extreme poverty in the past decade. The Democratic Republic of the Congo, Ethiopia, Madagascar, Mozambique, Nigeria, and Yemen are home to 40% of the global extreme poor, and none of them have seen notable progress in poverty reduction over the past 10 years. Some countries, such as Syria, Yemen, and Sudan, have seen rises in poverty due to conflict.  ",
+      "text": "The code will automatically detect if your visualization uses particles. Here is a particle scroller visualization as an example:",
       "type": "text",
-      "translationPrefix": "goal_99.content.#24"
+      "translationPrefix": "goal_99.content.#40"
     },
     {
-      "text": "Yet even if all countries make progress towards curbing extreme poverty, global extreme poverty may still increase in the future. This can happen because the population growth of poorer countries is greater than the population growth of less poor countries. ",
-      "type": "text",
-      "translationPrefix": "goal_99.content.#25"
-    },
-    {
-      "text": "Unless poor countries increase their pace of progress, past gains in global poverty reduction may soon start to be reversed.",
-      "type": "text",
-      "translationPrefix": "goal_99.content.#26"
+      "type": "scroller",
+      "graphic": "basic_scatterplot_particles",
+      "title": "Affordability of a diet depends on cost and income",
+      "subtitle": "Cost (PPP $) for energy sufficient, nutrient-adequate and healthy diets",
+      "visdescription": "Description of the vis",
+      "data_download": "Test Data 01.csv",
+      "data": "1W6Sb8eKhaFPuPG6GAPtQq3o4U7TAkNp_vqU9mthTlGM",
+      "source": "this is a source",
+      "note": "This is a note",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "firstID",
+          "text": "In 1990, nearly [emphasis: 2 billion people] <a href=\"https://www.worldbank.org\" target=\"_blank\">worldwide</a> lived in extreme poverty – in other words, on less than $2.15 per day.",
+          "translationPrefix": "goal_99.content.#41.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "secondID",
+          "text": "",
+          "translationPrefix": "goal_99.content.#41.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "thirdID",
+          "text": "Over the same period, the world’s <span data-color-id=\"cat3\" class=\"cat3\">population increased</span> by around 2.4 billion people and the number of people with incomes above the international poverty line [emphasis: increased from 3.3 billion to 7 billion]. As a result, the share of the global population living in extreme poverty was reduced from about 38 percent to 8.5 percent.",
+          "translationPrefix": "goal_99.content.#41.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal_99.content.#41"
     },
     {
       "text": "Conclusion",
       "type": "subhed",
-      "translationPrefix": "goal_99.content.#27"
+      "translationPrefix": "goal_99.content.#42"
     },
     {
-      "text": "Over the last 75 years, the world has witnessed staggering progress in reducing extreme poverty, largely due to countries that have managed in quick periods of time to go from high levels of poverty to virtually eliminate it. Yet progress has slowed down, and several countries appear stuck in poverty due to a combination of factors including the presence of conflict, poor governance, and vulnerability to climate change. Unless these challenges are confronted and resolved, the prospect for the future is bleak, and extreme poverty is likely to remain close to current levels in years to come.",
+      "text": "Wrap up your story with a nice conclusion. It does not have to have this title, but it should summarize the takeaways again.",
       "type": "text",
-      "translationPrefix": "goal_99.content.#28"
-    },
-    {
-      "text": "For the countries that have ended extreme poverty, it is vital to remember that [goal: 1]   calls for ending poverty in all its forms, and though extreme poverty may have been curbed, other forms of poverty may still be all too present. ",
-      "type": "text",
-      "translationPrefix": "goal_99.content.#29"
+      "translationPrefix": "goal_99.content.#43"
     }
   ],
   "references": {
     "type": "references",
-    "foster2025": "Foster, Elizabeth <span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">ⓡ Dean Jolliffe ⓡ Gabriel Lara Ibarra ⓡ Christoph Lakner ⓡ Samuel Tetteh Baah. 2025. “</span><a href=\"https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf\" target=\"_blank\">Global Poverty Revisted Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">” World Bank Policy Research Working Paper no. 11137. </span>",
+    "foster2025": "Foster, Elizabeth <span style=\"color: rgb(53,60,63);\">ⓡ Dean Jolliffe ⓡ Gabriel Lara Ibarra ⓡ Christoph Lakner ⓡ Samuel Tetteh Baah. 2025. “</span><a href=\"https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf\" target=\"_blank\">Global Poverty Revisted Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63);\">” World Bank Policy Research Working Paper no. 11137. </span>",
     "mahler2025a": "Mahler, Daniel Gerszon, Umar Serajuddin, Dviyanshi Wadhwa, Nishant Yonzan. 2025. “The World Is Developing at Its Slowest Pace in 75 Years.”",
-    "mahler2025b": "M<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">ahler, Daniel Gerszon; Foster, Elizabeth; Lakner, Christoph; Prinsloo, Zander; Tchouakam Mbouendeu, Rostand; Tetteh-Baah, Samuel K.. 2025. </span><a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. Global Poverty Monitoring Technical Note; No. 45. © World Bank. </span>",
+    "mahler2025b": "M<span style=\"color: rgb(33,37,41);\">ahler, Daniel Gerszon; Foster, Elizabeth; Lakner, Christoph; Prinsloo, Zander; Tchouakam Mbouendeu, Rostand; Tetteh-Baah, Samuel K.. 2025. </span><a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41);\">. Global Poverty Monitoring Technical Note; No. 45. © World Bank. </span>",
     "worldbank2025a": "World Bank. 2025. “Macro Poverty Outlook October 2025”.",
     "jolliffe2016": "Jolliffe, Dean, and Espen Beer Prydz. 2016. “<a href=\"https://link.springer.com/article/10.1007/s10888-016-9327-5\" target=\"_blank\">Estimating International Poverty Lines from Comparable National Thresholds</a>.“ Journal of Economic Inequality 15: 185-198.",
     "berg2012": "Berg, Andrew, Jonathan D. Ostry, and Jeromin Zettelmeyer. 2012. \"<a href=\"https://doi.org/10.1016/j.jdeveco.2011.08.002\" target=\"_blank\">What Makes Growth Sustained?</a>.\" Journal of Development Economics 98 (2): 149-166.",

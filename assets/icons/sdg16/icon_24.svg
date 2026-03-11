@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Business and Administration Professionals</title>
+  <line x1="180" y1="820" x2="820" y2="820"/>
+  <line x1="180" y1="820" x2="180" y2="160"/>
+  <path d="M 220 240 L 180 160 L 140 240"/>
+  <rect x="230" y="640" width="90" height="180" rx="6"/>
+  <rect x="380" y="500" width="90" height="320" rx="6"/>
+  <rect x="530" y="360" width="90" height="460" rx="6"/>
+  <rect x="680" y="220" width="90" height="600" rx="6"/>
+  <path d="M 275 680 L 425 540 L 575 400 L 725 260" stroke-dasharray="20 12"/>
+</svg>

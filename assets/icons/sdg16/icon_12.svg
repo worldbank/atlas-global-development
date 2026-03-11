@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Administrative and Commercial Managers</title>
+  <rect x="212" y="420" width="600" height="400" rx="24"/>
+  <path d="M 380 420 L 380 360 Q 380 320 512 320 Q 644 320 644 360 L 644 420"/>
+  <line x1="212" y1="560" x2="812" y2="560"/>
+  <line x1="512" y1="420" x2="512" y2="700"/>
+  <rect x="295" y="620" width="60" height="100" rx="4"/>
+  <rect x="385" y="580" width="60" height="140" rx="4"/>
+  <rect x="575" y="620" width="60" height="100" rx="4"/>
+  <rect x="665" y="575" width="60" height="145" rx="4"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Non-commissioned Armed Forces Officers</title>
+  <path d="M 284 480 Q 284 300 512 300 Q 740 300 740 480 L 756 520 L 268 520 Z"/>
+  <line x1="240" y1="520" x2="784" y2="520"/>
+  <path d="M 268 520 Q 260 560 512 560 Q 764 560 756 520"/>
+  <path d="M 392 640 L 512 600 L 632 640"/>
+  <path d="M 392 690 L 512 650 L 632 690"/>
+  <path d="M 392 740 L 512 700 L 632 740"/>
+  <path d="M 352 520 L 312 620 L 280 780 L 480 780 L 512 700 L 544 780 L 744 780 L 712 620 L 672 520"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Drivers and Mobile Plant Operators</title>
+  <rect x="180" y="340" width="640" height="320" rx="16"/>
+  <path d="M 500 340 L 500 220 Q 500 180 560 180 L 780 180 Q 820 180 820 220 L 820 520"/>
+  <rect x="520" y="200" width="220" height="140" rx="8"/>
+  <circle cx="320" cy="700" r="80"/>
+  <circle cx="320" cy="700" r="36"/>
+  <circle cx="720" cy="700" r="80"/>
+  <circle cx="720" cy="700" r="36"/>
+  <line x1="160" y1="820" x2="864" y2="820"/>
+  <line x1="160" y1="870" x2="864" y2="870" stroke-dasharray="60 40"/>
+</svg>

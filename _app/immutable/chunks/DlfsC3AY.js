@@ -1,1 +1,0 @@
-import{a as e,b as f,s as m,c as i,d as u}from"./Czb9H2Kw.js";function z(c){return function(a,n){var r=u(a),s=u(n),t=c(r*s);return t===1/0?[2,0]:[t*s*i(a),t*i(n)]}}function b(c){return function(a,n){var r=m(a*a+n*n),s=c(r),t=i(s),o=u(s);return[e(a*t,r*o),f(r&&n*t/r)]}}export{b as a,z as b};

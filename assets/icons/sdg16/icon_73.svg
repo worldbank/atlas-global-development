@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Handicraft and Printing Workers</title>
+  <!-- Palette -->
+  <path d="M200 500 Q200 280 440 220 Q680 160 800 340 Q920 520 740 680 Q640 740 580 680 Q520 620 580 560 Q640 500 700 540 Q740 440 600 360 Q400 320 300 440 Q260 560 200 500 Z" />
+  <!-- Paint blobs -->
+  <circle cx="400" cy="360" r="30" />
+  <circle cx="520" cy="320" r="25" />
+  <circle cx="340" cy="480" r="28" />
+  <circle cx="620" cy="400" r="22" />
+  <!-- Paintbrush -->
+  <line x1="160" y1="820" x2="360" y2="600" stroke-width="14" />
+  <path d="M360 600 L380 560 L400 580 L360 600 Z" fill="currentColor" stroke-width="8" />
+</svg>
+

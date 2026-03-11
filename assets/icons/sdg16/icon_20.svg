@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Professionals</title>
+  <path d="M 512 220 L 180 360 L 512 500 L 844 360 Z"/>
+  <path d="M 700 424 L 700 580 Q 700 680 512 680 Q 324 680 324 580 L 324 424"/>
+  <line x1="844" y1="360" x2="844" y2="520"/>
+  <circle cx="844" cy="540" r="24"/>
+  <rect x="362" y="740" width="300" height="120" rx="20"/>
+  <line x1="440" y1="785" x2="584" y2="785"/>
+  <line x1="440" y1="815" x2="584" y2="815"/>
+</svg>

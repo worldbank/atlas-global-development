@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>General and Keyboard Clerks</title>
+  <!-- Keyboard body -->
+  <rect x="120" y="340" width="784" height="344" rx="24" />
+  <!-- Key row 1 -->
+  <rect x="180" y="380" width="56" height="56" rx="8" />
+  <rect x="256" y="380" width="56" height="56" rx="8" />
+  <rect x="332" y="380" width="56" height="56" rx="8" />
+  <rect x="408" y="380" width="56" height="56" rx="8" />
+  <rect x="484" y="380" width="56" height="56" rx="8" />
+  <rect x="560" y="380" width="56" height="56" rx="8" />
+  <rect x="636" y="380" width="56" height="56" rx="8" />
+  <rect x="712" y="380" width="56" height="56" rx="8" />
+  <!-- Key row 2 -->
+  <rect x="200" y="460" width="56" height="56" rx="8" />
+  <rect x="276" y="460" width="56" height="56" rx="8" />
+  <rect x="352" y="460" width="56" height="56" rx="8" />
+  <rect x="428" y="460" width="56" height="56" rx="8" />
+  <rect x="504" y="460" width="56" height="56" rx="8" />
+  <rect x="580" y="460" width="56" height="56" rx="8" />
+  <rect x="656" y="460" width="56" height="56" rx="8" />
+  <!-- Spacebar row -->
+  <rect x="280" y="560" width="464" height="56" rx="8" />
+</svg>
+

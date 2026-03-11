@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Cleaners and Helpers</title>
+  <line x1="320" y1="180" x2="540" y2="720"/>
+  <path d="M 428 680 Q 368 720 388 780"/>
+  <path d="M 468 698 Q 448 758 468 818"/>
+  <path d="M 508 706 Q 528 766 508 826"/>
+  <path d="M 548 690 Q 568 730 548 790"/>
+  <path d="M 600 560 L 620 820 Q 620 844 700 844 Q 780 844 780 820 L 800 560 Z"/>
+  <line x1="600" y1="560" x2="800" y2="560"/>
+  <path d="M 630 560 Q 630 500 700 500 Q 770 500 770 560"/>
+  <path d="M 614 690 Q 700 710 786 690"/>
+</svg>

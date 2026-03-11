@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Personal Care Workers</title>
+  <path d="M 512 700 Q 200 520 200 360 Q 200 220 320 220 Q 420 220 512 320 Q 604 220 704 220 Q 824 220 824 360 Q 824 520 512 700 Z"/>
+  <path d="M 220 660 Q 180 600 240 560 Q 300 520 340 580 L 512 680 L 684 580 Q 724 520 784 560 Q 844 600 804 660 L 512 800 Z"/>
+</svg>

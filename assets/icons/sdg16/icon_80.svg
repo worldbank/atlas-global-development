@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Plant and Machine Operators, and Assemblers</title>
+  <!-- Base -->
+  <rect x="360" y="760" width="304" height="80" rx="16" />
+  <!-- Pillar -->
+  <rect x="480" y="560" width="64" height="200" rx="8" />
+  <!-- Lower arm -->
+  <line x1="512" y1="560" x2="340" y2="380" stroke-width="28" />
+  <!-- Joint -->
+  <circle cx="340" cy="380" r="30" />
+  <!-- Upper arm -->
+  <line x1="340" y1="380" x2="580" y2="220" stroke-width="24" />
+  <!-- Wrist joint -->
+  <circle cx="580" cy="220" r="24" />
+  <!-- Gripper -->
+  <path d="M580 220 L620 160 L660 180" stroke-width="16" />
+  <path d="M580 220 L620 280 L660 260" stroke-width="16" />
+  <!-- Base joint -->
+  <circle cx="512" cy="560" r="36" />
+</svg>
+

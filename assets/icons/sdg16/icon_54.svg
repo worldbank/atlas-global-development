@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Protective Services Workers</title>
+  <path d="M 512 180 L 760 280 L 760 560 Q 760 720 512 820 Q 264 720 264 560 L 264 280 Z"/>
+  <path d="M 512 340 L 534 407 L 604 407 L 549 448 L 571 515 L 512 474 L 453 515 L 475 448 L 420 407 L 490 407 Z"/>
+  <line x1="440" y1="560" x2="584" y2="560"/>
+  <line x1="455" y1="598" x2="569" y2="598"/>
+</svg>

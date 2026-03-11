@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Subsistence Farmers, Fishers, Hunters and Gatherers</title>
+  <!-- Hoe handle -->
+  <line x1="240" y1="160" x2="600" y2="780" stroke-width="18" />
+  <!-- Hoe blade -->
+  <path d="M220 160 L340 160 Q360 160 360 200 L280 280 L200 200 Q200 160 220 160 Z" stroke-width="12" />
+  <!-- Small plant -->
+  <line x1="720" y1="820" x2="720" y2="600" stroke-width="12" />
+  <!-- Leaves -->
+  <path d="M720 660 Q660 600 680 540" stroke-width="10" />
+  <path d="M720 660 Q780 600 760 540" stroke-width="10" />
+  <path d="M720 740 Q660 700 670 640" stroke-width="10" />
+  <path d="M720 740 Q780 700 770 640" stroke-width="10" />
+  <!-- Ground -->
+  <line x1="600" y1="820" x2="840" y2="820" stroke-width="12" />
+</svg>
+

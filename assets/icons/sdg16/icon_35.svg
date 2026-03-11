@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Information and Communications Technicians</title>
+  <!-- Dish base -->
+  <path d="M200 820 L360 820 L280 660" />
+  <!-- Dish arm -->
+  <line x1="280" y1="660" x2="560" y2="340" stroke-width="14" />
+  <!-- Dish -->
+  <path d="M400 200 Q720 200 820 540 Q560 440 400 200 Z" />
+  <!-- Signal waves -->
+  <path d="M640 280 Q700 240 740 300" stroke-width="10" />
+  <path d="M680 220 Q760 160 820 260" stroke-width="10" />
+  <path d="M720 160 Q820 80 900 220" stroke-width="10" />
+</svg>
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Refuse Workers and Other Elementary Workers</title>
+  <!-- Trash can body -->
+  <path d="M280 320 L320 860 L704 860 L744 320" />
+  <!-- Lid -->
+  <rect x="240" y="260" width="544" height="60" rx="16" />
+  <!-- Lid handle -->
+  <path d="M440 260 L440 220 Q440 200 480 200 L544 200 Q584 200 584 220 L584 260" />
+  <!-- Vertical lines on can -->
+  <line x1="400" y1="380" x2="410" y2="800" stroke-width="10" />
+  <line x1="512" y1="380" x2="512" y2="800" stroke-width="10" />
+  <line x1="624" y1="380" x2="614" y2="800" stroke-width="10" />
+</svg>
+

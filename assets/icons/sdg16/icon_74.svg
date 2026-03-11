@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Electrical and Electronics Trades Workers</title>
+  <!-- Lightning bolt -->
+  <polygon points="540,120 340,480 480,480 400,900 700,440 540,440" />
+  <!-- Plug prongs (left side) -->
+  <line x1="200" y1="400" x2="200" y2="540" stroke-width="20" />
+  <line x1="280" y1="400" x2="280" y2="540" stroke-width="20" />
+  <!-- Plug body -->
+  <rect x="170" y="540" width="140" height="100" rx="16" />
+  <!-- Cord -->
+  <path d="M240 640 Q240 740 200 800" stroke-width="12" />
+</svg>
+

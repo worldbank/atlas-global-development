@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Assemblers</title>
+  <!-- Board -->
+  <rect x="200" y="200" width="624" height="624" rx="16" />
+  <!-- Main chip -->
+  <rect x="400" y="400" width="224" height="160" rx="8" />
+  <!-- Chip pins left -->
+  <line x1="400" y1="440" x2="340" y2="440" stroke-width="10" />
+  <line x1="400" y1="480" x2="340" y2="480" stroke-width="10" />
+  <line x1="400" y1="520" x2="340" y2="520" stroke-width="10" />
+  <!-- Chip pins right -->
+  <line x1="624" y1="440" x2="684" y2="440" stroke-width="10" />
+  <line x1="624" y1="480" x2="684" y2="480" stroke-width="10" />
+  <line x1="624" y1="520" x2="684" y2="520" stroke-width="10" />
+  <!-- Traces -->
+  <path d="M340 440 L280 440 L280 320 L400 320" stroke-width="8" />
+  <path d="M684 480 L740 480 L740 340 L620 340" stroke-width="8" />
+  <path d="M340 520 L300 520 L300 680 L500 680" stroke-width="8" />
+  <!-- Components -->
+  <circle cx="400" cy="320" r="16" />
+  <circle cx="620" cy="340" r="16" />
+  <rect x="480" y="660" width="60" height="40" rx="6" stroke-width="8" />
+</svg>
+

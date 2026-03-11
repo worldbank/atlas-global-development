@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Service and Sales Workers</title>
+  <!-- Bag body -->
+  <rect x="240" y="360" width="544" height="520" rx="24" />
+  <!-- Bag handles -->
+  <path d="M380 360 L380 260 Q380 180 512 180 Q644 180 644 260 L644 360" />
+  <!-- Decorative line -->
+  <line x1="240" y1="480" x2="784" y2="480" />
+</svg>
+

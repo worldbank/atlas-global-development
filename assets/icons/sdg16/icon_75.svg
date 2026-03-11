@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers</title>
+  <!-- Needle -->
+  <line x1="512" y1="120" x2="512" y2="780" stroke-width="12" />
+  <!-- Needle point -->
+  <path d="M512 780 L504 820 L512 860 L520 820 Z" fill="currentColor" stroke-width="6" />
+  <!-- Needle eye -->
+  <ellipse cx="512" cy="180" rx="20" ry="36" stroke-width="10" />
+  <!-- Thread through eye -->
+  <path d="M492 180 Q400 100 360 180 Q320 280 400 320 Q480 360 420 440 Q360 520 440 560" stroke-width="8" />
+  <!-- Spool of thread -->
+  <rect x="680" y="340" width="120" height="200" rx="16" />
+  <ellipse cx="740" cy="340" rx="60" ry="20" />
+  <ellipse cx="740" cy="540" rx="60" ry="20" />
+  <!-- Thread lines on spool -->
+  <line x1="684" y1="400" x2="796" y2="400" stroke-width="6" />
+  <line x1="684" y1="440" x2="796" y2="440" stroke-width="6" />
+  <line x1="684" y1="480" x2="796" y2="480" stroke-width="6" />
+</svg>
+

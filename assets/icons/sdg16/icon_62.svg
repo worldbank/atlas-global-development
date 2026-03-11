@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Market-Oriented Skilled Forestry, Fishery and Hunting Workers</title>
+  <!-- Fishing rod line -->
+  <path d="M200 140 L200 300 Q200 400 300 440" stroke-width="10" />
+  <!-- Hook -->
+  <path d="M300 440 L320 520 Q320 580 280 580 Q240 580 240 540" stroke-width="12" />
+  <!-- Fish body -->
+  <ellipse cx="580" cy="560" rx="220" ry="120" />
+  <!-- Fish tail -->
+  <path d="M800 560 L900 480 L900 640 Z" />
+  <!-- Fish eye -->
+  <circle cx="440" cy="530" r="24" />
+  <circle cx="440" cy="530" r="10" fill="currentColor" />
+  <!-- Fish fin -->
+  <path d="M560 440 L600 380 L640 440" stroke-width="10" />
+  <!-- Fishing rod -->
+  <line x1="200" y1="140" x2="400" y2="100" stroke-width="12" />
+</svg>
+

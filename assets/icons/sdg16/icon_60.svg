@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Skilled Agricultural Forestry and Fishery Workers</title>
+  <line x1="512" y1="820" x2="512" y2="200"/>
+  <path d="M 512 200 Q 490 244 512 280 Q 534 244 512 200"/>
+  <path d="M 512 290 Q 436 248 416 308 Q 436 348 512 330"/>
+  <path d="M 512 290 Q 588 248 608 308 Q 588 348 512 330"/>
+  <path d="M 512 370 Q 436 328 416 388 Q 436 428 512 410"/>
+  <path d="M 512 370 Q 588 328 608 388 Q 588 428 512 410"/>
+  <path d="M 512 450 Q 436 408 416 468 Q 436 508 512 490"/>
+  <path d="M 512 450 Q 588 408 608 468 Q 588 508 512 490"/>
+  <line x1="200" y1="820" x2="824" y2="820"/>
+</svg>

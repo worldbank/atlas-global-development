@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Sales Workers</title>
+  <!-- Register body -->
+  <rect x="200" y="360" width="624" height="440" rx="24" />
+  <!-- Display -->
+  <path d="M340 360 L380 220 L644 220 L684 360" />
+  <rect x="380" y="220" width="264" height="100" rx="12" />
+  <!-- Buttons -->
+  <rect x="300" y="440" width="80" height="60" rx="10" />
+  <rect x="420" y="440" width="80" height="60" rx="10" />
+  <rect x="540" y="440" width="80" height="60" rx="10" />
+  <rect x="660" y="440" width="80" height="60" rx="10" />
+  <!-- Drawer -->
+  <rect x="260" y="600" width="504" height="120" rx="12" />
+  <line x1="460" y1="640" x2="564" y2="640" stroke-width="10" />
+</svg>
+

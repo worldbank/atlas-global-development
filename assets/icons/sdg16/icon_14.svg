@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Hospitality Retail and Other Services Managers</title>
+  <rect x="200" y="300" width="624" height="520" rx="16"/>
+  <path d="M 200 420 Q 290 360 380 420 Q 470 360 560 420 Q 650 360 740 420 Q 790 380 824 420"/>
+  <rect x="432" y="680" width="160" height="140" rx="12"/>
+  <line x1="512" y1="680" x2="512" y2="820"/>
+  <rect x="258" y="480" width="100" height="100" rx="8"/>
+  <rect x="666" y="480" width="100" height="100" rx="8"/>
+  <path d="M 512 180 L 527 227 L 576 227 L 537 255 L 551 302 L 512 274 L 473 302 L 487 255 L 448 227 L 497 227 Z"/>
+</svg>

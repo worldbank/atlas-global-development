@@ -4,20 +4,20 @@
       "type": "config",
       "goal": "10",
       "shortTitle": "Inequality",
-      "title": "Tracking inequalities within and across countries: a new approach",
-      "abstract": "todo",
+      "title": "Raising the income of the poorest matters for inequality",
+      "abstract": "Most measures of inequality fail to account for overall economic development. The Prosperity Gap tracks both economic growth and its distribution. Although there has been improvement in the Prosperity Gap worldwide, many countries – particularly in Sub-Saharan Africa – have regressed in recent decades.",
       "citation": "todo",
-      "credits": "todo",
+      "credits": "Jonas Helth Lønborg & Nishant Yonzan",
       "inputs": "todo",
-      "visuals": "todo"
+      "visuals": "Maarten Lambrechts"
     }
   },
   "11": {
     "en": {
       "type": "config",
       "goal": "11",
-      "shortTitle": "to do",
-      "title": "todo",
+      "shortTitle": "Urbanization",
+      "title": "Building productive cities",
       "abstract": "todo",
       "citation": "todo",
       "credits": "todo",
@@ -30,8 +30,8 @@
       "type": "config",
       "goal": "12",
       "shortTitle": "Energy sources",
-      "title": "Phasing out fossil-fuel subsidies: can it be done?",
-      "abstract": "The remarkable economic progress the world has experienced until now has largely been powered by fossil energy. The increased levels and variety in consumption are also anthropogenic factors contributing to the record levels of global warming evident in our world today. SDG 12 calls for responsible means of production and consumption that ensure sustainable development in the long run for all people on the planet. This story focuses on the real political and geopolitical issues that have undermined progress in the removal of fossil-fuel subsidies around the world and suggests reforms to address these issues.",
+      "title": "Is gasoline too cheap? The story of  fossil-fuel subsidies",
+      "abstract": "Fossil fuels have been foundational to forming life as we know it today. To keep the cost of fossil fuels stable and affordable, governments often subsidize the price. However, such subsidies also have negative consequences for the economy as well as the environment. This story sheds light on costs and benefits from subsidizing fossil fuels and suggests pathways forward.",
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
@@ -43,8 +43,8 @@
       "type": "config",
       "goal": "13",
       "shortTitle": "Climate",
-      "title": "Vulnerability and adaptation to climate-related hazards",
-      "abstract": "Extreme weather events, such as floods, droughts, tornadoes, and heatwaves  occur more often and are stronger due to climate change and impact more than half the world’s population. A third of those affected are also highly vulnerable and require adaptation to a changing climate.",
+      "title": "Exposure, vulnerability and adaptation to climate hazards",
+      "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves  occur more often and are stronger due to climate change and impact more than half the World’s population. A third of those affected are also highly vulnerable and require adaptation to a changing climate.",
       "citation": "todo",
       "credits": "Thijs Benschop",
       "inputs": "todo",
@@ -69,10 +69,10 @@
       "type": "config",
       "goal": "15",
       "shortTitle": "Life on land",
-      "title": "Land degradation and biodiversity",
-      "abstract": "todo",
-      "citation": "todo",
-      "credits": "todo",
+      "title": "The Impact of Increasing Aridity and Dryland Expansion on Soils, Humans and Nature",
+      "abstract": "Over the last 30 years, most regions have experienced rising aridity. As a result drylands have expanded considerably, impacting arable lands, agricultural production and livelihoods. Higher aridity also puts pressure on the habitats of plant and animal species. Setting aside protected areas can help drier areas to remain productive ecologically, but protected areas can conflict with agricultural expansion to guarantee global food security.",
+      "citation": "Maarten Lambrechts. 2026. “100 Years of Past, Present and Future Challenges in Tackling Extreme Poverty”  In Atlas of  Global Development 2026, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+      "credits": "Maarten Lambrechts",
       "inputs": "todo",
       "visuals": "Maarten Lambrechts"
     }
@@ -81,26 +81,26 @@
     "en": {
       "type": "config",
       "goal": "16",
-      "shortTitle": "to do",
-      "title": "to do",
-      "abstract": "todo",
-      "citation": "todo",
-      "credits": "todo",
-      "inputs": "todo",
-      "visuals": "todo"
+      "shortTitle": "Artificial Intelligence",
+      "title": "Inequalities in AI use and exposure",
+      "abstract": "Significant disparities exist in the use of AI between wealthy and poor nations due to limited internet, local language data, and digital skills. Addressing these gaps is essential to ensure low-income countries can participate in the AI-driven economy and prevent a widening global divide. ",
+      "citation": "Mahler, Daniel Gerszon, and Jan Willem Tulp. 2026. “Inequalities in AI Use, Foundations, and Exposure” In Atlas of  Global Development 2026, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+      "credits": "Daniel Gerszon Mahler, He Wang, Michael Weber",
+      "inputs": "David Castillo Parra, Gabriel Demombynes, Holly Krambeck, ",
+      "visuals": "Jan Willem Tulp"
     }
   },
   "17": {
     "en": {
       "type": "config",
       "goal": "17",
-      "shortTitle": "Statistics",
-      "title": "Can we even measure the SDGs?",
-      "abstract": "todo",
-      "citation": "todo",
-      "credits": "todo",
+      "shortTitle": "Data for Development",
+      "title": "Can we measure progress?",
+      "abstract": "Every day, governments make decisions that affect millions of lives, such as building schools, funding clinics, setting budgets. Yet for many countries, the data guiding those decisions is years out of date, leaving millions of people invisible to policymakers. Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators show, this is not inevitable, some countries build strong, reliable data systems even with limited resources.",
+      "citation": " Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In",
+      "credits": "Zander Prinsloo & Brian Stacy",
       "inputs": "todo",
-      "visuals": "todo"
+      "visuals": "Maarten Lambrechts"
     }
   },
   "99": {
@@ -108,13 +108,13 @@
       "type": "config",
       "goal": "99",
       "locale": "en",
-      "shortTitle": "",
-      "title": "Progress, challenges in ending extreme poverty",
+      "shortTitle": "Story Topic",
+      "title": "A catchy title for your story",
+      "abstract": "The abstract of the chapter. In this part, please provide a brief summary of your chapter (about 50 words). Lorem ipsum odor amet, consectetuer adipiscing elit. Facilisi convallis fringilla elit dapibus mauris risus curae. Facilisis porta eros mus penatibus, tincidunt a. Cras vehicula quis viverra ridiculus convallis volutpat nam molestie ligula. Phasellus venenatis euismod in cras id porttitor; bibendum dignissim.",
       "citation": "Mahler",
       "credits": "Daniel Gerszon Mahler",
       "inputs": "Andrés Castañeda, Carolina Diaz-Bonilla, Christoph Lakner, Dean Jolliffe, Gabriel Lara Ibara, Marta Schoch, Martha Viveros, Nishant Yonzan, Philip Wollburg, Samuel Kofi Tetteh Baah, Stephane Hallegatte",
-      "visuals": "Maarten Lambrechts",
-      "references": "1wrGVEkf-fHV7FDqcQm3UVid8_y9vYH4xNLGfcRylX1k"
+      "visuals": "Maarten Lambrechts"
     }
   },
   "02": {
@@ -122,11 +122,11 @@
       "type": "config",
       "goal": "02",
       "shortTitle": "Global hunger",
-      "title": "Reversing Gains: Unpacking the Rise of Global Hunger",
-      "abstract": "todo",
+      "title": "Reversing gains: A world with rising hunger",
+      "abstract": "Reversing decades of progress, global hunger is rising again. Escalating conflicts, frequent climate shocks, and fragile food supply chains are driving this reversal, hitting Sub‑Saharan Africa and the Middle East region the hardest.",
       "citation": "todo",
-      "credits": "Sharad Alan Tandon, Divyanshi Wadhwa",
-      "inputs": "Bryce Charron, Lorena Corso",
+      "credits": "Divyanshi Wadhwa",
+      "inputs": "Bo Pieter Johannes Andree, Bryce Charron, Lorena Corso, Sharad Alan Tandon, Sawaid Abbas, Faisal Mueen Qamer",
       "visuals": "Maarten Lambrechts"
     }
   },
@@ -135,11 +135,11 @@
       "type": "config",
       "goal": "01",
       "shortTitle": "Extreme poverty",
-      "title": "100 Years of Past, Present, and Future Challenges in Tackling Extreme Poverty",
-      "abstract": "TODO",
+      "title": "Past, present, and future: ",
+      "abstract": "Global extreme poverty has fallen drastically since 1950, but progress has slowed to its weakest pace in 75 years. Over half of the world's poor are in countries where poverty is increasing, often due to conflict and weak governance. This trend threatens to reverse decades of progress and could cause global poverty to rise.",
       "citation": "Mahler",
-      "credits": "Daniel Gerszon Mahler",
-      "inputs": "Christoph Lakner, Mario Negre, Rubena Sukaj, Nishant Yonzan.",
+      "credits": "Daniel Gerszon Mahler and Maarten Lambrechts",
+      "inputs": "Christoph Lakner, Rinku Murgai, Samuel Kofi Tetteh-Baah, Mario Negre, Rubena Sukaj, Nishant Yonzan",
       "visuals": "Maarten Lambrechts"
     },
     "es": {
@@ -159,13 +159,13 @@
     "en": {
       "type": "config",
       "goal": "04",
-      "shortTitle": "School and work",
-      "title": "The impact of early education on work prospects",
-      "abstract": "Education is one of the most powerful drivers of growth and poverty reduction. Each year of schooling improves earnings by around 10%. However, learning doesn’t end at school. Around half of the skills that workers use are acquired at work.",
-      "citation": "todo",
+      "shortTitle": "Learning and work",
+      "title": "Skills are used and built on the job",
+      "abstract": "Each year of schooling a worker attains improves productivity and wages. Education is one of the most powerful drivers of growth and poverty reduction. But learning does not end at school; workers acquire a significant share of their skills through on-the-job learning.",
+      "citation": "Stacy, Brian and Christian Lasser. 2026. ”Using and building skills  on the job”. In",
       "credits": "Brian Stacy",
       "inputs": "Norbert Schady, Joana Silva, Alaka Holla",
-      "visuals": "todo"
+      "visuals": "Christian Laesser"
     }
   },
   "05": {
@@ -174,10 +174,10 @@
       "goal": "05",
       "shortTitle": "Gender and jobs",
       "title": "Shaping the future: Women’s work, unpacked",
-      "abstract": "todo",
-      "citation": "Divyanshi Wadhwa, Anna Bonfert",
-      "credits": "todo",
-      "inputs": "todo",
+      "abstract": "Women continue to face persistent barriers to participate in the labor force. Those who do work are more likely to be in vulnerable employment, earn lower wages, and shoulder domestic and care responsibilities—highlighting the slow and uneven progress toward gender equality at work.",
+      "citation": "",
+      "credits": "Divyanshi Wadhwa, Anna Bonfert",
+      "inputs": "Ana Maria Munoz Boudet, Kathleen Beegle",
       "visuals": "Ændra Rininsland"
     }
   },
@@ -185,26 +185,26 @@
     "en": {
       "type": "config",
       "goal": "dashboard",
-      "shortTitle": "Explore",
-      "title": "Progress towards the Sustainable Development Goals",
-      "abstract": "TODO",
-      "citation": "TODO",
-      "credits": "TODO",
-      "inputs": "TODO",
-      "visuals": "Alice Thudt"
+      "shortTitle": "Global Progress",
+      "title": "What contributes to the slowdown of global progress?",
+      "abstract": "While the world has witnessed decades of remarkable development progress, this era of advancement is now facing a critical juncture. Global development is currently proceeding at its slowest pace in 75 years, a widespread slowdown impacting crucial areas from poverty reduction and life expectancy to education and women's empowerment. This stall carries immense consequences, leaving millions behind. Explore the data to understand this slowdown and what recent data reveals about progress in countries around the world.",
+      "citation": "Lambrechts, M, Mahler D G, Thudt, A, and Wadhwa, D. 2026. “Global progress is grinding to a halt.” In",
+      "credits": "Daniel Gerszon Mahler and Divyanshi Wadhwa ",
+      "inputs": "",
+      "visuals": "Alice Thudt and Maarten Lambrechts"
     }
   },
   "06": {
     "en": {
       "type": "config",
       "goal": "06",
-      "shortTitle": "Water use",
-      "title": "Ensure availability and sustainable management of water and sanitation for all",
-      "abstract": "todo",
+      "shortTitle": "Water access",
+      "title": "Water quality: A foundation for health and development",
+      "abstract": "Access to safe drinking water is essential for health and development, yet over two billion people,mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also water safety.",
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
-      "visuals": "todo"
+      "visuals": "Jan Willem Tulp"
     }
   },
   "09": {
@@ -212,8 +212,8 @@
       "type": "config",
       "goal": "09",
       "shortTitle": "Internet access",
-      "title": "Expanding access to Internet",
-      "abstract": "todo",
+      "title": "Expanding access to the Internet ",
+      "abstract": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal. While networks now reach much of the world, millions of people, especially in poorer countries, are still shut out of the digital economy. The reasons go beyond infrastructure, and reflect gaps in affordability, skills, and inclusive policy design.",
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
@@ -225,11 +225,11 @@
       "type": "config",
       "goal": "progress",
       "shortTitle": "Progress",
-      "title": "Measuring Progress",
-      "abstract": "TODO",
+      "title": "Measuring progress",
+      "abstract": "Measuring progress in ",
       "citation": "Mahler",
       "credits": "Daniel Gerszon Mahler",
-      "inputs": "Daniel Boller, Bob Rijkers, Nishant Yonzan,",
+      "inputs": "Daniel Boller, Bob Rijkers, Nishant Yonzan",
       "visuals": "Maarten Lambrechts"
     }
   },
@@ -238,8 +238,8 @@
       "type": "config",
       "goal": "03",
       "shortTitle": "Health",
-      "title": "Maternal mortality",
-      "abstract": "todo",
+      "title": "Advancing Maternal and Child Health through Universal Health Coverage",
+      "abstract": "",
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
@@ -252,9 +252,9 @@
       "goal": "08",
       "shortTitle": "Economic growth",
       "title": "Are some countries being left behind?",
-      "abstract": "todo",
+      "abstract": "The global economy is continuously growing and has proven notably resilient despite disruptions such as the COVID-pandemic. However, in some countries GDP per capita has remained stagnant for decades. Furthermore, economic growth does not necessarily translate into improved living conditions for people. Looking at whether people are in employment, education or training can provide additional insights.",
       "citation": "todo",
-      "credits": "Nishant Yonzan",
+      "credits": "Nishant Yonzan & Jonas Helth Lønborg",
       "inputs": "todo",
       "visuals": "Maarten Lambrechts"
     }
@@ -264,13 +264,39 @@
       "type": "config",
       "goal": "07",
       "shortTitle": "Electricity access",
-      "title": "Access to affordable, reliable, sustainable and modern energy for all",
-      "abstract": "todo",
+      "title": "Access to electricity: who remains without power?",
+      "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to reach 300 million more people in Africa by 2030.",
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
-      "visuals": "todo",
+      "visuals": "Maarten Lambrechts",
       "locale": "en"
+    }
+  },
+  "ID4D": {
+    "en": {
+      "type": "config",
+      "goal": "ID4D",
+      "shortTitle": "ID4D",
+      "title": "ID4D Title",
+      "abstract": "TK",
+      "citation": "Mahler",
+      "credits": "TK",
+      "inputs": "TK",
+      "visuals": "Maarten Lambrechts"
+    }
+  },
+  "id4d": {
+    "en": {
+      "type": "config",
+      "goal": "id4d",
+      "shortTitle": "ID4D",
+      "title": "Why identification matters for global development",
+      "abstract": "TK",
+      "citation": "Mahler",
+      "credits": "TK",
+      "inputs": "TK",
+      "visuals": "Maarten Lambrechts"
     }
   }
 }

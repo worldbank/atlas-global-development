@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Food Preparation Assistants</title>
+  <path d="M 340 480 Q 280 400 320 320 Q 360 240 440 260 Q 460 200 512 200 Q 564 200 584 260 Q 664 240 704 320 Q 744 400 684 480"/>
+  <rect x="320" y="480" width="384" height="80" rx="8"/>
+  <circle cx="460" cy="700" r="160"/>
+  <line x1="600" y1="622" x2="784" y2="520"/>
+  <ellipse cx="440" cy="700" rx="80" ry="60"/>
+  <circle cx="440" cy="700" r="28"/>
+</svg>

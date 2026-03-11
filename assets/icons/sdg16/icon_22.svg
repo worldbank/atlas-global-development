@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Health Professionals</title>
+  <!-- Ear tubes -->
+  <path d="M380 160 L380 360 Q380 500 512 560" />
+  <path d="M644 160 L644 360 Q644 500 512 560" />
+  <!-- Ear tips -->
+  <circle cx="380" cy="148" r="20" fill="currentColor" />
+  <circle cx="644" cy="148" r="20" fill="currentColor" />
+  <!-- Tube down -->
+  <path d="M512 560 L512 700" />
+  <!-- Chest piece (diaphragm) -->
+  <circle cx="512" cy="740" r="60" />
+  <circle cx="512" cy="740" r="30" />
+</svg>
+

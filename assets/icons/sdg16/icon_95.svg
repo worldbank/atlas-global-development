@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Street and Related Sales and Service Workers</title>
+  <!-- Cart canopy -->
+  <path d="M160 300 L864 300 L804 180 L220 180 Z" />
+  <!-- Cart body -->
+  <rect x="200" y="300" width="624" height="360" rx="12" />
+  <!-- Shelves -->
+  <line x1="200" y1="440" x2="824" y2="440" />
+  <line x1="200" y1="540" x2="824" y2="540" />
+  <!-- Items on shelves -->
+  <circle cx="320" cy="370" r="30" />
+  <circle cx="420" cy="370" r="30" />
+  <circle cx="520" cy="370" r="30" />
+  <!-- Wheels -->
+  <circle cx="340" cy="720" r="50" />
+  <circle cx="684" cy="720" r="50" />
+  <!-- Support poles -->
+  <line x1="220" y1="180" x2="220" y2="120" stroke-width="10" />
+  <line x1="804" y1="180" x2="804" y2="120" stroke-width="10" />
+</svg>
+

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <title>Labourers in Mining Construction Manufacturing and Transport</title>
+  <path d="M 280 460 Q 280 300 512 300 Q 744 300 744 460 L 764 504 L 264 504 Z"/>
+  <line x1="240" y1="504" x2="784" y2="504"/>
+  <line x1="512" y1="504" x2="512" y2="820"/>
+  <line x1="300" y1="620" x2="724" y2="620"/>
+  <path d="M 280 600 L 320 560 L 380 600 L 320 640 Z"/>
+  <path d="M 724 600 Q 764 560 820 576 Q 832 636 796 656"/>
+</svg>
