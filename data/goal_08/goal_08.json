@@ -9,6 +9,10 @@
     "credits": "Nishant Yonzan & Jonas Helth Lønborg",
     "inputs": "todo",
     "visuals": "Maarten Lambrechts",
+    "homeFactoidPercent": "75",
+    "homeFactoidNumber": "3 in 4",
+    "homeFactoidText": "TK",
+    "homeTagline": "TK",
     "translationPrefix": "goal_08.config"
   },
   "content": [

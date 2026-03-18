@@ -9,6 +9,10 @@
     "credits": "Divyanshi Wadhwa",
     "inputs": "Bo Pieter Johannes Andree, Bryce Charron, Lorena Corso, Sharad Alan Tandon, Sawaid Abbas, Faisal Mueen Qamer",
     "visuals": "Maarten Lambrechts",
+    "homeFactoidPercent": "75",
+    "homeFactoidNumber": "3 in 4",
+    "homeFactoidText": "TK",
+    "homeTagline": "TK",
     "translationPrefix": "goal_02.config"
   },
   "content": [
@@ -57,7 +61,7 @@
       "subtitle": "",
       "source": "Retrieved from World Development Indicators (<a href=\"http://SN.ITK.DEFC.ZS\" target=\"_blank\">SN.ITK.DEFC.ZS</a>). Food and Agriculture Organization of the United Nations ( FAO ), uri: <a href=\"http://fao.org/faostat/en/#home\" target=\"_blank\">fao.org/faostat/en/#home</a> ",
       "visdescription": "Describe what the visualization shows",
-      "indicator_360": "WB_WDI_SN_ITK_DEFC_ZS",
+      "indicator_360": "<span style=\"background-color: rgb(255,229,153);\">WB_WDI_SN_ITK_DEFC_ZS</span>",
       "y_axis_title": "Prevalence of undernourishment",
       "y_axis_units": "%",
       "data_download": "02.data.prevalence_undernourishment_regions.csv",

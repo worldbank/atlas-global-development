@@ -9,6 +9,10 @@
     "credits": "todo",
     "inputs": "todo",
     "visuals": "todo",
+    "homeFactoidPercent": "75",
+    "homeFactoidNumber": "3 in 4",
+    "homeFactoidText": "TK",
+    "homeTagline": "TK",
     "translationPrefix": "goal_12.config"
   },
   "content": [

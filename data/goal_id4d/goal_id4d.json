@@ -9,6 +9,10 @@
     "credits": "TK",
     "inputs": "TK",
     "visuals": "Maarten Lambrechts",
+    "homeFactoidPercent": "75",
+    "homeFactoidNumber": "3 in 4",
+    "homeFactoidText": "TK",
+    "homeTagline": "TK",
     "translationPrefix": "goal_id4d.config"
   },
   "content": [

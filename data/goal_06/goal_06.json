@@ -4,11 +4,15 @@
     "goal": "06",
     "shortTitle": "Water access",
     "title": "Water quality: A foundation for health and development",
-    "abstract": "Access to safe drinking water is essential for health and development, yet over two billion people,mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also water safety.",
-    "citation": "todo",
-    "credits": "todo",
-    "inputs": "todo",
+    "abstract": "Access to safe drinking water is essential for health and development, yet over two billion people, mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also water safety.",
+    "citation": "Kashiwase, Haruna and Tony Fujs. 2026. “Water quality: A foundation for health and development”.  In Atlas of Global Development 2026, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
+    "credits": "Haruna Kashiwase and Tony Fujs",
+    "inputs": "Christian Borja-Vega, Claire Chase, Pavel Luengas Sierra and Fan Zhang",
     "visuals": "Jan Willem Tulp",
+    "homeFactoidPercent": "49",
+    "homeFactoidNumber": "48 out of 98",
+    "homeFactoidText": "countries have water quality as the main constraint in attaining universal access to safely managed drinking water",
+    "homeTagline": "Water quality remains the main barrier to safely managed drinking water",
     "translationPrefix": "goal_06.config"
   },
   "content": [
@@ -61,6 +65,7 @@
       "subtitle": "Global drinking water access by service level (% of global population)",
       "source": "WHO/UNICEF JMP for Water Supply, Sanitation and Hygiene. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS\" target=\"_blank\">SH.H2O.SMDW.ZS</a><span style=\"color: rgb(112,111,125); background-color: rgb(255,255,255);\">).</span>",
       "visdescription": "Describe what the visualization shows",
+      "indicator_360": "WB_WDI_SH_H2O_SMDW_ZS",
       "visSize": "default",
       "data_download": "Safely managed.zip",
       "data": "1JqbaHQXEjhErDipoCf8b3-YZXKFCfIvrzCfyR69d1gE",
@@ -71,23 +76,25 @@
       "legendUnimproved": "Unimproved",
       "legendLimited": "Limited",
       "legendSurfaceWater": "Surface water",
+      "yAxisTitle": "Global drinking water access by service level",
+      "yAxisUnits": "% of global population",
       "scenes": [
         {
           "type": "scene",
           "id": "scene1_Id",
-          "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,128,198);\">Safely managed</span>] <span style=\"background-color: rgb(255,255,255);\">is the highest service level: water from an improved source, </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">available on premises</span>]<span style=\"background-color: rgb(255,255,255);\">,</span>[emphasis: <span style=\"background-color: rgb(255,255,255);\"> available when needed, </span>]<span style=\"background-color: rgb(255,255,255);\">and </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">free from fecal and priority chemical</span>][footnote:  Priority chemicals are substances —arsenic and fluoride—defined by WHO guidelines that may occur naturally in groundwater or enter water sources through pollution and can harm human health if present at high concentrations.][emphasis: <span style=\"background-color: rgb(255,255,255);\"> contamination</span>]<span style=\"background-color: rgb(255,255,255);\">. </span><span style=\"background-color: rgb(255,255,255);\">Global access rose from 60 percent (3.8 billion people) in 2000 to 75 percent (6 billion) in 2024.</span>",
+          "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,128,198);\">Safely managed</span>] is the highest service level: water from an improved source, [emphasis: available on premises],[emphasis:  available when needed, ]and [emphasis: free from fecal and priority chemical][footnote:  Priority chemicals are substances —arsenic and fluoride—defined by WHO guidelines that may occur naturally in groundwater or enter water sources through pollution and can harm human health if present at high concentrations.][emphasis:  contamination]. Global access rose from 60 percent (3.8 billion people) in 2000 to 75 percent (6 billion) in 2024.",
           "translationPrefix": "goal_06.content.#8.scenes.#0"
         },
         {
           "type": "scene",
           "id": "scene2_Id",
-          "text": "In 2024, about 18 percent of the world’s population (1.4 billion people) used[emphasis:  ][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,184,236);\">basic</span>][emphasis:  ]drinking water.This is water from and improved sources, often off-premises but within a 30-minute round trip and without guaranteed water quality.",
+          "text": "In 2024, about 18 percent of the world’s population (1.4 billion people) used[emphasis:  ][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,184,236);\">basic</span>][emphasis:  ]drinking water. This is water from and improved sources, often off-premises but within a 30-minute round trip and without guaranteed water quality.",
           "translationPrefix": "goal_06.content.#8.scenes.#1"
         },
         {
           "type": "scene",
           "id": "scene3_Id",
-          "text": "In 2024, about 9 percent of the world’s population (nearly 700 million people) lacked basic drinking water: around 4% used [emphasis: <span style=\"background-color: rgb(255,241,118);\">limited</span>][emphasis:  ] services (an improved source, but with a collection time over 30 minutes), 4 percent relied on [emphasis: <span style=\"background-color: rgb(255,218,70);\">unimproved </span>] sources (unprotected well or spring), and about 1 percent depended on [emphasis: <span style=\"background-color: rgb(254,188,17);\">surface</span>] water (directly from <span style=\"background-color: rgb(255,255,255);\">river, dam, lake)</span>, which poses particularly high contamination risks.",
+          "text": "In 2024, about 9 percent of the world’s population (nearly 700 million people) lacked basic drinking water: around 4% used [emphasis: <span style=\"background-color: rgb(255,241,118);\">limited</span>][emphasis:  ] services (an improved source, but with a collection time over 30 minutes), 4 percent relied on [emphasis: <span style=\"background-color: rgb(255,218,70);\">unimproved </span>] sources (unprotected well or spring), and about 1 percent depended on [emphasis: <span style=\"background-color: rgb(254,188,17);\">surface</span>] water (directly from river, dam, lake), which poses particularly high contamination risks.",
           "translationPrefix": "goal_06.content.#8.scenes.#2"
         }
       ],
@@ -109,11 +116,12 @@
       "title": "Access to safely managed drinking water remains much lower in rural areas",
       "subtitle": "People using safely managed drinking water services by residence (% of population)",
       "visdescription": "Description of the vis",
+      "indicator_360": "WB_WDI_SH_H2O_SMDW_RU_ZS",
       "theme": "light",
       "data_download": "Safely managed.zip",
       "data": "1JqbaHQXEjhErDipoCf8b3-YZXKFCfIvrzCfyR69d1gE",
-      "source": "WHO/UNICEF JMP for Water Supply, Sanitation and Hygiene. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS\" target=\"_blank\">SH.H2O.SMDW.ZS</a>, <a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.RU.ZS\" target=\"_blank\">SH.H2O.SMDW.RU.ZS</a><span style=\"color: rgb(112,111,125); background-color: rgb(255,255,255);\">, </span><a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.UR.ZS\" target=\"_blank\">SH.H2O.SMDW.UR.ZS</a><span style=\"color: rgb(112,111,125); background-color: rgb(255,255,255);\">).</span>",
-      "note": "Due to low data coverage, rural population data for North America are unavailable, and rural population data for East Asia & Pacific are unavailable for the period 2000–2014.",
+      "source": "WHO/UNICEF JMP for Water Supply, Sanitation and Hygiene. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.RU.ZS\" target=\"_blank\">SH.H2O.SMDW.RU.ZS</a><span style=\"color: rgb(112,111,125); background-color: rgb(255,255,255);\">, </span><a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.UR.ZS\" target=\"_blank\">SH.H2O.SMDW.UR.ZS</a><span style=\"color: rgb(112,111,125); background-color: rgb(255,255,255);\">).</span>",
+      "note": "Rural population data are unavailable for North America (2000–24) and East Asia & Pacific (2000–14).",
       "legendSafelyManaged": "Safely Managed",
       "legendBasic": "Basic",
       "legendUnimproved": "Unimproved",
@@ -157,6 +165,7 @@
       "note": "The 69 countries shown in gray diagonal hatching have no available estimates of safely managed drinking water access in 2024. ",
       "visSize": "default",
       "visdescription": "",
+      "indicator_360": "WB_WDI_SH_H2O_SMDW_ZS",
       "data_download": "Country_SafelyManaged_2024.csv",
       "data": "1ABOxAmGnoBjgKOe5cnvMCc0xc4K_HWIPPLVvXUwdXsI",
       "legendLabel": "Safely managed access to water (%)",
@@ -202,11 +211,11 @@
       "visSize": "default",
       "data_download": "Indicator.csv",
       "data": "1bPrWHiqnAIikyhhHREgwnsEqB9uYTbx0FHw5Xew0sV4",
+      "determines": "DETERMINES",
       "safelyManagedLabel": "SAFELY MANAGED",
       "qualityLabel": "Free from contamination",
       "accessibilityLabel": "Accessible on premises",
       "availabilityLabel": "Available when needed",
-      "legendLabel": "Component that determines safely managed access",
       "scenes": [
         {
           "type": "scene",
@@ -239,7 +248,6 @@
       "title": "Countries face different challenges in achieving safely managed drinking water access",
       "subtitle": "People using improved water source (%), 2024",
       "source": "<a href=\"https://washdata.org/\" target=\"_blank\">WHO/UNICEF JMP for Water Supply, Sanitation and Hygiene</a>",
-      "note": "The map areas with gray diagonal hatching indicate:1. Countries that have attained universal access (29 countries);2. Countries where safely managed drinking water access levels are available but data for the availability component are missing (25 countries);3. Countries where safely managed drinking water access levels are not available (69 countries).",
       "visdescription": "Describe what the visualization shows",
       "visSize": "fullScreen",
       "data_download": "Limiting Factors.csv",
@@ -273,7 +281,7 @@
         {
           "type": "scene",
           "id": "scene4",
-          "text": "The map presents the limiting factors for safely managed drinking water access in 94 countries.",
+          "text": "The map presents the limiting factors for safely managed drinking water access in 94 countries.Please note that gray diagonal hatching indicates countries that have attained universal access, countries where safely managed drinking water data exist but availability component data are missing, or countries where safely managed drinking water data are not available.",
           "translationPrefix": "goal_06.content.#19.scenes.#3"
         }
       ],
@@ -424,6 +432,7 @@
       "keyFactLabel": "have more than half of their population exposed to high or very high E. coli contamination risk in drinking water.",
       "pointOfCollectionLabel": "Point of Collection",
       "pointOfUseLabel": "Point of Use",
+      "xAxisTitle": "Contamination risk",
       "scenes": [
         {
           "type": "scene",
@@ -479,7 +488,7 @@
     {
       "type": "vis",
       "graphic": "e_coli_urban_rural",
-      "title": "Exposure to <i>E. coli</i> contamination is higher among rural residents than urban residents.",
+      "title": "Exposure to <i>E. coli</i> contamination is higher among rural residents than urban residents",
       "subtitle": "The 10 countries with the largest urban–rural gap in exposure to high or very high contamination risk at the point of collection (%)",
       "source": "Multiple Indicator Cluster Surveys (MICS);[reference: MICS_survey] Ethiopia: 2016 Ethiopia Socioeconomic Survey (ESS).[reference: Ethiopia_survey]",
       "note": "The data are compiled from country-level survey reports, including MICS and the Ethiopian Socioeconomic Survey ESS.",

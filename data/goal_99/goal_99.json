@@ -10,6 +10,10 @@
     "credits": "Daniel Gerszon Mahler",
     "inputs": "Andrés Castañeda, Carolina Diaz-Bonilla, Christoph Lakner, Dean Jolliffe, Gabriel Lara Ibara, Marta Schoch, Martha Viveros, Nishant Yonzan, Philip Wollburg, Samuel Kofi Tetteh Baah, Stephane Hallegatte",
     "visuals": "Maarten Lambrechts",
+    "homeFactoidPercent": "75",
+    "homeFactoidNumber": "3 in 4",
+    "homeFactoidText": "TK",
+    "homeTagline": "TK",
     "translationPrefix": "goal_99.config"
   },
   "content": [
@@ -29,7 +33,7 @@
       "translationPrefix": "goal_99.content.#2"
     },
     {
-      "text": "You can create it like the Subheading from the toolbar or from the Google Doc menu by picking Subheading 2 (toolbar) or Heading 2 (menu). ",
+      "text": "You can create it like the Subheading from the toolbar or from the Google Doc menu by picking Subheading 2 (toolbar) or Heading 2 (menu).",
       "type": "text",
       "translationPrefix": "goal_99.content.#3"
     },
@@ -77,121 +81,128 @@
       "translationPrefix": "goal_99.content.#11"
     },
     {
-      "text": "You can add it by choosing Insert Component > Other components > Factoid and press Insert component from the toolbar. The properties should be filled out as follows:",
-      "type": "text",
+      "type": "factoid",
+      "title": "(optional) Factoid title",
+      "number": "Big number goes here",
+      "text": "(optional) Text block",
       "translationPrefix": "goal_99.content.#12"
     },
     {
-      "text": "[emphasis: title]: the main title (usually the indicator title)",
+      "text": "You can add it by choosing Insert Component > Other components > Factoid and press Insert component from the toolbar. The properties should be filled out as follows:",
       "type": "text",
       "translationPrefix": "goal_99.content.#13"
     },
     {
-      "text": "[emphasis: number]: the value you want to highlight",
+      "text": "[emphasis: title]: the main title (usually the indicator title)",
       "type": "text",
       "translationPrefix": "goal_99.content.#14"
     },
     {
-      "text": "[emphasis: units]: the indicator unit (optional)",
+      "text": "[emphasis: number]: the value you want to highlight",
       "type": "text",
       "translationPrefix": "goal_99.content.#15"
     },
     {
-      "text": "[emphasis: label]: additional text e.g. the year the value was measured or other secondary information.",
+      "text": "[emphasis: units]: the indicator unit (optional)",
       "type": "text",
       "translationPrefix": "goal_99.content.#16"
     },
     {
+      "text": "[emphasis: label]: additional text e.g. the year the value was measured or other secondary information.",
+      "type": "text",
+      "translationPrefix": "goal_99.content.#17"
+    },
+    {
       "text": "Text Emphasis",
       "type": "subhed",
-      "translationPrefix": "goal_99.content.#17"
+      "translationPrefix": "goal_99.content.#18"
     },
     {
       "text": "You can highlight key takeaways of your story by creating a callout with a text emphasis. You simply have to highlight the text and choose Set Text elements > Emphasis from the toolbar. Like this:",
       "type": "text",
-      "translationPrefix": "goal_99.content.#18"
+      "translationPrefix": "goal_99.content.#19"
     },
     {
       "text": "Of all global extreme poor, [emphasis: more than 50%] live in countries where extreme poverty has increased in the past 10 years.",
       "type": "text_emphasis",
-      "translationPrefix": "goal_99.content.#19"
+      "translationPrefix": "goal_99.content.#20"
     },
     {
       "text": "You can further [emphasis: emphasise words or numbers] inside and outside of Emphasis by making them bold (just choose bold from the edit menu). ",
       "type": "text",
-      "translationPrefix": "goal_99.content.#20"
+      "translationPrefix": "goal_99.content.#21"
     },
     {
       "text": "If the fact you want to highlight requires a lot of text, consider using Emphasis instead of a factoid. The Factoid below show the same text as the emphasis, but is hard to grasp at a glance:",
       "type": "text",
-      "translationPrefix": "goal_99.content.#21"
+      "translationPrefix": "goal_99.content.#22"
     },
     {
       "type": "factoid",
       "title": "Of all global extreme poor",
       "number": ">50%",
       "label": "live in countries where extreme poverty has increased in the past 10 years.",
-      "translationPrefix": "goal_99.content.#22"
+      "translationPrefix": "goal_99.content.#23"
     },
     {
       "text": "Visualizations and their properties",
       "type": "subhed",
-      "translationPrefix": "goal_99.content.#23"
+      "translationPrefix": "goal_99.content.#24"
     },
     {
       "text": "Visualizations and scrollers can be added from the sidebar by clicking on 'Insert visualization' or 'Insert scroller+vis'. Here are some properties you can specify:",
       "type": "text",
-      "translationPrefix": "goal_99.content.#24"
+      "translationPrefix": "goal_99.content.#25"
     },
     {
       "text": "[emphasis: title]: a title that describes the main takeaway or poses a question of what to look out for in the visualization. It should tell the reader what to watch out for.",
       "type": "text",
-      "translationPrefix": "goal_99.content.#25"
+      "translationPrefix": "goal_99.content.#26"
     },
     {
       "text": "[emphasis: subtitle ](optional): Data related details and information about the data",
       "type": "text",
-      "translationPrefix": "goal_99.content.#26"
+      "translationPrefix": "goal_99.content.#27"
     },
     {
       "text": "[emphasis: textParagraph] (optional): Here you can provide some more text to describe the visualization. This is only available for visualizations outside of scrollers.",
       "type": "text",
-      "translationPrefix": "goal_99.content.#27"
+      "translationPrefix": "goal_99.content.#28"
     },
     {
       "text": "[emphasis: source]: The source of the visualization and data",
       "type": "text",
-      "translationPrefix": "goal_99.content.#28"
+      "translationPrefix": "goal_99.content.#29"
     },
     {
       "text": "[emphasis: note] (optional): Some additional notes or disclaimers.",
       "type": "text",
-      "translationPrefix": "goal_99.content.#29"
+      "translationPrefix": "goal_99.content.#30"
     },
     {
       "text": "[emphasis: visdescription]: This will not show up on the page, but will be read by screenreaders. Provide information in addition to the other text properties above, that will help people with vision impairments, who are using a screen reader. Here you can for example say what type of chart (e.g. linechart) is shown and what trends are visible. For scrollers, this should describe the content to the entire scroller, but the scene texts will also be read by screen readers so do not repeat those.",
       "type": "text",
-      "translationPrefix": "goal_99.content.#30"
+      "translationPrefix": "goal_99.content.#31"
     },
     {
       "text": "[emphasis: visSize] (optional): if you set this property to fullScreen the visualization will be wider. If you leave out this property entirely your vis will have the default size.",
       "type": "text",
-      "translationPrefix": "goal_99.content.#31"
+      "translationPrefix": "goal_99.content.#32"
     },
     {
       "text": "usesPart",
       "type": "text",
-      "translationPrefix": "goal_99.content.#32"
+      "translationPrefix": "goal_99.content.#33"
     },
     {
       "text": "Static vis in default size",
       "type": "subhed2",
-      "translationPrefix": "goal_99.content.#33"
+      "translationPrefix": "goal_99.content.#34"
     },
     {
       "text": "If you do not specify visSize and use type: vis in the vis config table, this is what your visualization looks like. ",
       "type": "text",
-      "translationPrefix": "goal_99.content.#34"
+      "translationPrefix": "goal_99.content.#35"
     },
     {
       "type": "vis",
@@ -199,7 +210,7 @@
       "title": "Global poverty could increase if current trends continue",
       "subtitle": "Past values and projections",
       "textParagraph": "If all countries make progress at Korea’s pace, global extreme poverty would be reduced to 1.5% by 2050. Yet copying Korea's trajectory will be difficult. If countries manage to make progress at the pace of Brazil, Tunisia, or Turkey, there will still be modest declines, while if they make progress at the speed typically observed since 1950, there will still be around 8% poverty by 2050. Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed.]",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025b)</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025b)</a>. ",
       "note": "This is for small notes or disclaimers",
       "visdescription": "Describe what the visualization shows",
       "y_axis_title": "Poverty rate",
@@ -211,17 +222,17 @@
       "global_poverty_rate": "Global poverty rate",
       "data_download": "01.data.global_projections.zip",
       "data": "1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg",
-      "translationPrefix": "goal_99.content.#35"
+      "translationPrefix": "goal_99.content.#36"
     },
     {
       "text": "FullScreen Scroller",
       "type": "subhed2",
-      "translationPrefix": "goal_99.content.#36"
+      "translationPrefix": "goal_99.content.#37"
     },
     {
       "text": "This is what a fullscreen scroller looks like instead:",
       "type": "text",
-      "translationPrefix": "goal_99.content.#37"
+      "translationPrefix": "goal_99.content.#38"
     },
     {
       "type": "scroller",
@@ -245,32 +256,32 @@
           "type": "scene",
           "id": "rate4",
           "text": "You can use the colors from the sidebar or use the Highlight color from the Google Docs menu with the color picker to <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">highlight parts of your text</span> and associate it with the visualization elements. If the color is too dark. make sure to change the text color to white too.",
-          "translationPrefix": "goal_99.content.#38.scenes.#0"
+          "translationPrefix": "goal_99.content.#39.scenes.#0"
         },
         {
           "type": "scene",
           "id": "rate1",
           "text": "Yet copying Korea’s trajectory will be difficult. If countries manage to make progress at the typical speed observed since 1950, there will still be around 8% poverty by 2050. ",
-          "translationPrefix": "goal_99.content.#38.scenes.#1"
+          "translationPrefix": "goal_99.content.#39.scenes.#1"
         },
         {
           "type": "scene",
           "id": "rateH",
           "text": "Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.",
-          "translationPrefix": "goal_99.content.#38.scenes.#2"
+          "translationPrefix": "goal_99.content.#39.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_99.content.#38"
+      "translationPrefix": "goal_99.content.#39"
     },
     {
       "text": "Particle Visualizations",
       "type": "subhed2",
-      "translationPrefix": "goal_99.content.#39"
+      "translationPrefix": "goal_99.content.#40"
     },
     {
       "text": "The code will automatically detect if your visualization uses particles. Here is a particle scroller visualization as an example:",
       "type": "text",
-      "translationPrefix": "goal_99.content.#40"
+      "translationPrefix": "goal_99.content.#41"
     },
     {
       "type": "scroller",
@@ -287,32 +298,32 @@
           "type": "scene",
           "id": "firstID",
           "text": "In 1990, nearly [emphasis: 2 billion people] <a href=\"https://www.worldbank.org\" target=\"_blank\">worldwide</a> lived in extreme poverty – in other words, on less than $2.15 per day.",
-          "translationPrefix": "goal_99.content.#41.scenes.#0"
+          "translationPrefix": "goal_99.content.#42.scenes.#0"
         },
         {
           "type": "scene",
           "id": "secondID",
           "text": "",
-          "translationPrefix": "goal_99.content.#41.scenes.#1"
+          "translationPrefix": "goal_99.content.#42.scenes.#1"
         },
         {
           "type": "scene",
           "id": "thirdID",
           "text": "Over the same period, the world’s <span data-color-id=\"cat3\" class=\"cat3\">population increased</span> by around 2.4 billion people and the number of people with incomes above the international poverty line [emphasis: increased from 3.3 billion to 7 billion]. As a result, the share of the global population living in extreme poverty was reduced from about 38 percent to 8.5 percent.",
-          "translationPrefix": "goal_99.content.#41.scenes.#2"
+          "translationPrefix": "goal_99.content.#42.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_99.content.#41"
+      "translationPrefix": "goal_99.content.#42"
     },
     {
       "text": "Conclusion",
       "type": "subhed",
-      "translationPrefix": "goal_99.content.#42"
+      "translationPrefix": "goal_99.content.#43"
     },
     {
       "text": "Wrap up your story with a nice conclusion. It does not have to have this title, but it should summarize the takeaways again.",
       "type": "text",
-      "translationPrefix": "goal_99.content.#43"
+      "translationPrefix": "goal_99.content.#44"
     }
   ],
   "references": {

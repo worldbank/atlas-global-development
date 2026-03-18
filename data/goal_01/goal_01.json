@@ -9,6 +9,10 @@
     "credits": "Daniel Gerszon Mahler and Maarten Lambrechts",
     "inputs": "Christoph Lakner, Rinku Murgai, Samuel Kofi Tetteh-Baah, Mario Negre, Rubena Sukaj, Nishant Yonzan",
     "visuals": "Maarten Lambrechts",
+    "homeFactoidPercent": "50",
+    "homeFactoidNumber": "1 in 2",
+    "homeFactoidText": "of the world's extreme poor live in countries where poverty has increased the past 10 years",
+    "homeTagline": "After 75 years of historic poverty reduction, shifting global dynamics threaten to reverse our progress",
     "translationPrefix": "goal_01.config"
   },
   "content": [
@@ -46,9 +50,9 @@
       "encouragement": "Keep going! Draw your guess all the way to 2025 on the right",
       "done": "Click the button to see your result. You can still adjust your guess",
       "good_result": "Nice work! <span data-color-id=\"cat7\" class=\"cat7\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
-      "ok_result": "Not bad! <span data-color-id=\"cat7\" class=\"cat7\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
-      "hm_result": "Hmm, that could've been better. <span data-color-id=\"cat7\" class=\"cat7\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
-      "poor_result": "That was poor. <span data-color-id=\"cat7\" class=\"cat7\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
+      "ok_result": "Not bad! <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
+      "hm_result": "Hmm, that could've been better. <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
+      "poor_result": "That was poor. <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
       "show_data_button": "Just show the data",
       "done_button": "Done, show my result",
       "reset": "Reset",
@@ -56,6 +60,7 @@
       "data_download": "01.data.global_poverty.csv",
       "data": "1Wj93Lyhbf1AS0t7A6AlU6WUgItdDEsQA7YlF4VtB3Vg",
       "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>; Mahler et al. 2025a; <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>",
+      "indicator_360": "WB_WDI_SI_POV_DDAY",
       "translationPrefix": "goal_01.content.#4"
     },
     {
@@ -82,6 +87,7 @@
       "data": "1S9d3aNKSvPk0XMmqK9-SrWnlVUcmvhfXvVRYeM3LU54",
       "keyFact": "10%",
       "keyFactLabel": "of people worldwide live in extreme poverty today, compared to 60% in 1950",
+      "indicator_360": "WB_WDI_SI_POV_DDAY",
       "translationPrefix": "goal_01.content.#7"
     },
     {
@@ -103,7 +109,8 @@
       "xAxisTitle": "Years since reaching 50%",
       "skip typical_path": "All these countries moved faster than the typical speed of progress, which was around 70 years to go from 50 percent to 10 percent poverty. <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">Korea</span>, which achieved the feat in 11 years,  moved at six times the typical speed.",
       "keyFact": "44 countries",
-      "keyFactLabel": "with high poverty are making little progress or reversing past progress",
+      "keyFactLabel": "with high poverty are making little progress or reversing past gains",
+      "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
         {
           "type": "scene",
@@ -217,6 +224,7 @@
       "data": "1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg",
       "keyFact": "600 million people",
       "keyFactLabel": "more will live in extreme poverty in 2050 than today if the current trajectory continues",
+      "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
         {
           "type": "scene",
@@ -366,11 +374,12 @@
       "visdescription": "Comparison between multidimensional and monetary poverty rates across selected countries.",
       "international_poverty_rate": "International poverty rate",
       "multidimensional": "National multidimensional poverty rate",
-      "y_axis_title": "Poverty rate",
-      "y_axis_units": "%",
+      "x_axis_title": "Poverty rate",
+      "x_axis_units": "%",
       "gap": "Gap",
       "data_download": "01.data.national_poverty_comparison.csv",
       "data": "1Vwbp7eBIOi_195OteLJ6w5_FTpO2nKAuH4K_MSx37E8",
+      "indicator_360": "WB_WDI_SI_POV_MPUN",
       "translationPrefix": "goal_01.content.#37"
     },
     {
@@ -391,7 +400,7 @@
   ],
   "references": {
     "type": "references",
-    "foster2025": "Foster, E,  Jolliffe, D, Lara Ibarra, G,  Lakner, C, Tetteh Baah, S. 2025. <a href=\"https://doi.org/10.1596/1813-9450-11137\" target=\"_blank\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> World Bank .</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
+    "foster2025": "Foster, E,  Jolliffe, D, Lara Ibarra, G,  Lakner, C, Tetteh Baah, S. 2025. <a href=\"https://doi.org/10.1596/1813-9450-11137\" target=\"_blank\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> World Bank.</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
     "mahler2025a": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2025. The World Is Developing at Its Slowest Pace in 75 Years.",
     "mahler2025b": "Mahler, D G, Foster, E, Lakner, C, Prinsloo, Z, Tchouakam Mbouendeu, R and Tetteh-Baah, S K. 2025.<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"> </span><a href=\"https://doi.org/10.1596/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. Global Poverty Monitoring Technical Note No. 45. World Bank.</span>",
     "worldbank2025a": "World Bank. 2025. <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">Macro Poverty Outlook October 2025</a>. Washington DC: World Bank Group.",

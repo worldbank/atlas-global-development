@@ -4,12 +4,16 @@
       "type": "config",
       "goal": "10",
       "shortTitle": "Inequality",
-      "title": "Raising the income of the poorest matters for inequality",
+      "title": "Increasing the welfare of the poor requires focus on average incomes as well as inequality",
       "abstract": "Most measures of inequality fail to account for overall economic development. The Prosperity Gap tracks both economic growth and its distribution. Although there has been improvement in the Prosperity Gap worldwide, many countries – particularly in Sub-Saharan Africa – have regressed in recent decades.",
-      "citation": "todo",
+      "citation": "Lønborg, Jonas Helth, Maarten Lambrechts, and Nishant Yonzan. 2026. “Introducing a measure that captures both income increases of the poor and inequality” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004",
       "credits": "Jonas Helth Lønborg & Nishant Yonzan",
-      "inputs": "todo",
-      "visuals": "Maarten Lambrechts"
+      "inputs": "Christoph Lakner, Maria Eugenia Genoni",
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the World was in 1981, making the region roughly 40 years behind the global average"
     }
   },
   "11": {
@@ -17,12 +21,16 @@
       "type": "config",
       "goal": "11",
       "shortTitle": "Urbanization",
-      "title": "Building productive cities",
-      "abstract": "todo",
+      "title": "Building productive cities for an urbanizing world",
+      "abstract": "Cities are the engine of global economic growth and offer greater economic opportunity, diversity in jobs, and better infrastructure. Yet, the benefits of urbanization are not automatic. As urban populations and built-up areas continue to expand, strategic investment in urban planning will be essential to avoid slums and inequality ensure cities deliver opportunity for all.",
       "citation": "todo",
-      "credits": "todo",
-      "inputs": "todo",
-      "visuals": "todo"
+      "credits": "Harris Selod",
+      "inputs": "Benjamin Stewart",
+      "visuals": "Christian Laesser",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "12": {
@@ -35,7 +43,11 @@
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
-      "visuals": "todo"
+      "visuals": "todo",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "13": {
@@ -44,11 +56,15 @@
       "goal": "13",
       "shortTitle": "Climate",
       "title": "Exposure, vulnerability and adaptation to climate hazards",
-      "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves  occur more often and are stronger due to climate change and impact more than half the World’s population. A third of those affected are also highly vulnerable and require adaptation to a changing climate.",
-      "citation": "todo",
-      "credits": "Thijs Benschop",
-      "inputs": "todo",
-      "visuals": "Ændra Rininsland"
+      "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves occur more often and are stronger due to climate change and impact more than half the World’s population. Almost a third of those affected are also highly vulnerable and require adaptation to a changing climate.",
+      "citation": "Thijs Benschop, David Groves, Jonas Helth Lønborg and Ændra Rininsland. 2026. “Exposure, vulnerability and adaptation to climate hazards” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/",
+      "credits": "Thijs Benschop, Jonas Helth Lønborg, David Groves, Ændra Rininsland",
+      "inputs": "Jia Li, Esther Naikal, Minh Cong Nguyen",
+      "visuals": "Ændra Rininsland",
+      "homeFactoidPercent": "15",
+      "homeFactoidNumber": "1 in 7",
+      "homeFactoidText": "people are exposed and highly vulnerable to climate hazards",
+      "homeTagline": "Climate change intensifies extreme weather events, exposing more than half the global population of which a large share is also vulnerable and in need of adaptation"
     }
   },
   "14": {
@@ -61,7 +77,11 @@
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
-      "visuals": "todo"
+      "visuals": "todo",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "15": {
@@ -74,7 +94,11 @@
       "citation": "Maarten Lambrechts. 2026. “100 Years of Past, Present and Future Challenges in Tackling Extreme Poverty”  In Atlas of  Global Development 2026, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
       "credits": "Maarten Lambrechts",
       "inputs": "todo",
-      "visuals": "Maarten Lambrechts"
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "16": {
@@ -83,11 +107,15 @@
       "goal": "16",
       "shortTitle": "Artificial Intelligence",
       "title": "Inequalities in AI use and exposure",
-      "abstract": "Significant disparities exist in the use of AI between wealthy and poor nations due to limited internet, local language data, and digital skills. Addressing these gaps is essential to ensure low-income countries can participate in the AI-driven economy and prevent a widening global divide. ",
-      "citation": "Mahler, Daniel Gerszon, and Jan Willem Tulp. 2026. “Inequalities in AI Use, Foundations, and Exposure” In Atlas of  Global Development 2026, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+      "abstract": "Significant disparities exist in the use of AI between wealthy and poor nations due to lack of connectivity, affordable data, and digital skills. Addressing these gaps is essential to ensure low-income countries can participate in the AI-driven economy and prevent a widening global divide. ",
+      "citation": "Mahler, Daniel Gerszon, Jan Willem Tulp, He Wang, and Michael Weber. 2026. “Inequalities in AI use and exposure” In Atlas of  Global Development 2026, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
       "credits": "Daniel Gerszon Mahler, He Wang, Michael Weber",
       "inputs": "David Castillo Parra, Gabriel Demombynes, Holly Krambeck, ",
-      "visuals": "Jan Willem Tulp"
+      "visuals": "Jan Willem Tulp",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "While high-income nations rapidly integrate AI, stark infrastructural and skills gaps are leaving low-income countries behind"
     }
   },
   "17": {
@@ -96,11 +124,15 @@
       "goal": "17",
       "shortTitle": "Data for Development",
       "title": "Can we measure progress?",
-      "abstract": "Every day, governments make decisions that affect millions of lives, such as building schools, funding clinics, setting budgets. Yet for many countries, the data guiding those decisions is years out of date, leaving millions of people invisible to policymakers. Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators show, this is not inevitable, some countries build strong, reliable data systems even with limited resources.",
+      "abstract": "Every day, governments make decisions that affect millions of lives, such as setting budgets and regulating the scope and quality of services. Yet for many countries, the data guiding those decisions is years out of date, leaving millions of people invisible to policymakers. Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
       "citation": " Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In",
       "credits": "Zander Prinsloo & Brian Stacy",
-      "inputs": "todo",
-      "visuals": "Maarten Lambrechts"
+      "inputs": "Maria Eugenia Genoni & Alaka Holla",
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "99": {
@@ -114,7 +146,11 @@
       "citation": "Mahler",
       "credits": "Daniel Gerszon Mahler",
       "inputs": "Andrés Castañeda, Carolina Diaz-Bonilla, Christoph Lakner, Dean Jolliffe, Gabriel Lara Ibara, Marta Schoch, Martha Viveros, Nishant Yonzan, Philip Wollburg, Samuel Kofi Tetteh Baah, Stephane Hallegatte",
-      "visuals": "Maarten Lambrechts"
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "02": {
@@ -127,7 +163,11 @@
       "citation": "todo",
       "credits": "Divyanshi Wadhwa",
       "inputs": "Bo Pieter Johannes Andree, Bryce Charron, Lorena Corso, Sharad Alan Tandon, Sawaid Abbas, Faisal Mueen Qamer",
-      "visuals": "Maarten Lambrechts"
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "01": {
@@ -135,12 +175,16 @@
       "type": "config",
       "goal": "01",
       "shortTitle": "Extreme poverty",
-      "title": "Past, present, and future: ",
+      "title": "Past, present, and future: 100 years of  challenges in tackling extreme poverty",
       "abstract": "Global extreme poverty has fallen drastically since 1950, but progress has slowed to its weakest pace in 75 years. Over half of the world's poor are in countries where poverty is increasing, often due to conflict and weak governance. This trend threatens to reverse decades of progress and could cause global poverty to rise.",
       "citation": "Mahler",
       "credits": "Daniel Gerszon Mahler and Maarten Lambrechts",
       "inputs": "Christoph Lakner, Rinku Murgai, Samuel Kofi Tetteh-Baah, Mario Negre, Rubena Sukaj, Nishant Yonzan",
-      "visuals": "Maarten Lambrechts"
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "50",
+      "homeFactoidNumber": "1 in 2",
+      "homeFactoidText": "of the world's extreme poor live in countries where poverty has increased the past 10 years",
+      "homeTagline": "After 75 years of historic poverty reduction, shifting global dynamics threaten to reverse our progress"
     },
     "es": {
       "type": "config",
@@ -161,11 +205,15 @@
       "goal": "04",
       "shortTitle": "Learning and work",
       "title": "Skills are used and built on the job",
-      "abstract": "Each year of schooling a worker attains improves productivity and wages. Education is one of the most powerful drivers of growth and poverty reduction. But learning does not end at school; workers acquire a significant share of their skills through on-the-job learning.",
+      "abstract": "Each year of schooling that a worker attains improves productivity and wages. Education is one of the most powerful drivers of growth and poverty reduction. But learning does not end at school; workers acquire a significant share of their skills through on-the-job learning.",
       "citation": "Stacy, Brian and Christian Lasser. 2026. ”Using and building skills  on the job”. In",
       "credits": "Brian Stacy",
       "inputs": "Norbert Schady, Joana Silva, Alaka Holla",
-      "visuals": "Christian Laesser"
+      "visuals": "Christian Laesser",
+      "homeFactoidPercent": "66",
+      "homeFactoidNumber": "2/3rds",
+      "homeFactoidText": "of the gpa in per capita income between rich adn poor countries is explained by human capital",
+      "homeTagline": "People acquire around 3/4th of all the learning they need for at work at school; they gain the other 1/4th in the workplace"
     }
   },
   "05": {
@@ -173,12 +221,16 @@
       "type": "config",
       "goal": "05",
       "shortTitle": "Gender and jobs",
-      "title": "Shaping the future: Women’s work, unpacked",
-      "abstract": "Women continue to face persistent barriers to participate in the labor force. Those who do work are more likely to be in vulnerable employment, earn lower wages, and shoulder domestic and care responsibilities—highlighting the slow and uneven progress toward gender equality at work.",
+      "title": "Shaping the future of women in the workplace",
+      "abstract": "Women face persistent barriers when it comes to participating in the labor force. And those who do work are more likely to be in vulnerable employment, earn lower wages, and shoulder the majority of domestic and care responsibilities—highlighting slow and uneven progress toward gender equality at work.",
       "citation": "",
       "credits": "Divyanshi Wadhwa, Anna Bonfert",
       "inputs": "Ana Maria Munoz Boudet, Kathleen Beegle",
-      "visuals": "Ændra Rininsland"
+      "visuals": "Ændra Rininsland",
+      "homeFactoidPercent": "55",
+      "homeFactoidNumber": "55%",
+      "homeFactoidText": "of women are engaged in income generating work",
+      "homeTagline": "Women face barriers to work and are more likely to be in vulnerable jobs, earn lower wages, and shoulder care burden"
     }
   },
   "dashboard": {
@@ -191,7 +243,11 @@
       "citation": "Lambrechts, M, Mahler D G, Thudt, A, and Wadhwa, D. 2026. “Global progress is grinding to a halt.” In",
       "credits": "Daniel Gerszon Mahler and Divyanshi Wadhwa ",
       "inputs": "",
-      "visuals": "Alice Thudt and Maarten Lambrechts"
+      "visuals": "Alice Thudt and Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "06": {
@@ -200,11 +256,15 @@
       "goal": "06",
       "shortTitle": "Water access",
       "title": "Water quality: A foundation for health and development",
-      "abstract": "Access to safe drinking water is essential for health and development, yet over two billion people,mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also water safety.",
-      "citation": "todo",
-      "credits": "todo",
-      "inputs": "todo",
-      "visuals": "Jan Willem Tulp"
+      "abstract": "Access to safe drinking water is essential for health and development, yet over two billion people, mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also water safety.",
+      "citation": "Kashiwase, Haruna and Tony Fujs. 2026. “Water quality: A foundation for health and development”.  In",
+      "credits": "Haruna Kashiwase and Tony Fujs",
+      "inputs": "Christian Borja-Vega, Claire Chase, Pavel Luengas Sierra and Fan Zhang",
+      "visuals": "Jan Willem Tulp",
+      "homeFactoidPercent": "49",
+      "homeFactoidNumber": "48 out of 98",
+      "homeFactoidText": "countries have water quality as the main constraint in attaining universal access to safely managed drinking water",
+      "homeTagline": "Water quality remains the main barrier to safely managed drinking water"
     }
   },
   "09": {
@@ -212,12 +272,16 @@
       "type": "config",
       "goal": "09",
       "shortTitle": "Internet access",
-      "title": "Expanding access to the Internet ",
+      "title": "The unfinished digital revolution",
       "abstract": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal. While networks now reach much of the world, millions of people, especially in poorer countries, are still shut out of the digital economy. The reasons go beyond infrastructure, and reflect gaps in affordability, skills, and inclusive policy design.",
       "citation": "todo",
-      "credits": "todo",
-      "inputs": "todo",
-      "visuals": "todo"
+      "credits": "Ana Florina Pirlea, Lorena Corso",
+      "inputs": "Sharada Srinivasan",
+      "visuals": "Jan Willem Tulp, Maarten Lambrechts",
+      "homeFactoidPercent": "25",
+      "homeFactoidNumber": "1 in 4",
+      "homeFactoidText": "people are not using the internet",
+      "homeTagline": "TK"
     }
   },
   "progress": {
@@ -230,7 +294,11 @@
       "citation": "Mahler",
       "credits": "Daniel Gerszon Mahler",
       "inputs": "Daniel Boller, Bob Rijkers, Nishant Yonzan",
-      "visuals": "Maarten Lambrechts"
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "03": {
@@ -243,7 +311,11 @@
       "citation": "todo",
       "credits": "todo",
       "inputs": "todo",
-      "visuals": "todo"
+      "visuals": "todo",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "08": {
@@ -256,7 +328,11 @@
       "citation": "todo",
       "credits": "Nishant Yonzan & Jonas Helth Lønborg",
       "inputs": "todo",
-      "visuals": "Maarten Lambrechts"
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
     }
   },
   "07": {
@@ -266,11 +342,15 @@
       "shortTitle": "Electricity access",
       "title": "Access to electricity: who remains without power?",
       "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to reach 300 million more people in Africa by 2030.",
-      "citation": "todo",
+      "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
       "credits": "todo",
       "inputs": "todo",
       "visuals": "Maarten Lambrechts",
-      "locale": "en"
+      "locale": "en",
+      "homeFactoidPercent": "90",
+      "homeFactoidNumber": "9 in 10",
+      "homeFactoidText": "people without access to electricity live in Sub-Saharan Africa",
+      "homeTagline": "While most regions have achieved near universal access over the past decades, Sub-Saharan still lags behind in spite of non trivial progress"
     }
   },
   "ID4D": {
@@ -296,7 +376,21 @@
       "citation": "Mahler",
       "credits": "TK",
       "inputs": "TK",
-      "visuals": "Maarten Lambrechts"
+      "visuals": "Maarten Lambrechts",
+      "homeFactoidPercent": "75",
+      "homeFactoidNumber": "3 in 4",
+      "homeFactoidText": "TK",
+      "homeTagline": "TK"
+    }
+  },
+  "home": {
+    "en": {
+      "type": "config",
+      "goal": "home",
+      "title": "Atlas of Sustainable Goals",
+      "acknowledgement": "These are the acknowledgements",
+      "citation": "Pirlea, A. F., U. Serajuddin, D. Wadhwa, M. Welch, eds. 2026. Atlas of Global Development 2026. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://datatopics.worldbank.org/sdgatlas/",
+      "contributors": "Alia Jane Aghajanian, Jane Akumu, Muneeza, Mehmood Alam, Jackie Alder, Bianca Bianchi Alves, Samuel Kofi Tetteh Baah"
     }
   }
 }

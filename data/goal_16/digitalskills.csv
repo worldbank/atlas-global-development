@@ -1,13 +1,13 @@
-skill_level,income_group,pct_of_population
-Basic Digital Skills,HIC,66
-Basic Digital Skills,UMC,38
-Basic Digital Skills,LMC,21
-Basic Digital Skills,LIC,4
-Intermediate Digital Skills,HIC,57
-Intermediate Digital Skills,UMC,26
-Intermediate Digital Skills,LMC,13
-Intermediate Digital Skills,LIC,3
-Advanced Digital Skills,HIC,8
-Advanced Digital Skills,UMC,4
-Advanced Digital Skills,LMC,2
-Advanced Digital Skills,LIC,1
+skill_level,income_group,pct_of_population,skill_information
+Basic Digital Skills,HIC,66,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Basic Digital Skills,UMC,38,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Basic Digital Skills,LMC,21,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Basic Digital Skills,LIC,4,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Intermediate Digital Skills,HIC,57,Intermediate skills refer to use of software and data management. 
+Intermediate Digital Skills,UMC,26,Intermediate skills refer to use of software and data management. 
+Intermediate Digital Skills,LMC,13,Intermediate skills refer to use of software and data management. 
+Intermediate Digital Skills,LIC,3,Intermediate skills refer to use of software and data management. 
+Advanced Digital Skills,HIC,8,"Advanced skills refer to data analysis, software development and high-level computing competences."
+Advanced Digital Skills,UMC,4,"Advanced skills refer to data analysis, software development and high-level computing competences."
+Advanced Digital Skills,LMC,2,"Advanced skills refer to data analysis, software development and high-level computing competences."
+Advanced Digital Skills,LIC,1,"Advanced skills refer to data analysis, software development and high-level computing competences."

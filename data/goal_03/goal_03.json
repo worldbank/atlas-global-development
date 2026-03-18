@@ -9,6 +9,10 @@
     "credits": "todo",
     "inputs": "todo",
     "visuals": "todo",
+    "homeFactoidPercent": "75",
+    "homeFactoidNumber": "3 in 4",
+    "homeFactoidText": "TK",
+    "homeTagline": "TK",
     "translationPrefix": "goal_03.config"
   },
   "content": [
@@ -61,7 +65,7 @@
       "data": "1TF7nwhhbF5Bo3Yk6WmZYav611Gv-Bmjq7lAuF25zSy4",
       "x_title": "",
       "x_unit": "",
-      "y_title": "Index xcore",
+      "y_title": "Index score",
       "y_unit": "",
       "translationPrefix": "goal_03.content.#7"
     },
