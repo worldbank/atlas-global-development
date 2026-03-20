@@ -9,10 +9,10 @@
     "credits": "Harris Selod",
     "inputs": "Benjamin Stewart",
     "visuals": "Christian Laesser",
-    "homeFactoidPercent": "75",
-    "homeFactoidNumber": "3 in 4",
-    "homeFactoidText": "TK",
-    "homeTagline": "TK",
+    "homeFactoidPercent": "58",
+    "homeFactoidNumber": "58%",
+    "homeFactoidText": "of the world population lives in urban areas today",
+    "homeTagline": "Cities are the engine of global economic growth, but strategic investment in urban planning is essential to avoid slums and inequality",
     "translationPrefix": "goal_11.config"
   },
   "content": [

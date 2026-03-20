@@ -11,7 +11,7 @@
     "visuals": "Christian Laesser",
     "homeFactoidPercent": "66",
     "homeFactoidNumber": "2/3rds",
-    "homeFactoidText": "of the gpa in per capita income between rich adn poor countries is explained by human capital",
+    "homeFactoidText": "of the gpa in per capita income between rich and poor countries is explained by human capital",
     "homeTagline": "People acquire around 3/4th of all the learning they need for at work at school; they gain the other 1/4th in the workplace",
     "translationPrefix": "goal_04.config"
   },
@@ -104,14 +104,20 @@
         {
           "type": "scene",
           "id": "3",
-          "text": "By 2025, many countries had made rapid progress. Between 1960 and 2025, the average in the <span data-color-id=\"EAS\" class=\"EAS\">Republic of Korea</span> it jumped from around 3.5 to more than 14 years. In <span data-color-id=\"SAS\" class=\"SAS\">India</span>, it went from around one to nearly eight years, and in <span data-color-id=\"LCN\" class=\"LCN\">Mexico</span> from 2.3 to more than 10 years over the same period. ",
+          "text": "…but trends changed dramatically after 1960. Many countries will make rapid progress in improving years of schooling, while some are left with persistently low levels of education.",
           "translationPrefix": "goal_04.content.#9.scenes.#2"
         },
         {
           "type": "scene",
-          "id": "3",
-          "text": "By 2025, the global <span data-color-id=\"WLD\" class=\"WLD\">average</span> for 25–64-year-olds was more than nine years, equivalent to a lower secondary education. But the gaps between countries are large: the average in <span data-color-id=\"SSF\" class=\"SSF\">Niger</span> and <span data-color-id=\"SSF\" class=\"SSF\">Mali</span> is around 3 years, compared to 14 years in <span data-color-id=\"EAS\" class=\"EAS\">Korea</span>, <span data-color-id=\"ECS\" class=\"ECS\">Ireland</span>, and <span data-color-id=\"ECS\" class=\"ECS\">Iceland</span>.",
+          "id": "4",
+          "text": "Between 1960 and 2025, the average in the <span data-color-id=\"EAS\" class=\"EAS\">Republic of Korea</span> it jumped from around 3.5 to more than 14 years. <span data-color-id=\"MEA\" class=\"MEA\">Egypt</span> improved from less than one year to more than eight years of schooling. In <span data-color-id=\"SAS\" class=\"SAS\">India</span>, it went from around one to nearly eight years, and in <span data-color-id=\"LCN\" class=\"LCN\">Mexico</span> from 2.3 to more than 10 years over the same period. ",
           "translationPrefix": "goal_04.content.#9.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "5",
+          "text": "By 2025, the global <span data-color-id=\"WLD\" class=\"WLD\">average</span> for 25–64-year-olds was more than nine years, equivalent to a lower secondary education. But the gaps between countries are large: the average in <span data-color-id=\"SSF\" class=\"SSF\">Mali</span> is around 3 years, compared to 14 years in <span data-color-id=\"EAS\" class=\"EAS\">Korea</span> and <span data-color-id=\"ECS\" class=\"ECS\">Ireland</span>.",
+          "translationPrefix": "goal_04.content.#9.scenes.#4"
         }
       ],
       "translationPrefix": "goal_04.content.#9"
@@ -202,7 +208,7 @@
       "translationPrefix": "goal_04.content.#20"
     },
     {
-      "text": "In low- and middle-income countries, men with college education are about 5 percentage points more likely to work than those with little schooling. The gap is even larger for women, at 16 percentage points. Wage workers typically have 2.5 more years of schooling than the self-employed, and wage jobs tend to deliver more earnings growth over time. But even among workers with similar levels of education, the self-employed in low- and middle-income countries tend to earn less than their counterparts in wage employment, suggesting that the type of job matters for earnings, not just the schooling a worker brings to it.[reference: holla_silva_schady2026]",
+      "text": "In low- and middle-income countries, men with college education are about 5 percentage points more likely to work than those with little schooling. The gap is even larger for women, at 16 percentage points.[footnote:  Author’s calculations based on <a href=\"https://rshiny.ilo.org/dataexplorer60/?lang=en&segment=indicator&id=EMP_TEMP_SEX_AGE_EDU_NB_A&channel=ilostat\" target=\"_blank\">ILOSTAT data</a> on employment by sex, age, and education from 2010 to 2024. Calculation includes prime aged workers, aged 25-54 years old. High education individuals classified as having “Advanced” education according to ILO definitions. Low education individuals classified as “Less than basic” education according to ILO definitions.] Wage workers typically have 2.5 more years of schooling than the self-employed, and wage jobs tend to deliver more earnings growth over time.[reference: ginding][reference: holla_silva_schady2026] But even among workers with similar levels of education, the self-employed in low- and middle-income countries tend to earn less than their counterparts in wage employment, suggesting that the type of job matters for earnings, not just the schooling a worker brings to it.[reference: holla_silva_schady2026]",
       "type": "text",
       "translationPrefix": "goal_04.content.#21"
     },
@@ -235,7 +241,7 @@
       "translationPrefix": "goal_04.content.#24"
     },
     {
-      "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\">The earnings boost from an extra year of schooling varies widely across countries, reflecting differences in school quality, labor markets, demand for skills, and measurement, but the returns are consistently positive. There is no clear link between a country’s income level and the return to education, and high returns to education can be found in both high-and low-income countries. On average across countries, each additional year of schooling raises earnings by close to 10 percent. </span>",
+      "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\">The earnings boost from an extra year of schooling varies widely across countries, reflecting differences in school quality, labor markets, demand for skills, and measurement, but the returns are consistently positive. There is no strong link between a country’s income level and the return to education, and high returns to education can be found in both high-and low-income countries. On average across countries, each additional year of schooling raises earnings by close to 10 percent. </span>",
       "type": "text",
       "translationPrefix": "goal_04.content.#25"
     },
@@ -252,7 +258,7 @@
       "translationPrefix": "goal_04.content.#27"
     },
     {
-      "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\">These returns easily outweigh the modest costs of schooling in many countries. In Sub-Saharan Africa, public spending averages about $283 per child per year of schooling.[reference: efw2024] If one additional year of education raises earnings by ten percent, applied to average annual earnings of $1,727, the lifetime gains are substantial. Over a 40-year career, and discounting future earnings at five percent, this translates into roughly $3,000 in additional lifetime income.</span>[footnote:  Average earnings per year for Sub-Saharan Africa are calculated using data from World BanK PIP. Series: Survey mean/average consumption or income per capita, total population (2021 PPP $ per day)<span style=\"color: rgb(68,68,68);\"></span><span style=\"color: rgb(26,31,36);\"></span>]<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\"> In other words, a single year of schooling delivers returns on the order of ten times its upfront cost.</span>",
+      "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\">These returns easily outweigh the modest costs of schooling in many countries. In Sub-Saharan Africa, public spending averages about $283 per child per year of schooling.[reference: efw2024] If one additional year of education raises earnings by ten percent, applied to average annual earnings of $1,727, the lifetime gains are substantial. Over a 40-year career, and discounting future earnings at five percent, this translates into roughly $3,000 in additional lifetime income.</span>[footnote:  Average earnings are proxied by mean consumption per capita from World Bank PIP (Survey mean consumption or income per capita, total population, 2021 PPP $ per day), annualized to $1,727. Since this measure includes children and non-workers, it likely understates actual worker earnings, making the benefit estimate conservative. The net present value is computed as: a 10% earnings premium on $1,727 yields $172.70 in additional annual income; discounted over a 40-year career at a 5% discount rate (annuity factor of 17.16), this gives a lifetime gain of approximately $172.70 × 17.16 ≈ $2,960, or roughly $3,000. The calculation does not subtract foregone earnings during the additional year of schooling, although the foregone earnings would need to be extremely high to offset the higher wages later in life.<span style=\"color: rgb(68,68,68);\"></span><span style=\"color: rgb(26,31,36);\"></span>]<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\"> In other words, a single year of schooling delivers returns on the order of ten times its upfront cost. This does not even account for the broader fiscal benefits of education, including higher tax revenues, reduced crime, and lower dependence on social assistance.[reference: hendren_sprung_keyser2020]</span>",
       "type": "text",
       "translationPrefix": "goal_04.content.#28"
     },
@@ -371,7 +377,7 @@
     {
       "type": "factoid",
       "title": "",
-      "number": "66",
+      "number": "70",
       "units": "%",
       "label": "of workers in low- and middle-income countries are farmers, self-employed, or wage workers in microfirms and have less access to skills improvement.",
       "translationPrefix": "goal_04.content.#40"
@@ -382,7 +388,7 @@
       "translationPrefix": "goal_04.content.#41"
     },
     {
-      "text": "Education is one of the key drivers of economic growth and poverty reduction. While we learn a substantial portion of what we know  at school, learning at work delivers at least 25 percent of the human capital workers acquire during their working life.",
+      "text": "Education is one of the key drivers of economic growth and poverty reduction. While we learn a substantial portion of what we know at school, learning at work delivers at least 25 percent of the human capital workers acquire during their working life.",
       "type": "text",
       "translationPrefix": "goal_04.content.#42"
     },
@@ -415,6 +421,8 @@
     "barro_lee": "<span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">Barro, Robert and Jong-Wha Lee, 2013, </span><a href=\"http://www.sciencedirect.com/science/article/pii/S0304387812000855\" target=\"_blank\">“A New Data Set of Educational Attainment in the World, 1950-2010.”</a><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\"> </span><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">Journal of Development Economics</span><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">, vol 104, pp.184-198.</span>",
     "patrinos": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Montenegro, C.E. and Patrinos, H.A., 2023. A data set of comparable estimates of the private rate of return to schooling in the world, 1970–2014. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">International Journal of Manpower</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">44</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">(6), pp.1248-1268.</span>",
     "worldbank-pip": "World Bank PIP. Series: Survey mean/average consumption or income per capita, total population (2021 PPP $ per day)",
+    "ginding": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Gindling, T.H. and Newhouse, D., 2014. </span><a href=\"http://dx.doi.org/10.1016/j.worlddev.2013.03.003\" target=\"_blank\">Self-employment in the developing world</a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">World development</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">56</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, pp.313-331.</span>",
+    "hendren_sprung_keyser2020": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Hendren, Nathaniel, and Ben Sprung-Keyser. 2020. </span><a href=\"https://doi.org/10.1093/qje/qjaa006\" target=\"_blank\">A Unified Welfare Analysis of Government Policies</a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">The Quarterly Journal of Economics</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"> 135 (3): 1209–1318.</span><a href=\"https://doi.org/10.1093/qje/qjaa006\" target=\"_blank\"> </a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"></span>",
     "translationPrefix": "goal_04.references"
   },
   "translationPrefix": "goal_04"

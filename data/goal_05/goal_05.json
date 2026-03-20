@@ -302,8 +302,8 @@
       "vulnerable": "Vulnerable",
       "wage": "Waged",
       "employer": "Employer",
-      "male": "Male",
-      "female": "Female",
+      "male": "Men",
+      "female": "Women",
       "x_axis_title": "Share of working age population",
       "x_axis_units": "%",
       "visSize": "default",
@@ -319,13 +319,13 @@
         {
           "type": "scene",
           "id": "scene_2",
-          "text": "In Switzerland, over 80% of men and women are waged or salaried—over 8 in 10 men and women and only 1 in 10 employees fall into the vulnerable employment category.",
+          "text": "In Switzerland, over 80% of men and women are <span data-color-id=\"cat3\" class=\"cat3\">waged or salaried</span>—over 8 in 10 men and women and only 1 in 10 employees fall into the <span data-color-id=\"cat2\" class=\"cat2\">vulnerable employment</span> category.",
           "translationPrefix": "goal_05.content.#31.scenes.#1"
         },
         {
           "type": "scene",
           "id": "scene_4",
-          "text": "In Tanzania, the pattern is entirely flipped: the labor market is dominated by workers in vulnerable employment, with about 9 in 10 women and 8 in 10 men working in such conditions.",
+          "text": "In Tanzania, the pattern is entirely flipped: the labor market is dominated by workers in <span data-color-id=\"cat2\" class=\"cat2\">vulnerable employment</span>, with about 9 in 10 women and 8 in 10 men working in such conditions.",
           "translationPrefix": "goal_05.content.#31.scenes.#2"
         },
         {
@@ -555,6 +555,8 @@
       "gradient4": "Highest exposure, low task variability",
       "y_axis_title": "Share of total employment",
       "y_axis_units": "%",
+      "male": "Men",
+      "female": "Women",
       "source": "<span style=\"background-color: rgb(255,255,255);\">Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., Rosłaniec, K., & Troszyński, M. (2025). Generative AI and jobs: A refined global index of occupational exposure (ILO Working Paper No. 140). International Labour Organization. </span><a href=\"https://doi.org/10.54394/HETP0387\" target=\"_blank\">https://doi.org/10.54394/HETP0387</a>",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",

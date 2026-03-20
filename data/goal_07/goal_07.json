@@ -23,7 +23,7 @@
       "translationPrefix": "goal_07.content.#0"
     },
     {
-      "text": "Reliable electricity access is important for improving comfort and quality of life, but also for supporting work productivity, connectivity, education, and the provision of health services. Lack of access to electricity severely limits opportunities to learn, work, and thrive. ",
+      "text": "Reliable electricity access is important for improving quality of life. It contributes to increasing comfort, but also supports work productivity, connectivity, education, and the provision of health services. Lack of access to electricity severely limits opportunities to learn, work, and thrive. ",
       "type": "text",
       "translationPrefix": "goal_07.content.#1"
     },
@@ -74,7 +74,7 @@
         {
           "type": "scene",
           "id": "all",
-          "text": "Most regions have achieved universal access to electricity. However, two regions, South Asia and Sub-Saharan Africa lag.",
+          "text": "Most regions already had very high levels of access in 2000, and had achieved near-universal access to electricity by 2023. Two regions, South Asia and Sub-Saharan Africa lagged noticeably behind in 2000.",
           "translationPrefix": "goal_07.content.#6.scenes.#1"
         },
         {
@@ -86,19 +86,19 @@
         {
           "type": "scene",
           "id": "ssf",
-          "text": "<span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span><span data-color-id=\"SSF\" class=\"SSF\"> </span>started from an even lower base in 2000 (about 26 percent).In the next two decades, access roughly doubled. Yet, only about half of the region’s population had electricity by 2023. ",
+          "text": "<span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span><span data-color-id=\"SSF\" class=\"SSF\"> </span>started from an even lower base in 2000 (about 26 percent). In the next two decades, access roughly doubled. Yet, only about half of the region’s population had electricity by 2023. ",
           "translationPrefix": "goal_07.content.#6.scenes.#3"
         }
       ],
       "translationPrefix": "goal_07.content.#6"
     },
     {
-      "text": "While progress has been remarkable, this indicator captures only the most basic level of electricity access. It measures the share of people whose primary source of lighting at home is electricity—whether from the grid, solar home systems, mini-grids, or other stand-alone renewable sources. Having a connection, however, does not guarantee that electricity is reliable, affordable, or sufficient to power appliances and support productive uses. These broader dimensions of energy access are explored later in this story.[footnote:  If you would like to see the different levels of electricity access defined by Multi-Tier Framework (MTF), please see the 2023 SDG Atlas: <a href=\"https://datatopics.worldbank.org/sdgatlas/goal-7-affordable-and-clean-energy/?lang=en\" target=\"_blank\">https://datatopics.worldbank.org/sdgatlas/goal-7-affordable-and-clean-energy/?lang=en</a>] Still, reaching universal access at this basic level is a critical milestone—the first step toward ensuring that everyone can benefit from modern energy services.",
+      "text": "While progress has been remarkable, this indicator captures only the most basic level of electricity access. It measures the share of people whose primary source of lighting at home is electricity, whether from the grid, solar home systems, mini-grids, or other stand-alone renewable sources. Having a connection, however, does not guarantee that electricity is reliable, affordable, or sufficient to power appliances and support productive uses[footnote:  If you would like to see the different levels of electricity access defined by Multi-Tier Framework (MTF), please see the 2023 SDG Atlas: <a href=\"https://datatopics.worldbank.org/sdgatlas/goal-7-affordable-and-clean-energy/?lang=en\" target=\"_blank\">https://datatopics.worldbank.org/sdgatlas/goal-7-affordable-and-clean-energy/?lang=en</a>] Still, reaching universal access at this basic level is a critical milestone. It is the first step toward ensuring that everyone can benefit from modern energy services.",
       "type": "text",
       "translationPrefix": "goal_07.content.#7"
     },
     {
-      "text": "As a result of this remarkable progress, has the total number of people without electricity access declined?",
+      "text": "Has this remarkable progress translated into a decline in the total number of people without electricity access?",
       "type": "text",
       "translationPrefix": "goal_07.content.#8"
     },
@@ -131,13 +131,13 @@
         {
           "type": "scene",
           "id": "global",
-          "text": "… the number of people [emphasis: without ]electricity halved:falling from 1.3 billion in 2000 to 666 million in 2023 in the world.",
+          "text": "… the number of people without electricity halved, falling from 1.3 billion in 2000 to 666 million in 2023.",
           "translationPrefix": "goal_07.content.#9.scenes.#1"
         },
         {
           "type": "scene",
           "id": "regions",
-          "text": "In 2000,<span data-color-id=\"SAS\" class=\"SAS\"> </span><span data-color-id=\"SAS\" class=\"SAS\">South Asia </span> and  <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> both accounted for roughly the same share of people without electricity. By 2023, South Asia achieved near-universal access. At the same time, the number of people without electricity in  Sub-Saharan Africa increased from 491 million people in 2000 to 581 million in 2023.",
+          "text": "In 2000,<span data-color-id=\"SAS\" class=\"SAS\"> </span><span data-color-id=\"SAS\" class=\"SAS\">South Asia </span> and  <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> both accounted for roughly the same share of people without electricity. By 2023, South Asia achieved near-universal access. At the same time, the number of people without electricity in  Sub-Saharan Africa increased from 491 million people in 2000 to 581 million in 2023. Despite significant progress in access, it was not enough to keep up with population growth.",
           "translationPrefix": "goal_07.content.#9.scenes.#2"
         },
         {
@@ -167,7 +167,7 @@
       "translationPrefix": "goal_07.content.#10"
     },
     {
-      "text": "Urban areas have long benefited from near‑universal electricity; rural communities have not. In 2000, electricity had already reached about 94% of the world’s urban population, versus roughly two in three people in rural areas. By 2023, rural access rose to about five in six people, significantly narrowing—though not eliminating—the gap. ",
+      "text": "Urban areas have long benefited from near‑universal access to electricity; rural communities have not. In 2000, electricity had already reached almost the entire world’s urban population ( 94% ), versus roughly two-thirds of people in rural areas. By 2023, rural access rose to about five in six people, significantly narrowing—though not eliminating—the gap. ",
       "type": "text",
       "translationPrefix": "goal_07.content.#11"
     },
@@ -191,7 +191,7 @@
       "translationPrefix": "goal_07.content.#13"
     },
     {
-      "text": "The persistence of this gap in Sub‑Saharan Africa reflects the higher costs per connection and constraints in affordability among sparsely populated, low‑income rural areas. Since it is expensive to connect homes that are far apart, and rural households tend to use less electricity than urban households, utilities have little financial incentive to extend the grid into these areas.  Planning and regulatory shortcomings have also played a role in delaying rural electrification and the wider deployment of off‑grid options [reference: wb_ssa_access].",
+      "text": "The persistence of this gap in Sub‑Saharan Africa reflects the higher costs per connection and constraints in affordability among sparsely populated, low‑income rural areas. Connecting homes that are far apart often requires substantial infrastructure investments, and rural households tend to use less electricity than urban households. The underlying economics thus represents a challenge to service extension into remote rural areas. Planning and regulatory shortcomings have also played a role in delaying rural electrification and the wider deployment of off‑grid options [reference: wb_ssa_access].",
       "type": "text",
       "translationPrefix": "goal_07.content.#14"
     },

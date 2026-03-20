@@ -10,9 +10,9 @@
       "credits": "Jonas Helth Lønborg & Nishant Yonzan",
       "inputs": "Christoph Lakner, Maria Eugenia Genoni",
       "visuals": "Maarten Lambrechts",
-      "homeFactoidPercent": "75",
-      "homeFactoidNumber": "3 in 4",
-      "homeFactoidText": "TK",
+      "homeFactoidPercent": "22",
+      "homeFactoidNumber": "4.6",
+      "homeFactoidText": "is the amount of times a typical person in the world would have to increase their income by to reach the prosperity standard of $28 per day",
       "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the World was in 1981, making the region roughly 40 years behind the global average"
     }
   },
@@ -27,10 +27,10 @@
       "credits": "Harris Selod",
       "inputs": "Benjamin Stewart",
       "visuals": "Christian Laesser",
-      "homeFactoidPercent": "75",
-      "homeFactoidNumber": "3 in 4",
-      "homeFactoidText": "TK",
-      "homeTagline": "TK"
+      "homeFactoidPercent": "58",
+      "homeFactoidNumber": "58%",
+      "homeFactoidText": "of the world population lives in urban areas today",
+      "homeTagline": "Cities are the engine of global economic growth, but strategic investment in urban planning is essential to avoid slums and inequality"
     }
   },
   "12": {
@@ -112,9 +112,9 @@
       "credits": "Daniel Gerszon Mahler, He Wang, Michael Weber",
       "inputs": "David Castillo Parra, Gabriel Demombynes, Holly Krambeck, ",
       "visuals": "Jan Willem Tulp",
-      "homeFactoidPercent": "75",
-      "homeFactoidNumber": "3 in 4",
-      "homeFactoidText": "TK",
+      "homeFactoidPercent": "5",
+      "homeFactoidNumber": "Only 5%",
+      "homeFactoidText": "of people in low-income countries have the digital skills to use AI",
       "homeTagline": "While high-income nations rapidly integrate AI, stark infrastructural and skills gaps are leaving low-income countries behind"
     }
   },
@@ -129,10 +129,10 @@
       "credits": "Zander Prinsloo & Brian Stacy",
       "inputs": "Maria Eugenia Genoni & Alaka Holla",
       "visuals": "Maarten Lambrechts",
-      "homeFactoidPercent": "75",
-      "homeFactoidNumber": "3 in 4",
-      "homeFactoidText": "TK",
-      "homeTagline": "TK"
+      "homeFactoidPercent": "70",
+      "homeFactoidNumber": "60%",
+      "homeFactoidText": "of low- and middle-income countries have a most recent poverty survey that is more than 5 years old",
+      "homeTagline": "For many countries, the data guiding budgets and regulations is years out of date, leaving millions of people invisible to policymakers"
     }
   },
   "99": {
@@ -212,7 +212,7 @@
       "visuals": "Christian Laesser",
       "homeFactoidPercent": "66",
       "homeFactoidNumber": "2/3rds",
-      "homeFactoidText": "of the gpa in per capita income between rich adn poor countries is explained by human capital",
+      "homeFactoidText": "of the gpa in per capita income between rich and poor countries is explained by human capital",
       "homeTagline": "People acquire around 3/4th of all the learning they need for at work at school; they gain the other 1/4th in the workplace"
     }
   },
@@ -247,7 +247,7 @@
       "homeFactoidPercent": "75",
       "homeFactoidNumber": "3 in 4",
       "homeFactoidText": "TK",
-      "homeTagline": "TK"
+      "homeTagline": "Explore progress data on crucial areas from poverty reduction and life expectancy to education to understand the global progress slowdown."
     }
   },
   "06": {
@@ -259,10 +259,10 @@
       "abstract": "Access to safe drinking water is essential for health and development, yet over two billion people, mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also water safety.",
       "citation": "Kashiwase, Haruna and Tony Fujs. 2026. “Water quality: A foundation for health and development”.  In",
       "credits": "Haruna Kashiwase and Tony Fujs",
-      "inputs": "Christian Borja-Vega, Claire Chase, Pavel Luengas Sierra and Fan Zhang",
+      "inputs": "Christian Borja-Vega, Claire Chase, Pavel Luengas Sierra, Fan Zhang",
       "visuals": "Jan Willem Tulp",
       "homeFactoidPercent": "49",
-      "homeFactoidNumber": "48 out of 98",
+      "homeFactoidNumber": "48 in 98",
       "homeFactoidText": "countries have water quality as the main constraint in attaining universal access to safely managed drinking water",
       "homeTagline": "Water quality remains the main barrier to safely managed drinking water"
     }
@@ -281,7 +281,7 @@
       "homeFactoidPercent": "25",
       "homeFactoidNumber": "1 in 4",
       "homeFactoidText": "people are not using the internet",
-      "homeTagline": "TK"
+      "homeTagline": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal"
     }
   },
   "progress": {
@@ -389,7 +389,7 @@
       "goal": "home",
       "title": "Atlas of Sustainable Goals",
       "acknowledgement": "These are the acknowledgements",
-      "citation": "Pirlea, A. F., U. Serajuddin, D. Wadhwa, M. Welch, eds. 2026. Atlas of Global Development 2026. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://datatopics.worldbank.org/sdgatlas/",
+      "citation": "Pirlea, A. F., U. Serajuddin, D. Wadhwa, M. Welch, eds. 2026. Atlas of Global Development 2026. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://worldbank.github.io/atlas-global-development",
       "contributors": "Alia Jane Aghajanian, Jane Akumu, Muneeza, Mehmood Alam, Jackie Alder, Bianca Bianchi Alves, Samuel Kofi Tetteh Baah"
     }
   }

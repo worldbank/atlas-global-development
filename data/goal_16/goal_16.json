@@ -9,9 +9,9 @@
     "credits": "Daniel Gerszon Mahler, He Wang, Michael Weber",
     "inputs": "David Castillo Parra, Gabriel Demombynes, Holly Krambeck, Jorg Gero Langbein, Yan Liu, Sharada Srinivasan ",
     "visuals": "Jan Willem Tulp",
-    "homeFactoidPercent": "75",
-    "homeFactoidNumber": "3 in 4",
-    "homeFactoidText": "TK",
+    "homeFactoidPercent": "5",
+    "homeFactoidNumber": "Only 5%",
+    "homeFactoidText": "of people in low-income countries have the digital skills to use AI",
     "homeTagline": "While high-income nations rapidly integrate AI, stark infrastructural and skills gaps are leaving low-income countries behind",
     "translationPrefix": "goal_16.config"
   },
@@ -27,12 +27,12 @@
       "translationPrefix": "goal_16.content.#1"
     },
     {
-      "text": "Measuring the use of AI is challenging, in part due to the many ways one can interact with AI and the speed with which this is changing. High-frequency website traffic data reveals a great divergence in the use of AI across countries. This is in part due to greater internet penetration in wealthier nations, but AI use per internet user is also much greater in wealthier nations. Focusing on the most used AI platform, ChatGPT, as of May 2025, traffic per internet user in high-income countries was nearly 50 times that of low-income countries.[reference: liu2025][reference: semrush2025]",
+      "text": "Measuring the use of AI is challenging, in part due to the many ways one can interact with AI and the speed with which this is changing. High-frequency website traffic data reveals a great divergence in the use of AI across countries. This is in part due to greater internet penetration in wealthier nations, but AI use per internet user is also much greater in wealthier nations. Focusing on the most used AI platform, ChatGPT, as of May 2025, visits per internet user in high-income countries was nearly 50 times that of low-income countries.[reference: liu2025][reference: semrush2025]",
       "type": "text",
       "translationPrefix": "goal_16.content.#2"
     },
     {
-      "text": "Traffic to ChatGPT per internet user is [emphasis: 50 times] greater in high-income countries than in low-income countries, as of May 2025.<span style=\"color: rgb(0,0,0);\">[reference: liu2025][reference: semrush2025]</span>",
+      "text": "Visits to ChatGPT per internet user is [emphasis: 50 times] greater in high-income countries than in low-income countries, as of May 2025.<span style=\"color: rgb(0,0,0);\">[reference: liu2025][reference: semrush2025]</span>",
       "type": "text_emphasis",
       "translationPrefix": "goal_16.content.#3"
     },
@@ -40,18 +40,18 @@
       "type": "vis",
       "graphic": "ai_adoption",
       "title": "Internet users in rich countries use ChatGPT 50 times more than in poorer countries",
-      "subtitle": "Traffic to ChatGPT per internet user, May 2025",
+      "subtitle": "Visits to ChatGPT per internet user, May 2025",
       "source": "<a href=\"https://hdl.handle.net/10986/43859\" target=\"_blank\">Liu, Huang, and Wang (2025)</a>, sourced from <a href=\"https://www.semrush.com/\" target=\"_blank\">Semrush. </a>",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "A global map of traffic to chatGPT per internet user and a scatter plot showing a positive correlation between GDP per capita and chatGPT usage ",
       "visSize": "default",
       "data_download": "chatgpt.csv",
       "data": "1_KJJCNEzSgK0Jn_trZgpvE_0wePSwvI-8G34Jcc-XyA",
       "prompt_text": "Where in the world are people using AI?",
       "keyFact": "50 times",
       "keyFactLabel": "more ChatGPT usage occurs per internet user in high-income countries than in low-income countries.",
-      "yAxisLabel": "Traffic per internet user",
+      "yAxisLabel": "Visits per internet user",
       "xAxisLabel": "GDP per capita (USD)",
-      "legendLabel": "Traffic per internet user",
+      "legendLabel": "Visits per internet user",
       "disableDataDownload": "true",
       "translationPrefix": "goal_16.content.#4"
     },
@@ -71,7 +71,7 @@
       "translationPrefix": "goal_16.content.#7"
     },
     {
-      "text": "[emphasis: Connectivity and affordability: ] A primary barrier to AI adoption in low- and middle-income countries is inadequate internet infrastructure. [reference: pirlea2026] The absence of fiber networks for many rural and low-income populations means that they have to rely on mobile devices. Even among those with internet access over phones, usage remains low. This is partly because data packages are prohibitively costly for many in poorer countries. In low-income countries, the price of a data-only 5GB mobile package makes up more than 15 percent of the average person's total budget. In these countries, around 60 percent of the household budget is allocated to food.[reference: jolliffe2025] This means that a data package requires nearly half of the budget left after satisfying nutritional needs.",
+      "text": "[emphasis: Connectivity and affordability: ] A primary barrier to AI adoption in low- and middle-income countries is inadequate internet infrastructure. [reference: pirlea2026] The absence of fiber networks for many rural and low-income populations means that they have to rely on mobile devices. Even among those with internet access over phones, usage remains low. This is partly because data packages are prohibitively costly for many in poorer countries. In low-income countries, the price of a data-only 5GB mobile package makes up more than 15 percent of the average person's total budget. In these countries, around 60 percent of the household budget is allocated to food.[reference: mahler2022] This means that a data package requires nearly half of the budget left after satisfying nutritional needs.",
       "type": "text",
       "translationPrefix": "goal_16.content.#8"
     },
@@ -99,9 +99,9 @@
       "type": "vis",
       "graphic": "affordability_barrier",
       "title": "Mobile data is prohibitively expensive in low-income countries",
-      "subtitle": "Cost of data-only 5GB mobile package as a share of mean consumption",
-      "source": "<a href=\"https://www.itu.int/en/Pages/default.aspx\" target=\"_blank\">International Telecommunication Union (ITU</a>), <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank’s Poverty and Inequality Platform (PIP)</a>, Jolliffe et al. (2025), and <a href=\"https://www.ers.usda.gov/\" target=\"_blank\">U.S. Department of Agriculture Economic Research Service</a>.",
-      "visdescription": "Describe what the visualization shows",
+      "subtitle": "Cost of data-only 5GB mobile package as a share of household budget",
+      "source": "<a href=\"https://www.itu.int/en/Pages/default.aspx\" target=\"_blank\">International Telecommunication Union (ITU</a>), <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank’s Poverty and Inequality Platform (PIP)</a>, <a href=\"https://blogs.worldbank.org/en/opendata/pandemic-prices-and-poverty\" target=\"_blank\">Mahler et al. (2022)</a>, and <a href=\"https://www.ers.usda.gov/\" target=\"_blank\">U.S. Department of Agriculture Economic Research Service</a>.",
+      "visdescription": "Shows the cost of a data package relative to a household’s budget, by income group, and relative to food expenditure.",
       "visSize": "default",
       "data_download": "affordability_incgroup.csv",
       "data": "1MepA2Dpz0HUoZRmMMlr-5a7s5jPJcbH-aIvXL3Gbiu4",
@@ -109,7 +109,9 @@
       "foodLabelShort": "food",
       "foodLabelLong": "average expenditure on food",
       "keyFact": "Nearly half",
-      "keyFactLabel": "of the household budget remaining after food consumption in low-income countries is taken up by a data-only 5GB mobile package.",
+      "keyFactLabel": "of the budget remaining after food consumption in low-income countries is taken up by a data-only 5GB mobile package.",
+      "legendLabelCostOfData": "Cost of data-only 5G mobile package",
+      "legendLabelRemainingBudget": "Household budget that remains after food consumption",
       "translationPrefix": "goal_16.content.#13"
     },
     {
@@ -128,7 +130,7 @@
       "translationPrefix": "goal_16.content.#16"
     },
     {
-      "text": "[emphasis: Context: The Digital Language Divide.] Large language models are only effective when they understand a language’s cultural nuances, communication styles, and shared meanings. However, the digital world is dominated by English, which accounts for nearly half of global URLs and a disproportionate share of the high-quality text data used to train leading AI models. While substantial datasets exist for other languages spoken in high-income countries, there is a significant deficit for those primarily spoken in low and middle-income countries. Consequently, AI models often lack the accuracy and nuance needed to be useful in these contexts. [reference: solatorio2024] This linguistic imbalance is a critical barrier, as it limits the utility of current AI tools while perpetuating a digital world where only a fraction of global cultures and languages are well represented.",
+      "text": "[emphasis: Context: The Digital Language Divide.] Large language models are only effective when they understand a language’s cultural nuances, communication styles, and shared meanings. However, the digital world is dominated by English, which accounts for nearly half of global URLs and a disproportionate share of the high-quality text data used to train leading AI models. While substantial datasets exist for other languages spoken in high-income countries, there is a significant deficit for those primarily spoken in low and middle-income countries. Consequently, AI models often lack the accuracy and nuance needed to be useful in these contexts. [reference: solatorio2024] This linguistic imbalance is a critical barrier, as it limits the utility of current AI tools while perpetuating a digital world where only a fraction of global cultures and languages are well represented. To ensure digital inclusivity, language technologies, such as speech recognition and machine translation, have to be deployed to support all global languages, especially those currently underrepresented online.[reference: unesco2025]",
       "type": "text",
       "translationPrefix": "goal_16.content.#17"
     },
@@ -138,13 +140,11 @@
       "title": "Languages spoken in poorer countries are underrepresented in AI training data",
       "subtitle": "Global URLs and global population, by language",
       "source": "<a href=\"https://commoncrawl.github.io/cc-crawl-statistics/plots/languages.html\" target=\"_blank\">Common Crawl</a>, <a href=\"https://github.com/google-research/url-nlp/tree/main/linguameta\" target=\"_blank\">LinguaMeta</a>, and <a href=\"https://arxiv.org/abs/2410.10665\" target=\"_blank\">Solatorio et al. (2024)</a> (based on data from <a href=\"https://www.ethnologue.com/\" target=\"_blank\">Etnologue</a>). ",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "Compares how present languages are online with how much they are spoken. Shows that languages spoken in poorer countries tend to be underrepresented online",
       "visSize": "default",
       "data_download": "language.csv",
       "data": "1unI4siH8ylMOBxBhid5uvMTTOOzzMy9LYwTaw1SWd8c",
       "prompt_text": "Are AI tools equally useful and accurate in all languages?",
-      "keyFact": "4 billion people",
-      "keyFactLabel": "worldwide speak a language not served well by chatbots",
       "yAxisLabel": "Share of all URLs (log scale)",
       "xAxisLabel": "Share of global population speaking language (log)",
       "circleLegendLabel": "Number of speakers",
@@ -194,7 +194,7 @@
       "title": "Less than 5% in low-income countries have the digital skills to use AI",
       "subtitle": "Population with digital skills, 2023",
       "source": "<a href=\"https://doi.org/10.1596/978-1-4648-2264-3\" target=\"_blank\">World Bank (2025)</a>, based on data from the  <a href=\"https://www.itu.int/en/Pages/default.aspx\" target=\"_blank\">International Telecommunication Union (ITU</a>). Note: Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions. Intermediate skills refer to use of software and data management. Advanced skills refer to data analysis, software development and high-level computing competences. ",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "Shows the share of the population with basic, intermediate, and advanced digital skills, by income group",
       "visSize": "default",
       "data_download": "digitalskills.csv",
       "data": "16G0AKko7ZiyeaGZMz69lybOG_SMC-e2-gbLZSdLUWeA",
@@ -202,6 +202,9 @@
       "legendBasic": "Basic Digital Skills",
       "legendIntermediate": "Intermediate Digital Skills",
       "legendAdvanced": "Advanced Digital Skills",
+      "basicSkillsTooltipText": "Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions.",
+      "intermediateSkillsTooltipText": "Intermediate skills refer to use of software and data management.",
+      "advancedSkillsTooltipText": "Advanced skills refer to data analysis, software development and high-level computing competences.",
       "translationPrefix": "goal_16.content.#25"
     },
     {
@@ -254,8 +257,8 @@
       "graphic": "exposure",
       "title": "Workers in low-income countries are less exposed to AI",
       "subtitle": "Index of occupational exposure to AI from 0 (no exposure) to 100 (full exposure)",
-      "source": "Author's calculations based on <a href=\"https://openknowledge.worldbank.org/handle/10986/42765\" target=\"_blank\">Demombynes, </a><a href=\"https://openknowledge.worldbank.org/handle/10986/42765\" target=\"_blank\">Langbein, and Weber (2025)</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. The occupational icons are AI generated.</span>",
-      "visdescription": "Describe what the visualization shows",
+      "source": "Author's calculations based on <a href=\"https://openknowledge.worldbank.org/handle/10986/42765\" target=\"_blank\">Demombynes, </a><a href=\"https://openknowledge.worldbank.org/handle/10986/42765\" target=\"_blank\">Langbein, and Weber (2025)</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. Note: The occupational icons are AI generated.</span>",
+      "visdescription": "Shows the occupational exposure to AI by occupation type and income group",
       "visSize": "default",
       "data_download": "beeswarm.csv",
       "data": "1j6Rh6zEjsQ6cEAUprynYu8dgxtwd9D1HjDwW2E2xUcE",
@@ -345,7 +348,7 @@
     "myers2023": "Myers, Andrew. 2023. <a href=\"https://engineering.jhu.edu/magazine-archive/2023/06/no-language-left-behind/\" target=\"_blank\">No Language Left Behind</a>. JHU Engineering Features. ",
     "felten2021": "<span style=\"color: rgb(33,37,41);\">Felten, Edward, Manav Raj, and Robert Seamans. \"</span><a href=\"https://doi.org/10.1002/smj.3286\" target=\"_blank\">Occupational, industry, and geographic exposure to artificial intelligence: A novel dataset and its potential uses.</a><span style=\"color: rgb(33,37,41);\">\" Strategic Management Journal 42, no. 12 (2021): 2195-2217.</span>",
     "dem2025": "<span style=\"color: rgb(33,37,41);\">Demombynes, Gabriel; Langbein, Jörg; Weber, Michael. 2025. </span><a href=\"https://doi.org/10.1596/1813-9450-11057\" target=\"_blank\">The Exposure of Workers to Artificial Intelligence in Low- and Middle-Income Countries</a><span style=\"color: rgb(33,37,41);\">. Policy Research Working Paper; 11057. © World Bank</span>",
-    "jolliffe2025": "<span style=\"color: rgb(33,37,41);\">Jolliffe, D., Lakner, C., Lønborg, J., & Tetteh-Baah, S. K. (2025). Measuring global inequality: How accounting for within-household inequality affects the global profile.</span>",
+    "mahler2022": "<span style=\"color: rgb(33,37,41);\">Mahler, Daniel Gerszon; Yonzan, Nishan; Hill, Ruth; Lakner, Christoph; Wu, Haoyu; Yoshida, Nobuo. 2022. </span><a href=\"https://blogs.worldbank.org/en/opendata/pandemic-prices-and-poverty\" target=\"_blank\">Pandemic, Prices, and Poverty</a><span style=\"color: rgb(33,37,41);\">.</span><span style=\"color: rgb(33,37,41);\"> World Bank Data Blog.</span>",
     "pirlea2026": "<span style=\"color: rgb(33,37,41);\">Pirlea, Ana Florina. “</span><a href=\"https://worldbank.github.io/sdgatlas-preview/internet-access\" target=\"_blank\">Expanding Internet Access</a><span style=\"color: rgb(33,37,41);\">.” World Bank Atlas of Global Development 2026. </span>",
     "mutiso2024": "<span style=\"color: rgb(33,37,41);\">Mutiso, Rose M. \"</span><a href=\"https://www.science.org/doi/10.1126/science.ado8276\" target=\"_blank\">AI in Africa: Basics over buzz.</a><span style=\"color: rgb(33,37,41);\">\" Science 383, no. 6690 (2024): eado8276.</span>",
     "ITU": "<span style=\"color: rgb(33,37,41);\">International Telecommunication Union,</span><a href=\"https://datahub.itu.int/\" target=\"_blank\"> ITU DataHub</a><span style=\"color: rgb(33,37,41);\">.</span><span style=\"color: rgb(33,37,41);\"></span>",
@@ -354,6 +357,7 @@
     "dem2026": "<span style=\"color: rgb(33,37,41);\">Demombynes, Gabriel; Langbein, Jörg; Weber, Michael. 2026. </span><a href=\"https://blogs.worldbank.org/en/investinpeople/from-predictions-to-practice--what-ai-usage-data-reveals-about-t\" target=\"_blank\">From predictions to practice: What AI usage data reveals about the future of work.</a><span style=\"color: rgb(33,37,41);\"> World Bank Blog: Protect and Invest in People.</span>",
     "semrush2025": "<span style=\"color: rgb(33,37,41);\">Semrush. 2025. </span><a href=\"https://www.semrush.com/\" target=\"_blank\">https://www.semrush.com/</a><span style=\"color: rgb(33,37,41);\"></span>",
     "kim2025": "<span style=\"color: rgb(33,37,41);\">Kim, Sangbu; Christine Zhenwei Qiang. 2025. </span><a href=\"https://blogs.worldbank.org/en/voices/small-ai-big-impact-harnessing-artificial-intelligence-for-development\" target=\"_blank\">Small AI, big impact: Harnessing artificial intelligence for development</a><span style=\"color: rgb(33,37,41);\">. Published on </span><span style=\"color: rgb(33,37,41);\">Voices</span><span style=\"color: rgb(33,37,41);\">, September 10. </span><span style=\"color: rgb(33,37,41);\"></span>",
+    "unesco2025": "<span style=\"color: rgb(33,37,41);\">UNESCO. 2025. </span><a href=\"https://www.unesco.org/en/global-roadmap-multilingualism\" target=\"_blank\">Global Roadmap for Multilingualism in the Digital Era: Advancing the Role of Language Technologies.</a><span style=\"color: rgb(33,37,41);\"> Paris, France.</span>",
     "translationPrefix": "goal_16.references"
   },
   "translationPrefix": "goal_16"

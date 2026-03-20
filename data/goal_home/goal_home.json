@@ -4,7 +4,7 @@
     "goal": "home",
     "title": "Atlas of Sustainable Goals",
     "acknowledgement": "These are the acknowledgements",
-    "citation": "Pirlea, A. F., U. Serajuddin, D. Wadhwa, M. Welch, eds. 2026. Atlas of Global Development 2026. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://datatopics.worldbank.org/sdgatlas/",
+    "citation": "Pirlea, A. F., U. Serajuddin, D. Wadhwa, M. Welch, eds. 2026. Atlas of Global Development 2026. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://worldbank.github.io/atlas-global-development",
     "contributors": "Alia Jane Aghajanian, Jane Akumu, Muneeza, Mehmood Alam, Jackie Alder, Bianca Bianchi Alves, Samuel Kofi Tetteh Baah",
     "translationPrefix": "goal_home.config"
   },

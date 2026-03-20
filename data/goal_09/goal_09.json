@@ -12,7 +12,7 @@
     "homeFactoidPercent": "25",
     "homeFactoidNumber": "1 in 4",
     "homeFactoidText": "people are not using the internet",
-    "homeTagline": "TK",
+    "homeTagline": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal",
     "translationPrefix": "goal_09.config"
   },
   "content": [
@@ -229,7 +229,7 @@
       "translationPrefix": "goal_09.content.#25"
     },
     {
-      "text": "[emphasis: Fixed broadband connections are common in many high-income countries], [emphasis: but nearly absent in low-income economies]. Extending fixed broadband to rural, remote, or low-income areas is often commercially unviable: infrastructure works like laying fiber-optic cables underground are expensive, while revenues remain low due to sparse populations and limited purchasing power. This mismatch between high upfront investment and low returns discourages private operators without public support or cost-sharing. <span style=\"background-color: rgb(204,204,204);\">[reference: brdb1]</span>[emphasis: The majority of people who use the internet do so using mobile broadband on mobile phones, ]especially in lower-income economies, as it is cheaper and faster to deploy. ",
+      "text": "[emphasis: Fixed broadband connections are common in many high-income countries], [emphasis: but nearly absent in low-income economies]. Extending fixed broadband to rural, remote, or low-income areas is often commercially unviable: infrastructure works like laying fiber-optic cables underground are expensive, while revenues remain low due to sparse populations and limited purchasing power. This mismatch between high upfront investment and low returns discourages private operators without public support or cost-sharing. <span style=\"background-color: rgb(204,204,204);\">[reference: brdb1]</span>[emphasis: The majority of people who use the internet do so using mobile broadband, ]especially in lower-income economies, as it is cheaper and faster to deploy. ",
       "type": "text",
       "translationPrefix": "goal_09.content.#26"
     },
@@ -347,7 +347,7 @@
       "translationPrefix": "goal_09.content.#33"
     },
     {
-      "text": "[emphasis: Expanding mobile network coverage in low income countries is challenging due to high infrastructure costs and weak supporting systems.] Although not as costly as introducing fixed broadband, mobile broadband still requires significant investments. Many underserved areas lack essential infrastructure like mobile towers and backhaul (the fiber‑optic cables that connect mobile towers to the core internet network), making deployment of networks far costlier than in locations where this infrastructure already exists, such as urban centers. <span style=\"background-color: rgb(204,204,204);\">[reference: infr1] </span> <span style=\"background-color: rgb(204,204,204);\">[reference: infr2] </span>Power supply is a major bottleneck: remote sites often rely on diesel or off-grid solutions, adding significant capital and maintenance costs.<span style=\"background-color: rgb(204,204,204);\">[reference: infr3] </span>Sparse rural populations drive up cost per user and reduce returns, weakening commercial incentives.",
+      "text": "[emphasis: Expanding mobile network coverage in low income countries is challenging due to high infrastructure costs and weak supporting systems.] Although not as costly as introducing fixed broadband, mobile broadband still requires significant investments. Many underserved areas lack essential infrastructure like mobile towers and backhaul (the fiber‑optic cables that connect mobile towers to the core internet network), making deployment of networks far costlier than in locations where this infrastructure already exists, such as urban centers. <span style=\"background-color: rgb(204,204,204);\">[reference: infr1] </span> <span style=\"background-color: rgb(204,204,204);\">[reference: infr2] </span>Power supply is a major bottleneck: remote sites often rely on diesel or off-grid solutions, adding significant capital and maintenance costs.<span style=\"background-color: rgb(204,204,204);\">[reference: infr3] </span>",
       "type": "text",
       "translationPrefix": "goal_09.content.#34"
     },

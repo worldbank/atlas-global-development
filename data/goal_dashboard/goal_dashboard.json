@@ -12,7 +12,7 @@
     "homeFactoidPercent": "75",
     "homeFactoidNumber": "3 in 4",
     "homeFactoidText": "TK",
-    "homeTagline": "TK",
+    "homeTagline": "Explore progress data on crucial areas from poverty reduction and life expectancy to education to understand the global progress slowdown.",
     "translationPrefix": "goal_dashboard.config"
   },
   "content": [
@@ -53,6 +53,9 @@
       "standstill": "Standstill",
       "regression": "Reversal",
       "slow_progress": "Slow progress",
+      "progress_in": "Progress in",
+      "average": "Average",
+      "six_indicators": "six indicators",
       "visdescription": "This visualization shows the speed of progress across six development indicators from 1950 to 2025.",
       "visSize": "fullScreen",
       "data_download": "dashboard.data.progress_speeds.zip",
