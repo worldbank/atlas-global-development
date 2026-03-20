@@ -10,8 +10,8 @@
     "inputs": "Christoph Lakner, Maria Eugenia Genoni",
     "visuals": "Maarten Lambrechts",
     "homeFactoidPercent": "22",
-    "homeFactoidNumber": "4.6",
-    "homeFactoidText": "is the amount of times a typical person in the world would have to increase their income by to reach the prosperity standard of $28 per day",
+    "homeFactoidNumber": "Only 22%",
+    "homeFactoidText": "of the income needed to reach the prosperity standard of $28 per day is actually earned by a typical person.",
     "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the World was in 1981, making the region roughly 40 years behind the global average",
     "translationPrefix": "goal_10.config"
   },
