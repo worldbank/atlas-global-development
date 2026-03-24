@@ -63,7 +63,7 @@
       "data_download": "04.data.schooling_regions.csv",
       "data": "1gF2DQBShE1IBI2nNgAKTlmc1hv3OfMnOY-gMQhYaU8U",
       "keyFact": "1 year",
-      "keyFactLabel": "more expected years of schooling in 2024 than in 2001. ",
+      "keyFactLabel": "more expected years of schooling in 2024 than in 2001 globally. ",
       "translationPrefix": "goal_04.content.#6"
     },
     {
@@ -81,7 +81,7 @@
       "graphic": "schooling_scroller",
       "title": "Years of schooling have improved significantly over time",
       "subtitle": "",
-      "source": "<span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">Barro-Lee Dataset. Barro, Robert and Jong-Wha Lee, 2013, </span><a href=\"http://www.sciencedirect.com/science/article/pii/S0304387812000855\" target=\"_blank\">“A New Data Set of Educational Attainment in the World, 1950-2010.”</a><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\"> </span><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">Journal of Development Economics</span><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">, vol 104, pp.184-198.</span>",
+      "source": "<span style=\"color: rgb(68,68,68);\">Barro-Lee Dataset. Barro, Robert and Jong-Wha Lee, 2013, </span><a href=\"http://www.sciencedirect.com/science/article/pii/S0304387812000855\" target=\"_blank\">“A New Data Set of Educational Attainment in the World, 1950-2010.”</a><span style=\"color: rgb(68,68,68);\"> </span><span style=\"color: rgb(68,68,68);\">Journal of Development Economics</span><span style=\"color: rgb(68,68,68);\">, vol 104, pp.184-198.</span>",
       "visdescription": "The average number of years of schooling has expanded dramatically. The data is presented as a line chart showing increases in the number of years of schooling.<span style=\"background-color: rgb(255,255,0);\"></span>",
       "data_download": "04.data.trends_schooling.csv",
       "data": "1nd7cgUAXC4mlmOTZ99bFhTYz7JEr7h4KEsQPidAxmCI",
@@ -166,17 +166,22 @@
       "translationPrefix": "goal_04.content.#15"
     },
     {
-      "type": "factoid",
-      "title": "Learning-adjusted years of schooling have decreased in ",
-      "number": "13",
-      "units": "out of 37",
-      "label": "low or lower-middle income countries with data since 2010.",
+      "text": "One reason learning quality is lower in poorer countries is that it partly reflects what children bring from home. Children whose mothers have completed secondary education are dramatically more likely to have adequate nutrition and mathematics proficiency than those whose mothers have little schooling, and these gaps remain virtually constant throughout childhood and adolescence, even after children begin attending school.[reference: holla_silva_schady2026] Improving learning quality in schools and improving the home environments of children can be complementary. It also means that the returns to girls' education compound across generations, as educating mothers today raises the human capital of children tomorrow.",
+      "type": "text",
       "translationPrefix": "goal_04.content.#16"
     },
     {
-      "text": "What is worse, learning has been declining in many low and lower middle-income countries, especially in Sub Saharan Africa.[reference: holla_silva_schady2026] In some cases, this declining trend in learning is accompanying the increase in years of schooling that have taken place in recent years.  Out of 37 low or lower-middle income countries with internationally comparable data in both 2010 and 2025, 13 of these countries saw declines in learning-adjusted years of school. ",
-      "type": "text",
+      "type": "factoid",
+      "title": "Learning-adjusted years of schooling have decreased in around",
+      "number": "1/3",
+      "units": "rd",
+      "label": "of low or lower-middle income countries with data since 2010.",
       "translationPrefix": "goal_04.content.#17"
+    },
+    {
+      "text": "A concerning trend is that learning has been declining in many low and lower middle-income countries, especially in Sub Saharan Africa.[reference: holla_silva_schady2026] In some cases, this declining trend in learning is accompanying the increase in years of schooling that have taken place in recent years.  Out of 37 low or lower-middle income countries with internationally comparable data in both 2010 and 2025, 13 of these countries saw declines in learning-adjusted years of school. ",
+      "type": "text",
+      "translationPrefix": "goal_04.content.#18"
     },
     {
       "type": "vis",
@@ -195,22 +200,22 @@
       "data": "1esEqT9Zx2CTlF788bpNp6lyMYEuRoSP4lELpb9LJyGU",
       "keyFact": "1 in 3",
       "keyFactLabel": "low and lower-middle income countries saw drops in learning-adjusted years of schooling between 2010 and 2025.",
-      "translationPrefix": "goal_04.content.#18"
+      "translationPrefix": "goal_04.content.#19"
     },
     {
       "text": "How does schooling impact jobs?",
       "type": "subhed",
-      "translationPrefix": "goal_04.content.#19"
+      "translationPrefix": "goal_04.content.#20"
     },
     {
       "text": "Few economic policies consistently yield double-digit returns at scale. But education is one that can, with  each year of schooling improving earnings by around 10 percent.[reference: patrinos] Each year of education also increases the likelihood of employment and improves the quality of job that an individual is likely to have. ",
       "type": "text",
-      "translationPrefix": "goal_04.content.#20"
+      "translationPrefix": "goal_04.content.#21"
     },
     {
       "text": "In low- and middle-income countries, men with college education are about 5 percentage points more likely to work than those with little schooling. The gap is even larger for women, at 16 percentage points.[footnote:  Author’s calculations based on <a href=\"https://rshiny.ilo.org/dataexplorer60/?lang=en&segment=indicator&id=EMP_TEMP_SEX_AGE_EDU_NB_A&channel=ilostat\" target=\"_blank\">ILOSTAT data</a> on employment by sex, age, and education from 2010 to 2024. Calculation includes prime aged workers, aged 25-54 years old. High education individuals classified as having “Advanced” education according to ILO definitions. Low education individuals classified as “Less than basic” education according to ILO definitions.] Wage workers typically have 2.5 more years of schooling than the self-employed, and wage jobs tend to deliver more earnings growth over time.[reference: ginding][reference: holla_silva_schady2026] But even among workers with similar levels of education, the self-employed in low- and middle-income countries tend to earn less than their counterparts in wage employment, suggesting that the type of job matters for earnings, not just the schooling a worker brings to it.[reference: holla_silva_schady2026]",
       "type": "text",
-      "translationPrefix": "goal_04.content.#21"
+      "translationPrefix": "goal_04.content.#22"
     },
     {
       "type": "factoid",
@@ -218,12 +223,17 @@
       "number": "16 ",
       "units": "percentage points",
       "label": "more likely to work than those with less than a primary education",
-      "translationPrefix": "goal_04.content.#22"
+      "translationPrefix": "goal_04.content.#23"
     },
     {
-      "text": "The payoff to education shows clearly in wages. In Brazil, workers with secondary education earn nearly twice as much as those who do not complete primary school. With a university degree, the premium rises to 167 percent. Similar patterns hold in Georgia, India, the Philippines, and South Africa.",
+      "text": "These gaps in educational attainment and job quality do not arise at random. Where a child grows up shapes their access to schools, health services, and social or environmental conditions. In Brazil, children from low-income families who grew up in wealthier neighborhoods completed 2.3 more years of schooling compared to similarly low-income children who grew up in poorer neighborhoods. These children later earned twice as much by their late twenties as comparable children who grew up in the poorer neighborhoods.[reference: holla_silva_schady2026]",
       "type": "text",
-      "translationPrefix": "goal_04.content.#23"
+      "translationPrefix": "goal_04.content.#24"
+    },
+    {
+      "text": "The payoff to education shows clearly in wages across countries. In Brazil, workers with secondary education earn nearly twice as much as those who do not complete primary school. With a university degree, the premium rises to 167 percent. Similar patterns hold in Georgia, India, the Philippines, and South Africa.",
+      "type": "text",
+      "translationPrefix": "goal_04.content.#25"
     },
     {
       "type": "vis",
@@ -238,29 +248,29 @@
       "visdescription": "Bar graph showing increase in earnings of workers with different education levels compared to those with less than primary schooling.",
       "data_download": "04.data.wages.csv",
       "data": "1Qqe_u2Np3tXVcoXSyyD7RVRXk4BQMQyEydtTZWIRiOk",
-      "translationPrefix": "goal_04.content.#24"
+      "translationPrefix": "goal_04.content.#26"
     },
     {
       "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\">The earnings boost from an extra year of schooling varies widely across countries, reflecting differences in school quality, labor markets, demand for skills, and measurement, but the returns are consistently positive. There is no strong link between a country’s income level and the return to education, and high returns to education can be found in both high-and low-income countries. On average across countries, each additional year of schooling raises earnings by close to 10 percent. </span>",
       "type": "text",
-      "translationPrefix": "goal_04.content.#25"
+      "translationPrefix": "goal_04.content.#27"
     },
     {
       "type": "factoid",
       "title": "Each additional year of schooling boosts earnings by about",
       "number": "10",
       "units": "%",
-      "translationPrefix": "goal_04.content.#26"
+      "translationPrefix": "goal_04.content.#28"
     },
     {
       "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\"></span>",
       "type": "text",
-      "translationPrefix": "goal_04.content.#27"
+      "translationPrefix": "goal_04.content.#29"
     },
     {
       "text": "<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\">These returns easily outweigh the modest costs of schooling in many countries. In Sub-Saharan Africa, public spending averages about $283 per child per year of schooling.[reference: efw2024] If one additional year of education raises earnings by ten percent, applied to average annual earnings of $1,727, the lifetime gains are substantial. Over a 40-year career, and discounting future earnings at five percent, this translates into roughly $3,000 in additional lifetime income.</span>[footnote:  Average earnings are proxied by mean consumption per capita from World Bank PIP (Survey mean consumption or income per capita, total population, 2021 PPP $ per day), annualized to $1,727. Since this measure includes children and non-workers, it likely understates actual worker earnings, making the benefit estimate conservative. The net present value is computed as: a 10% earnings premium on $1,727 yields $172.70 in additional annual income; discounted over a 40-year career at a 5% discount rate (annuity factor of 17.16), this gives a lifetime gain of approximately $172.70 × 17.16 ≈ $2,960, or roughly $3,000. The calculation does not subtract foregone earnings during the additional year of schooling, although the foregone earnings would need to be extremely high to offset the higher wages later in life.<span style=\"color: rgb(68,68,68);\"></span><span style=\"color: rgb(26,31,36);\"></span>]<span style=\"color: rgb(4,1,16); background-color: rgb(255,255,255);\"> In other words, a single year of schooling delivers returns on the order of ten times its upfront cost. This does not even account for the broader fiscal benefits of education, including higher tax revenues, reduced crime, and lower dependence on social assistance.[reference: hendren_sprung_keyser2020]</span>",
       "type": "text",
-      "translationPrefix": "goal_04.content.#28"
+      "translationPrefix": "goal_04.content.#30"
     },
     {
       "type": "vis",
@@ -279,27 +289,27 @@
       "data": "14O2xDakRI4TsbijqiCwaDAQuW0cFTOhRVCJ5KvIriCA",
       "keyFact": "10%",
       "keyFactLabel": "Increase in earnings for each additional year of schooling globally.",
-      "translationPrefix": "goal_04.content.#29"
+      "translationPrefix": "goal_04.content.#31"
     },
     {
       "text": "\u000b",
       "type": "text",
-      "translationPrefix": "goal_04.content.#30"
+      "translationPrefix": "goal_04.content.#32"
     },
     {
       "text": "How do jobs impact learning?",
       "type": "subhed",
-      "translationPrefix": "goal_04.content.#31"
+      "translationPrefix": "goal_04.content.#33"
     },
     {
       "text": "Learning in formal classroom settings is a critical driver of human capital accumulation. But the classroom is not the only place where people learn. Learning also happens in the workplace. ",
       "type": "text",
-      "translationPrefix": "goal_04.content.#32"
+      "translationPrefix": "goal_04.content.#34"
     },
     {
       "text": "Each year of work experience increases productivity by around 2.5 percent per year, and individuals tend to spend more time working than in schooling. Globally, the average person has around nine years of education, while careers often span 40 years or more. Because of differences in workplace learning,  workers in high-income countries earn another 1/3rd more, on average, than those in  low- and middle-income countries.[reference: jedwab2023][reference: holla_silva_schady2026]",
       "type": "text",
-      "translationPrefix": "goal_04.content.#33"
+      "translationPrefix": "goal_04.content.#35"
     },
     {
       "type": "factoid",
@@ -307,24 +317,24 @@
       "number": "2.5",
       "units": "%",
       "label": "more productive, on average.",
-      "translationPrefix": "goal_04.content.#34"
+      "translationPrefix": "goal_04.content.#36"
     },
     {
       "text": "Learning on the job",
       "type": "subhed",
-      "translationPrefix": "goal_04.content.#35"
+      "translationPrefix": "goal_04.content.#37"
     },
     {
       "text": "Labor force surveys allow us to go beyond simple averages to understand how earnings evolve with age and experience. In competitive labor markets, an increase in productivity directly translates into an increase in wages, so changes in wages can be interpreted as a measure of skills gained on the job. By breaking down wages across cohorts, we can observe not just how schooling raises earnings, but how learning continues in the workplace over the course of a career. This shows how education and experience interact to shape lifetime earnings trajectories.",
       "type": "text",
-      "translationPrefix": "goal_04.content.#36"
+      "translationPrefix": "goal_04.content.#38"
     },
     {
       "type": "scroller",
       "graphic": "wage_scroller",
       "title": "Wage profiles",
       "subtitle": "",
-      "source": "World Bank staff calculations, based on data of GLD (Global Labor Database Repository), https://worldbank.github.io/gld/README.html; I2D2 (International Income Distribution Database) (internal database, discontinued in 2020), World Bank",
+      "source": "World Bank staff calculations, based on data of GLD (Global Labor Database Repository), <a href=\"https://worldbank.github.io/gld/README.html\" target=\"_blank\">https://worldbank.github.io/gld/README.html</a>, World Bank. Wages in PPP adjusted US dollars.",
       "visdescription": "Line charts showing wage profiles for workers with differing levels of education for India and Brazil.",
       "visSize": "default",
       "data_download": "04.data.wage_scroller.csv",
@@ -341,38 +351,38 @@
           "type": "scene",
           "id": "india_1",
           "text": "To see how learning (as measured through on-the-job productivity) evolves over a career, let us take a look at workers in [emphasis: India]. For workers at the beginning of their career, those who <span data-color-id=\"cat2\" class=\"cat2\">did not complete primary education</span> earned around $1.70 per hour in 2019. These wages are higher for those with more experience, roughly doubling to $3.27 per hour by the end of the career.",
-          "translationPrefix": "goal_04.content.#37.scenes.#0"
+          "translationPrefix": "goal_04.content.#39.scenes.#0"
         },
         {
           "type": "scene",
           "id": "india_2",
           "text": "In comparison, workers at the start of their careers with a <span data-color-id=\"cat8\" class=\"cat8\">tertiary degree</span> are already earning around 75% more than their counterparts who <span data-color-id=\"cat2\" class=\"cat2\">did not complete primary education</span>. ",
-          "translationPrefix": "goal_04.content.#37.scenes.#1"
+          "translationPrefix": "goal_04.content.#39.scenes.#1"
         },
         {
           "type": "scene",
           "id": "india_3",
           "text": "Over time, this wage gap continues to grow. By the end of their careers, workers with a <span data-color-id=\"cat8\" class=\"cat8\">tertiary degree</span> have more than triple the wages as workers at the beginning, and earn roughly three times more than those who <span data-color-id=\"cat2\" class=\"cat2\">did not complete primary education</span>.",
-          "translationPrefix": "goal_04.content.#37.scenes.#2"
+          "translationPrefix": "goal_04.content.#39.scenes.#2"
         },
         {
           "type": "scene",
           "id": "brazil",
           "text": "[emphasis: Brazil ]shows a similar, but even more pronounced, divergence. Entry hourly wages for those who <span data-color-id=\"cat2\" class=\"cat2\">did not complete </span><span data-color-id=\"cat2\" class=\"cat2\">primary education</span><span style=\"color: rgb(255,255,255);\"> </span>are $2.43, while those with a <span data-color-id=\"cat8\" class=\"cat8\">tertiary degree</span> start at $6.03. After a 35-year career, tertiary graduate workers earn about $24.32 per hour, which is around six times  the $4 earned by those who did not complete primary education.",
-          "translationPrefix": "goal_04.content.#37.scenes.#3"
+          "translationPrefix": "goal_04.content.#39.scenes.#3"
         }
       ],
-      "translationPrefix": "goal_04.content.#37"
+      "translationPrefix": "goal_04.content.#39"
     },
     {
       "text": "These differences over time arise from two advantages conferred by education: higher entry-level wages and steeper experiential wage growth for more educated workers. Thus experience appears to amplify (rather than narrow) education-based disparities over the lifecycle. ",
       "type": "text",
-      "translationPrefix": "goal_04.content.#38"
+      "translationPrefix": "goal_04.content.#40"
     },
     {
       "text": "Why does this happen? In many cases, people with lower levels of education work in jobs where little to no learning takes place. In low- and lower-middle-income countries, around 69 percent of workers are self-employed.  And these workers tend to accumulate around half as much human capital as workers in wage employment.[reference: holla_silva_schady2026] At the same time, <span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">workers in sectors with lower exposure to technology</span>, such as agriculture, and those employed in domestic or manual occupations or micro firms also accumulate less human capital. This is because there is less opportunity to learn from peers or managers and less access to  explicit workplace training. Occupational choice is closely tied to education levels, and as a result, gaps in earnings between highly and lesser educated workers tend to expand over time.",
       "type": "text",
-      "translationPrefix": "goal_04.content.#39"
+      "translationPrefix": "goal_04.content.#41"
     },
     {
       "type": "factoid",
@@ -380,32 +390,32 @@
       "number": "70",
       "units": "%",
       "label": "of workers in low- and middle-income countries are farmers, self-employed, or wage workers in microfirms and have less access to skills improvement.",
-      "translationPrefix": "goal_04.content.#40"
+      "translationPrefix": "goal_04.content.#42"
     },
     {
       "text": "The path forward",
       "type": "subhed",
-      "translationPrefix": "goal_04.content.#41"
-    },
-    {
-      "text": "Education is one of the key drivers of economic growth and poverty reduction. While we learn a substantial portion of what we know at school, learning at work delivers at least 25 percent of the human capital workers acquire during their working life.",
-      "type": "text",
-      "translationPrefix": "goal_04.content.#42"
-    },
-    {
-      "text": "There have been considerable improvements in average educational attainment over the past century, which rose from around 1 to close to  9 years of schooling. This progress has substantially increased earnings over time. But completion rates still need to improve, particularly for secondary and tertiary education. And while there has been some progress on increasing completion rates, there is still much to do to improve the quality of education.",
-      "type": "text",
       "translationPrefix": "goal_04.content.#43"
     },
     {
-      "text": "Investing in skills, by expanding access to education and improving learning quality and fostering skill formation at work, is essential for broad-based growth. Today, many workers, particularly the least educated, are trapped in jobs with little opportunity to learn or advance: nearly two-thirds of workers in low- and middle-income countries work in occupations with low skills growth. Strengthening learning both in schools and on the job is central to raising employment, earnings, and living standards worldwide.",
+      "text": "Education is one of the key drivers of economic growth and poverty reduction. While we learn a substantial portion of what we know at school, learning occurs in other settings. It begins even earlier in the home, where nutrition, early stimulation, and parental engagement shape the foundations of a child's cognitive and social-emotional development.[reference: holla_silva_schady2026] And learning continues throughout the working life, with on-the-job learning delivering at least 25 percent of the human capital workers acquire during their careers.",
       "type": "text",
       "translationPrefix": "goal_04.content.#44"
     },
     {
-      "text": " ",
+      "text": "There have been considerable improvements in average educational attainment over the past century, which rose from around 1 to close to  9 years of schooling. This progress has substantially increased earnings over time. But completion rates still need to improve, particularly for secondary and tertiary education. And while there has been some progress on increasing completion rates, there is still much to do to improve the quality of education. Critically, gaps in learning quality often reflect gaps in the home and the neighborhood: children whose mothers have little schooling, or who grow up in disadvantaged neighborhoods with poorly resourced local schools, arrive in the classroom already behind. Those gaps tend to persist throughout childhood even after years of schooling.[reference: holla_silva_schady2026]",
       "type": "text",
       "translationPrefix": "goal_04.content.#45"
+    },
+    {
+      "text": "Investing in skills, by expanding access to education and improving learning quality and fostering skill formation at work, is essential for broad-based growth. Today, many workers, particularly the least educated, are trapped in jobs with little opportunity to learn or advance: more than two-thirds of workers in low- and middle-income countries work in occupations with low skills growth. Strengthening learning in homes, schools, neighborhoods, and workplaces is central to raising employment, earnings, and living standards worldwide.",
+      "type": "text",
+      "translationPrefix": "goal_04.content.#46"
+    },
+    {
+      "text": " ",
+      "type": "text",
+      "translationPrefix": "goal_04.content.#47"
     }
   ],
   "references": {

@@ -88,7 +88,7 @@
       "legendImpactDataDescription": "Area with annual probability of more than 1% to experience flooding >50 cm inundation depth",
       "weatherEventToggleText": "Exposed areas",
       "visSize": "fullScreen",
-      "theme": "light (alternatively: dark)",
+      "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
       "bbox1": "2.665901,50.625726,8.200521,53.757465",
@@ -130,7 +130,7 @@
       "legendImpactDataDescription": "Have experienced drought event in the last 40 years with greater than 30 percent of cropland or pasture lost",
       "weatherEventToggleText": "Exposed areas",
       "visSize": "fullScreen",
-      "theme": "light (alternatively: dark)",
+      "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
       "bbox1": "9.667969,-36.738884,41.660156,-14.859850",
@@ -175,7 +175,7 @@
       "visdescription": "",
       "textParagraph": "",
       "visSize": "fullScreen",
-      "theme": "light (alternatively: dark)",
+      "disableScreenshot": "true",
       "legendImpactDataDescription": "Have experienced a category 2 or higher cyclone in the last 100 years",
       "weatherEventToggleText": "Exposed areas",
       "data_download": "20260130_hazard_data_prepared.csv",
@@ -217,7 +217,7 @@
       "visdescription": "",
       "textParagraph": "",
       "visSize": "fullScreen",
-      "theme": "light (alternatively: dark)",
+      "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
       "legendImpactDataDescription": "Have experienced a heatwave with greater than 33 degree Celsius temperatures in the last 100 years",
@@ -259,7 +259,7 @@
       "visdescription": "Describe what the visualization shows",
       "textParagraph": "The exposure to the climate hazards [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>],[emphasis:  ][emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural droughts</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>][emphasis:  ]and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>] depends on the geographical location of a country with 44 countries having their entire population exposed to at least one climate hazard.",
       "visSize": "fullScreen",
-      "theme": "light (alternatively: dark)",
+      "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
       "overlay": "total_population",
@@ -268,8 +268,8 @@
       "scale_title": "Percentage of population exposed to climate effect",
       "scale_title_pop": "Total number of people exposed to climate effect",
       "scale_title_sha": "Percentage of population exposed to climate effect",
-      "keyFact": "4.5 billion",
-      "keyFactLabel": "people are exposed to climate-related hazards",
+      "keyFact": "3 out of 5",
+      "keyFactLabel": "People globally are exposed to climate-related hazards",
       "translationPrefix": "goal_13.content.#20"
     },
     {
@@ -287,13 +287,23 @@
       "title": "Highly vulnerable",
       "number": "2.8",
       "units": "Billion people",
-      "label": "Are identified as being highly vulnerable or having low ability to cope with shocks in general [reference: WB1]",
+      "label": "Are identified as being highly vulnerable or having low ability to cope with shocks in general in 2023 [reference: WB1]",
       "translationPrefix": "goal_13.content.#23"
     },
     {
-      "text": "The World Bank has identified seven dimensions to assess high levels of vulnerability. Being physically vulnerable is measured by lack of access to water, lack of access to electricity or limited access to services and markets. Being unable to cope with a climate hazard is measured by having low income (i.e. living below the international poverty line), having a low level of education, having no access to social protection or having no access to financial services [reference: WB2]. Ticking any of these seven boxes results in being identified as highly vulnerable, including to the impacts of a climate hazard. Some might be highly vulnerable across several of these dimensions.",
+      "text": "Based on the existing literature on vulnerability and the data available, the World Bank has identified seven dimensions that can be used to assess those highly vulnerable. The dimensions come in two groups - some identifying physical vulnerability and some identifying being economically unable to recover from an adverse event. Being physically vulnerable is measured by lack of access to clean water, lack of access to electricity or limited access to services and markets. Being economically unable to cope with an adverse event is measured by living in extreme poverty (see the separate chapter on extreme poverty), having a low level of education, having no access to social protection or having no access to financial services [reference: WB2]. ",
       "type": "text",
       "translationPrefix": "goal_13.content.#24"
+    },
+    {
+      "text": "If a person ticks any one of these seven boxes, the person is identified as being highly vulnerable to adverse events. And in this specific case, it also identifies persons, who would be vulnerable to the impacts of a climate hazard. ",
+      "type": "text",
+      "translationPrefix": "goal_13.content.#25"
+    },
+    {
+      "text": "Some might even be vulnerable across more than one of these dimensions. In the following, we look at the six most predominant sources of vulnerability[footnote:  Six of the vulnerability dimensions come from household surveys. The seventh dimension is the access to roads and markets, which is measured using spatial data. As it is not possible to combine the spatial data with the survey data, it is not possible to assess the overlap of this dimensions with the six others. However, the spatial vulnerability measure affects only 44 million out of the total number of 2.8 billion vulnerable worldwide.].",
+      "type": "text",
+      "translationPrefix": "goal_13.content.#26"
     },
     {
       "type": "scroller",
@@ -303,158 +313,171 @@
       "source": "Source of the data",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
+      "disableScreenshot": "true",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
       "scenes": [
         {
           "type": "scene",
           "id": "multi__grid__vuln__wld",
-          "text": "Globally, 37 percent - or 2.8 billion people - are identified as being vulnerable in at least one dimension. 45 percent of those identified as highly vulnerable are vulnerable in 2 or more ways. This corresponds to approximately 1.3 billion people.",
-          "translationPrefix": "goal_13.content.#25.scenes.#0"
+          "text": "Globally, [emphasis: 37 percent] - or 2.8 billion people - are identified as being vulnerable in at least one dimension in 2023. This is visible in the first waffle chart, where 10 squares represent 1 percent of the global population. 45 percent of those identified as highly vulnerable are vulnerable along 2 or more dimensions. This corresponds to approximately 1.3 billion people.",
+          "translationPrefix": "goal_13.content.#27.scenes.#0"
         },
         {
           "type": "scene",
           "id": "multi__grid__vuln__nac",
-          "text": "The level of vulnerability differs markedly across regions. In <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span>, only 1.2 percent of the population are identified as being highly vulnerable in at least one dimension.",
-          "translationPrefix": "goal_13.content.#25.scenes.#1"
+          "text": "The level of vulnerability differs markedly across regions. In <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span>, only 1.2 percent of the population are identified as being highly vulnerable in at least one dimension. These are due to living in extreme poverty or lacking basic education.",
+          "translationPrefix": "goal_13.content.#27.scenes.#1"
         },
         {
           "type": "scene",
           "id": "multi__grid__vuln__ssf",
-          "text": "In <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> a staggering 91.6 percent of the population are identified as being highly vulnerable. ",
-          "translationPrefix": "goal_13.content.#25.scenes.#2"
+          "text": "In <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> a staggering 92.6 percent of the population are identified as being highly vulnerable. Lack of social protection impacts 3 out of 4 people in the region. But having no access to electricity or living in extreme poverty affects almost every second person. ",
+          "translationPrefix": "goal_13.content.#27.scenes.#2"
         },
         {
           "type": "scene",
           "id": "multi__explore",
-          "text": "Explore the data and see how the population at risk differs across countries and regions.",
-          "translationPrefix": "goal_13.content.#25.scenes.#3"
+          "text": "Explore the data and see how the population identified as vulnerable differs across countries and regions, and which dimensions of vulnerability are most important.",
+          "translationPrefix": "goal_13.content.#27.scenes.#3"
         }
       ],
-      "translationPrefix": "goal_13.content.#25"
-    },
-    {
-      "text": "1.2 billion people are at risk of climate-related hazards",
-      "type": "subhed",
-      "translationPrefix": "goal_13.content.#26"
-    },
-    {
-      "text": "Having looked at [emphasis: exposure ]to climate hazards and where people are [emphasis: vulnerable], we can combine the two to identify people at high risk from climate hazards. These are defined as being exposed to at least one climate hazard as well as being vulnerable along at least one of the seven dimensions. Globally, one in five (19.8 %) are at high risk from the impacts of climate-related hazards. ",
-      "type": "text",
       "translationPrefix": "goal_13.content.#27"
     },
     {
-      "type": "vis",
-      "graphic": "sdg13_regional_exposure_vuln",
-      "title": "Exposure and vulnerability by region",
-      "subtitle": "",
-      "source": "",
-      "visdescription": "Describe what the visualization shows",
-      "textParagraph": "",
-      "visSize": "default",
-      "theme": "light (alternatively: dark)",
-      "data_download": "Vuln_exp_risk_2023.csv",
-      "data": "1QpO6Dv6BHf08Zu5DXiy-HEt64vVus49onPUqiO6kYl4",
+      "text": "1.5 billion people are at risk of climate-related hazards",
+      "type": "subhed",
       "translationPrefix": "goal_13.content.#28"
     },
     {
-      "text": "But whereas only 0.3 percent of the population in North America (approximately 0.6 million people) are at high risk, 30 percent of the populations living in South Asia and Sub-Saharan Africa and 42 percent of the population living in the Middle East, North Africa, Afghanistan and Pakistan region are at high risk. ",
+      "text": "Having looked at [emphasis: exposure ]to climate hazards and where people are [emphasis: vulnerable], we can combine the two to identify people at high risk from climate hazards. These are defined as being exposed to at least one climate hazard as well as being vulnerable along at least one of the seven dimensions. Globally, approximately one in five (18.1 %) - or approximately 1.5 billion people – are at high risk from the impacts of climate-related hazards. ",
       "type": "text",
       "translationPrefix": "goal_13.content.#29"
     },
     {
       "type": "scroller",
-      "graphic": "sdg13_icon_matrix",
-      "title": "[1.2] billion people are at high risk from climate-related hazards",
-      "subtitle": "People identified as being highly vulnerable and exposed to climate-related hazards",
+      "graphic": "sdg13_regional_exposure_vuln",
+      "title": "The number of people at high risk from climate-related hazards in 2023",
+      "subtitle": "…",
       "source": "Source of the data",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "The visualization shows the share of regional populations defined as being at high risk of climate-related hazards in 2023.",
       "visSize": "default",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
-      "keyFact": "1.2 billion",
-      "keyFactLabel": "people are at high risk of climate-related hazards",
       "scenes": [
         {
           "type": "scene",
-          "id": "mono__grid__vul__bfa_ken",
-          "text": "[emphasis: Burkina Faso ]and [emphasis: Kenya ]are quite similar in their levels of [emphasis: vulnerability]. In Burkina Faso, 90.4 percent of  the population are identified as being highly vulnerable. In Kenya, the corresponding number is 85.6 percent.",
+          "id": "map_2023",
+          "text": "On this map, the size of the circles is proportional to the size of the population of the seven World Bank regions. The blue circle shows the size of the population exposed to climate-related hazards. And the red circle shows the size of the population exposed to climate-related hazards, who are also vulnerable - i.e. the populations at risk.",
           "translationPrefix": "goal_13.content.#30.scenes.#0"
-        },
-        {
-          "type": "scene",
-          "id": "mono__diff__vul_exp__bfa_ken",
-          "text": "But the countries differ substantially when we look at their [emphasis: exposure ]to climate hazards. Only 27.3 percent of people in Kenya but  80.9 percent of people in Burkina Faso are exposed. As a result, only 1 in 4 Kenyans but 3 in 4 Burkinabè are at high risk of climate-related hazards.",
-          "translationPrefix": "goal_13.content.#30.scenes.#1"
-        },
-        {
-          "type": "scene",
-          "id": "mono__grid__exp__phl_vnm",
-          "text": "In the [emphasis: Philippines ]and [emphasis: Vietnam], both countries are similarly [emphasis: exposed ]to climate-related hazards. In the Philippines, 84.8 percent are exposed, while 88.4 percent are exposed in Vietnam.",
-          "translationPrefix": "goal_13.content.#30.scenes.#2"
-        },
-        {
-          "type": "scene",
-          "id": "mono__diff__exp_vul__phl_vnm",
-          "text": "But the countries differ markedly when looking at their levels of [emphasis: vulnerability]. In the Philippines, 3 out of 4 people are identified as being highly vulnerable, while the same is true for only 1 in 3 people in Vietnam. Thus, while 61.4 percent of the Philippine population are at high risk of climate-related hazards, only 28.7 percent of Vietnamese share the same fate.",
-          "translationPrefix": "goal_13.content.#30.scenes.#3"
         }
       ],
       "translationPrefix": "goal_13.content.#30"
     },
     {
-      "text": "Building resilience to reduce vulnerability",
-      "type": "subhed",
+      "text": "But whereas only 0.3 percent of the population in North America (approximately 0.6 million people) are at high risk, 26 percent of the populations living in South Asia, 32 percent of the population living in the Middle East, North Africa, Afghanistan and Pakistan region and 35 percent of the population of Sub-Saharan Africa are at high risk. ",
+      "type": "text",
       "translationPrefix": "goal_13.content.#31"
     },
     {
-      "text": "The regional differences in where people exposed to climate hazards are at risk does suggest a way forward. There are things that can be done to better adapt to climate change and make people more resilient to the impacts of climate-related hazards. ",
+      "text": "Across and within regions, the population at risk differs both due to the level of exposure to climate hazards and the level of vulnerability.",
       "type": "text",
       "translationPrefix": "goal_13.content.#32"
     },
     {
-      "text": "Similarly, there are 37 countries, many of them small islands, where the entire population is exposed to cyclones or heatwaves. However, the population at high-risk within this group of countries ranges from less than 1% to over 90% due to differences in vulnerability. Addressing how people are able to cope with climate-related events matters.",
-      "type": "text",
+      "type": "scroller",
+      "graphic": "sdg13_icon_matrix",
+      "title": "Countries differ both in level of exposure and level of vulnerability",
+      "subtitle": "Comparing countries with similar levels of exposure or vulnerability",
+      "source": "Source of the data",
+      "visdescription": "Describe what the visualization shows",
+      "visSize": "default",
+      "disableScreenshot": "true",
+      "data_download": "climate_vulnerability.zip",
+      "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
+      "keyFact": "1 in 5",
+      "keyFactLabel": "People globally are at high risk of climate-related hazards",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "mono__grid__vul__bfa_ken",
+          "text": "[emphasis: Burkina Faso ]and [emphasis: Kenya ]are quite similar in their levels of [emphasis: vulnerability]. In Burkina Faso, 88.8 percent of  the population are identified as being highly vulnerable in at least one dimension. In Kenya, the same is true for 86.8 percent of the population.",
+          "translationPrefix": "goal_13.content.#33.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "mono__diff__vul_exp__bfa_ken",
+          "text": "But the countries differ substantially when we look at their [emphasis: exposure ]to climate hazards. Only 27.6 percent of people in Kenya but  81.3 percent of people in Burkina Faso are exposed. As a result, only 1 in 4 Kenyans but 3 in 4 Burkinabè are at high risk of climate-related hazards.",
+          "translationPrefix": "goal_13.content.#33.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "mono__grid__exp__phl_vnm",
+          "text": "In the [emphasis: Philippines ]and [emphasis: Vietnam], both countries are similarly [emphasis: exposed ]to climate-related hazards. In the Philippines, 84.6 percent are exposed, while 88.4 percent are exposed in Vietnam.",
+          "translationPrefix": "goal_13.content.#33.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "mono__diff__exp_vul__phl_vnm",
+          "text": "But the countries differ markedly when looking at their levels of [emphasis: vulnerability]. In the Philippines, more than 3 out of 5 people are identified as being highly vulnerable, while the same is true for only 1 in 4 people in Vietnam. Thus, while 54.7 percent of the Philippine population are at high risk of climate-related hazards, only 19.2 percent of Vietnamese share the same fate.",
+          "translationPrefix": "goal_13.content.#33.scenes.#3"
+        }
+      ],
       "translationPrefix": "goal_13.content.#33"
     },
     {
-      "text": "To help countries prioritize action on climate change adaptation, the World Bank has developed a whole-of-economy diagnostic and scoring system - the Adaptation and Resilience Readiness Assessment Tool - based on six adaptation principles. The foundation is [emphasis: rapid and inclusive development]. On this foundation, four areas of intervention can reduce vulnerabilities. Governments should i) [emphasis: facilitate the adaptation] of firms and people, ii) [emphasis: adapt land use ]and protect critical public assets and services, iii) increase people’s [emphasis: capacity to cope ]with and recover from shocks and iv) anticipate and manage [emphasis: macroeconomic and fiscal risks]. All of this requires [emphasis: effective implementation ]with a robust governance structure and continuous monitoring.",
-      "type": "text",
+      "text": "Building resilience to reduce vulnerability",
+      "type": "subhed",
       "translationPrefix": "goal_13.content.#34"
     },
     {
-      "text": "These principles were developed as part of an effort to provide detailed assessments of and recommendations to 17 Caribbean countries, but the tool has since been applied to other regions. ",
+      "text": "When comparing countries and across regions, it becomes clear that there is a way forward to reduce the number of people at high risk from climate-related hazards. Things that can be done, for instance, to better adapt to climate change and make people more resilient to the impacts of climate-related hazards. ",
       "type": "text",
       "translationPrefix": "goal_13.content.#35"
     },
     {
-      "text": "In [emphasis: Zambia], for instance, the Government partnered with the Climate Investment Funds (CIF) and the World Bank to strengthen Climate Resilience. Over a decade, more than USD 50 million was spent to enhance institutional capacity and improve the adaptive capacity of vulnerable communities in regions particularly prone to floods. Between 2010 and 2023, the share of the population in Zambia identified as vulnerable has decreased from 75 percent to 65 percent, and the number of people at high risk from climate hazards has decreased from 5.2 million people to 3.6 million people.",
+      "text": "In addition to the country examples above, there are 37 countries–many of them small island states–where the entire population is exposed to cyclones or heatwaves. However, the population at high-risk within this group of countries ranges from less than 1% to over 90% due to differences in vulnerability. In other words: Addressing how people are able to cope with climate-related events matters.",
       "type": "text",
       "translationPrefix": "goal_13.content.#36"
     },
     {
-      "text": "In [emphasis: Brazil], the World Bank has provided technical assistance to the country’s National Drought Program, shifting the focus from reactive drought measures once a drought was already imminent to more proactive drought management. This includes a drought monitoring system providing early warning of areas at risk, vulnerability and resilience assessment and mitigation and response planning. In Brazil, the share of the population identified as vulnerable has decreased from 33 percent to 18 percent between 2010 and 2023 and the number of people at risk from climate hazards has decreased from 34 million to 20 million.  ",
+      "text": "To help governments prioritize action on climate change adaptation, the World Bank has developed a whole-of-economy diagnostic and scoring system - the Adaptation and Resilience Readiness Assessment Tool - based on six adaptation principles. The foundation is [emphasis: rapid and inclusive development]. On this foundation, four areas of intervention can reduce vulnerabilities. Governments should i) [emphasis: facilitate the adaptation] of firms and people, ii) [emphasis: adapt land use ]and protect critical public assets and services, iii) increase people’s [emphasis: capacity to cope ]with and recover from shocks and iv) anticipate and manage [emphasis: macroeconomic and fiscal risks]. All of this requires [emphasis: effective implementation ]with a robust governance structure and continuous monitoring.",
       "type": "text",
       "translationPrefix": "goal_13.content.#37"
     },
     {
-      "text": "Exposure to climate hazards is increasing, but vulnerability is decreasing",
-      "type": "subhed",
+      "text": "These principles were developed as part of an effort to provide detailed assessments of and recommendations to 17 Caribbean countries, but the tool has since been applied to other regions. ",
+      "type": "text",
       "translationPrefix": "goal_13.content.#38"
     },
     {
-      "text": "The examples from Zambia and Brazil are not unique. Fortunately, a lot has already been done to improve resilience and reduce vulnerability to climate-related hazards. While 1 in 5 globally are still at high risk from climate-related hazards in 2023, 2 in 5 were at high risk in 2010. ",
+      "text": "In [emphasis: Zambia], for instance, the Government partnered with the Climate Investment Funds (CIF) and the World Bank to strengthen Climate Resilience. Over a decade, more than USD 50 million was spent to enhance institutional capacity and improve the adaptive capacity of vulnerable communities in regions particularly prone to floods. Between 2010 and 2023, the share of the population in Zambia identified as vulnerable has decreased from 75 percent to 65 percent, and the number of people at high risk from climate hazards has decreased from 5.2 million people to 3.6 million people.",
       "type": "text",
       "translationPrefix": "goal_13.content.#39"
     },
     {
-      "text": "Between 2010 and 2023, the global population exposed to climate-related hazards has actually increased from 3.8 to 4.0 billion people. But at the same time, the number of people identified as being vulnerable across any of the seven dimensions has decreased from 4.0 to 2.4 billion people. As a result, the number of people at high-risk from climate-related hazards has decreased globally from 2.5 to 1.3 billion people - or from 2 in 5 to 1 in 5. What is even more encouraging is that all regions have made progress in reducing the population at high risk.",
+      "text": "In [emphasis: Brazil], the World Bank has provided technical assistance to the country’s National Drought Program, shifting the focus from reactive drought measures once a drought was already imminent to more proactive drought management. This includes a drought monitoring system providing early warning of areas at risk, vulnerability and resilience assessment and mitigation and response planning. In Brazil, the share of the population identified as vulnerable has decreased from 33 percent to 18 percent between 2010 and 2023 and the number of people at risk from climate hazards has decreased from 34 million to 20 million.  ",
       "type": "text",
       "translationPrefix": "goal_13.content.#40"
     },
     {
+      "text": "Exposure to climate hazards is increasing, but vulnerability is decreasing",
+      "type": "subhed",
+      "translationPrefix": "goal_13.content.#41"
+    },
+    {
+      "text": "The examples from Zambia and Brazil are not unique. A lot has already been done to improve resilience and reduce vulnerability to climate-related hazards in recent decades. While 1 in 5 globally are still at high risk from climate-related hazards in 2023, 2 in 5 were at high risk in 2010. The share of people at high risk has halved in a little over a decade.",
+      "type": "text",
+      "translationPrefix": "goal_13.content.#42"
+    },
+    {
+      "text": "Between 2010 and 2023, the global population exposed to climate-related hazards has actually increased from 4.0 to 4.6 billion people - simply because more people live in areas prone to these climate-related events. But at the same time, the number of people identified as being highly vulnerable across any of the seven dimensions has decreased from 4.4 to 2.8 billion people. As a result, the number of people at high-risk from climate-related hazards has decreased globally from 2.6 in 2010 to 1.5 billion people in 2023. Almost all regions have made progress in reducing the population at high risk, although the share of the population at risk has remained stagnant in Sub-Saharan Africa.",
+      "type": "text",
+      "translationPrefix": "goal_13.content.#43"
+    },
+    {
       "type": "scroller",
-      "graphic": "sdg13_icon_matrix",
+      "graphic": "sdg13_regional_exposure_vuln",
       "title": "The number of people at high risk from climate-related hazards has almost halved since 2010",
       "subtitle": "Population shares defined as being at high-risk from climate-related hazards in 2010 and 2023",
       "source": "Source of the data",
@@ -462,10 +485,35 @@
       "visSize": "default",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
-      "Scene ": "Text text text",
       "keyFact": "48 percent",
       "keyFactLabel": "Reduction in the share of the global population at high risk from climate-related hazards between 2010 and 2023",
-      "translationPrefix": "goal_13.content.#41"
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "map_2010",
+          "text": "On this map, the size of the circles is proportional to the size of the population of the seven World Bank regions. The blue circle shows the size of the population exposed to climate-related hazards. And the red circle shows the size of the population exposed to climate-related hazards, who are also vulnerable - i.e. the populations at risk.",
+          "translationPrefix": "goal_13.content.#44.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "map_2023",
+          "text": "By 2023, the exposure to climate-related hazards does not change much. But in some regions, the share of those exposed, who are also vulnerable, has decreased dramatically.",
+          "translationPrefix": "goal_13.content.#44.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "marimekko_2023",
+          "text": "Marimekko 2023",
+          "translationPrefix": "goal_13.content.#44.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "marimekko_2010",
+          "text": "Marimekko 2010",
+          "translationPrefix": "goal_13.content.#44.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal_13.content.#44"
     }
   ],
   "references": {

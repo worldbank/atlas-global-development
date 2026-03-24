@@ -236,8 +236,8 @@
       "label_OCU_SKILL_L3-4": "High skill",
       "label_urban": "Urban",
       "label_rural": "Rural",
-      "label_below": "less concentrated",
-      "label_above": "more concentrated",
+      "label_below": "less specialized",
+      "label_above": "more specialized",
       "translationPrefix": "goal_11.content.#21"
     },
     {
@@ -294,8 +294,8 @@
       "label_services": "Services",
       "label_agriculture": "Agriculture",
       "label_industry": "Industry",
-      "label_below": "less concentrated",
-      "label_above": "more concentrated",
+      "label_below": "less specialized",
+      "label_above": "more specialized",
       "translationPrefix": "goal_11.content.#27"
     },
     {

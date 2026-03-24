@@ -4,7 +4,7 @@
     "goal": "07",
     "shortTitle": "Electricity access",
     "title": "Access to electricity: who remains without power?",
-    "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to reach 300 million more people in Africa by 2030.",
+    "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to extend electricity to  300 million more people in Africa by 2030.",
     "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "todo",
     "inputs": "todo",
@@ -36,7 +36,7 @@
       "translationPrefix": "goal_07.content.#2"
     },
     {
-      "text": "It enables students to study after dark, ensures storage and provision of vaccines and medical supplies, powers irrigation, enables modern industrial production and job creation [reference: job_creation] – all essential drivers of economic and social development.  Yet, 666 million people still live without electricity, and countless others have limited or unreliable supply.",
+      "text": "Electricity  enables students to study after dark, ensures storage and provision of vaccines and medical supplies, powers irrigation, enables modern industrial production and job creation [reference: job_creation] – all essential drivers of economic and social development.  Yet, 666 million people still live without electricity, and many more have limited or unreliable supply.",
       "type": "text",
       "translationPrefix": "goal_07.content.#3"
     },
@@ -167,7 +167,7 @@
       "translationPrefix": "goal_07.content.#10"
     },
     {
-      "text": "Urban areas have long benefited from near‑universal access to electricity; rural communities have not. In 2000, electricity had already reached almost the entire world’s urban population ( 94% ), versus roughly two-thirds of people in rural areas. By 2023, rural access rose to about five in six people, significantly narrowing—though not eliminating—the gap. ",
+      "text": "Urban areas reached near‑universal electricity access long before rural ones. In 2000, 94 percent of urban residents had electricity, compared with about 66 percent of people in rural areas. By 2023, rural access had climbed to around 83 percent, significantly narrowing the gap.<span style=\"color: rgb(68,71,70);\"> </span>",
       "type": "text",
       "translationPrefix": "goal_07.content.#11"
     },
@@ -201,7 +201,7 @@
       "translationPrefix": "goal_07.content.#15"
     },
     {
-      "text": "Among the 30 countries with the largest populations lacking electricity, 24 are in Sub-Saharan Africa. Three countries alone—[emphasis: Nigeria], [emphasis: the Democratic Republic of Congo (DRC)], and [emphasis: Ethiopia]—account for around a third of the world’s population without electricity access.",
+      "text": "Among the 30 countries with the largest populations lacking electricity, 24 are in Sub-Saharan Africa. Three countries —[emphasis: Nigeria], [emphasis: the Democratic Republic of Congo (DRC)], and [emphasis: Ethiopia]—account for around a third of the world’s population without electricity access.",
       "type": "text",
       "translationPrefix": "goal_07.content.#16"
     },
@@ -262,7 +262,7 @@
       "translationPrefix": "goal_07.content.#19"
     },
     {
-      "text": "In all three countries, electricity access lags for rural residents behind urban residents. In the Democratic Republic of the Congo (DRC), electricity access among rural populations remained extremely low—at around 1 percent between 2015 and 2023. In Nigeria, the levels were not as low as the DRC, however, little changed in both rural and urban areas. By contrast, Ethiopia made rapid progress in expanding electricity access in rural areas. From nearly no access in rural areas, almost half of the rural population today have access to electricity. Access for urban residents in Ethiopia was fairly high in 2000 and by 2023, reached near universal access. Although gaps still remain, there was notable reduction in the urban-rural access gap.",
+      "text": "In all three countries, electricity access lags for rural residents behind urban residents. In the Democratic Republic of the Congo (DRC), electricity access among rural populations remained extremely low—at around 1 percent between 2015 and 2023. In Nigeria, the levels were not as low as the DRC, however, little has changed in both rural and urban areas. By contrast, Ethiopia made rapid progress in expanding electricity access in rural areas. From nearly no access, almost half of the rural population today have access to electricity. Access for urban residents in Ethiopia was fairly high in 2000 and by 2023, had reached near universal access. Although gaps still remain, there was notable reduction in the urban-rural access gap.",
       "type": "text",
       "translationPrefix": "goal_07.content.#20"
     },
@@ -289,7 +289,7 @@
       "translationPrefix": "goal_07.content.#22"
     },
     {
-      "text": "To better understand the local realities of access to electricity, the next section examines electricity access at a more granular level—drawing on household surveys, and geospatial data to better understand the dynamics of electricity access in Ethiopia and Nigeria, two countries with some of the largest populations without electricity.",
+      "text": "The next section examines electricity access at a more granular level—drawing on household surveys and geospatial data to better understand the dynamics of electricity access in Ethiopia and Nigeria, two countries with some of the largest populations without electricity.",
       "type": "text",
       "translationPrefix": "goal_07.content.#23"
     },
@@ -305,10 +305,11 @@
       "bright": "Bright",
       "weak": "Weak",
       "dark": "Dark",
-      "nightlights_24": "Night lights 24",
+      "nightlights_24": "Night lights 2024",
       "data_download": "07.data.access_electricity_nigeria_zones.csv",
       "data": "1TdQXOlfhM3ZlndUnqXBYZByP5aIG8oBDze1t0OKclkY",
       "visSize": "fullScreen",
+      "disableScreenshot": "true",
       "scenes": [
         {
           "type": "scene",
@@ -361,7 +362,7 @@
       "translationPrefix": "goal_07.content.#25"
     },
     {
-      "text": "Similar to Nigeria, electricity access in Ethiopia remains uneven, and urban centers like Addis Ababa and regional capitals benefit from the highest access level through grid connection. 92% of the urban population relied on grid lines as their primary electricity source in 2022 [reference: ethiopia_survey]. But even in urban areas, access is not yet universal, with 5 percent of Ethiopians in urban areas (1.7 million people) not having access to electricity.",
+      "text": "Similar to Nigeria, electricity access in Ethiopia remains uneven, and urban centers like Addis Ababa and regional capitals benefit from the highest access level through grid connection. In urban centers 92% of the population relied on grid lines as their primary electricity source in 2022 [reference: ethiopia_survey]. But even in urban areas, access is not yet universal, with 5 percent of Ethiopians in urban areas (1.7 million people) not having access to electricity.",
       "type": "text",
       "translationPrefix": "goal_07.content.#26"
     },
@@ -378,6 +379,7 @@
       "dark": "Dark",
       "newly_lit_2023": "Dark areas in 2012 that had some night lights in 2023",
       "visSize": "fullScreen",
+      "disableScreenshot": "true",
       "nightlights_12": "Night lights in 2012",
       "nightlights_23": "Night lights in 2023",
       "scenes": [
@@ -403,7 +405,7 @@
       "translationPrefix": "goal_07.content.#27"
     },
     {
-      "text": "While access reliability may still be an issue like in Nigeria, significant improvements have been achieved over the past years, with some regions experiencing a  50% decrease in power outages over the period 2019 – 2022. [reference: ethiopia_survey]",
+      "text": "While access reliability may still be an issue  in Ethiopia, significant improvements have been achieved over the past years, with some regions experiencing a  50% decrease in power outages over the period 2019 – 2022. [reference: ethiopia_survey]",
       "type": "text",
       "translationPrefix": "goal_07.content.#28"
     },

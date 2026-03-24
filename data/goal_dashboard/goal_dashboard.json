@@ -9,9 +9,10 @@
     "credits": "Daniel Gerszon Mahler and Divyanshi Wadhwa ",
     "inputs": "",
     "visuals": "Alice Thudt and Maarten Lambrechts",
-    "homeFactoidPercent": "75",
-    "homeFactoidNumber": "3 in 4",
-    "homeFactoidText": "TK",
+    "homeFactoidPercent": "58",
+    "homeFactoidNumber": "15 of 26",
+    "homeFactoidTitle": "Progress is the slowest on record in",
+    "homeFactoidText": "of the explored development indicators.",
     "homeTagline": "Explore progress data on crucial areas from poverty reduction and life expectancy to education to understand the global progress slowdown.",
     "translationPrefix": "goal_dashboard.config"
   },
