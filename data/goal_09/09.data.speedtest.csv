@@ -1,256 +1,258 @@
 type,mbps,iso3c
-Mobile,546.14,ARE
-Mobile,517.44,QAT
-Mobile,378.45,KWT
-Mobile,236.77,BHR
-Mobile,228.89,BRA
-Mobile,224.46,BGR
-Mobile,218.06,KOR
-Mobile,201.67,CHN
-Mobile,198.39,SAU
-Mobile,196.27,DNK
-Mobile,185.54,BRN
-Mobile,174.4,MKD
-Mobile,167.52,NLD
-Mobile,165.57,USA
-Mobile,159.1,SGP
-Mobile,158.59,NOR
-Mobile,156.55,MYS
-Mobile,149.65,GEO
-Mobile,148.64,VNM
-Mobile,148.48,EST
-Mobile,140.7,PRT
-Mobile,139.67,FRA
-Mobile,135.45,OMN
-Mobile,135.09,SVN
-Mobile,134.64,LVA
-Mobile,133.51,IND
-Mobile,133.35,CHE
-Mobile,132.57,LTU
-Mobile,131.91,SWE
-Mobile,130.74,FIN
-Mobile,130.05,HRV
-Mobile,129.13,AUT
-Mobile,122.7,GRC
-Mobile,120.85,NZL
-Mobile,119.56,AUS
-Mobile,117.16,TWN
-Mobile,112.71,THA
-Mobile,108.97,CYP
-Mobile,103.51,BEL
-Mobile,103.14,SVK
-Mobile,100.04,POL
-Mobile,98.59,CZE
-Mobile,96.3,XKX
-Mobile,93.56,CAN
-Mobile,90.99,ITA
-Mobile,89.63,MNE
-Mobile,87.27,KAZ
-Mobile,87.24,HKG
-Mobile,82.96,HUN
-Mobile,81.22,CHL
-Mobile,76.99,ROU
-Mobile,75.9,TUN
-Mobile,75.8,ESP
-Mobile,74.1,DEU
-Mobile,72.52,AZE
-Mobile,71.46,SRB
-Mobile,70.01,GBR
-Mobile,69.76,TUR
-Mobile,67.06,MAR
-Mobile,63.85,ZAF
-Mobile,63.29,IRN
-Mobile,62.33,IRL
-Mobile,62.21,JPN
-Mobile,61.01,ARG
-Mobile,60.21,PHL
-Mobile,59.44,ISR
-Mobile,59.03,ARM
-Mobile,57.45,IRQ
-Mobile,57.32,EGY
-Mobile,56.6,GTM
-Mobile,55.78,UZB
-Mobile,54.25,MDA
-Mobile,54.07,KGZ
-Mobile,53.65,UKR
-Mobile,53.23,CRI
-Mobile,52.98,KHM
-Mobile,51.02,KEN
-Mobile,50,SUR
-Mobile,47.35,HND
-Mobile,47.23,JOR
-Mobile,46.85,LBN
-Mobile,46.37,MEX
-Mobile,45.45,NGA
-Mobile,42.24,LAO
-Mobile,41.9,LKA
-Mobile,41.41,SLV
-Mobile,41.24,IDN
-Mobile,37.61,RUS
-Mobile,36.99,DZA
-Mobile,36.4,BGD
-Mobile,36.15,ECU
-Mobile,33.84,PER
-Mobile,32.84,COL
-Mobile,31.07,BIH
-Mobile,31.01,PAN
-Mobile,25.26,PAK
-Mobile,23.81,VEN
-Mobile,22.96,PRY
-Mobile,22.63,SYR
-Mobile,22.23,LBY
-Mobile,19.36,SWZ
-Mobile,17.97,BLR
-Mobile,13.92,BOL
-Fixed Broadband,393.15,SGP
-Fixed Broadband,323.87,HKG
-Fixed Broadband,319.43,FRA
-Fixed Broadband,318.84,CHL
-Fixed Broadband,313.9,ARE
-Fixed Broadband,299.21,ISL
-Fixed Broadband,287.59,USA
-Fixed Broadband,279.73,KOR
-Fixed Broadband,264.13,MAC
-Fixed Broadband,259.5,ROU
-Fixed Broadband,252.97,THA
-Fixed Broadband,250.26,CHN
-Fixed Broadband,248.76,ESP
-Fixed Broadband,248.49,CHE
-Fixed Broadband,247.21,ISR
-Fixed Broadband,244.64,TWN
-Fixed Broadband,244.08,DNK
-Fixed Broadband,237.18,CAN
-Fixed Broadband,232.75,VNM
-Fixed Broadband,224.95,NLD
-Fixed Broadband,219.66,PRT
-Fixed Broadband,216.25,PER
-Fixed Broadband,214.73,KWT
-Fixed Broadband,212.87,JPN
-Fixed Broadband,207.5,HUN
-Fixed Broadband,206.07,QAT
-Fixed Broadband,201.69,BRA
-Fixed Broadband,200.74,POL
-Fixed Broadband,193.07,NZL
-Fixed Broadband,191.57,COL
-Fixed Broadband,185.07,SWE
-Fixed Broadband,180.88,JOR
-Fixed Broadband,180.55,PAN
-Fixed Broadband,180.33,MLT
-Fixed Broadband,176.79,URY
-Fixed Broadband,173.95,LUX
-Fixed Broadband,163.52,IRL
-Fixed Broadband,153.95,NOR
-Fixed Broadband,150.28,FIN
-Fixed Broadband,148.51,MYS
-Fixed Broadband,146.1,MDA
-Fixed Broadband,144.15,CRI
-Fixed Broadband,143.48,GBR
-Fixed Broadband,134.42,TTO
-Fixed Broadband,132.87,SVN
-Fixed Broadband,131.79,ECU
-Fixed Broadband,129.52,SAU
-Fixed Broadband,129.33,AUT
-Fixed Broadband,129.32,BHR
-Fixed Broadband,125.57,BEL
-Fixed Broadband,115.81,GUY
-Fixed Broadband,115.47,CYP
-Fixed Broadband,115.24,LVA
-Fixed Broadband,108.44,PHL
-Fixed Broadband,101.77,ITA
-Fixed Broadband,101.37,PRY
-Fixed Broadband,100.93,DEU
-Fixed Broadband,97.35,SMR
-Fixed Broadband,97.25,DMA
-Fixed Broadband,96.42,ARG
-Fixed Broadband,93.31,MNE
-Fixed Broadband,93.24,SVK
-Fixed Broadband,92.6,MEX
-Fixed Broadband,92.4,SRB
-Fixed Broadband,91.5,EST
-Fixed Broadband,91.36,GRD
-Fixed Broadband,91.23,JAM
-Fixed Broadband,90.36,VEN
-Fixed Broadband,90.12,EGY
-Fixed Broadband,90.05,NIC
-Fixed Broadband,89.38,HRV
-Fixed Broadband,89.14,RUS
-Fixed Broadband,89.03,OMN
-Fixed Broadband,88.84,KNA
-Fixed Broadband,87.98,AUS
-Fixed Broadband,86.75,UZB
-Fixed Broadband,86.73,UKR
-Fixed Broadband,83.66,BGR
-Fixed Broadband,83.38,CZE
-Fixed Broadband,83.12,XKX
-Fixed Broadband,82.68,ALB
-Fixed Broadband,81.72,SLV
-Fixed Broadband,81.36,AZE
-Fixed Broadband,80.96,MNG
-Fixed Broadband,80.79,BRN
-Fixed Broadband,80.48,KGZ
-Fixed Broadband,78.93,BLR
-Fixed Broadband,77.9,NPL
-Fixed Broadband,77.79,KAZ
-Fixed Broadband,76.4,BHS
-Fixed Broadband,76.22,GTM
-Fixed Broadband,74.5,HND
-Fixed Broadband,70.79,GRC
-Fixed Broadband,69.82,ARM
-Fixed Broadband,68.12,PSE
-Fixed Broadband,61.43,MAR
-Fixed Broadband,60.26,CIV
-Fixed Broadband,59.51,IND
-Fixed Broadband,58.44,BOL
-Fixed Broadband,58.02,BGD
-Fixed Broadband,57.44,MUS
-Fixed Broadband,54.57,TUR
-Fixed Broadband,50.51,MKD
-Fixed Broadband,49.56,HTI
-Fixed Broadband,49,BLZ
-Fixed Broadband,48.5,KHM
-Fixed Broadband,48.47,GHA
-Fixed Broadband,48.35,ZAF
-Fixed Broadband,46.78,DOM
-Fixed Broadband,45.91,BFA
-Fixed Broadband,45.45,LAO
-Fixed Broadband,42.81,GAB
-Fixed Broadband,41.79,ATG
-Fixed Broadband,41.41,GEO
-Fixed Broadband,41,IRQ
-Fixed Broadband,39.77,COD
-Fixed Broadband,38.93,TJK
-Fixed Broadband,38.57,RWA
-Fixed Broadband,36.26,ZWE
-Fixed Broadband,35.96,IDN
-Fixed Broadband,35.9,BIH
-Fixed Broadband,33.72,TGO
-Fixed Broadband,31.94,MDG
-Fixed Broadband,30.1,FJI
-Fixed Broadband,29.75,CPV
-Fixed Broadband,29.25,UGA
-Fixed Broadband,29,LKA
-Fixed Broadband,28.06,MOZ
-Fixed Broadband,27.7,NGA
-Fixed Broadband,25.43,MRT
-Fixed Broadband,25.37,BEN
-Fixed Broadband,24.65,MMR
-Fixed Broadband,23.21,DZA
-Fixed Broadband,20.75,AGO
-Fixed Broadband,19.68,SOM
-Fixed Broadband,19.42,SUR
-Fixed Broadband,19.17,TZA
-Fixed Broadband,18.96,MDV
-Fixed Broadband,18.94,IRN
-Fixed Broadband,18.22,DJI
-Fixed Broadband,16.44,LBN
-Fixed Broadband,16.32,TUN
-Fixed Broadband,16.23,PAK
-Fixed Broadband,16.17,YEM
-Fixed Broadband,15.17,KEN
-Fixed Broadband,14.96,NAM
-Fixed Broadband,10.92,ETH
-Fixed Broadband,10.87,CMR
-Fixed Broadband,10.79,LBY
-Fixed Broadband,4.43,AFG
-Fixed Broadband,3.33,CUB
-Fixed Broadband,3.19,SYR
+Fixed Broadband,420.9,SGP
+Fixed Broadband,398.4,ARE
+Fixed Broadband,350.9,HKG
+Fixed Broadband,350.4,FRA
+Fixed Broadband,347.2,ISL
+Fixed Broadband,337.6,CHL
+Fixed Broadband,317.9,MAC
+Fixed Broadband,308.1,USA
+Fixed Broadband,288.8,VNM
+Fixed Broadband,288,DNK
+Fixed Broadband,286.5,CHE
+Fixed Broadband,282.2,ISR
+Fixed Broadband,277.6,CAN
+Fixed Broadband,276.9,ESP
+Fixed Broadband,273.8,THA
+Fixed Broadband,273.4,ROU
+Fixed Broadband,269,TWN
+Fixed Broadband,259.8,PER
+Fixed Broadband,256.3,JPN
+Fixed Broadband,253.2,KOR
+Fixed Broadband,248.6,HUN
+Fixed Broadband,242.5,PRT
+Fixed Broadband,238.5,NLD
+Fixed Broadband,224.6,KWT
+Fixed Broadband,221.7,BRA
+Fixed Broadband,219.8,PAN
+Fixed Broadband,217.7,POL
+Fixed Broadband,215.3,LUX
+Fixed Broadband,212.3,CHN
+Fixed Broadband,209.5,COL
+Fixed Broadband,208.5,MLT
+Fixed Broadband,208.4,IRL
+Fixed Broadband,208.3,LTU
+Fixed Broadband,207.7,SWE
+Fixed Broadband,201.7,NZL
+Fixed Broadband,197.2,QAT
+Fixed Broadband,196.3,JOR
+Fixed Broadband,180.1,SVN
+Fixed Broadband,178.2,FIN
+Fixed Broadband,177.4,URY
+Fixed Broadband,175.9,NOR
+Fixed Broadband,167.4,GBR
+Fixed Broadband,166.2,MYS
+Fixed Broadband,165.5,CRI
+Fixed Broadband,163.7,SAU
+Fixed Broadband,163,ECU
+Fixed Broadband,160,CYP
+Fixed Broadband,156.6,AUS
+Fixed Broadband,155.5,TTO
+Fixed Broadband,152.5,MDA
+Fixed Broadband,145.6,BHR
+Fixed Broadband,140.1,BEL
+Fixed Broadband,139.9,LVA
+Fixed Broadband,137.4,MNE
+Fixed Broadband,137.2,GUY
+Fixed Broadband,136.1,HRV
+Fixed Broadband,118.3,PRY
+Fixed Broadband,114.4,ITA
+Fixed Broadband,113.4,ARG
+Fixed Broadband,113.3,AUT
+Fixed Broadband,106.9,SLV
+Fixed Broadband,106.5,PHL
+Fixed Broadband,104.8,SVK
+Fixed Broadband,103,DEU
+Fixed Broadband,102.7,SRB
+Fixed Broadband,98.4,VEN
+Fixed Broadband,94.8,GRD
+Fixed Broadband,94.7,EST
+Fixed Broadband,94.7,NIC
+Fixed Broadband,94.6,OMN
+Fixed Broadband,94,BGR
+Fixed Broadband,93.9,MEX
+Fixed Broadband,93.7,ALB
+Fixed Broadband,93.5,GRC
+Fixed Broadband,93,GTM
+Fixed Broadband,92.8,UZB
+Fixed Broadband,91.8,UKR
+Fixed Broadband,91.8,EGY
+Fixed Broadband,91.3,RUS
+Fixed Broadband,91.3,AZE
+Fixed Broadband,90.8,CZE
+Fixed Broadband,90.8,BLR
+Fixed Broadband,90.7,HND
+Fixed Broadband,89,KNA
+Fixed Broadband,88.8,XKX
+Fixed Broadband,88.1,KAZ
+Fixed Broadband,86.5,BRN
+Fixed Broadband,86.2,KGZ
+Fixed Broadband,84.9,JAM
+Fixed Broadband,84.6,NPL
+Fixed Broadband,83.9,PSE
+Fixed Broadband,82.8,ARM
+Fixed Broadband,82.4,MNG
+Fixed Broadband,81.6,BHS
+Fixed Broadband,77.7,TUR
+Fixed Broadband,72.8,DOM
+Fixed Broadband,65.5,BGD
+Fixed Broadband,64.2,BOL
+Fixed Broadband,62.8,CIV
+Fixed Broadband,61.7,IND
+Fixed Broadband,59,MUS
+Fixed Broadband,56.9,DZA
+Fixed Broadband,55.4,MRT
+Fixed Broadband,55.3,MAR
+Fixed Broadband,54.8,LAO
+Fixed Broadband,53.7,MKD
+Fixed Broadband,52.6,HTI
+Fixed Broadband,51.9,KHM
+Fixed Broadband,50.9,GHA
+Fixed Broadband,50.5,BLZ
+Fixed Broadband,49,SUR
+Fixed Broadband,48.9,BFA
+Fixed Broadband,48.4,ZAF
+Fixed Broadband,47.1,BWA
+Fixed Broadband,45.4,IDN
+Fixed Broadband,44.7,IRQ
+Fixed Broadband,44.5,COD
+Fixed Broadband,44.4,GEO
+Fixed Broadband,44.3,ATG
+Fixed Broadband,42.9,RWA
+Fixed Broadband,41.9,TJK
+Fixed Broadband,41.2,MOZ
+Fixed Broadband,37.3,BIH
+Fixed Broadband,36.9,GAB
+Fixed Broadband,36.8,LKA
+Fixed Broadband,36.5,NGA
+Fixed Broadband,35.4,TGO
+Fixed Broadband,34.4,MDG
+Fixed Broadband,33.5,ZMB
+Fixed Broadband,32,ZWE
+Fixed Broadband,31.2,MMR
+Fixed Broadband,31,SEN
+Fixed Broadband,30.7,BEN
+Fixed Broadband,29.5,UGA
+Fixed Broadband,23.7,MLI
+Fixed Broadband,23.5,IRN
+Fixed Broadband,23.2,AGO
+Fixed Broadband,22.7,TZA
+Fixed Broadband,21.9,MDV
+Fixed Broadband,19.9,LBN
+Fixed Broadband,19.6,TUN
+Fixed Broadband,18.4,SOM
+Fixed Broadband,18,PAK
+Fixed Broadband,17.7,DJI
+Fixed Broadband,16.4,NAM
+Fixed Broadband,16.4,YEM
+Fixed Broadband,15.9,CMR
+Fixed Broadband,15.9,KEN
+Fixed Broadband,11.4,ETH
+Fixed Broadband,11.3,LBY
+Fixed Broadband,4.8,AFG
+Fixed Broadband,4.2,SYR
+Fixed Broadband,3,CUB
+Mobile,681.2,ARE
+Mobile,583.1,QAT
+Mobile,380.1,KWT
+Mobile,315.4,BHR
+Mobile,262.4,BRA
+Mobile,257,KOR
+Mobile,250.8,BGR
+Mobile,247,BRN
+Mobile,226.5,SAU
+Mobile,211.8,USA
+Mobile,209.4,SRB
+Mobile,200.4,SGP
+Mobile,190.8,DNK
+Mobile,188.2,VNM
+Mobile,177.8,EST
+Mobile,176.5,NLD
+Mobile,172.7,LUX
+Mobile,172.3,NOR
+Mobile,170.4,OMN
+Mobile,161,GEO
+Mobile,160.2,FIN
+Mobile,158.7,KHM
+Mobile,158.7,SWE
+Mobile,158.6,CHN
+Mobile,157.7,MKD
+Mobile,155.4,XKX
+Mobile,150.5,FRA
+Mobile,149.7,LVA
+Mobile,149.4,MYS
+Mobile,144,SVN
+Mobile,139.8,GRC
+Mobile,137.9,HRV
+Mobile,136.2,THA
+Mobile,135.8,PRT
+Mobile,131.8,BEL
+Mobile,129.1,IND
+Mobile,128.6,LTU
+Mobile,124.1,CHE
+Mobile,120.3,TWN
+Mobile,119.3,AUS
+Mobile,117.8,SVK
+Mobile,117.4,NZL
+Mobile,113.6,POL
+Mobile,113.5,CAN
+Mobile,112.9,AUT
+Mobile,112.8,ALB
+Mobile,104.8,CYP
+Mobile,100.8,CZE
+Mobile,98.8,KAZ
+Mobile,95,AZE
+Mobile,92.9,ESP
+Mobile,92.8,ITA
+Mobile,92.8,MNE
+Mobile,90.9,HUN
+Mobile,88.7,HKG
+Mobile,82.7,ROU
+Mobile,82.6,CHL
+Mobile,80.8,MAR
+Mobile,80.7,ARM
+Mobile,74.8,DEU
+Mobile,73.6,GBR
+Mobile,71.1,IRL
+Mobile,69.7,CRI
+Mobile,69.7,ECU
+Mobile,69.4,JPN
+Mobile,66.7,ISR
+Mobile,65.4,ZAF
+Mobile,65.2,IRQ
+Mobile,64.6,TUR
+Mobile,61.7,MDA
+Mobile,61.1,ARG
+Mobile,59.4,GTM
+Mobile,59.2,IDN
+Mobile,58.9,DZA
+Mobile,58,SUR
+Mobile,56.3,PHL
+Mobile,56.1,IRN
+Mobile,52,TUN
+Mobile,51.9,UZB
+Mobile,51.7,KGZ
+Mobile,49.8,NGA
+Mobile,46.7,LKA
+Mobile,45.8,EGY
+Mobile,45.7,KEN
+Mobile,45.4,LAO
+Mobile,45,UKR
+Mobile,44.8,COL
+Mobile,44.6,LBN
+Mobile,44,MEX
+Mobile,43.5,JOR
+Mobile,43,HND
+Mobile,42.5,BGD
+Mobile,42.2,SLV
+Mobile,38.3,PER
+Mobile,34.5,PAN
+Mobile,33.3,TZA
+Mobile,28.8,VEN
+Mobile,28.5,PRY
+Mobile,27.8,SYR
+Mobile,27.6,BIH
+Mobile,27.3,BLR
+Mobile,24,PAK
+Mobile,22.7,LBY
+Mobile,15.7,BOL

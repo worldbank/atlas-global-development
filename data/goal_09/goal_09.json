@@ -91,7 +91,7 @@
       "translationPrefix": "goal_09.content.#7"
     },
     {
-      "text": "Rural areas, in both high and low income economies, often lag behind urban centers when it comes to internet access,  reflecting gaps in infrastructure and income.[emphasis:  In rural settings ][emphasis: limited internet access reduces the use of digital services that can improve livelihoods and well‑being], such as market information (including prices), agricultural support (weather data for farmers), digital payments, remote health services, and access to government programs.<span style=\"background-color: rgb(204,204,204);\">[reference: rur1]</span> This disparity is especially pronounced in the rural areas of the poorest countries, where only 14% of people use the internet; even in lower middle income countries around a half of the people in rural areas are without internet access.",
+      "text": "Rural areas, in both high and low income economies, often lag behind urban centers when it comes to internet access, reflecting gaps in infrastructure and income.[emphasis:  In rural settings, limited][emphasis:  internet access constrains the use of digital services that can improve livelihoods and well‑being], such as market information (including prices), agricultural support (weather data for farmers), digital payments, remote health services, and access to government programs.<span style=\"background-color: rgb(204,204,204);\">[reference: rur1]</span> This disparity is especially pronounced in the rural areas of the poorest countries, where only 14% of people use the internet; even in lower middle income countries around a half of the people in rural areas are without internet access.",
       "type": "text",
       "translationPrefix": "goal_09.content.#8"
     },
@@ -125,12 +125,12 @@
       "translationPrefix": "goal_09.content.#12"
     },
     {
-      "text": "Women’s lower use of mobile internet is driven by several persistent barriers, including the high cost of mobile devices, limited literacy and digital skills, safety and security concerns, and in some cases low awareness of mobile internet. While these are challenges faced by both men and women, women are oftentimes affected more strongly than men due to [emphasis: structural inequalities in income, education, and employment], which make devices less affordable and digital skills harder to acquire. In some settings, [emphasis: restrictive social norms and lack of family approval further limit women’s ability to access and use mobile internet], highlighting how economic, educational, and social factors together contribute to the gender gap in internet use.<span style=\"background-color: rgb(204,204,204);\">[reference: gnd3]</span> ",
+      "text": "The high cost of mobile devices, limited literacy and digital skills, and in some cases low awareness of mobile internet are several persistent challenges which limit internet use. While these are faced by both men and women, [emphasis: women are oftentimes more affected than men by barriers to internet use due to structural inequalities in income, education, and employment], which make devices less affordable and digital skills harder to acquire. In some settings, restrictive social norms and lack of family approval further limit women’s ability to access and use mobile internet. ",
       "type": "text",
       "translationPrefix": "goal_09.content.#13"
     },
     {
-      "text": "These gender disparities exclude women from many economic, educational, and social opportunities offered by digital technologies.",
+      "text": "Moreover, legitimate  safety and security concerns exist about the risks some forms of internet use pose to youth, especially girls.<span style=\"background-color: rgb(204,204,204);\">[reference: gnd4] [reference: gnd5] [reference: gnd6] </span> Together, many economic, educational, social, and security factors contribute to the gender gap in internet use.<span style=\"background-color: rgb(204,204,204);\">[reference: gnd3] </span>These gender disparities exclude women from many economic, educational, and social opportunities offered by digital technologies.",
       "type": "text",
       "translationPrefix": "goal_09.content.#14"
     },
@@ -156,7 +156,7 @@
       "translationPrefix": "goal_09.content.#16"
     },
     {
-      "text": "Expanding network coverage and internet usage, especially in poorer countries, is also one of the key aims under the Sustainable Development Goals framework (targets 9.c, 17.6 and 17.8).",
+      "text": "Expanding network coverage and internet usage, especially in poorer countries, is also one of the key targets under the Sustainable Development Goals framework (targets 9.c, 17.6 and 17.8).",
       "type": "text",
       "translationPrefix": "goal_09.content.#17"
     },
@@ -166,7 +166,7 @@
       "translationPrefix": "goal_09.content.#18"
     },
     {
-      "text": "The chart below shows, by country, the change in internet access levels between 2015 and 2023. It also depicts, using transparent arrows, where the countries would have been, if they had followed the typical pace of progress since 2015 (see more details about how this is calculated here). This allows us to see which countries have progressed much more than would have been expected, considering their starting point.  You can explore different aspects of progress measurement through the [emphasis: progress dashboard]. ",
+      "text": "The chart below shows, by country, the change in internet access levels between 2015 and 2023. It also depicts, using transparent arrows, where the countries would have been, if they had followed the typical pace of progress since 2015 (see more details about how this is calculated here). This allows us to see which countries have progressed faster than expected, considering their access levels in 2015.  You can explore further details here. ",
       "type": "text",
       "translationPrefix": "goal_09.content.#19"
     },
@@ -192,7 +192,7 @@
         {
           "type": "scene",
           "id": "progress2 ",
-          "text": "Countries like [emphasis: Cambodia ]and [emphasis: Kiribati ]have made much more progress by 2023 in increasing internet usage than would have been expected based on their access levels in 2015. In Cambodia, internet access levels rose from less than 7 percent to over 60 percent of the population. Kiribati also had a remarkable performance, moving from only 15 percent of the population accessing the internet in 2015 to more than 88 percent by 2023.",
+          "text": "Countries like [emphasis: Cambodia ]and the[emphasis:  Kyrgyz Republic ]have made much more progress by 2024 in increasing internet usage than would have been expected based on their access levels in 2015. In Cambodia, internet access levels rose from less than 7 percent to over 68 percent of the population. The Kyrgyz Republic also had a remarkable performance, moving from 30 percent of the population accessing the internet in 2015 to 92 percent by 2024.",
           "translationPrefix": "goal_09.content.#20.scenes.#1"
         }
       ],
@@ -221,11 +221,11 @@
     {
       "type": "vis",
       "graphic": "image",
-      "title": "Illustration placeholder: Fixed vs. Mobile Broadband",
+      "title": "Fixed vs. Mobile Broadband",
       "subtitle": "",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
-      "filename": "sdg09/illo-fixed-mobile-broadband.png",
+      "filename": "sdg09/illo-fixed-mobile-broadband.jpg",
       "translationPrefix": "goal_09.content.#25"
     },
     {
@@ -249,6 +249,8 @@
       "y_axis_units": "per 100 people",
       "more_fixed": "More fixed broadband",
       "more_mobile": "More mobile broadband",
+      "fixed_tooltip": "Fixed:",
+      "mobile_tooltip": "Mobile:",
       "source": "International Telecommunication Union, ITU DataHub. Retrieved from Data360 (WB_WDI_IT_NET_BBND_P2, ITU_DH_ACT_MOB_PER_100)",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
@@ -296,11 +298,11 @@
     {
       "type": "vis",
       "graphic": "image",
-      "title": "From 1G to 5G: The Progression of Mobile Technology",
-      "subtitle": "",
+      "title": "From 1G to 5G",
+      "subtitle": "The Progression of Mobile Technology",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
-      "filename": "sdg09/illo-network-evolution.png",
+      "filename": "sdg09/illo-network-evolution.jpg",
       "translationPrefix": "goal_09.content.#32"
     },
     {
@@ -380,12 +382,12 @@
       "type": "vis",
       "graphic": "speed_test",
       "title": "High income countries enjoy high speed internet",
-      "subtitle": "Median country download speeds (mbps), fixed broadband",
+      "subtitle": "Median country download speeds (mbps)",
       "fixed": "Fixed broadband",
       "mobile": "Mobile broadband",
       "mbps": "Megabit per second",
       "restart": "Restart",
-      "source": "Speedtest Global Index (to add date of retrieval)",
+      "source": "Speedtest Global Index (February 2026)",
       "visdescription": "Describe what the visualization shows",
       "theme": "light",
       "data_download": "09.data.speedtest.csv",
@@ -526,6 +528,9 @@
     "gnd1": "International Telecommunication Union. (2024). ITU Facts and Figures 2024. ITU. https://www.itu.int/itu-d/reports/statistics/facts-figures-2024/",
     "gnd2": "Singh, Sumanjeet, Kumar Rahul, Minakshi Paliwal, Insha Ahad Wani, and Sameeksha Suri. 2025. “Gendering the Digital Divide: A Systematic Review of Women’s Digital Inclusion Challenges and Emerging Research Directions.” Digital Technology & Society 4 (4): 503.",
     "gnd3": "GSMA. <a href=\"https://www.gsma.com/wp-content/uploads/2025/12/The-Mobile-Gender-Gap-Report-2025.pdf\" target=\"_blank\">The Mobile Gender Gap Report 2025</a>",
+    "gnd4": "Donati, D., Durante, R., Sobbrio, F., & Zejcirovic, D. (2022). Lost in the net? Broadband internet and youth mental health. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3949645",
+    "gnd5": "<span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\">Golin, M. (2022). The effect of broadband Internet on the gender gap in mental health: Evidence from Germany. Health Economics, 31(S2), 6–21. </span><a href=\"https://doi.org/10.1002/hec.4570\" target=\"_blank\">https://doi.org/10.1002/hec.4570</a>",
+    "gnd6": "Esther Arenas-Arroyo, Daniel Fernandez-Kranz, Natalia Nollenberger,",
     "mrbs1": "International Telecommunication Union. <a href=\"https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-subscriptions/\" target=\"_blank\">5G subscriptions already represent more than one-third of all mobile broadband subscriptions</a>",
     "translationPrefix": "goal_09.references"
   },
