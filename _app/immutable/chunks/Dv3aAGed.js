@@ -1,1 +1,0 @@
-function u(n){return n}function c(n){return n<.5?4*n*n*n:.5*Math.pow(2*n-2,3)+1}function r(n){const t=n-1;return t*t*t+1}function a(n){const t=Math.cos(n*Math.PI*.5);return Math.abs(t)<1e-14?1:1-t}export{r as a,c,u as l,a as s};

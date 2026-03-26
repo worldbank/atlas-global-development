@@ -206,7 +206,7 @@
     },
     {
       "type": "vis",
-      "graphic": "poverty_projections",
+      "graphic": "basic_scatterplot",
       "title": "Global poverty could increase if current trends continue",
       "subtitle": "Past values and projections",
       "textParagraph": "If all countries make progress at Korea’s pace, global extreme poverty would be reduced to 1.5% by 2050. Yet copying Korea's trajectory will be difficult. If countries manage to make progress at the pace of Brazil, Tunisia, or Turkey, there will still be modest declines, while if they make progress at the speed typically observed since 1950, there will still be around 8% poverty by 2050. Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed.]",
