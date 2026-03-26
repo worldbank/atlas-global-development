@@ -64,9 +64,10 @@
       "labor_force": "Labor force survey",
       "agriculture": "Agriculture survey",
       "business": "Business survey",
-      "x_axis_title": "Age of most recent survey",
-      "x_axis_units": "years",
+      "x_axis_title": "← Age of most recent survey (years) →",
+      "years": "years",
       "x_axis_title_bottom": "Year of most recent survey",
+      "medianLabel": "Median:",
       "source": "World Bank Statistical Performance Indicators (SPI), [202511]",
       "visdescription": "",
       "visSize": "default",
@@ -154,26 +155,48 @@
       "translationPrefix": "goal_17.content.#15"
     },
     {
-      "type": "vis",
+      "type": "scroller",
       "graphic": "missing_children_data_waffles",
       "title": "Millions of children are missing key data",
       "subtitle": "",
       "source": "World Bank. Learning assessment data is from the World Bank’s Learning Poverty and Country Learning Outcomes database. Stunting data availability is from the UNICEF/WHO/The World Bank: Joint child malnutrition estimates (JME) database. Birth registration data is from the UNSD Population and Vital Statistics Report",
-      "square_represents": "Every square represents 1 million children",
+      "square_represents": "1 million children",
       "birth_reg": "Birth registration, children under 5",
-      "birth_reg_label": "162 million",
       "stunting": "Stunting, children under 5",
-      "stunting_label": "200 million",
       "learn_assess": "Learning assessment, children age 5-14",
-      "learn_assess_label": "777 million",
       "with_data": "With data",
       "note": "Availability of data between 2019 and 2024 for the following indicators: Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age), ",
       "visdescription": "Describe what the visualization shows",
-      "theme": "light (alternatively: dark)",
       "data_download": "17.data.missing_children_data.zip",
       "data": "16LO3tJWmK2Uwznl1-PxydYvqen5-rgn6zhUY2cygRfs",
       "keyFact": "777 million",
       "keyFactLabel": "children live in a country missing a recent internationally comparable learning assessment.",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "birth_registration",
+          "text": "Around [emphasis: 162 million children] under 5 are <span style=\"color: rgb(255,255,255); background-color: rgb(47,128,237);\">unaccounted for in birth registries</span>, making up about 30% of all children globally.",
+          "translationPrefix": "goal_17.content.#16.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "birth_registration_regions",
+          "text": "These gaps are concentrated in specific regions. In <span data-color-id=\"cat2\" class=\"cat2\">Sub-Saharan Africa</span>, around half of all children under 5 were never registered at birth.",
+          "translationPrefix": "goal_17.content.#16.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "stunting",
+          "text": "Around [emphasis: 200 million] live in countries with no recent data on child growth needed to measure malnutrition. Stunting data, the primary measure of whether young children are adequately nourished, is missing for more than half of children under 5 in <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>.",
+          "translationPrefix": "goal_17.content.#16.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "learn_assess",
+          "text": "Around [emphasis: 777 million children] between 7 and 14, roughly half of all children that age, live in countries with no comparable learning assessment in the past five years. More than half of children in <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span> have no comparable data on whether they can read or understand basic math at age-appropriate levels.",
+          "translationPrefix": "goal_17.content.#16.scenes.#3"
+        }
+      ],
       "translationPrefix": "goal_17.content.#16"
     },
     {
@@ -227,7 +250,7 @@
         {
           "type": "scene",
           "id": "fourth_quintile",
-          "text": "In the next quintile (60th–80th percentile), the composition shifts: <span data-color-id=\"UMC\" class=\"UMC\">upper-middle-income economies make up over half</span>, and <span data-color-id=\"LMC\" class=\"LMC\">lower-middle-income economies</span> account for about 16% – evidence that strong statistical performance extends well beyond high-income economies.<span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\"></span>",
+          "text": "In the next quintile (60th–80th percentile), the composition shifts: <span data-color-id=\"UMC\" class=\"UMC\">upper-middle-income economies make up over half</span>, and <span data-color-id=\"UMC\" class=\"UMC\">lower-middle-income economies</span> account for about 16% – evidence that strong statistical performance extends well beyond high-income economies.<span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\"></span>",
           "translationPrefix": "goal_17.content.#19.scenes.#3"
         },
         {
