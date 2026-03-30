@@ -4,16 +4,16 @@
       "type": "config",
       "goal": "10",
       "shortTitle": "Inequality",
-      "title": "Income growth ",
-      "abstract": "Most measures of inequality fail to account for overall economic development. The Prosperity Gap tracks both economic progress and its distribution. Although prosperity has improved globally, many economies – particularly in Sub-Saharan Africa – have regressed in recent decades.",
-      "citation": "Lønborg, Jonas Helth, Maarten Lambrechts, and Nishant Yonzan. 2026. “Income growth ",
-      "credits": "Jonas Helth Lønborg & Nishant Yonzan",
+      "title": "Combining income growth with",
+      "abstract": "Most inequality ",
+      "citation": "Lønborg, J H, Lambrechts, M and Yonzan, N. 2026. “Combining income growth with",
+      "credits": "Jonas Helth Lønborg and Nishant Yonzan",
       "inputs": "Christoph Lakner, Maria Eugenia Genoni",
       "visuals": "Maarten Lambrechts",
       "homeFactoidPercent": "80",
       "homeFactoidNumber": "4 in 5",
       "homeFactoidText": "individuals worldwide live below",
-      "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the World was in 1981, making the region roughly 40 years behind the global average"
+      "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the world was in 1981, making the region roughly 40 years behind the global average."
     }
   },
   "11": {
@@ -22,7 +22,7 @@
       "goal": "11",
       "shortTitle": "Urban development",
       "title": "Building productive cities for an urbanizing world",
-      "abstract": "Cities are the engine of global economic growth and offer greater economic opportunity, diversity in jobs, and better infrastructure compared to rural areas. Yet, the benefits of urbanization are not automatic. As urban populations and cities continue to expand, strategic investment in urban planning will be essential to avoid slums and inequality and ensure cities deliver opportunity for all.",
+      "abstract": "Cities are the engine of global economic growth and offer greater economic opportunities, a broader range of employment options, and more extensive infrastructure relative to rural areas. Yet, the benefits of urbanization are not automatic. As urban populations and cities continue to expand, strategic investment in urban planning will be essential to ensure cities deliver opportunity for all.",
       "citation": "todo",
       "credits": "Harris Selod, Divyanshi Wadhwa",
       "inputs": "Benjamin Stewart",
@@ -105,17 +105,17 @@
     "en": {
       "type": "config",
       "goal": "16",
-      "shortTitle": "Artificial Intelligence",
+      "shortTitle": "Artificial Intelligence (AI)",
       "title": "Inequalities in AI use and exposure",
-      "abstract": "AI is reshaping the world, but the digital shift is filtering slowly to the global poor. While wealthy nations race ahead, high costs and a lack of digital skills leave billions behind. In poorer countries, the workplace remains mostly untouched by AI, threatening to turn a technological leap into a permanent global divide",
-      "citation": "Mahler, Daniel Gerszon, Jan Willem Tulp, He Wang, and Michael Weber. 2026. “Inequalities in AI use and exposure” In Atlas of  Global Development 2026,  edited by A. F. Pirlea, D. Wadhwa, D. Mahler, U. Serajuddin, A. Thudt, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004",
-      "credits": "Daniel Gerszon Mahler, He Wang, Michael Weber",
+      "abstract": "AI is reshaping the world, but the digital shift is filtering slowly to the global poor. While wealthy nations race ahead, high costs and a lack of digital skills leave billions behind. In poorer countries, the workplace remains mostly untouched by AI, threatening to turn a technological leap into a permanent global divide.",
+      "citation": "Mahler, D G, Tulp, J W, Wang, H and Weber, M. 2026. “Inequalities in AI use and exposure” In ",
+      "credits": "Daniel Gerszon Mahler, He Wang and Michael Weber",
       "inputs": "David Castillo Parra, Gabriel Demombynes, Holly Krambeck, ",
       "visuals": "Jan Willem Tulp",
       "homeFactoidPercent": "5",
       "homeFactoidNumber": "Only 5%",
       "homeFactoidText": "of people in low-income countries have the digital skills to use AI",
-      "homeTagline": "While high-income nations rapidly integrate AI, stark infrastructural and skills gaps are leaving low-income countries behind"
+      "homeTagline": "While high-income nations rapidly integrate AI, stark infrastructural and skills gaps are leaving low-income countries behind."
     }
   },
   "17": {
@@ -226,7 +226,7 @@
       "citation": "",
       "credits": "Divyanshi Wadhwa, Anna Bonfert",
       "inputs": "Ana Maria Munoz Boudet, Kathleen Beegle",
-      "visuals": "Ændra Rininsland",
+      "visuals": "Ændra Rininsland, Maarten Lambrechts",
       "homeFactoidPercent": "55",
       "homeFactoidNumber": "55%",
       "homeFactoidText": "of women are engaged in income generating work",
@@ -238,11 +238,11 @@
       "type": "config",
       "goal": "dashboard",
       "shortTitle": "Global Progress",
-      "title": "What contributes to the slowdown of global progress?",
-      "abstract": "While the world has witnessed decades of remarkable development progress, this era of advancement is now facing a critical juncture. Global development is currently proceeding at its slowest pace in 75 years, a widespread slowdown impacting crucial areas from poverty reduction and life expectancy to education and women's empowerment. This stall carries immense consequences, leaving millions behind. Explore the data to understand this slowdown and what recent data reveals about progress in countries around the world.",
+      "title": "Tracking Progress in Global Development",
+      "abstract": "After decades of progress, global development has reached a critical phase. Today, progress is taking place at its slowest pace in 75 years. The slowdown is widespread including vital development areas including life expectancy, poverty reduction, education, and women’s empowerment. Explore the data to see how progress is unfolding across countries worldwide.",
       "citation": "Lambrechts, M, Mahler D G, Thudt, A, and Wadhwa, D. 2026. “Global progress is grinding to a halt.” In",
       "credits": "Daniel Gerszon Mahler and Divyanshi Wadhwa ",
-      "inputs": "",
+      "inputs": "Nishant Yonzan",
       "visuals": "Alice Thudt and Maarten Lambrechts",
       "homeFactoidPercent": "58",
       "homeFactoidNumber": "15 of 26",
@@ -282,7 +282,7 @@
       "homeFactoidPercent": "25",
       "homeFactoidNumber": "1 in 4",
       "homeFactoidText": "people are not using the internet",
-      "homeTagline": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal"
+      "homeTagline": "Internet access has grown at remarkable speed, yet millions of people, especially in poorer countries, are still shut out of the digital economy."
     }
   },
   "progress": {
@@ -344,14 +344,14 @@
       "title": "Access to electricity: who remains without power?",
       "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to extend electricity to  300 million more people in Africa by 2030.",
       "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
-      "credits": "todo",
-      "inputs": "todo",
+      "credits": "Haruna Kashiwase and Tony Fujs",
+      "inputs": "Sandeep Kohli, Patrick Rugwizangoga",
       "visuals": "Maarten Lambrechts",
       "locale": "en",
-      "homeFactoidPercent": "90",
-      "homeFactoidNumber": "9 in 10",
-      "homeFactoidText": "people without access to electricity live in Sub-Saharan Africa",
-      "homeTagline": "While most regions have achieved near universal access over the past decades, Sub-Saharan still lags behind in spite of non trivial progress"
+      "homeFactoidPercent": "53",
+      "homeFactoidNumber": "1 in 2",
+      "homeFactoidText": "people in Sub-Saharan Africa live without electricity today",
+      "homeTagline": "Global electricity access has expanded steadily over the past two decades, yet millions in Sub-Saharan Africa's rural areas remain left behind."
     }
   },
   "ID4D": {

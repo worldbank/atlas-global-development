@@ -12,7 +12,7 @@
     "homeFactoidPercent": "25",
     "homeFactoidNumber": "1 in 4",
     "homeFactoidText": "people are not using the internet",
-    "homeTagline": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal",
+    "homeTagline": "Internet access has grown at remarkable speed, yet millions of people, especially in poorer countries, are still shut out of the digital economy.",
     "translationPrefix": "goal_09.config"
   },
   "content": [
@@ -61,8 +61,8 @@
       "data": "1EhTY4fTDlnuVTNwNWXAGQlrE-4AWURvtUDYEWySz8QU",
       "source": "<a href=\"https://www.itu.int/en/ITU-D/Statistics/pages/stat/default.aspx\" target=\"_blank\">International Telecommunications Union</a> (ITU). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/IT.NET.USER.ZS\" target=\"_blank\">IT.NET.USER.ZS</a>) ",
       "note": "",
-      "keyFact": "36%",
-      "keyFactLabel": "of people in Sub-Saharan Africa use the internet",
+      "keyFact": "1 in 4",
+      "keyFactLabel": "people are not using the internet",
       "scenes": [
         {
           "type": "scene",
@@ -256,8 +256,6 @@
       "visSize": "default",
       "data_download": "09.data.mobile_fixed_broadband_subscriptions.zip",
       "data": "1L-yEyxkQMrc5MA5gSNTjxlmQtHCpgfZtG1cddhgW7DE",
-      "keyFact": "160 per 100 ",
-      "keyFactLabel": "active mobile broadband subscriptions per 100 people in high income countries",
       "scenes": [
         {
           "type": "scene",
@@ -325,6 +323,8 @@
       "visSize": "fullScreen",
       "data_download": "09.data.network_coverages.csv",
       "data": "1USKTFa0rwEekfOuqWWCmLTBqRJW3qlcbbfkNJimxD5Q",
+      "keyFact": "89%",
+      "keyFactLabel": "Of people living in Sub-Saharan Africa are not covered by a 5G network",
       "scenes": [
         {
           "type": "scene",
@@ -514,22 +514,21 @@
     "5gneth": "GSMA. <a href=\"https://www.gsma.com/5ghub/5ghealthcare/\" target=\"_blank\">How 5G is Transforming Healthcare</a>. ",
     "fxb1": "ITU. 2020. <a href=\"https://www.itu.int/en/ITU-D/Statistics/Pages/publications/handbook.aspx\" target=\"_blank\">Handbook for the Collection of Administrative Data on Telecommunications/ICT</a>",
     "fxb2": "World Bank. 2024. <a href=\"https://doi.org/10.1596/978-1-4648-2049-6\" target=\"_blank\">Digital Progress and Trends Report 2023</a>. Washington, DC: World Bank. ",
-    "mobcost1": "International Monetary Fund. (2023). Estimating digital infrastructure investment needs to achieve universal broadband (IMF Working Paper No. 2023/027). https://doi.org/10.5089/9798400233623.001.A001",
-    "infr1": "International Telecommunication Union. (2021). 21st century financing models for bridging broadband connectivity gaps. ITU.",
-    "infr3": "International Telecommunication Union. (2023). From electricity grid to broadband Internet: Sustainable and innovative power solutions for rural connectivity. https://www.itu.int/hub/publication/d-tnd-09-2023-01/",
-    "rurinf1": "Vannesya Harahap, Linda M. Kamp, Jolien Ubacht. A decision support scheme for solving the mobile coverage gap in rural areas in developing countries – Demonstrated with a case in Indonesia, Technological Forecasting and Social Change, Volume 207, 2024, 123600, ISSN 0040-1625, https://doi.org/10.1016/j.techfore.2024.123600",
-    "spd1": "Briglauer, W., Krämer, J., & Palan, N. (2024). Socioeconomic benefits of high-speed broadband availability and service adoption: A survey. Telecommunications Policy, 48(7), Article 102808. https://doi.org/10.1016/j.telpol.2024.102808",
-    "spd2": "O'Shea, Amy & Howren, M. & Mulligan, Kailey & Haraldsson, Bjarni & Shahnazi, Ariana & Kaboli, Peter. (2023). Quantifying the Digital Divide: Associations of Broadband Internet with Tele-mental Health Access Before and During the COVID-19 Pandemic. Journal of General Internal Medicine. 38. 10.1007/s11606-023-08120-8. ",
-    "spd3": "Jialing Chen, Jiancheng Wang, The impact of broadband speed on innovation: City-level evidence from China, Heliyon, Volume 9, Issue 1, 2023, e12692, ISSN 2405-8440,",
-    "rur1": "Olson, K. M., Phillips, A., Smyth, J. D., & Stenger, R. (2025). The urban–rural digital divide in Internet access and online activities during the COVID-19 pandemic. Rural Sociology, 90, Article e70012. https://doi.org/10.1111/ruso.70012",
-    "brzst1": "Calculated using geolocated coordinates for health centers, roads and population estimates. ",
+    "mobcost1": "Edward Oughton. 2023. <a href=\"https://doi.org/10.5089/9798400233623.001\" target=\"_blank\">Estimating Digital Infrastructure Investment Needs to Achieve Universal Broadband</a>. IMF Working Papers",
+    "infr1": "International Telecommunication Union. 2021. <a href=\"https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.24-2021-PDF-E.pdf\" target=\"_blank\">21st century financing models for bridging broadband connectivity gaps</a>.",
+    "infr3": "International Telecommunication Union. 2023. <a href=\"https://www.itu.int/hub/publication/d-tnd-09-2023-01/\" target=\"_blank\">From electricity grid to broadband Internet: Sustainable and innovative power solutions for rural connectivity</a>. ",
+    "rurinf1": "Vannesya Harahap, Linda M. Kamp, Jolien Ubacht. 2024. <a href=\"https://doi.org/10.1016/j.techfore.2024.123600\" target=\"_blank\">A decision support scheme for solving the mobile coverage gap in rural areas in developing countries – Demonstrated with a case in Indonesia</a>. Technological Forecasting and Social Change, Volume 207, ISSN 0040-1625. ",
+    "spd1": "Briglauer, W., Krämer, J., & Palan, N. 2024. <a href=\"https://doi.org/10.1016/j.telpol.2024.102808\" target=\"_blank\">Socioeconomic benefits of high-speed broadband availability and service adoption: A survey</a>. Telecommunications Policy, 48(7), Article 102808.",
+    "spd2": "O'Shea, Amy & Howren, M. & Mulligan, Kailey & Haraldsson, Bjarni & Shahnazi, Ariana & Kaboli, Peter. 2023. <a href=\"https://doi.org/10.1007/s11606-023-08120-8\" target=\"_blank\">Quantifying the Digital Divide: Associations of Broadband Internet with Tele-mental Health Access Before and During the COVID-19 Pandemic</a>. Journal of General Internal Medicine. 38. ",
+    "spd3": "Jialing Chen, Jiancheng Wang, <a href=\"https://doi.org/10.1016/j.heliyon.2022.e12692\" target=\"_blank\">The impact of broadband speed on innovation: City-level evidence from China, Heliyon</a>, Volume 9, Issue 1, 2023, e12692, ISSN 2405-8440",
+    "rur1": "Olson, K. M., Phillips, A., Smyth, J. D., & Stenger, R. 2025.<a href=\"https://doi.org/10.1111/ruso.70012\" target=\"_blank\"> The urban–rural digital divide in Internet access and online activities during the COVID-19 pandemic</a>. Rural Sociology, 90, Article e70012. ",
     "devaf1": "Average price smartphone, internet access enabled.",
     "devaf2": "Alliance for Affordable Internet (2022). 2022 prices and affordability of smartphones and feature phones by country [database]. Retrieved from <a href=\"https://a4ai.org/research/device-pricing-2022/\" target=\"_blank\">https://a4ai.org/research/device-pricing-2022/</a>",
-    "gnd1": "International Telecommunication Union. (2024). ITU Facts and Figures 2024. ITU. https://www.itu.int/itu-d/reports/statistics/facts-figures-2024/",
-    "gnd2": "Singh, Sumanjeet, Kumar Rahul, Minakshi Paliwal, Insha Ahad Wani, and Sameeksha Suri. 2025. “Gendering the Digital Divide: A Systematic Review of Women’s Digital Inclusion Challenges and Emerging Research Directions.” Digital Technology & Society 4 (4): 503.",
+    "gnd1": "International Telecommunication Union. 2024. <a href=\"https://www.itu.int/itu-d/reports/statistics/facts-figures-2024/\" target=\"_blank\">ITU Facts and Figures 2024</a>. ",
+    "gnd2": "Singh, Sumanjeet, Kumar Rahul, Minakshi Paliwal, Insha Ahad Wani, and Sameeksha Suri. 2025. <a href=\"https://doi.org/10.1108/DTS-04-2025-0083\" target=\"_blank\">Gendering the Digital Divide: A Systematic Review of Women’s Digital Inclusion Challenges and Emerging Research Directions</a>. Digital Technology & Society 4 (4): 503.",
     "gnd3": "GSMA. <a href=\"https://www.gsma.com/wp-content/uploads/2025/12/The-Mobile-Gender-Gap-Report-2025.pdf\" target=\"_blank\">The Mobile Gender Gap Report 2025</a>",
-    "gnd4": "Donati, D., Durante, R., Sobbrio, F., & Zejcirovic, D. (2022). Lost in the net? Broadband internet and youth mental health. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3949645",
-    "gnd5": "<span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\">Golin, M. (2022). The effect of broadband Internet on the gender gap in mental health: Evidence from Germany. Health Economics, 31(S2), 6–21. </span><a href=\"https://doi.org/10.1002/hec.4570\" target=\"_blank\">https://doi.org/10.1002/hec.4570</a>",
+    "gnd4": "Donati, D., Durante, R., Sobbrio, F., & Zejcirovic, D. 2022.<a href=\"https://doi.org/10.2139/ssrn.3949645\" target=\"_blank\"> Lost in the net? Broadband internet and youth mental health</a>. SSRN Electronic Journal. ",
+    "gnd5": "<span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\">Golin, M. (2022). </span><a href=\"https://doi.org/10.1002/hec.4570\" target=\"_blank\">The effect of broadband Internet on the gender gap in mental health: Evidence from Germany</a><span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\">. Health Economics, 31(S2), 6–21. </span>",
     "gnd6": "Esther Arenas-Arroyo, Daniel Fernandez-Kranz, Natalia Nollenberger,",
     "mrbs1": "International Telecommunication Union. <a href=\"https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-subscriptions/\" target=\"_blank\">5G subscriptions already represent more than one-third of all mobile broadband subscriptions</a>",
     "translationPrefix": "goal_09.references"

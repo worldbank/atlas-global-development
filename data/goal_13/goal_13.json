@@ -81,17 +81,15 @@
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
       "title": "Exposure to pluvial, fluvial and coastal floods",
-      "subtitle": "Area exposed to floods and share of population exposed to floods",
+      "subtitle": "Area and share of population exposed to floods with an annual probability of more than 1% to experience flooding >50 cm inundation depth",
       "source": "<a href=\"https://planetarycomputer.microsoft.com/dataset/deltares-floods\" target=\"_blank\">Deltares</a>, <a href=\"https://www.fathom.global/product/global-flood-map/\" target=\"_blank\">Fathom</a>, Hill et al. [reference: WB2]",
       "visdescription": "Share of population exposed to floods and location of areas exposed to flood risk",
       "textParagraph": "",
-      "legendImpactDataDescription": "Area with annual probability of more than 1% to experience flooding >50 cm inundation depth",
       "weatherEventToggleText": "Exposed areas",
       "visSize": "fullScreen",
       "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
-      "bbox1": "2.665901,50.625726,8.200521,53.757465",
       "scenes": [
         {
           "type": "scene",
@@ -123,17 +121,15 @@
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
       "title": "Exposure to agricultural drought",
-      "subtitle": "Share of population exposed to agricultural droughts and location of areas exposed to agricultural drought",
+      "subtitle": "Areas and share of population exposed to drought events in the last 40 years with greater than 30 percent of cropland or pasture lost",
       "source": "<a href=\"https://www.fao.org/giews/earthobservation/asis/index_1.jsp?lang=en\" target=\"_blank\">Food and Agriculture Organization of the United Nations</a>, Hill et al. [reference: WB2]",
       "visdescription": "",
       "textParagraph": "",
-      "legendImpactDataDescription": "Have experienced drought event in the last 40 years with greater than 30 percent of cropland or pasture lost",
       "weatherEventToggleText": "Exposed areas",
       "visSize": "fullScreen",
       "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
-      "bbox1": "9.667969,-36.738884,41.660156,-14.859850",
       "scenes": [
         {
           "type": "scene",
@@ -170,17 +166,15 @@
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
       "title": "Exposure to cyclones",
-      "subtitle": "Share of population exposed to cyclones and location of areas exposed to cyclones",
+      "subtitle": "Area and share of population exposed to a category 2 or higher cyclone in the last 100 years",
       "source": "STORM [reference: Bloemendaal1], Hill et al. [reference: WB2]",
       "visdescription": "",
       "textParagraph": "",
       "visSize": "fullScreen",
       "disableScreenshot": "true",
-      "legendImpactDataDescription": "Have experienced a category 2 or higher cyclone in the last 100 years",
       "weatherEventToggleText": "Exposed areas",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
-      "bbox1": "-99.272461,7.493196,-59.018555,32.101190",
       "scenes": [
         {
           "type": "scene",
@@ -204,7 +198,7 @@
       "translationPrefix": "goal_13.content.#16"
     },
     {
-      "text": "[emphasis: <span data-color-id=\"cat6\" class=\"cat6\">Heatwaves</span>], defined as prolonged periods of unusually high temperatures, impact human health, economies, infrastructure and agriculture.  Heatwaves increase the risk of dehydration, heat exhaustion and heatstroke, worsen cardiovascular and respiratory diseases, and significantly raise mortality—especially among older adults and people with pre-existing conditions. Heatwaves reduce labor productivity—particularly in outdoor and non-air-conditioned sectors such as agriculture, construction, and manufacturing—while increasing energy demand, infrastructure stress, and healthcare costs, leading to economic losses.",
+      "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Heatwaves</span>], defined as prolonged periods of unusually high temperatures, impact human health, economies, infrastructure and agriculture.  Heatwaves increase the risk of dehydration, heat exhaustion and heatstroke, worsen cardiovascular and respiratory diseases, and significantly raise mortality—especially among older adults and people with pre-existing conditions. Heatwaves reduce labor productivity—particularly in outdoor and non-air-conditioned sectors such as agriculture, construction, and manufacturing—while increasing energy demand, infrastructure stress, and healthcare costs, leading to economic losses.",
       "type": "text",
       "translationPrefix": "goal_13.content.#17"
     },
@@ -212,7 +206,7 @@
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
       "title": "Exposure to heatwaves",
-      "subtitle": "Share of population exposed to heatwaves and location of areas exposed to heatwaves",
+      "subtitle": "Areas and share of population exposed to a heatwave with greater than 33 degree Celsius temperatures in the last 100 years",
       "source": "<a href=\"https://climateknowledgeportal.worldbank.org/\" target=\"_blank\">World Bank Climate Change Portal</a>,  Hill et al. [reference: WB2]",
       "visdescription": "",
       "textParagraph": "",
@@ -220,19 +214,17 @@
       "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
       "data": "1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI",
-      "legendImpactDataDescription": "Have experienced a heatwave with greater than 33 degree Celsius temperatures in the last 100 years",
       "weatherEventToggleText": "Exposed areas",
-      "bbox1": "-304.114609,7.363488,-238.548203,45.460853",
       "scenes": [
         {
           "type": "scene",
           "id": "heatwave__sat__wld",
-          "text": "The effect heat has on the human body depends on other factors, such as humidity and wind. Therefore, we use the 5-day average maximum Wet-Bulb Globe Temperature (WBGT)[footnote:  Wet-Bulb Globe Temperature (WBGT) is a composite heat index that estimates heat stress on the human body by combining air temperature, humidity, wind speed, sun angle, and solar radiation. It integrates measurements from a wet-bulb thermometer, a dry-bulb thermometer, and a black globe thermometer to reflect both moisture and radiant heat. [reference: WBGT]], which represents the effect of temperature on the human body better, to determine the population exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>]. If the WBGT exceeds 33 degrees Celsius, it becomes difficult for healthy humans to maintain a normal body temperature leading to increased mortality and hospitalizations. The capacity to do physical work is halved.[reference: WB2][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\"></span>]",
+          "text": "The effect heat has on the human body depends on other factors, such as humidity and wind. Therefore, we use the 5-day average maximum Wet-Bulb Globe Temperature (WBGT), which represents the effect of temperature on the human body better, to determine the population exposed to [emphasis: <span data-color-id=\"cat8\" class=\"cat8\">heatwaves</span>]. If the WBGT exceeds 33 degrees Celsius, it becomes difficult for healthy humans to maintain a normal body temperature leading to increased mortality and hospitalizations. The capacity to do physical work is also halved.[reference: WB2][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\"></span>]",
           "translationPrefix": "goal_13.content.#18.scenes.#0"
         },
         {
           "type": "scene",
-          "id": "heatwave__sat__chn",
+          "id": "heatwave__sat__bbox",
           "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Heatwaves</span>] are mostly prevalent in the tropics. More than three quarters of the global population exposed to heatwaves live in four populous countries in Asia: India, China, Pakistan, Bangladesh. ",
           "translationPrefix": "goal_13.content.#18.scenes.#1"
         },
@@ -257,7 +249,7 @@
       "subtitle": "Share of population exposed to at least one climate hazard and location of areas exposed to each of the climate hazards",
       "source": "Hill et al. [reference: WB2]",
       "visdescription": "Describe what the visualization shows",
-      "textParagraph": "The exposure to the climate hazards [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>],[emphasis:  ][emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural droughts</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>][emphasis:  ]and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>] depends on the geographical location of a country with 44 countries having their entire population exposed to at least one climate hazard.",
+      "textParagraph": "The exposure to the climate hazards floods, agricultural droughts, cyclones and heatwaves depends on the geographical location of a country with 44 countries having their entire population exposed to at least one climate hazard.",
       "visSize": "fullScreen",
       "disableScreenshot": "true",
       "data_download": "20260130_hazard_data_prepared.csv",
@@ -266,8 +258,10 @@
       "layer_toggle_label_on": "Total",
       "layer_toggle_label_off": "Share",
       "scale_title": "Percentage of population exposed to climate effect",
-      "scale_title_pop": "Total number of people exposed to climate effect",
-      "scale_title_sha": "Percentage of population exposed to climate effect",
+      "scale_title_pop": "Total number of people exposed to climate effects",
+      "button_total": "Total population",
+      "button_share": "Share of population",
+      "scale_title_sha": "Percentage of population exposed to climate effects",
       "keyFact": "3 out of 5",
       "keyFactLabel": "People globally are exposed to climate-related hazards",
       "translationPrefix": "goal_13.content.#20"

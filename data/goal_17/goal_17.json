@@ -45,12 +45,12 @@
       "translationPrefix": "goal_17.content.#4"
     },
     {
-      "text": "Take data on unemployment for instance. For the average low- and middle-income country the latest labor force survey is from 2019 - from before the COVID-19 pandemic  - and the most recent poverty survey is from  2020. For health surveys, measuring everything from child vaccinations to malnourishment and access to healthcare , the latest survey is from 2015 - that is, more than 10 years ago.",
+      "text": "Take data on unemployment for instance. For the average low- and middle-income country the latest labor force survey is from 2019 and the most recent poverty survey is from 2020. For health surveys, measuring everything from child vaccinations to malnourishment and access to healthcare, the latest survey is from 2015 - that is, more than 10 years ago. Most of the surveys informing our current understanding of labor markets and public health are from before the COVID-19 pandemic.",
       "type": "text",
       "translationPrefix": "goal_17.content.#5"
     },
     {
-      "text": "Around 27% of low- and middle-income countries have a labor force survey, health survey, business survey, agricultural survey, [emphasis: and ]a poverty survey that are all more than five years old. Nearly two-thirds of low- and middle-income countries have 4 out of 5 of those surveys that are more than five years old. If you are trying to make data-informed  decisions, you are charting the nation's future using a picture of the country that is very likely outdated.",
+      "text": "Around 27% of low- and middle-income countries have a labor force survey, health survey, business survey, agricultural survey, and[emphasis:  ]a poverty survey [emphasis: that are all more than five years old]. Nearly two-thirds of low- and middle-income countries have 4 out of 5 of those surveys that are more than five years old. If you are trying to make data-informed  decisions, you are charting the nation's future using a picture of the country that is very likely outdated.",
       "type": "text",
       "translationPrefix": "goal_17.content.#6"
     },
@@ -85,12 +85,15 @@
     {
       "type": "scroller",
       "graphic": "nigeria_poverty_extrapolation",
-      "title": "Nigeria’s rate of extreme poverty (%)",
+      "title": "Nigeria’s rate of extreme poverty",
       "subtitle": "Survey vs extrapolation estimates",
       "survey_2018": "2018 survey",
       "survey_2022": "Actual 2022 survey",
       "extrapolated_2022": "Extrapolated",
       "difference": "7 pp difference ",
+      "difference_pop": "17 million people",
+      "y_axis_title": "Extreme poverty rate",
+      "y_axis_units": "%",
       "source": "Poverty & Inequality Platform (PIP), World Bank",
       "visdescription": "Comparison of extrapolated versus actual survey-based poverty estimates for Nigeria (2018-2022), showing how national accounts-based projections underestimated the true poverty rate revealed by the 2022 household survey.",
       "visSize": "default",
@@ -100,20 +103,26 @@
         {
           "type": "scene",
           "id": "initial_survey",
-          "text": "In 2018, survey estimates revealed that around 34% of Nigerians were in poverty, representing around 71 million people.",
+          "text": "In 2018, survey estimates revealed that around 34% of Nigerians were in extreme poverty, representing around 71 million people.",
           "translationPrefix": "goal_17.content.#9.scenes.#0"
         },
         {
           "type": "scene",
           "id": "extapolation",
-          "text": "Without updated survey data, poverty monitoring between 2018 and 2022 relied on model-based projections. These projections estimated that the poverty rate had remained broadly stable, at approximately 34.8%.",
+          "text": "Without updated survey data, poverty monitoring between 2018 and 2022 relied on <span data-color-id=\"cat8\" class=\"cat8\">model-based projections</span>. These projections estimated that the poverty rate had remained broadly stable, at approximately 34.8%.",
           "translationPrefix": "goal_17.content.#9.scenes.#1"
         },
         {
           "type": "scene",
           "id": "new_survey",
-          "text": "The 2022 survey data revealed a substantially different picture: the actual poverty rate was 41.8%, compared to the projected 34.8%. The 7 percentage point discrepancy corresponds to roughly 17 million additional Nigerians living in extreme poverty, underscoring the limitations of modelling as a substitute for timely household survey data.",
+          "text": "The 2022 survey data revealed a substantially different picture: the actual poverty rate was 41.8%, compared to the projected 34.8%.",
           "translationPrefix": "goal_17.content.#9.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "difference",
+          "text": "The 7 percentage point discrepancy corresponds to [emphasis: roughly 17 million additional Nigerians living in extreme poverty], underscoring the limitations of modelling as a substitute for timely household survey data.",
+          "translationPrefix": "goal_17.content.#9.scenes.#3"
         }
       ],
       "translationPrefix": "goal_17.content.#9"
@@ -137,7 +146,7 @@
       "translationPrefix": "goal_17.content.#12"
     },
     {
-      "text": "Without this data, it is impossible to know how many children there are in a country and whether they are healthy and learning. Without this basic information, how can a government plan where to locate schools and clinics, how many teachers and healthcare staff to hire, or what kind of  remedial programs are needed to address nutrition or skill deficits before they become permanent?  [footnote:  Birth registration data measures the share of children under 5 whose births have been officially recorded with a civil authority. Stunting (low height-for-age) is the primary indicator of chronic undernutrition in children under 5. Learning assessment figures refer to internationally comparable assessments conducted since 2019; more than half of children aged 5–14 in East Asia, South Asia, and Sub-Saharan Africa lack such data. Sources: UNSD Population and Vital Statistics Report; UNICEF/WHO/World Bank Joint Child Malnutrition Estimates; World Bank Learning Poverty and Country Learning Outcomes database.]",
+      "text": "Without this data, it is impossible to know how many children there are in a country and whether they are healthy and learning. Without this basic information, how can a government plan where to locate schools and clinics, how many teachers and healthcare staff to hire, or what kind of remedial programs are needed to address nutrition or skill deficits before they become permanent?  [footnote:  Birth registration data measures the share of children under 5 whose births have been officially recorded with a civil authority. Stunting (low height-for-age) is the primary indicator of chronic undernutrition in children under 5. Learning assessment figures refer to internationally comparable assessments conducted since 2019; more than half of children aged 5–14 in East Asia, South Asia, and Sub-Saharan Africa lack such data. Sources: UNSD Population and Vital Statistics Report; UNICEF/WHO/World Bank Joint Child Malnutrition Estimates; World Bank Learning Poverty and Country Learning Outcomes database.]",
       "type": "text",
       "translationPrefix": "goal_17.content.#13"
     },
@@ -164,7 +173,9 @@
       "birth_reg": "Birth registration, children under 5",
       "stunting": "Stunting, children under 5",
       "learn_assess": "Learning assessment, children age 5-14",
+      "without_data": "Without data",
       "with_data": "With data",
+      "region_legend_title": "Children without data living in",
       "note": "Availability of data between 2019 and 2024 for the following indicators: Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age), ",
       "visdescription": "Describe what the visualization shows",
       "data_download": "17.data.missing_children_data.zip",
@@ -175,7 +186,7 @@
         {
           "type": "scene",
           "id": "birth_registration",
-          "text": "Around [emphasis: 162 million children] under 5 are <span style=\"color: rgb(255,255,255); background-color: rgb(47,128,237);\">unaccounted for in birth registries</span>, making up about 30% of all children globally.",
+          "text": "Around [emphasis: 162 million children] under 5 are <span data-color-id=\"cat8\" class=\"cat8\">unaccounted for in birth registries</span>, making up about 30% of all children globally.",
           "translationPrefix": "goal_17.content.#16.scenes.#0"
         },
         {
@@ -250,7 +261,7 @@
         {
           "type": "scene",
           "id": "fourth_quintile",
-          "text": "In the next quintile (60th–80th percentile), the composition shifts: <span data-color-id=\"UMC\" class=\"UMC\">upper-middle-income economies make up over half</span>, and <span data-color-id=\"UMC\" class=\"UMC\">lower-middle-income economies</span> account for about 16% – evidence that strong statistical performance extends well beyond high-income economies.<span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\"></span>",
+          "text": "In the next quintile (60th–80th percentile), the composition shifts: <span data-color-id=\"UMC\" class=\"UMC\">upper-middle-income economies</span> make up over half, and <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">lower-middle-income economies</span> account for about 16% –evidence that strong statistical performance extends well beyond high-income economies.<span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\"></span>",
           "translationPrefix": "goal_17.content.#19.scenes.#3"
         },
         {

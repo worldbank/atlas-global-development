@@ -6,14 +6,14 @@
     "title": "Access to electricity: who remains without power?",
     "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to extend electricity to  300 million more people in Africa by 2030.",
     "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
-    "credits": "todo",
-    "inputs": "todo",
+    "credits": "Haruna Kashiwase and Tony Fujs",
+    "inputs": "Sandeep Kohli, Patrick Rugwizangoga",
     "visuals": "Maarten Lambrechts",
     "locale": "en",
-    "homeFactoidPercent": "90",
-    "homeFactoidNumber": "9 in 10",
-    "homeFactoidText": "people without access to electricity live in Sub-Saharan Africa",
-    "homeTagline": "While most regions have achieved near universal access over the past decades, Sub-Saharan still lags behind in spite of non trivial progress",
+    "homeFactoidPercent": "53",
+    "homeFactoidNumber": "1 in 2",
+    "homeFactoidText": "people in Sub-Saharan Africa live without electricity today",
+    "homeTagline": "Global electricity access has expanded steadily over the past two decades, yet millions in Sub-Saharan Africa's rural areas remain left behind.",
     "translationPrefix": "goal_07.config"
   },
   "content": [
@@ -58,12 +58,12 @@
       "y_axis_title": "Share of people with access to electricity",
       "y_axis_units": "%",
       "source": "SDG 7.1.1 Electrification Dataset, World Bank (WB). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS\" target=\"_blank\">EG.ELC.ACCS.ZS</a>).",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This chart describes time series trendlines of electricity access by regions",
       "visSize": "default",
       "data_download": "07.data.access_electricity.csv",
       "data": "1bIe4dXEwjeZmnmzX5xP_s2qfg_4WLuU9Ac489xKmYGg",
       "keyFact": "92 %",
-      "keyFactLabel": "of the world’s population had access to electricity in 2023, steadily up from 79% in 2000.",
+      "keyFactLabel": "of the world’s population had access to electricity in 2023, up from 79% in 2000.",
       "scenes": [
         {
           "type": "scene",
@@ -115,7 +115,7 @@
       "source": "Energy Sector Management Assistance Program (ESMAP). <a href=\"https://trackingsdg7.esmap.org/downloads\" target=\"_blank\">SDG 7.1.1 Electrification Dataset</a>.",
       "note": "Regional estimates of the population without access to electricity are calculated by World Bank staff. ",
       "million": "million",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This chart decomposes global access to electricity by regions, zoom in on Sub-Saharan Africa, and decomposes Sub-Saharan Access by country.",
       "visSize": "default",
       "data_download": "07.data.access_electricity_population.zip",
       "data": "1bJryfa5e-tYKOv0f8EBGl4MMBjX-A8prQ_4GxmFb434",
@@ -184,14 +184,14 @@
       "source": "SDG 7.1.1 Electrification Dataset, World Bank (WB). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS\" target=\"_blank\">EG.ELC.ACCS.ZS</a>, <a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS\" target=\"_blank\">EG.ELC.ACCS.RU.ZS</a>, <a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS\" target=\"_blank\">EG.ELC.ACCS.UR.ZS</a>)",
       "urban": "Urban areas",
       "rural": "Rural areas",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This chart shows the difference of access between urban and rural areas in different regions.",
       "visSize": "default",
       "data_download": "07.data.access_electricity_urban_rural.csv",
       "data": "1kx_csJJz33c7bUInxIYVersbmyL68MqVj-KkYKbwqxY",
       "translationPrefix": "goal_07.content.#13"
     },
     {
-      "text": "The persistence of this gap in Sub‑Saharan Africa reflects the higher costs per connection and constraints in affordability among sparsely populated, low‑income rural areas. Connecting homes that are far apart often requires substantial infrastructure investments, and rural households tend to use less electricity than urban households. The underlying economics thus represents a challenge to service extension into remote rural areas. Planning and regulatory shortcomings have also played a role in delaying rural electrification and the wider deployment of off‑grid options [reference: wb_ssa_access].",
+      "text": "The persistence of this gap in Sub‑Saharan Africa reflects the higher costs per connection and constraints in affordability among sparsely populated, low‑income rural areas. Connecting homes that are far apart often requires substantial infrastructure investments, and rural households tend to use less electricity than urban households. The underlying economics thus represents a challenge to service extension into remote rural areas. Planning and regulatory shortcomings have also played a role in delaying rural electrification and the wider deployment of off‑grid options. [reference: wb_ssa_access]",
       "type": "text",
       "translationPrefix": "goal_07.content.#14"
     },
@@ -229,7 +229,7 @@
       "very_fast": "very fast",
       "progress_speed": "Speed of progress",
       "source": "World Bank staff calculations, based on XXXX 2026 (To be added when working paper available)",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This chart shows how the speed of progress in achieving electricity access varies between countries. It focuses on Ethiopia, DRC, and Nigeria.",
       "visSize": "fullScreen",
       "data_download": "07.data.access_electricity_countries.csv",
       "data": "1KfsfMwHprikcb5BU31bNgMErEGV3wj9SbvwRE0Da0Ko",
@@ -275,7 +275,7 @@
       "urban": "Urban areas",
       "rural": "Rural areas",
       "y_axis_units": "%",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This chart shows the trajectory of electricity access between urban and rural areas in Ethiopia, Nigeria, and DRC.",
       "visSize": "default",
       "data_download": "07.data.access_electricity_rural_urban_countries.csv",
       "data": "1FCHgcDNE4aKOtQFAiwgcPd9PD7BNbUXyx7CDFvfS4_g",
@@ -299,7 +299,7 @@
       "title": "Uneven and unreliable access in Nigeria",
       "subtitle": "",
       "source": "World Bank, Development Data Group (DECDG). (2026). Space2Stats (S2S): Subnational Geospatial Indicators (Version 1.0). Washington, DC: World Bank. Available at <a href=\"https://worldbank.github.io/DECAT_Space2Stats/readme.html\" target=\"_blank\">https://worldbank.github.io/DECAT_Space2Stats/readme.html</a> (accessed: 2026‑02‑20). ",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This visualization shows a map of Nightlights in Nigeria as a proxy for electricity access. ",
       "population": "Population",
       "access_electricity": "Access to electricity",
       "bright": "Bright",
@@ -326,7 +326,7 @@
         {
           "type": "scene",
           "id": "nightlights_cities",
-          "text": "[emphasis: Cities appear brighter.] The[emphasis:  ]brightest clusters correspond to major cities such as Lagos, Abuja, and Port Harcourt, where grid access is widespread and power consumption is relatively high. In contrast, vast rural and peri-urban areas appear darker—signaling either a lack of access or unreliable supply.",
+          "text": "[emphasis: Cities appear brighter.] The[emphasis:  ]<span style=\"background-color: rgb(255,248,74);\">brightest clusters</span> correspond to major cities such as Lagos, Abuja, and Port Harcourt, where grid access is widespread and power consumption is relatively high. In contrast, vast rural and peri-urban areas <span style=\"color: rgb(255,255,255); background-color: rgb(147,131,90);\">appear</span> <span style=\"color: rgb(255,255,255); background-color: rgb(0,34,81);\">darker</span>—signaling either a lack of access or unreliable supply.",
           "translationPrefix": "goal_07.content.#24.scenes.#2"
         },
         {
@@ -344,13 +344,13 @@
         {
           "type": "scene",
           "id": "urban_dark",
-          "text": "Filtering out the brightest data points highlights that, even with grid connection, [emphasis: large urban and suburban zones remain underserved].",
+          "text": "Filtering out the <span style=\"background-color: rgb(255,248,74);\">brightest data points</span> highlights that, even when connected to the grid, [emphasis: large urban and suburban zones may remain underserved].",
           "translationPrefix": "goal_07.content.#24.scenes.#5"
         },
         {
           "type": "scene",
           "id": "urban_population_dark",
-          "text": "These are densely populated, suburban settlements that lack highly visible illuminations. This contrast illustrates that, although most urban areas are connected to the grid, access is not yet universal—and [emphasis: grid reliability is far from consistent].",
+          "text": "These are densely populated, suburban settlements that lack highly visible illuminations. This contrast illustrates that, although most urban areas are connected to the grid, quality of access is not yet universal—and [emphasis: grid reliability is far from consistent].",
           "translationPrefix": "goal_07.content.#24.scenes.#6"
         }
       ],
@@ -362,7 +362,7 @@
       "translationPrefix": "goal_07.content.#25"
     },
     {
-      "text": "Similar to Nigeria, electricity access in Ethiopia remains uneven, and urban centers like Addis Ababa and regional capitals benefit from the highest access level through grid connection. In urban centers 92% of the population relied on grid lines as their primary electricity source in 2022 [reference: ethiopia_survey]. But even in urban areas, access is not yet universal, with 5 percent of Ethiopians in urban areas (1.7 million people) not having access to electricity.",
+      "text": "Similar to Nigeria, electricity access in Ethiopia remains uneven, and urban centers like Addis Ababa and regional capitals benefit from the highest access level through grid connection. In urban centers 92 percent of the population relied on grid lines as their primary electricity source in 2022.[reference: ethiopia_survey] But even in urban areas, access is not yet universal, with five percent of Ethiopians in urban areas (1.7 million people) not having access to electricity.",
       "type": "text",
       "translationPrefix": "goal_07.content.#26"
     },
@@ -372,7 +372,7 @@
       "title": "Electricity access progresses in rural Ethiopia",
       "subtitle": "Solar electricity is a key factor of progress in rural areas",
       "source": "Source of the data",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This visualization shows a map of Nightlights in Ethiopia as a proxy for electricity access. It focused on access progress in rural areas.",
       "population": "Population",
       "access_electricity": "Access to electricity",
       "some_light": "Some level of night lights",
@@ -386,26 +386,26 @@
         {
           "type": "scene",
           "id": "nightlights12",
-          "text": "This visual focuses on [emphasis: rural areas only. ]In contrast to urban areas, only few rural areas were connected through the grid in 2012. 75% of the [emphasis: rural population] with access to electricity [emphasis: were solar users] [reference: ethiopia_survey]. ",
+          "text": "Let’s focus on Ethiopia’s [emphasis: rural areas only ](urban areas remain blank).[emphasis:  ]<span style=\"background-color: rgb(129,176,225);\">Some light</span> (weak or strong) was detected in light blue areas, whereas none was detected in <span style=\"color: rgb(255,255,255); background-color: rgb(0,34,81);\">darker areas</span>. The existing or planned grid infrastructure elements are showed as <span data-color-id=\"ECS\" class=\"ECS\">red lines</span> on the maps ",
           "translationPrefix": "goal_07.content.#27.scenes.#0"
         },
         {
           "type": "scene",
           "id": "nightlights12_se",
-          "text": "The [emphasis: south-east of the country] - less densely populated - remained [emphasis: mostly in the dark]",
+          "text": "The [emphasis: south-east of the country] is less densely populated and remained [emphasis: mostly in the dark]",
           "translationPrefix": "goal_07.content.#27.scenes.#1"
         },
         {
           "type": "scene",
           "id": "nightlights23",
-          "text": "The [emphasis: rapid expansion of solar electricity] has been a significant driver of the reduction of the urban-rural access gap discussed above [reference: ethiopia_survey]. It has allowed remote areas to get access to electricity. By 2023, nightlights could be detected in large rural areas of the previously dark south-east of the country. ",
+          "text": "The [emphasis: rapid expansion of solar electricity] has been a significant driver of the reduction of the urban-rural access gap discussed above.[reference: ethiopia_survey] It has allowed remote areas to get access to electricity. By 2023, nightlights could be detected in large rural areas of the previously dark south-east of the country. ",
           "translationPrefix": "goal_07.content.#27.scenes.#2"
         }
       ],
       "translationPrefix": "goal_07.content.#27"
     },
     {
-      "text": "While access reliability may still be an issue  in Ethiopia, significant improvements have been achieved over the past years, with some regions experiencing a  50% decrease in power outages over the period 2019 – 2022. [reference: ethiopia_survey]",
+      "text": "While access reliability may still be an issue  in Ethiopia, significant improvements have been achieved over the past years, with some regions experiencing a  50 percent decrease in power outages over the period 2019 – 2022. [reference: ethiopia_survey]",
       "type": "text",
       "translationPrefix": "goal_07.content.#28"
     },
@@ -438,7 +438,7 @@
     "nigeria_survey": "National Bureau of Statistics, Nigeria. <a href=\"https://microdata.nigerianstat.gov.ng/index.php/catalog/82/related-materials\" target=\"_blank\">2023/24 Nigeria General Household Survey – Panel (Wave 5)</a>. ",
     "nigeria_blog": "World Bank. (2023, December 15). <a href=\"https://www.worldbank.org/en/news/press-release/2023/12/15/nigeria-to-expand-access-to-clean-energy-for-17-5-million-people\" target=\"_blank\">Nigeria to expand access to clean energy for 17.5 million people</a>. World Bank. ",
     "ethiopia_survey": "Ethiopian Statistical Service (ESS) and World Bank. 2023. <a href=\"https://ess.gov.et/download/2021-22-survey-report/\" target=\"_blank\">Ethiopia Socioeconomic Panel Survey (ESPS) Report - Wave 5, 2021/22</a>.",
-    "mission300": "Mission 300: https://www.worldbank.org/en/programs/energizing-africa",
+    "mission300": "Mission 300. <a href=\"https://www.worldbank.org/en/programs/energizing-africa\" target=\"_blank\">https://www.worldbank.org/en/programs/energizing-africa</a> ",
     "wb_ssa_access": "Blimpo, Moussa Pouguinimpo; Cosgove-Davies, Malcolm. Electricity Access in Sub-Saharan Africa : Uptake, Reliability, and Complementary Factors for Economic Impact (English). Africa Development Forum Washington, D.C. : World Bank Group. <a href=\"http://documents.worldbank.org/curated/en/837061552325989473\" target=\"_blank\">http://documents.worldbank.org/curated/en/837061552325989473</a> ",
     "translationPrefix": "goal_07.references"
   },

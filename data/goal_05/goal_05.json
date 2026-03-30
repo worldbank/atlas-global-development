@@ -8,7 +8,7 @@
     "citation": "",
     "credits": "Divyanshi Wadhwa, Anna Bonfert",
     "inputs": "Ana Maria Munoz Boudet, Kathleen Beegle",
-    "visuals": "Ændra Rininsland",
+    "visuals": "Ændra Rininsland, Maarten Lambrechts",
     "homeFactoidPercent": "55",
     "homeFactoidNumber": "55%",
     "homeFactoidText": "of women are engaged in income generating work",
@@ -27,7 +27,7 @@
       "translationPrefix": "goal_05.content.#1"
     },
     {
-      "text": "In simple terms, the labor force includes everyone who works or is actively seeking work.[reference: active-work] Globally, around 8 in 10 men aged 15–64 are part of the labor force.[reference: wdi-lfp] But what about women? Take a guess in the chart below and see how close you come to the actual share.",
+      "text": "In simple terms, the labor force includes everyone who works or is actively seeking work.[reference: active-work] Globally, around 8 in 10 <span data-color-id=\"male\" class=\"male\">men aged 15–64</span> are part of the labor force.[reference: wdi-lfp] But what about <span data-color-id=\"female\" class=\"female\">women</span>? Take a guess in the chart below and see how close you come to the actual share.",
       "type": "text",
       "translationPrefix": "goal_05.content.#2"
     },
@@ -172,7 +172,7 @@
       "translationPrefix": "goal_05.content.#12"
     },
     {
-      "text": "From the 1990s, the Turkish economy underwent a structural transformation, shifting away from agriculture toward industry and services. Many women had worked in agriculture, especially on family farms, but as these shrank, families migrated to cities.[reference: turkey-driver]",
+      "text": "From the 1990s, the Turkish economy underwent a structural transformation, shifting away from agriculture toward industry and services. Many women had worked in <span data-color-id=\"female\" class=\"female\">agriculture</span>, especially on family farms, but as these shrank, families migrated to cities.[reference: turkey-driver]",
       "type": "text",
       "translationPrefix": "goal_05.content.#13"
     },
@@ -182,7 +182,7 @@
       "translationPrefix": "goal_05.content.#14"
     },
     {
-      "text": "As education levels rose, younger generations of women began to join the labor market in greater numbers, finding opportunities in industry and services.[reference: turkey-scd]",
+      "text": "As education levels rose, younger generations of women began to join the labor market in greater numbers, finding opportunities in <span data-color-id=\"NAC\" class=\"NAC\">industry</span> and <span data-color-id=\"NAC\" class=\"NAC\">services</span>.[reference: turkey-scd]",
       "type": "text",
       "translationPrefix": "goal_05.content.#15"
     },
@@ -191,7 +191,7 @@
       "graphic": "sdg5_turkiye_lfp_drivers",
       "title": "Türkiye’s shift from agriculture to services reshaped women’s work",
       "subtitle": "Women’s and men’s share of workforce by economic sector (% of population in the workforce, by gender)",
-      "textParagraph": "Between 1990 and 2020, women in Türkiye increasingly moved out of agriculture as the growing industry and service sectors opened up new work opportunities.",
+      "textParagraph": "Between 1990 and 2020, women in Türkiye increasingly moved out of <span data-color-id=\"SSF\" class=\"SSF\">agriculture</span> as the growing <span data-color-id=\"WLD\" class=\"WLD\">industry</span> and <span data-color-id=\"NAC\" class=\"NAC\">service</span> sectors opened up new work opportunities.",
       "agriculture": "Agriculture",
       "service": "Services",
       "industry": "Industry",
@@ -217,7 +217,7 @@
       "graphic": "sdg5_turkiye_fertility",
       "title": "Türkiye’s fertility rate fell faster than the global average",
       "subtitle": "Fertility rate, total (births per woman)",
-      "textParagraph": "In 1960, Türkiye’s fertility rate was above the global average. This has since steadily declined, reaching the global average in the 1990s and dropping below it by 2000.",
+      "textParagraph": "In 1960, <span data-color-id=\"cat8\" class=\"cat8\">Türkiye’s fertility</span> rate was above the <span data-color-id=\"cat6\" class=\"cat6\">global average</span>. This has since steadily declined, reaching the global average in the 1990s and dropping below it by 2000.",
       "source": "World Population Prospects, United Nations ( UN ), publisher: UN Population Division; Statistical databases and publications from national statistical offices, National statistical offices; Demographic Statistics, Eurostat (ESTAT). Retrieved from World Development Indicators (SP.DYN.TFRT.IN) <a href=\"https://data.worldbank.org/indicator/SP.DYN.TFRT.IN\" target=\"_blank\">https://data.worldbank.org/indicator/SP.DYN.TFRT.IN</a>",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
@@ -240,7 +240,7 @@
       "graphic": "sdg5_turkiye_education",
       "title": "The gender gap in Türkiye’s labor force participation is narrowest in the highest level of education",
       "subtitle": "Labor force participation, by gender and level of education (% of population)",
-      "textParagraph": "At all levels of education in Türkiye, women are less likely than men to work. But the gap narrows among people with advanced degrees.",
+      "textParagraph": "At all levels of education in Türkiye, <span data-color-id=\"female\" class=\"female\">women</span> are less likely than <span data-color-id=\"male\" class=\"male\">men</span> to work. But the gap narrows among people with advanced degrees.",
       "male": "Male",
       "female": "Female",
       "pp": "pp",
@@ -331,7 +331,7 @@
         {
           "type": "scene",
           "id": "scene_4",
-          "text": "This means that only 1 in 10 women hold waged and salaried jobs—half the rate for men, 2 in 10 of whom are  in waged and salaried work. ",
+          "text": "This means that only 1 in 10 women hold <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">waged or salaried</span> jobs—half the rate for men, 2 in 10 of whom are in waged and salaried work. ",
           "translationPrefix": "goal_05.content.#31.scenes.#3"
         }
       ],
@@ -343,7 +343,7 @@
       "translationPrefix": "goal_05.content.#32"
     },
     {
-      "text": "It is not only in Tanzania that vulnerable employment rates among women are high. In many low-income countries, vulnerable employment rates can reach 90%, with women more likely than men to work in vulnerable jobs, particularly those with greater care responsibilities.[reference: vulnerable-employment] ",
+      "text": "It is not only in Tanzania that vulnerable employment rates among women are high. In many <span data-color-id=\"LIC\" class=\"LIC\">low-income</span> countries, vulnerable employment rates can reach 90%, with <span data-color-id=\"female\" class=\"female\">women</span> more likely than <span data-color-id=\"male\" class=\"male\">men</span> to work in vulnerable jobs, particularly those with greater care responsibilities.[reference: vulnerable-employment] ",
       "type": "text",
       "translationPrefix": "goal_05.content.#33"
     },
@@ -358,7 +358,7 @@
       "male_rate": "Male vulnerable employment rate",
       "female_rate": "Female vulnerable employment rate",
       "source": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), publisher: ILOSTAT, date accessed: January 07, 2025. Retrieved from Gender Data Portal (<a href=\"https://genderdata.worldbank.org/en/indicator/sl-emp-vuln-zs\" target=\"_blank\">SL.EMP.VULN.FE.ZS; SL.EMP.VULN.MA.ZS</a>)",
-      "visdescription": "Vulnerable employment is common in low-income countries and economies. Among the poorest countries, vulnerable employment rates are as high as 90%, and with women more affected than men. In higher-income countries, vulnerable employment is less common, and the share of men in vulnerable employment tends to be higher than among women. ",
+      "visdescription": "Vulnerable employment is common in <span data-color-id=\"LIC\" class=\"LIC\">low-income</span> countries and economies. Among the poorest countries, vulnerable employment rates are as high as 90%, and with <span data-color-id=\"female\" class=\"female\">women</span> more affected than <span data-color-id=\"male\" class=\"male\">men</span>. In <span data-color-id=\"HIC\" class=\"HIC\">higher-income</span> countries, vulnerable employment is less common, and the share of <span data-color-id=\"male\" class=\"male\">men</span> in vulnerable employment tends to be higher than among <span data-color-id=\"female\" class=\"female\">women</span>. ",
       "visSize": "fullScreen",
       "theme": "light (alternatively: dark)",
       "data_download": "05.data.vulnerable_employment.csv",
@@ -433,7 +433,7 @@
         {
           "type": "scene",
           "id": "wage_ratio",
-          "text": "Of the 131 countries with data, men are paid a higher hourly wage, on average, than women in 93 countries.",
+          "text": "Of the 131 countries with data, men are paid a higher hourly wage, on average, than women in <span data-color-id=\"MEA\" class=\"MEA\">93 countries</span>.",
           "translationPrefix": "goal_05.content.#43.scenes.#1"
         },
         {

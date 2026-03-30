@@ -1,1 +1,0 @@
-import{e as a}from"./DIcqkl-z.js";function c(i,n){n===void 0&&(n=i,i=a);for(var t=0,r=n.length-1,e=n[0],f=new Array(r<0?0:r);t<r;)f[t]=i(e,e=n[++t]);return function(o){var h=Math.max(0,Math.min(r-1,Math.floor(o*=r)));return f[h](o-h)}}export{c as p};
