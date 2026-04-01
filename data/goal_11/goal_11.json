@@ -4,7 +4,7 @@
     "goal": "11",
     "shortTitle": "Urban development",
     "title": "Building productive cities for an urbanizing world",
-    "abstract": "Cities are the engine of global economic growth and offer greater economic opportunities, a broader range of employment options, and more extensive infrastructure relative to rural areas. Yet, the benefits of urbanization are not automatic. As urban populations and cities continue to expand, strategic investment in urban planning will be essential to ensure cities deliver opportunity for all.",
+    "abstract": "Cities are the engine of global economic growth and offer greater economic opportunities, diversity in jobs, and more extensive infrastructure relative to rural areas. Yet, the benefits of urbanization are not automatic. As urban populations and cities continue to expand, strategic investment in urban planning will be essential to ensure cities deliver opportunity for all.",
     "citation": "todo",
     "credits": "Harris Selod, Divyanshi Wadhwa",
     "inputs": "Benjamin Stewart",
@@ -17,19 +17,14 @@
   },
   "content": [
     {
-      "text": "di",
-      "type": "text",
-      "translationPrefix": "goal_11.content.#0"
-    },
-    {
       "text": "An urban future",
       "type": "subhed",
-      "translationPrefix": "goal_11.content.#1"
+      "translationPrefix": "goal_11.content.#0"
     },
     {
       "text": "In just over six decades, the world has become predominantly urban. In 1960, just one billion people lived in cities. Today, that number has surged to 4.7 billion—about 58 percent of the world’s population.[reference: wup]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#2"
+      "translationPrefix": "goal_11.content.#1"
     },
     {
       "type": "scroller",
@@ -49,44 +44,44 @@
           "type": "scene",
           "id": "1",
           "text": "But this transformation has not unfolded evenly across regions. ",
-          "translationPrefix": "goal_11.content.#3.scenes.#0"
+          "translationPrefix": "goal_11.content.#2.scenes.#0"
         },
         {
           "type": "scene",
           "id": "2",
           "text": "Over the past 25 years, [emphasis: Europe] [emphasis: and Central Asia] has seen little overall population growth, with slight growth in urban populations and slight decline in rural populations.",
-          "translationPrefix": "goal_11.content.#3.scenes.#1"
+          "translationPrefix": "goal_11.content.#2.scenes.#1"
         },
         {
           "type": "scene",
           "id": "3",
           "text": "In [emphasis: North America] and[emphasis:  Latin America & the Caribbean], rural populations have plateaued while cities have continued to expand steadily.",
-          "translationPrefix": "goal_11.content.#3.scenes.#2"
+          "translationPrefix": "goal_11.content.#2.scenes.#2"
         },
         {
           "type": "scene",
           "id": "4",
           "text": "In [emphasis: East Asia & the Pacific], urbanization has been particularly dramatic: urban populations have grown rapidly as rural populations declined, with urban population overtaking rural in 2008. This shift was driven not only by migration or population growth but also by the expansion of city boundaries, absorbing once-rural areas into urban zones.",
-          "translationPrefix": "goal_11.content.#3.scenes.#3"
+          "translationPrefix": "goal_11.content.#2.scenes.#3"
         },
         {
           "type": "scene",
           "id": "5",
           "text": "Meanwhile, in [emphasis: Sub-Saharan Africa], [emphasis: the Middle East and North Africa, Afghanistan] [emphasis: and Pakistan], and [emphasis: South Asia], both rural and urban populations have grown. In Sub-Saharan Africa and in the Middle East and North Africa region, urban populations have expanded at a much faster pace than rural ones.",
-          "translationPrefix": "goal_11.content.#3.scenes.#4"
+          "translationPrefix": "goal_11.content.#2.scenes.#4"
         }
       ],
-      "translationPrefix": "goal_11.content.#3"
+      "translationPrefix": "goal_11.content.#2"
     },
     {
       "text": "Urbanization is far from over. By 2050, South Asia is projected to be the only region where most people will still live in rural areas.[reference: wup] But the future of urban growth will look different from the past.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#4"
+      "translationPrefix": "goal_11.content.#3"
     },
     {
       "text": "The next chapter of urbanization will not be defined by ever-larger megacities, but by the rapid spread of smaller urban centers across the globe.[reference: wup]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#5"
+      "translationPrefix": "goal_11.content.#4"
     },
     {
       "type": "scroller",
@@ -109,53 +104,53 @@
           "type": "scene",
           "id": "1",
           "text": "In 2000, there were just over 9000 cities in the world. ",
-          "translationPrefix": "goal_11.content.#6.scenes.#0"
+          "translationPrefix": "goal_11.content.#5.scenes.#0"
         },
         {
           "type": "scene",
           "id": "2",
           "text": "By 2025, the world had over 12,100 cities. <span style=\"background-color: rgb(135,177,71);\">Small</span> and <span style=\"background-color: rgb(236,182,58);\">very small</span> cities (those with fewer than 1 million residents) drove some of this growth, expanding from roughly 8,700 to 11,600. Meanwhile, <span data-color-id=\"cat6\" class=\"cat6\">megacities</span> — those exceeding 10 million people — grew significantly as well, increasing from 20 in 2000 to 33 in 2025.",
-          "translationPrefix": "goal_11.content.#6.scenes.#1"
+          "translationPrefix": "goal_11.content.#5.scenes.#1"
         },
         {
           "type": "scene",
           "id": "3",
           "text": "However, in the next 25 years, the number of the world's largest cities is not expected to increase at the same pace. By 2050, projections suggest only 4 additional <span style=\"color: rgb(255,255,255); background-color: rgb(8,16,121);\">megacities</span> will exist — bringing the total to 37.",
-          "translationPrefix": "goal_11.content.#6.scenes.#2"
+          "translationPrefix": "goal_11.content.#5.scenes.#2"
         },
         {
           "type": "scene",
           "id": "4",
           "text": "Instead, urban growth will be driven by an increase in the number of <span style=\"background-color: rgb(135,177,71);\">small</span> and <span style=\"background-color: rgb(236,182,58);\">very small</span> cities. By 2050, their number is projected to approach 15,000.",
-          "translationPrefix": "goal_11.content.#6.scenes.#3"
+          "translationPrefix": "goal_11.content.#5.scenes.#3"
         }
       ],
-      "translationPrefix": "goal_11.content.#6"
+      "translationPrefix": "goal_11.content.#5"
     },
     {
       "text": "Urbanization flows from three distinct channels: natural population growth within cities, rural-to-urban migration, and the reclassification of densely populated rural areas as urban.[reference: wb-gmr2013] While it is difficult to distinguish the extent of each channel at a global scale, there is some evidence that historically an increase in urban population happened because of rural-urban migration.[reference: wb1974] But in the future, the increase in urban population will largely come from population growth rather than migration.[reference: wb2021] ",
       "type": "text",
-      "translationPrefix": "goal_11.content.#7"
+      "translationPrefix": "goal_11.content.#6"
     },
     {
       "text": "As agriculture becomes more productive and requires fewer workers, cities become the natural destination for those seeking better opportunities.[reference: jedwab2017] As workers move from lower-productivity rural jobs into higher-productivity urban industries, overall economic output rises.[reference: jedwab2017]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#8"
+      "translationPrefix": "goal_11.content.#7"
     },
     {
       "text": "What cities offer ",
       "type": "subhed",
-      "translationPrefix": "goal_11.content.#9"
+      "translationPrefix": "goal_11.content.#8"
     },
     {
       "text": "Far from being just a demographic shift, urbanization can be an economic opportunity. Across history, countries have grown richer as they have grown more urban.[reference: econgrowth] Why? Because cities create the conditions that make productivity and innovation thrive.[reference: blog-jobs]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#10"
+      "translationPrefix": "goal_11.content.#9"
     },
     {
       "text": "That is why urban expansion often happens along with economic growth. ",
       "type": "text",
-      "translationPrefix": "goal_11.content.#11"
+      "translationPrefix": "goal_11.content.#10"
     },
     {
       "type": "vis",
@@ -171,47 +166,47 @@
       "x_units": "current US$",
       "y_title": "Urban population",
       "y_units": "% of total population",
-      "translationPrefix": "goal_11.content.#12"
+      "translationPrefix": "goal_11.content.#11"
     },
     {
       "text": "Urbanization enables productivity because it benefits both industries and people. As populations concentrate in cities, the forces that drive productivity, that is, scale, specialization, and innovation tend to strengthen.[reference: blog-jobs]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#13"
+      "translationPrefix": "goal_11.content.#12"
     },
     {
       "text": "When firms cluster together, they can function more efficiently. Being close to suppliers, customers, and competitors lowers costs. Large, dense markets make it easier to find specialized workers and match their functions with skills. Proximity to other firms also fosters knowledge spillovers: ideas spread faster, which boosts innovation and growth. Urban hubs are key nodes in trade and transport networks, reducing shipping and coordination costs for goods and services. Better connectivity makes it easier for firms in cities to access global markets and value chains, which can further accelerate growth.[reference: quigley2008] This economic benefit from concentration of people and economic activities is called agglomeration effects.[reference: jedwab2017]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#14"
+      "translationPrefix": "goal_11.content.#13"
     },
     {
       "text": "People benefit too. Cities offer a chance at economic mobility, more diversity in occupations, better pay, and better infrastructure. ",
       "type": "text",
-      "translationPrefix": "goal_11.content.#15"
+      "translationPrefix": "goal_11.content.#14"
     },
     {
       "text": "Diversity in skill level",
       "type": "subhed2",
-      "translationPrefix": "goal_11.content.#16"
+      "translationPrefix": "goal_11.content.#15"
     },
     {
       "text": "Jobs across rural and urban areas span a broad spectrum of skill levels. Low-skill roles — such as cleaners, farm laborers, and construction workers — typically require no specialized training or formal education. Medium-skill roles, including clerical workers, specialized agricultural workers, and tradespeople, demand a moderate level of education alongside practical, job-specific skills. High-skill roles — professionals, technicians, and managers — require advanced education and expertise.[reference: skill-ilo]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#17"
+      "translationPrefix": "goal_11.content.#16"
     },
     {
       "text": "Let’s compare the “specialization of each skill” in urban and rural areas. The specialization indicator shown in the chart below compares the share of jobs for each skill level located in urban or rural areas with the share of all jobs located in urban or rural areas respectively. Each dot represents a country. If a particular skill-level job is more specialized in urban areas than employment overall, the indicator is above 1 for that country. When the value is closer to one, the jobs in this skill-level are distributed much like other jobs. Values below one suggest that jobs in this skill level are relatively less specialized in cities.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#18"
+      "translationPrefix": "goal_11.content.#17"
     },
     {
-      "type": "vis",
+      "type": "scroller",
       "graphic": "skill_violin",
       "title": "Urban areas offer jobs of a variety of skills",
       "subtitle": "Specialization of jobs by skill level across rural and urban areas",
       "source": "Source of the data Note: will add formula for specialization",
       "visdescription": "Describe what the visualization shows",
+      "publish_progress": "true",
       "theme": "light",
-      "textParagraph": "Low- and medium-skilled jobs are specialized in rural areas. In urban areas, however, their specialization levels hover around one, meaning these jobs are represented roughly in proportion to overall employment. By contrast, high-skill jobs are strongly represented in urban areas, with specialization rates far higher in urban areas than in rural regions highlighting cities’ role as hubs for high-skill work.",
       "dotRadius": "2",
       "showTopLegend": "true",
       "data_download": "11.data.skill_beeswarm.csv",
@@ -223,32 +218,46 @@
       "label_rural": "Rural",
       "label_below": "less specialized",
       "label_above": "more specialized",
-      "translationPrefix": "goal_11.content.#19"
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "1",
+          "text": "Scene 1",
+          "translationPrefix": "goal_11.content.#18.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "2",
+          "text": "Low- and medium-skilled jobs are specialized in rural areas. In urban areas, however, their specialization levels hover around one, meaning these jobs are represented roughly in proportion to overall employment. By contrast, high-skill jobs are strongly represented in urban areas, with specialization rates far higher in urban areas than in rural regions highlighting cities’ role as hubs for high-skill work.",
+          "translationPrefix": "goal_11.content.#18.scenes.#1"
+        }
+      ],
+      "translationPrefix": "goal_11.content.#18"
     },
     {
       "text": "In many developing countries, even low-wage jobs (which also tend to be informal) in cities can offer pathways to build skills, gain experience, and move into better opportunities over time.[reference: wb2021]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#20"
+      "translationPrefix": "goal_11.content.#19"
     },
     {
       "text": "Prosperity depends on how well countries attract productive workers, match them to the right jobs, and help them continue to build skills. Cities make this easier because skilled workers learn faster when they are surrounded by peers who have similar or complementary skills, ideas, and experience. The result is higher productivity in urban areas, reinforcing cities as engines of economic growth.[reference: wdr2013]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#21"
+      "translationPrefix": "goal_11.content.#20"
     },
     {
       "text": "Diversity in jobs",
       "type": "subhed2",
-      "translationPrefix": "goal_11.content.#22"
+      "translationPrefix": "goal_11.content.#21"
     },
     {
       "text": "This diversity in skill levels also means a wider range of occupations.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#23"
+      "translationPrefix": "goal_11.content.#22"
     },
     {
       "text": "Urban areas widen the range of jobs people can do. By concentrating commerce, industry, transport, and services in one place, cities create far more varied labor demand than rural areas, where work is largely centered on agriculture.[reference: quigley2008] Cities can support both everyday occupations and highly specialized roles that rural economies cannot sustain. Larger cities, in particular, don’t just offer more of the same jobs—they reorganize work into more specialized and interconnected roles.[reference: task2002]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#24"
+      "translationPrefix": "goal_11.content.#23"
     },
     {
       "type": "vis",
@@ -282,27 +291,27 @@
       "label_industry": "Industry",
       "label_below": "less specialized",
       "label_above": "more specialized",
-      "translationPrefix": "goal_11.content.#25"
+      "translationPrefix": "goal_11.content.#24"
     },
     {
       "text": "For many workers, urban labor markets also mean mobility. In cities, people can easily move between employers and sectors, and sometimes even between informal self-employment and wage work. The density of opportunities in cities makes it easier to keep searching for a better match between skills, preferences, and pay.[reference: blog-jobs]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#26"
+      "translationPrefix": "goal_11.content.#25"
     },
     {
       "text": "This diversity of occupations also acts as a form of insurance. When one industry slows, workers in cities can often shift into other sectors without having to move away. This makes urban economies more resilient and individual careers more adaptable.[reference: urban-sustainability] With more job options close by, people can switch roles, build new skills, and move up the income ladder without uprooting their lives.[reference: blog-li]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#27"
+      "translationPrefix": "goal_11.content.#26"
     },
     {
       "text": "Better pay",
       "type": "subhed2",
-      "translationPrefix": "goal_11.content.#28"
+      "translationPrefix": "goal_11.content.#27"
     },
     {
       "text": "Jobs in cities tend to be higher skilled, formal, and more productive—and that usually means higher pay.[reference: urban pay] Cities bring together larger and more diverse labor markets, with more firms competing for workers, especially in higher-skill sectors.[reference: thickermarket] This competition, along with better infrastructure and job matching, helps push wages up.[reference: compet-pay]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#29"
+      "translationPrefix": "goal_11.content.#28"
     },
     {
       "type": "vis",
@@ -319,47 +328,47 @@
       "x_units": "",
       "label_urban": "More pay in urban jobs",
       "label_rural": "More pay in rural jobs",
-      "translationPrefix": "goal_11.content.#30"
+      "translationPrefix": "goal_11.content.#29"
     },
     {
       "text": "Of course, city life is also more expensive. Rents are higher, and congestion and crowding come with real costs—which means that higher urban wages often do little more than offset the added expenses of city living.[reference: offset-pay] But for many workers and firms, the benefits still outweigh the downsides. Higher lifetime earnings, better job options, and more opportunities to learn and grow make urban areas attractive. The sheer variety cities offer—of people, services, and experiences—adds value too, helping compensate for the higher cost of living.[reference: city-better]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#31"
+      "translationPrefix": "goal_11.content.#30"
     },
     {
       "text": "Better infrastructure",
       "type": "subhed2",
-      "translationPrefix": "goal_11.content.#32"
+      "translationPrefix": "goal_11.content.#31"
     },
     {
       "text": "Cities are generally equipped with better infrastructure than rural areas — clean water, sanitation, electricity, healthcare, transport, and education — forming the foundation for a higher quality of life and greater economic productivity.[reference: better-infra]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#33"
+      "translationPrefix": "goal_11.content.#32"
     },
     {
       "text": "These advantages compound across sectors. Expanding education in urban areas costs less and scales more easily, and returns to education are consistently higher in cities than in rural areas — a pattern well documented in the empirical literature, particularly across Asia. Healthcare follows a similar logic: urban residents have greater access to hospitals and care centers, and more developed health systems translate into better health outcomes overall. Workers also benefit from reliable transport, internet connectivity, and utilities, all of which contribute to higher productivity for both individuals and firms.[reference: city-better]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#34"
+      "translationPrefix": "goal_11.content.#33"
     },
     {
       "text": "But these benefits are not automatic; they depend on investment and planning. ",
       "type": "text",
-      "translationPrefix": "goal_11.content.#35"
+      "translationPrefix": "goal_11.content.#34"
     },
     {
       "text": "How cities grow",
       "type": "subhed",
-      "translationPrefix": "goal_11.content.#36"
+      "translationPrefix": "goal_11.content.#35"
     },
     {
       "text": "What does urbanization actually look like on the ground? Take Addis Ababa, the capital of Ethiopia. In 1975, fewer than a million people lived there. Over the next 50 years, the city grew dramatically — by 2025, its population had reached over 6.7 million.[reference: wup-degree-urbanization]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#37"
+      "translationPrefix": "goal_11.content.#36"
     },
     {
       "text": "Its physical footprint grew just as fast. This can be measured by total built-up area: the total land surface covered by human-made structures and surfaces, including buildings, roads, and paved land. Unlike administrative boundaries, which may include undeveloped land, built-up area captures the city's true physical extent.[reference: builtuparea] In 1975, Addis Ababa had <span style=\"background-color: rgb(255,255,0);\">x</span> km² of built-up area. By 2025, that figure had grown to <span style=\"background-color: rgb(255,255,0);\">y </span>km².[reference: ghsl]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#38"
+      "translationPrefix": "goal_11.content.#37"
     },
     {
       "type": "vis",
@@ -374,32 +383,32 @@
       "unit_build_up": "km²",
       "data_download": "11.data.buildup_area_overtime.zip",
       "data": "1_Z20p5irWqpsKg_7xZ7PKMrEZHstUYxe6fMlU6GhkAM",
-      "translationPrefix": "goal_11.content.#39"
+      "translationPrefix": "goal_11.content.#38"
     },
     {
       "text": "When such expansion takes place, cities have the potential to boost productivity and incomes—but urbanization doesn’t automatically lead to development. Cities that deliver on their promise are those that have planned and built infrastructure ahead of population growth.[reference: planning]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#40"
+      "translationPrefix": "goal_11.content.#39"
     },
     {
       "text": "Without that foresight, rapid urbanization can give rise to slums, overcrowding, and limited economic opportunity. Governments must therefore treat infrastructure planning not as a reaction to urban growth, but as a precondition for it.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#41"
+      "translationPrefix": "goal_11.content.#40"
     },
     {
       "text": "Slums: A Sign of Unmet Demand",
       "type": "subhed2",
-      "translationPrefix": "goal_11.content.#42"
+      "translationPrefix": "goal_11.content.#41"
     },
     {
       "text": "Formal housing markets tend to serve middle- and higher-income households, leaving poorer residents—especially migrants arriving from rural areas—with few options but to settle informally. The growth of slums reflects this imbalance: demand for land and housing rises faster than governments and markets can provide affordable homes.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#43"
+      "translationPrefix": "goal_11.content.#42"
     },
     {
       "text": "Slums suffer from severely inadequate physical conditions, including overcrowding, unsafe housing, lack of clean water and sanitation that create serious health risks. These conditions drive the spread of infectious diseases like tuberculosis, worsen mental health through noise, pollution, and lack of green space, and contribute to domestic injuries, disproportionately affecting children and the elderly.[reference: who-slums]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#44"
+      "translationPrefix": "goal_11.content.#43"
     },
     {
       "type": "factoid",
@@ -407,12 +416,12 @@
       "number": "1.1",
       "units": "Billion people",
       "label": "In 2024, globally",
-      "translationPrefix": "goal_11.content.#45"
+      "translationPrefix": "goal_11.content.#44"
     },
     {
       "text": "Today, nearly 1 in 4 people, that is 23% of the world’s urban population live in slum conditions, with the challenge particularly acute in low-income countries where progress in reducing slum populations has slowed. Although the share of people living in slums has declined globally over the past decades, progress often stalls after an initial improvement. In <span data-color-id=\"LCN\" class=\"LCN\">Latin America and the Caribbean</span>, for example, the slum population share fell steadily in the early 2000s but has hovered around 17–19% in recent years. Similarly, in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, slum population fell from every 6 out of 10 urban residents living in slums to about 5 out of 10 in 2020. But since 2020, the share of people living in slums is rising again.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#46"
+      "translationPrefix": "goal_11.content.#45"
     },
     {
       "type": "vis",
@@ -427,17 +436,17 @@
       "x_unit": "",
       "y_title": "Population living in slums (% of urban population)",
       "y_unit": "",
-      "translationPrefix": "goal_11.content.#47"
+      "translationPrefix": "goal_11.content.#46"
     },
     {
       "text": "Even where the share of urban populations living in slums has stabilized or declined, the aggregate picture remains deeply concerning. In cities experiencing rapid population growth, a stable or falling slum share still translates into a rising absolute number of people living in inadequate conditions. ",
       "type": "text",
-      "translationPrefix": "goal_11.content.#48"
+      "translationPrefix": "goal_11.content.#47"
     },
     {
       "text": "Globally, the number of slum dwellers grew from approximately 840 million in 2018 to over one billion by 2022 — an increase of more than 160 million people in just four years.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#49"
+      "translationPrefix": "goal_11.content.#48"
     },
     {
       "type": "vis",
@@ -450,22 +459,22 @@
       "theme": "light",
       "data_download": "11.data.slum_waffle.csv",
       "data": "1EtgWA9Bb_PnYwNGkGNkL2fgBJXmfQ70oHJbVYHluZYo",
-      "translationPrefix": "goal_11.content.#50"
+      "translationPrefix": "goal_11.content.#49"
     },
     {
       "text": "Economic growth can help reduce slums by raising incomes and enabling greater investment in housing and infrastructure, but without careful urban planning and adequate housing supply, slums can persist even in growing economies.[reference: slums]",
       "type": "text",
-      "translationPrefix": "goal_11.content.#51"
+      "translationPrefix": "goal_11.content.#50"
     },
     {
       "text": "Planning cities for the future ",
       "type": "subhed",
-      "translationPrefix": "goal_11.content.#52"
+      "translationPrefix": "goal_11.content.#51"
     },
     {
       "text": "As cities expand, much more land will need to be planned and serviced. Built-up areas are projected to grow by more than [emphasis: 50 percent over the next 25 years], largely in <span data-color-id=\"LMC\" class=\"LMC\">lower-middle income</span> and <span data-color-id=\"UMC\" class=\"UMC\">upper-middle income</span> countries, making the way cities expand increasingly important. ",
       "type": "text",
-      "translationPrefix": "goal_11.content.#53"
+      "translationPrefix": "goal_11.content.#52"
     },
     {
       "type": "vis",
@@ -483,17 +492,17 @@
       "projection_label": "",
       "keyFact": "Over 50%",
       "keyFactLabel": "Increase in urban built-up area is expected in the next 25 years",
-      "translationPrefix": "goal_11.content.#54"
+      "translationPrefix": "goal_11.content.#53"
     },
     {
       "text": "For cities to deliver on their productive potential, how they grow matters as much as how fast they grow. A fragmented city, where housing, jobs, and services are disconnected, where infrastructure does not extend to where people actually live, and where institutions lack the capacity to manage expansion, undermines the very agglomeration benefits that make urban areas valuable in the first place.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#55"
+      "translationPrefix": "goal_11.content.#54"
     },
     {
       "text": "When growth is poorly managed, the result is high living costs, sprawling informal settlements, and social exclusion, with productivity held back rather than amplified. The alternative is not to restrict urban growth, but to shape it. This means planning ahead of expansion rather than reacting to it: extending road networks and services before populations arrive, encouraging efficient densities that make infrastructure investment viable, and ensuring that land use connects people to opportunity. Cities in Sub-Saharan Africa, where urban populations are growing fastest, face this challenge most acutelyfuture. At the same time, the pace of expansion means that large parts of the urban environment have yet to be built, giving today’s planning and investment decisions lasting influence over future productivity and opportunity.",
       "type": "text",
-      "translationPrefix": "goal_11.content.#56"
+      "translationPrefix": "goal_11.content.#55"
     }
   ],
   "references": {

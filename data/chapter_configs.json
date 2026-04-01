@@ -22,7 +22,7 @@
       "goal": "11",
       "shortTitle": "Urban development",
       "title": "Building productive cities for an urbanizing world",
-      "abstract": "Cities are the engine of global economic growth and offer greater economic opportunities, a broader range of employment options, and more extensive infrastructure relative to rural areas. Yet, the benefits of urbanization are not automatic. As urban populations and cities continue to expand, strategic investment in urban planning will be essential to ensure cities deliver opportunity for all.",
+      "abstract": "Cities are the engine of global economic growth and offer greater economic opportunities, diversity in jobs, and more extensive infrastructure relative to rural areas. Yet, the benefits of urbanization are not automatic. As urban populations and cities continue to expand, strategic investment in urban planning will be essential to ensure cities deliver opportunity for all.",
       "citation": "todo",
       "credits": "Harris Selod, Divyanshi Wadhwa",
       "inputs": "Benjamin Stewart",
@@ -56,7 +56,7 @@
       "goal": "13",
       "shortTitle": "Climate",
       "title": "Exposure, vulnerability and adaptation to climate hazards",
-      "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves occur more often and are stronger due to climate change and impact more than half the World’s population. Almost a third of those affected are also highly vulnerable and require adaptation to a changing climate.",
+      "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves occur more often and are stronger due to climate change and impact more than half the world’s population. Almost a third of those affected are also highly vulnerable and require adaptation to a changing climate.",
       "citation": "Thijs Benschop, David Groves, Jonas Helth Lønborg and Ændra Rininsland. 2026. “Exposure, vulnerability and adaptation to climate hazards” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/",
       "credits": "Thijs Benschop, Jonas Helth Lønborg, David Groves, Ændra Rininsland",
       "inputs": "Jia Li, Esther Naikal, Minh Cong Nguyen",
@@ -124,12 +124,12 @@
       "goal": "17",
       "shortTitle": "Data for Development",
       "title": "Can we measure progress?",
-      "abstract": "Every day, governments make decisions that affect millions of lives, such as setting budgets and regulating the scope and quality of services. Yet for many countries, the data guiding those decisions is years out of date, leaving millions of people invisible to policymakers. Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
+      "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
       "citation": " Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In",
       "credits": "Zander Prinsloo & Brian Stacy",
       "inputs": "Maria Eugenia Genoni & Alaka Holla",
       "visuals": "Maarten Lambrechts",
-      "homeFactoidPercent": "70",
+      "homeFactoidPercent": "60",
       "homeFactoidNumber": "60%",
       "homeFactoidText": "of low- and middle-income countries have a most recent poverty survey that is more than 5 years old",
       "homeTagline": "For many countries, the data guiding budgets and regulations is years out of date, leaving millions of people invisible to policymakers"
@@ -241,9 +241,9 @@
       "title": "Tracking Progress in Global Development",
       "abstract": "After decades of progress, global development has reached a critical phase. Today, progress is taking place at its slowest pace in 75 years. The slowdown is widespread including vital development areas including life expectancy, poverty reduction, education, and women’s empowerment. Explore the data to see how progress is unfolding across countries worldwide.",
       "citation": "Lambrechts, M, Mahler D G, Thudt, A, and Wadhwa, D. 2026. “Global progress is grinding to a halt.” In",
-      "credits": "Daniel Gerszon Mahler and Divyanshi Wadhwa ",
+      "credits": "Daniel Gerszon Mahler, Divyanshi Wadhwa ",
       "inputs": "Nishant Yonzan",
-      "visuals": "Alice Thudt and Maarten Lambrechts",
+      "visuals": "Alice Thudt, Maarten Lambrechts",
       "homeFactoidPercent": "58",
       "homeFactoidNumber": "15 of 26",
       "homeFactoidTitle": "Progress is the slowest on record in",
@@ -262,9 +262,9 @@
       "credits": "Haruna Kashiwase and Tony Fujs",
       "inputs": "Christian Borja-Vega, Pavel Luengas Sierra, Fan Zhang",
       "visuals": "Jan Willem Tulp",
-      "homeFactoidPercent": "49",
-      "homeFactoidNumber": "48 in 98",
-      "homeFactoidText": "countries have water quality as the main constraint in attaining universal access to safely managed drinking water",
+      "homeFactoidPercent": "51",
+      "homeFactoidNumber": "In 48 out of  98",
+      "homeFactoidText": "countries, water quality is the main constraint in attaining universal access to safely managed drinking water",
       "homeTagline": "Water quality remains the main barrier to safely managed drinking water"
     }
   },
@@ -275,14 +275,14 @@
       "shortTitle": "Internet access",
       "title": "The unfinished digital revolution: expanding internet access",
       "abstract": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal. While networks now reach much of the world, millions of people, especially in poorer countries, are still shut out of the digital economy. The reasons go beyond infrastructure, and reflect gaps in affordability, skills, and inclusive policy design.",
-      "citation": "todo",
+      "citation": "Pirlea, Ana Florina and Lorena Corso. 2026. “The unfinished digital revolution: expanding internet access” In Atlas of Global Development 2026, edited by A. F. Pirlea, D. Wadhwa, D. Mahler, U. Serajuddin, A. Thudt, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004",
       "credits": "Ana Florina Pirlea, Lorena Corso",
       "inputs": "Sharada Srinivasan",
       "visuals": "Jan Willem Tulp, Maarten Lambrechts",
       "homeFactoidPercent": "25",
       "homeFactoidNumber": "1 in 4",
       "homeFactoidText": "people are not using the internet",
-      "homeTagline": "Internet access has grown at remarkable speed, yet millions of people, especially in poorer countries, are still shut out of the digital economy."
+      "homeTagline": "Internet access has grown at remarkable speed since the turn of the century, yet millions of people, especially in poorer countries, are still shut out of the digital economy."
     }
   },
   "progress": {
@@ -344,7 +344,7 @@
       "title": "Access to electricity: who remains without power?",
       "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to extend electricity to  300 million more people in Africa by 2030.",
       "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
-      "credits": "Haruna Kashiwase and Tony Fujs",
+      "credits": "Tony Fujs and Haruna Kashiwase",
       "inputs": "Sandeep Kohli, Patrick Rugwizangoga",
       "visuals": "Maarten Lambrechts",
       "locale": "en",
@@ -391,7 +391,7 @@
       "title": "Atlas of Sustainable Goals",
       "acknowledgement": "These are the acknowledgements",
       "citation": "Pirlea, A. F., U. Serajuddin, D. Wadhwa, M. Welch, eds. 2026. Atlas of Global Development 2026. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://worldbank.github.io/atlas-global-development",
-      "contributors": "Alia Jane Aghajanian, Jane Akumu, Muneeza, Mehmood Alam, Jackie Alder, Bianca Bianchi Alves, Samuel Kofi Tetteh Baah"
+      "contributors": "Alia Jane Aghajanian, Jane Akumu, Muneeza Mehmood Alam, Jackie Alder, Bianca Bianchi Alves, Samuel Kofi Tetteh Baah, Yan Bai, Dominikus Baur, Daniel Alberto Benitez, Thijs Benschop, Francois Bertone, Gaurav Bhardwaj, Paul Blake, Brian Blankespoor, Zsolt Bobis, Anna Tabitha  Bonfert, Larisa Burtin, Andrés Castañeda, Lisa Maria Castro , Marie-Helene Cloutier, James Cust, Georges Bianco Darido, Julia Dayton, Carolina Diaz-Bonilla, Felipe Dizon, C.MacKenzie Dove, Christian Eigen-Zucchi, Patrick Eozenou, Paola Marcela Ballon Fernandez, Haishan Fu, Tony Fujs, Luis Diego Herrera Garcia, Gunilla Greig, Daniel Halim, Stephane Hallegatte, Craig Hammer, Nagaraja Rao Harshadeep, Aira Maria Htenas, Gabriel Lara Ibara, Dean Jolliffe, Akito Kamei, Harrison Karisa, Haruna Kashiwase, Silpa Kaza, Vera Kehayova, Philip George Kenworthy, Juliana Knapp, Bonsuk Koo, David Laborde, Christoph Lakner, Maarten Lambrechts, Yoomin Lee, Kamwoo Lee, Sinae Lee, Jose Antonio Cuesta Leiva, Robert Lever, Jia Li, Daniel Gerszon Mahler, David Isaac Pajaro Mariano, Kristen Milhollin, Monica Moldovan, Trevor Monroe, Marcia Moreno-Báez, Sven Neelsen, Rochelle O'Hagan, Kyoko Shibata  Okamura, Karolina Ordon, Javier Parada, Jiyun Park, Elisa Portale, Espen Beer Prydz, Elizabeth Purdie, Denis Randall , Joseph Rebello, Marko Olavi Rissanen, Aude-Sophie Rodella, Halsey Rogers, Claire Rollet, Daniel Garrote  Sanchez, Megumi Sato, Marta Schoch, Umar Serajuddin, Hina Khan Sherwani, Brian Stacy, Benjamin Stewart, Aiga Stokenberga, Emi Suzuki, Mariana Lozzi Teixeira, Alice Thudt, Jan Willem Tulp, Zander Venter, Martha Viveros, Divyanshi Wadhwa, Elbert Wang, Matthew Welch, Philip Wollburg, Nishant Yonzan, Esha Dilip Zaveri, Fan Zhang"
     }
   }
 }

@@ -6,7 +6,7 @@
     "title": "Access to electricity: who remains without power?",
     "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to extend electricity to  300 million more people in Africa by 2030.",
     "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
-    "credits": "Haruna Kashiwase and Tony Fujs",
+    "credits": "Tony Fujs and Haruna Kashiwase",
     "inputs": "Sandeep Kohli, Patrick Rugwizangoga",
     "visuals": "Maarten Lambrechts",
     "locale": "en",
@@ -74,7 +74,7 @@
         {
           "type": "scene",
           "id": "all",
-          "text": "Most regions already had very high levels of access in 2000, and had achieved near-universal access to electricity by 2023. Two regions, South Asia and Sub-Saharan Africa lagged noticeably behind in 2000.",
+          "text": "Most regions already had very high levels of access in 2000, and had achieved near-universal access to electricity by 2023. Two regions, <span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> lagged noticeably behind in 2000.",
           "translationPrefix": "goal_07.content.#6.scenes.#1"
         },
         {
@@ -191,7 +191,7 @@
       "translationPrefix": "goal_07.content.#13"
     },
     {
-      "text": "The persistence of this gap in Sub‑Saharan Africa reflects the higher costs per connection and constraints in affordability among sparsely populated, low‑income rural areas. Connecting homes that are far apart often requires substantial infrastructure investments, and rural households tend to use less electricity than urban households. The underlying economics thus represents a challenge to service extension into remote rural areas. Planning and regulatory shortcomings have also played a role in delaying rural electrification and the wider deployment of off‑grid options. [reference: wb_ssa_access]",
+      "text": "The persistence of this gap in Sub‑Saharan Africa reflects the higher costs per connection and constraints in affordability among sparsely populated, low‑income rural areas. Homes are widely dispersed, driving up infrastructure costs, while lower electricity use in rural areas limits revenues for providers. As a result, expanding electricity services into remote areas is often economically unattractive. The underlying economics thus represents a challenge to service extension into remote rural areas. [reference: wb_electrifying_africa] Planning and regulatory shortcomings have also played a role in delaying rural electrification and the wider deployment of off‑grid options. [reference: wb_ssa_access]",
       "type": "text",
       "translationPrefix": "goal_07.content.#14"
     },
@@ -314,7 +314,7 @@
         {
           "type": "scene",
           "id": "zones",
-          "text": "[emphasis: Electricity access in Nigeria is highly uneven]. Southern zones enjoy relatively high coverage, while large parts of the north lag far behind. These disparities reflect the concentration of grid infrastructure and population in the south, along with differences in investment, urbanization, and political stability, <span style=\"background-color: rgb(255,255,255);\">with conflicts that disrupted large parts of northern Nigeria in recent years</span>.",
+          "text": "[emphasis: Electricity access in Nigeria is highly uneven]. Southern zones enjoy relatively <span style=\"color: rgb(255,255,255); background-color: rgb(3,63,118);\">high coverage</span>, while large parts of the north <span style=\"background-color: rgb(212,234,224);\">lag far behind</span>. These disparities reflect the concentration of grid infrastructure and population in the south, along with differences in investment, urbanization, and political stability, <span style=\"background-color: rgb(255,255,255);\">with conflicts that disrupted large parts of northern Nigeria in recent years</span>.",
           "translationPrefix": "goal_07.content.#24.scenes.#0"
         },
         {
@@ -326,7 +326,7 @@
         {
           "type": "scene",
           "id": "nightlights_cities",
-          "text": "[emphasis: Cities appear brighter.] The[emphasis:  ]<span style=\"background-color: rgb(255,248,74);\">brightest clusters</span> correspond to major cities such as Lagos, Abuja, and Port Harcourt, where grid access is widespread and power consumption is relatively high. In contrast, vast rural and peri-urban areas <span style=\"color: rgb(255,255,255); background-color: rgb(147,131,90);\">appear</span> <span style=\"color: rgb(255,255,255); background-color: rgb(0,34,81);\">darker</span>—signaling either a lack of access or unreliable supply.",
+          "text": "[emphasis: Cities appear brighter.] The[emphasis:  ]<span style=\"background-color: rgb(255,248,74);\">brightest clusters</span> correspond to major cities such as Lagos, Abuja, and Port Harcourt, where grid access is widespread and power consumption is relatively high. In contrast, vast rural and peri-urban areas appear <span style=\"color: rgb(255,255,255); background-color: rgb(147,131,90);\">weak</span> or <span style=\"color: rgb(255,255,255); background-color: rgb(0,34,81);\">dark</span>—signaling either a lack of access or unreliable supply.",
           "translationPrefix": "goal_07.content.#24.scenes.#2"
         },
         {
@@ -338,20 +338,26 @@
         {
           "type": "scene",
           "id": "zoom_kano",
-          "text": "… and zoom in on the city of Kano. As in most cities, a large majority of households in Kano are connected to the grid.",
+          "text": "… and zoom in on the city of Kano. As in most cities, a large majority of households in Kano are connected to the grid. Neighbourhoods where<span style=\"background-color: rgb(255,248,74);\"> bright lights</span> can be detected are likely well served with access and reliable electricity.",
           "translationPrefix": "goal_07.content.#24.scenes.#4"
         },
         {
           "type": "scene",
           "id": "urban_dark",
-          "text": "Filtering out the <span style=\"background-color: rgb(255,248,74);\">brightest data points</span> highlights that, even when connected to the grid, [emphasis: large urban and suburban zones may remain underserved].",
+          "text": "Filtering out the <span style=\"background-color: rgb(255,248,74);\">brightest data points</span> highlights that, even when connected to the grid, [emphasis: large urban and suburban zones in Kano may remain underserved, as nighttime lights appear weak or dark].",
           "translationPrefix": "goal_07.content.#24.scenes.#5"
         },
         {
           "type": "scene",
           "id": "urban_population_dark",
-          "text": "These are densely populated, suburban settlements that lack highly visible illuminations. This contrast illustrates that, although most urban areas are connected to the grid, quality of access is not yet universal—and [emphasis: grid reliability is far from consistent].",
+          "text": "These areas are <span style=\"color: rgb(255,255,255); background-color: rgb(144,96,132);\">densely populated</span>, suburban settlements but still lack highly visible illuminations.",
           "translationPrefix": "goal_07.content.#24.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "kano_cell_highlight",
+          "text": "For example, this 36 square kilometer cell is estimated to house more than 100,000 people, but remains largely in the dark. This contrast illustrates that, even though  most urban areas are connected to the grid, quality of access is not yet universal and [emphasis: grid reliability is far from consistent].",
+          "translationPrefix": "goal_07.content.#24.scenes.#7"
         }
       ],
       "translationPrefix": "goal_07.content.#24"
@@ -386,20 +392,26 @@
         {
           "type": "scene",
           "id": "nightlights12",
-          "text": "Let’s focus on Ethiopia’s [emphasis: rural areas only ](urban areas remain blank).[emphasis:  ]<span style=\"background-color: rgb(129,176,225);\">Some light</span> (weak or strong) was detected in light blue areas, whereas none was detected in <span style=\"color: rgb(255,255,255); background-color: rgb(0,34,81);\">darker areas</span>. The existing or planned grid infrastructure elements are showed as <span data-color-id=\"ECS\" class=\"ECS\">red lines</span> on the maps ",
+          "text": "Let’s focus on Ethiopia’s [emphasis: rural areas only ](urban areas remain blank) and take a look at the nighttime lights view of 2012. In areas where at least <span style=\"color: rgb(255,255,255); background-color: rgb(129,176,225);\">some light</span> (weak or strong) was detected as shown in light blue, whereas areas where no nighttime light was detected are shown in <span style=\"color: rgb(255,255,255); background-color: rgb(0,34,81);\">dark blue</span>. While western parts of rural Ethiopia had some nighttime lights coverage in 2012, eastern and southern rural Ethiopia remained largely dark.",
           "translationPrefix": "goal_07.content.#27.scenes.#0"
         },
         {
           "type": "scene",
-          "id": "nightlights12_se",
-          "text": "The [emphasis: south-east of the country] is less densely populated and remained [emphasis: mostly in the dark]",
+          "id": "nightlights12_powerlines",
+          "text": "The <span style=\"color: rgb(255,255,255); background-color: rgb(235,87,87);\">power grid lines</span> reached only a few rural areas in 2012. So how did the illuminated rural areas have access to electricity? About 75 percent of the [emphasis: rural population] in Ethiopia with access consumed electricity not through power grid lines, but through[emphasis:  solar power.][reference: ethiopia_survey]",
           "translationPrefix": "goal_07.content.#27.scenes.#1"
         },
         {
           "type": "scene",
-          "id": "nightlights23",
-          "text": "The [emphasis: rapid expansion of solar electricity] has been a significant driver of the reduction of the urban-rural access gap discussed above.[reference: ethiopia_survey] It has allowed remote areas to get access to electricity. By 2023, nightlights could be detected in large rural areas of the previously dark south-east of the country. ",
+          "id": "nightlights12_se",
+          "text": "Let’s focus on the [emphasis: south-east of the country] which is more sparsely populated and remained mostly in <span style=\"color: rgb(255,255,255); background-color: rgb(0,34,81);\">the dark in 2012</span>[emphasis: .]",
           "translationPrefix": "goal_07.content.#27.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "nightlights23",
+          "text": "By 2023, a lot more nighttime lights could be detected in the south-eastern region of Ethiopia. Much of this expansion in access to electricity happened due to the [emphasis: rapid uptake of solar electricity][reference: ethiopia_survey]. This expansion of solar power helped reduce the persistent gap in access to electricity in rural areas.",
+          "translationPrefix": "goal_07.content.#27.scenes.#3"
         }
       ],
       "translationPrefix": "goal_07.content.#27"
@@ -440,6 +452,7 @@
     "ethiopia_survey": "Ethiopian Statistical Service (ESS) and World Bank. 2023. <a href=\"https://ess.gov.et/download/2021-22-survey-report/\" target=\"_blank\">Ethiopia Socioeconomic Panel Survey (ESPS) Report - Wave 5, 2021/22</a>.",
     "mission300": "Mission 300. <a href=\"https://www.worldbank.org/en/programs/energizing-africa\" target=\"_blank\">https://www.worldbank.org/en/programs/energizing-africa</a> ",
     "wb_ssa_access": "Blimpo, Moussa Pouguinimpo; Cosgove-Davies, Malcolm. Electricity Access in Sub-Saharan Africa : Uptake, Reliability, and Complementary Factors for Economic Impact (English). Africa Development Forum Washington, D.C. : World Bank Group. <a href=\"http://documents.worldbank.org/curated/en/837061552325989473\" target=\"_blank\">http://documents.worldbank.org/curated/en/837061552325989473</a> ",
+    "wb_electrifying_africa": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Dabalen, Andrew, Stuti Khemani, Megan Lang, and Govinda Timilsina. </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Electrifying Africa's Economic Transformation: What Reforms Should Governments Pursue?</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> Policy Research Working Paper 11339. World Bank Group, March 2026. </span><a href=\"https://openknowledge.worldbank.org/entities/publication/14f03ea2-4919-444c-9ef7-7f94811ca6bf\" target=\"_blank\">https://openknowledge.worldbank.org/entities/publication/14f03ea2-4919-444c-9ef7-7f94811ca6bf</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> </span>",
     "translationPrefix": "goal_07.references"
   },
   "translationPrefix": "goal_07"

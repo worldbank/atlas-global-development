@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_app/immutable/chunks/CmhZ1Lud.js","_app/immutable/chunks/G0QQ3uc4.js","_app/immutable/chunks/D2knJlSm.js","_app/immutable/chunks/BKCAstku.js","_app/immutable/chunks/Cpj98o6Y.js","_app/immutable/chunks/DSvgFljI.js","_app/immutable/assets/Switch.CD54FDqW.css","_app/immutable/assets/Image.D4ZoLq8_.css"])))=>i.map(i=>d[i]);
-import{_}from"./EvnbT1Fm.js";const o={image:()=>_(()=>import("./CmhZ1Lud.js"),__vite__mapDeps([0,1,2,3,4,5,6,7]))};export{o as default};
