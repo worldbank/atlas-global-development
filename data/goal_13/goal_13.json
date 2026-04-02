@@ -9,8 +9,8 @@
     "credits": "Thijs Benschop, Jonas Helth Lønborg, David Groves, Ændra Rininsland",
     "inputs": "Jia Li, Esther Naikal, Minh Cong Nguyen",
     "visuals": "Ændra Rininsland",
-    "homeFactoidPercent": "15",
-    "homeFactoidNumber": "1 in 7",
+    "homeFactoidPercent": "18",
+    "homeFactoidNumber": "1 in 5",
     "homeFactoidText": "people are exposed and highly vulnerable to climate hazards",
     "homeTagline": "Climate change intensifies extreme weather events, exposing more than half the global population of which a large share is also vulnerable and in need of adaptation",
     "translationPrefix": "goal_13.config"
@@ -45,7 +45,7 @@
       "translationPrefix": "goal_13.content.#4"
     },
     {
-      "text": "People at high risk of climate impact are both exposed to key climate-related hazards and have a propensity to be adversely affected or unable to cope with the impacts of said hazards. Nearly 6 out of every 10 people worldwide are impacted by climate-related hazards as they live in areas exposed to the consequences of climate change. The extent to which these people are affected depends on their vulnerability. To help people adapt to climate change it is important to identify and quantify who is exposed and vulnerable[reference: WB2] ",
+      "text": "People at high risk of climate impact are both exposed to key climate-related hazards and have a propensity to be adversely affected or unable to cope with the impacts of said hazards. Nearly 6 out of every 10 people worldwide are impacted by climate-related hazards as they live in areas exposed to the consequences of climate change. The extent to which these people are affected depends on their vulnerability. To help people adapt to climate change it is important to identify and quantify who is exposed and vulnerable.[reference: WB2] ",
       "type": "text",
       "translationPrefix": "goal_13.content.#5"
     },
@@ -201,7 +201,7 @@
         {
           "type": "scene",
           "id": "cyclones__vec__wld",
-          "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Cyclones</span>] occur only over warm tropical oceans. Therefore, a relatively small share of the  global population is exposed to cyclones. However, in many Small Island Developing States, the entire population is exposed. Thirty-six small island developing states in the Caribbean and Pacific Ocean have 100 percent of their population exposed to tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>].[footnote:  These are the following small island developing states: Aruba, Anguilla, American Samoa, Antigua and Barbuda, Bonaire, Sint Eustatius and Saba, Bahamas, Saint Barthélemy, Bermuda, Barbados, Cuba, Curaçao, Cayman Islands, Dominica, Dominican Republic, Grenada, Guam, Haiti, Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Northern Mariana Islands, Montserrat, Mauritius, Niue, Puerto Rico, Sint Maarten (Dutch part), Turks and Caicos Islands, Tonga, Taiwan, Saint Vincent and the Grenadines, British Virgin Islands, United States Virgin Islands, Vanuatu, Wallis and Futuna, Samoa. In Fiji more than 99 percent of the population is exposed.] ",
+          "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Cyclones</span>] occur only over warm tropical oceans. Therefore, a relatively small share of the  global population is exposed to cyclones. However, in many Small Island Developing States (SIDS), the entire population is exposed. Thirty-six small island developing states in the Caribbean and Pacific Ocean have 100 percent of their population exposed to tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>].[footnote:  These are the following small island developing states: Aruba, Anguilla, American Samoa, Antigua and Barbuda, Bonaire, Sint Eustatius and Saba, Bahamas, Saint Barthélemy, Bermuda, Barbados, Cuba, Curaçao, Cayman Islands, Dominica, Dominican Republic, Grenada, Guam, Haiti, Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Northern Mariana Islands, Montserrat, Mauritius, Niue, Puerto Rico, Sint Maarten (Dutch part), Turks and Caicos Islands, Tonga, Taiwan, Saint Vincent and the Grenadines, British Virgin Islands, United States Virgin Islands, Vanuatu, Wallis and Futuna, Samoa. In Fiji more than 99 percent of the population is exposed.] ",
           "translationPrefix": "goal_13.content.#18.scenes.#2"
         }
       ],
@@ -344,42 +344,30 @@
       "translationPrefix": "goal_13.content.#28"
     },
     {
-      "text": "1.5 billion people are at risk of climate hazards",
+      "text": "1.5 billion people are at risk of climate-related hazards",
       "type": "subhed",
       "translationPrefix": "goal_13.content.#29"
     },
     {
-      "text": "Combining [emphasis: exposure ]to climate hazards and measures of [emphasis: vulnerability] allows for identifying people [emphasis: at risk] to climate hazards. People are considered [emphasis: at risk] exposed to at least one climate hazard and are vulnerable along at least one of the seven dimensions. Globally, 18 percent, or 1.5 billion people, are [emphasis: at risk] from the impacts of climate hazards. ",
+      "text": "Combining [emphasis: exposure ]to climate hazards and measures of [emphasis: vulnerability] allows for identifying people [emphasis: at risk] to climate-related hazards. People are considered [emphasis: at risk] when they are exposed to at least one climate hazard and are vulnerable along at least one of the seven dimensions. ",
       "type": "text",
       "translationPrefix": "goal_13.content.#30"
     },
     {
-      "type": "scroller",
-      "graphic": "sdg13_regional_exposure_vuln",
-      "title": "People at risk from climate hazards",
-      "subtitle": "Number of people by region at risk of climate hazards in 2024 (both exposed and vulnerable)",
-      "source": "Source of the data",
-      "visdescription": "The visualization shows the share of regional populations defined as being at risk of climate hazards in 2024.",
-      "visSize": "default",
-      "data_download": "climate_vulnerability.zip",
-      "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
-      "scenes": [
-        {
-          "type": "scene",
-          "id": "map_2023",
-          "text": "On this map, the size of the circles is proportional to the size of the population of the seven World Bank regions. The blue circle shows the size of the population exposed to climate-related hazards. And the red circle shows the size of the population not only exposed to climate-related hazards but who are also vulnerable - i.e. the populations at risk.",
-          "translationPrefix": "goal_13.content.#31.scenes.#0"
-        }
-      ],
+      "type": "factoid",
+      "title": "At risk of climate-related hazards",
+      "number": "1.5",
+      "units": "billion",
+      "label": "People globally are vulnerable and exposed to climate hazards.",
       "translationPrefix": "goal_13.content.#31"
     },
     {
-      "text": "In <span data-color-id=\"NAC\" class=\"NAC\">North America</span>, only 0.3 percent of the population (approximately 0.6 million people) are at high risk, 26 percent of the populations living in <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, 32 percent of the population living in the <span data-color-id=\"MEA\" class=\"MEA\">Middle East, North Africa, Afghanistan and Pakistan</span> region and 35 percent of the population of Sub-Saharan Africa are at high risk. ",
+      "text": "The 1.5 billion people corresponds to 18 percent of the global population who are at high risk from climate-related hazards. But this does not mean that 18 percent of the populations of each country are at high risk. In North America only 0.3 percent of the population (approximately 0.6 million people) are at high risk, but 26 percent of the populations living in <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, 32 percent of the population living in the <span data-color-id=\"MEA\" class=\"MEA\">Middle East, North Africa, Afghanistan and Pakistan</span> region and 35 percent of the population of Sub-Saharan Africa are at high risk. ",
       "type": "text",
       "translationPrefix": "goal_13.content.#32"
     },
     {
-      "text": "Let’s see how countries’ population at risk depends on the people exposed and the people vulnerable. ",
+      "text": "Let’s see how countries’ population at risk depends on the people exposed and the people vulnerable respectively.",
       "type": "text",
       "translationPrefix": "goal_13.content.#33"
     },
@@ -460,21 +448,9 @@
         },
         {
           "type": "scene",
-          "id": "map_2023",
+          "id": "map_2024",
           "text": "By 2023, the exposure to climate-related hazards does not change much. But in some regions, the share of those exposed, who are also vulnerable, has decreased dramatically.",
           "translationPrefix": "goal_13.content.#38.scenes.#1"
-        },
-        {
-          "type": "scene",
-          "id": "marimekko_2023",
-          "text": "Marimekko 2023",
-          "translationPrefix": "goal_13.content.#38.scenes.#2"
-        },
-        {
-          "type": "scene",
-          "id": "marimekko_2010",
-          "text": "Marimekko 2010",
-          "translationPrefix": "goal_13.content.#38.scenes.#3"
         }
       ],
       "translationPrefix": "goal_13.content.#38"

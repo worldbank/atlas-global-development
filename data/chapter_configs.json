@@ -4,7 +4,7 @@
       "type": "config",
       "goal": "10",
       "shortTitle": "Inequality",
-      "title": "Combining income growth with",
+      "title": "Combining income growth with inequality reduction benefits everyone",
       "abstract": "Most inequality ",
       "citation": "Lønborg, J H, Lambrechts, M and Yonzan, N. 2026. “Combining income growth with",
       "credits": "Jonas Helth Lønborg and Nishant Yonzan",
@@ -12,8 +12,8 @@
       "visuals": "Maarten Lambrechts",
       "homeFactoidPercent": "80",
       "homeFactoidNumber": "4 in 5",
-      "homeFactoidText": "individuals worldwide live below",
-      "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the world was in 1981, making the region roughly 40 years behind the global average."
+      "homeFactoidText": "individuals worldwide live below the global prosperity standard of $28 per day",
+      "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the world was in 1981, making the region roughly 4 decades behind the global average."
     }
   },
   "11": {
@@ -61,8 +61,8 @@
       "credits": "Thijs Benschop, Jonas Helth Lønborg, David Groves, Ændra Rininsland",
       "inputs": "Jia Li, Esther Naikal, Minh Cong Nguyen",
       "visuals": "Ændra Rininsland",
-      "homeFactoidPercent": "15",
-      "homeFactoidNumber": "1 in 7",
+      "homeFactoidPercent": "18",
+      "homeFactoidNumber": "1 in 5",
       "homeFactoidText": "people are exposed and highly vulnerable to climate hazards",
       "homeTagline": "Climate change intensifies extreme weather events, exposing more than half the global population of which a large share is also vulnerable and in need of adaptation"
     }
@@ -124,7 +124,7 @@
       "goal": "17",
       "shortTitle": "Data for Development",
       "title": "Can we measure progress?",
-      "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
+      "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators (SPI) show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
       "citation": " Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In",
       "credits": "Zander Prinsloo & Brian Stacy",
       "inputs": "Maria Eugenia Genoni & Alaka Holla",
@@ -239,7 +239,7 @@
       "goal": "dashboard",
       "shortTitle": "Global Progress",
       "title": "Tracking Progress in Global Development",
-      "abstract": "After decades of progress, global development has reached a critical phase. Today, progress is taking place at its slowest pace in 75 years. The slowdown is widespread including vital development areas including life expectancy, poverty reduction, education, and women’s empowerment. Explore the data to see how progress is unfolding across countries worldwide.",
+      "abstract": "After decades of progress, global development has reached a critical phase. Today, progress is taking place at its slowest pace in 75 years. The slowdown spans several areas of development including life expectancy, poverty reduction, education, and women’s empowerment. Explore the data to see how progress is unfolding across countries worldwide.",
       "citation": "Lambrechts, M, Mahler D G, Thudt, A, and Wadhwa, D. 2026. “Global progress is grinding to a halt.” In",
       "credits": "Daniel Gerszon Mahler, Divyanshi Wadhwa ",
       "inputs": "Nishant Yonzan",

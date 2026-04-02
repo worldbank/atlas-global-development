@@ -4,7 +4,7 @@
     "goal": "17",
     "shortTitle": "Data for Development",
     "title": "Can we measure progress?",
-    "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
+    "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators (SPI) show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
     "citation": " Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In Atlas of  Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Zander Prinsloo & Brian Stacy",
     "inputs": "Maria Eugenia Genoni & Alaka Holla",
@@ -22,7 +22,7 @@
       "translationPrefix": "goal_17.content.#0"
     },
     {
-      "text": "Imagine you've just been appointed Minister of Finance. Tomorrow morning, you must decide where to build schools and clinics, how much to borrow, which programs to cut. Every decision will affect millions of lives. To govern well, you need answers to basic questions: How fast is the economy growing? How many children are healthy? How many young people are unemployed?",
+      "text": "Imagine you've just been appointed Minister of Finance. Tomorrow morning, you must decide where to build schools and clinics, how much to borrow, which programs to prioritize. Every decision will affect millions of lives. To govern well, you need answers to basic questions: How fast is the economy growing? How many children are healthy? How many young people are unemployed?",
       "type": "text",
       "translationPrefix": "goal_17.content.#1"
     },
@@ -226,14 +226,14 @@
       "translationPrefix": "goal_17.content.#19"
     },
     {
-      "text": "The World Bank’s Statistical Performance Indicators (SPI) measure statistical systems across 51 indicators that cover everything from whether surveys are conducted,  key data are produced and used, whether data are accessible online, and whether the legal foundations and financial resources for statistics are in place.[footnote:  <span style=\"background-color: rgb(255,255,255);\">The World Bank’s Statistical Performance Indicators (SPI) measures statistical systems across five pillars using 51 indicators. The five pillars are data use, data services, data products, data sources, and data infrastructure. For data to have an impact, it must first be used. Data use also concerns whether the needs of key users of the statistical system, such as the minister of finance in the example above, are met. The second pillar measures whether services, such as online accessibility, are available to connect users to data. The data products pillar measures whether key statistics, including those concerning the wellbeing of children, are produced by the system to meet the needs of users. Reflecting the challenges that many statistical systems encounter, the data sources pillar tracks the availability of foundational data sources, while the data infrastructure pillar assesses the hard and soft infrastructure, such as statistical legislation, financing, and the methodologies that underpin statistical production.</span>] The SPI includes an overall index that measures statistical performance on a scale from 0-100, where 100 represents the best possible statistical system.[reference: dpss]",
+      "text": "The World Bank’s Statistical Performance Indicators (SPI) measure statistical systems across 51 indicators that cover everything from whether surveys are conducted,  key data are produced and used, whether data are accessible online, and whether the legal foundations and financial resources for statistics are in place.[footnote:  <span style=\"background-color: rgb(255,255,255);\">The World Bank’s Statistical Performance Indicators (SPI) measures statistical systems across five pillars using 51 indicators. The five pillars are data use, data services, data products, data sources, and data infrastructure. For data to have an impact, it must first be used. Data use also concerns whether the needs of key users of the statistical system, such as the minister of finance in the example above, are met. The second pillar measures whether services, such as online accessibility, are available to connect users to data. The data products pillar measures whether key statistics, including those concerning the wellbeing of children, are produced by the system to meet the needs of users. Reflecting the challenges that many statistical systems encounter, the data sources pillar tracks the availability of foundational data sources, while the data infrastructure pillar assesses the hard and soft infrastructure, such as statistical legislation, financing, and the methodologies that underpin statistical production.</span>] The SPI includes an overall score that measures statistical performance on a scale from 0-100, where 100 represents the best possible statistical system.[reference: dpss]",
       "type": "text",
       "translationPrefix": "goal_17.content.#20"
     },
     {
       "type": "scroller",
       "graphic": "spi_scroller",
-      "title": "Statistical performance varies widely between countries",
+      "title": "Statistical performance varies widely across economies",
       "subtitle": "The World Bank Statistical Performance Indicators (SPI) measures the strength of statistical systems",
       "fcv_median": "Median FCV countries",
       "non_fcv_median": "Median non-FCV countries",

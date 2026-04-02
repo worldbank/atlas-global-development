@@ -5,7 +5,7 @@
     "shortTitle": "Extreme poverty",
     "title": "Past, present, and future: 100 years of  challenges in tackling extreme poverty",
     "abstract": "Global extreme poverty has fallen drastically since 1950, but progress has slowed to its weakest pace in 75 years. Over half of the world's poor are in countries where poverty is increasing, often due to conflict and weak governance. This trend threatens to reverse decades of progress and could cause global poverty to rise.",
-    "citation": "Mahler, Daniel Gerszon and Maarten Lambrechts. 2026. “Past, present and future: 100 years of challenges in tackling extreme poverty” In Atlas of  Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004<a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\">https://doi.org/10.60616/f7gk-me57</a>",
+    "citation": "Mahler, Daniel Gerszon and Maarten Lambrechts. 2026. “Past, present and future: 100 years of challenges in tackling extreme poverty” In Atlas of  Global Development 2026, edited by A. F. Pirlea, D. Wadhwa, D. Mahler, U. Serajuddin, A. Thudt, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004",
     "credits": "Daniel Gerszon Mahler and Maarten Lambrechts",
     "inputs": "Christoph Lakner, Rinku Murgai, Samuel Kofi Tetteh-Baah, Mario Negre, Rubena Sukaj, Nishant Yonzan",
     "visuals": "Maarten Lambrechts",
@@ -22,12 +22,12 @@
       "translationPrefix": "goal_01.content.#0"
     },
     {
-      "text": "[emphasis: Extreme poverty] is defined as the proportion of people living below the international poverty line, currently set at $3 per person, per day.[reference: foster2025] Having less than $3 per person, per day is associated with not satisfying basic needs, such as  food and shelter. Although $3 may seem low, many households fall below this line, historically and today. Curbing extreme poverty is embedded in the Sustainable Development Goals. Goal 1 calls for an end to poverty in all its forms everywhere by 2030, and SDG Target 1.1 aims to eradicate extreme poverty by 2030. It is also embedded in the <a href=\" https://scorecard.worldbank.org/en/vision\" target=\"_blank\">World Bank’s Corporate Scorecard</a>, which calls to end extreme poverty.",
+      "text": "[emphasis: Extreme poverty] is defined as the proportion of people living below the international poverty line, currently set at $3 per person, per day.[reference: foster2025] Having less than $3 per person, per day is associated with not satisfying basic needs, such as  food and shelter. Although $3 may seem low, many households fall below this line, historically and today. Curbing extreme poverty is embedded in the Sustainable Development Goals, with Goal 1 calling for an end to poverty in all its forms everywhere by 2030, and Target 1.1 aiming to eradicate extreme poverty by 2030. It is also embedded in the <a href=\" https://scorecard.worldbank.org/en/vision\" target=\"_blank\">World Bank’s Corporate Scorecard</a>, which calls to end extreme poverty.",
       "type": "text",
       "translationPrefix": "goal_01.content.#1"
     },
     {
-      "text": "[emphasis: Extreme poverty] is best measured through surveys that capture consumption or income patterns from a representative sample of households. Although not all countries undertake such surveys annually, under strong assumptions about how national economic growth reaches the poor, it is possible to extrapolate data from the World Bank <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">Poverty and Inequality Platform</a> to estimate data years it does not cover, going back to 1950.[reference: mahler2025b][reference: worldbank2025a][reference: mahler2025a] Although these extrapolations carry significant uncertainty, particularly for the earlier decades where survey data are limited,  such modeling provides a useful approximation of long-term trends in global poverty.",
+      "text": "[emphasis: Extreme poverty] is best measured through surveys that capture consumption or income patterns from a representative sample of households. Not all countries undertake such surveys annually, yet under strong assumptions about how national economic growth reaches the poor, it is possible to extrapolate data from the World Bank <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">Poverty and Inequality Platform</a> to estimate poverty in years it does not cover, going back to 1950.[reference: mahler2025b][reference: mahler2025a] Although these extrapolations carry significant uncertainty, particularly for the earlier decades where survey data are limited,  such modeling provides a useful approximation of long-term trends in global poverty.",
       "type": "text",
       "translationPrefix": "goal_01.content.#2"
     },
@@ -59,7 +59,7 @@
       "alt-text": "Global poverty rate time series",
       "data_download": "01.data.global_poverty.csv",
       "data": "1Wj93Lyhbf1AS0t7A6AlU6WUgItdDEsQA7YlF4VtB3Vg",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>; Mahler et al. 2025a; <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>; <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>; Mahler et al. 2025a; <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>.",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "translationPrefix": "goal_01.content.#4"
     },
@@ -100,7 +100,7 @@
       "graphic": "poverty_scroller",
       "title": "Several countries have eliminated poverty since 1950",
       "subtitle": "",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. 2025a, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, Mahler et al. 2025a, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>.",
       "visdescription": "Poverty trends across selected countries from 1950-2025 as well as projections to 2050 for selected countries that still have high poverty rates. ",
       "theme": "light (alternatively: dark)",
       "data_download": "01.data.country_poverty.zip",
@@ -108,14 +108,14 @@
       "yAxisTitle": "Poverty rate",
       "xAxisTitle": "Years since reaching 50%",
       "skip typical_path": "All these countries moved faster than the typical speed of progress, which was around 70 years to go from 50 percent to 10 percent poverty. <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">Korea</span>, which achieved the feat in 11 years,  moved at six times the typical speed.",
-      "keyFact": "44 countries",
+      "keyFact": "43 countries",
       "keyFactLabel": "with high poverty are making little progress or reversing past gains",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
         {
           "type": "scene",
           "id": "korea",
-          "text": "In the aftermath of the Korean War, between the 1950s and 1990, <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">Korea</span> evolved from being heavily burdened by extreme poverty to having virtually eliminated it. In [emphasis: little more than a decade], extreme poverty fell [emphasis: from just over 50 percent to under 10 percent]. ",
+          "text": "Since the aftermath of the Korean War, <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">Korea</span> evolved from being heavily burdened by extreme poverty to having virtually eliminated it. In [emphasis: little more than a decade], extreme poverty fell [emphasis: from 50 percent to 10 percent]. ",
           "translationPrefix": "goal_01.content.#9.scenes.#0"
         },
         {
@@ -139,13 +139,13 @@
         {
           "type": "scene",
           "id": "shifted_nonasia",
-          "text": "<span style=\"color: rgb(68,71,70);\">It is not just countries in Asia that have undergone such declines; others</span>—including <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Brazil</span><span style=\"color: rgb(68,71,70);\">, </span><span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Türkiye</span><span style=\"color: rgb(68,71,70);\">, and </span><span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Tunisia</span>—<span style=\"color: rgb(68,71,70);\">have experienced similar, albeit slightly less rapid, change.</span>",
+          "text": "<span style=\"color: rgb(68,71,70);\">It is not just countries in Asia that have undergone such declines; others</span>—including <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Brazil</span><span style=\"color: rgb(68,71,70);\"> and </span><span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Türkiye</span>—<span style=\"color: rgb(68,71,70);\">have experienced similar, albeit slightly less rapid, change.</span>",
           "translationPrefix": "goal_01.content.#9.scenes.#4"
         },
         {
           "type": "scene",
           "id": "on_track",
-          "text": "Some countries have yet to achieve low poverty rates, but are on a promising path. <span style=\"color: rgb(255,255,255); background-color: rgb(255,152,0);\">Rwanda</span>, for example, is estimated to have reduced extreme poverty from 90 percent in the aftermath of the civil war in 1994 to less than 40 percent today, though data limitations complicate precise comparisons.[footnote: Poverty rates for Rwanda are not comparable between 2016/17 and 2023/24. The trend noted here bridges this gap using growth from national accounts. But ongoing empirical work may suggest different rates of progress over this period.] ",
+          "text": "Some countries have yet to achieve low poverty rates, but are on a promising path. <span style=\"color: rgb(255,255,255); background-color: rgb(255,152,0);\">Rwanda</span>, for example, is estimated to have reduced extreme poverty from 90 percent in the aftermath of the civil war in 1994 to less than 40 percent today, though data limitations complicate precise comparisons.[footnote: Poverty rates for Rwanda are not comparable between 2016/17 and 2023/24. The trend noted here bridges this gap using growth from national accounts, but ongoing empirical work may suggest different rates of progress over this period.] ",
           "translationPrefix": "goal_01.content.#9.scenes.#5"
         },
         {
@@ -157,13 +157,13 @@
         {
           "type": "scene",
           "id": "like_rwanda",
-          "text": "And Rwanda is not alone. It is one of 11 countries, mostly in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, that are on a pathway to reducing poverty to less than 10 percent by 2050.",
+          "text": "And Rwanda is not alone. It is one of 10 countries, mostly in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, that are on a pathway to reducing poverty to less than 10 percent by 2050.",
           "translationPrefix": "goal_01.content.#9.scenes.#7"
         },
         {
           "type": "scene",
           "id": "left_behind",
-          "text": "But another 44 countries are on a less encouraging trend. With their current speed of progress—or lack of it—they will continue to suffer from high levels of poverty in the coming decades.",
+          "text": "But another 43 countries are on a less encouraging trend. With their current speed of progress—or lack of it—they will continue to suffer from high levels of poverty in the coming decades.",
           "translationPrefix": "goal_01.content.#9.scenes.#8"
         }
       ],
@@ -185,18 +185,18 @@
       "translationPrefix": "goal_01.content.#12"
     },
     {
-      "text": "But many of the countries that are home to large populations of poor people have seen little or no progress in the last decade. About half of the world’s poor live in just eight countries. And of these, only India has achieved substantial reductions in poverty in the last decade. Three—the Democratic Republic of Congo, Pakistan, and Tanzania—have seen modest declines, and in four—Nigeria, Ethiopia, Mozambique, and Sudan—poverty has increased. ",
+      "text": "At the same time, many of the countries that are home to large populations of poor people have seen little or no progress in the last decade. About half of the world’s poor live in just eight countries. And of these, only India has achieved substantial reductions in poverty in the last decade. Two—the Democratic Republic of Congo and Tanzania—have seen modest declines, and in five—Nigeria, Ethiopia, Mozambique, Pakistan, and Sudan—poverty has increased. ",
       "type": "text",
       "translationPrefix": "goal_01.content.#13"
     },
     {
-      "text": "[emphasis: More than half ]of the global extreme poor live in countries where extreme poverty has increased in the past 10 years ",
-      "type": "text_emphasis",
+      "text": "Between 1980 and 2019, 85–95 percent of the global poor lived in countries that had made progress over the preceding decade, but that picture has rapidly changed since.",
+      "type": "text",
       "translationPrefix": "goal_01.content.#14"
     },
     {
-      "text": "In contrast, between 1980 and 2019, 85–95 percent lived in countries that had made progress over the preceding decade.   ",
-      "type": "text",
+      "text": "[emphasis: More than half ]of the global extreme poor live in countries where extreme poverty has increased in the past 10 years ",
+      "type": "text_emphasis",
       "translationPrefix": "goal_01.content.#15"
     },
     {
@@ -209,8 +209,8 @@
       "graphic": "poverty_projections",
       "title": "Global poverty could increase if current trends continue",
       "subtitle": "",
-      "skip": "If all countries progress at Korea’s pace, global extreme poverty would be reduced to 1.5 percent by 2050. But copying Korea's trajectory will be difficult. If countries progress at the pace of Brazil, Tunisia, or Türkiye, there will be modest declines, and if they progress at the typical speed observed since 1950, global extreme poverty will stand at around 8 percent poverty by 2050. Unfortunately, the speed of global poverty reduction has slowed down over the past years, and if countries continue on their current paths, global poverty will start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed]",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. 2025a, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>",
+      "skip": "If all countries progress at Korea’s pace, global extreme poverty would be reduced to 1 percent by 2050. But copying Korea's trajectory will be difficult. If countries progress at the pace of Brazil or Türkiye, there will be modest declines, and if they progress at the typical speed observed since 1950, global extreme poverty will stand at 8.5 percent poverty by 2050. Unfortunately, the speed of global poverty reduction has slowed down over the past years, and if countries continue on their current paths, global poverty will start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed]",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, Mahler et al. 2025a, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>",
       "y_axis_title": "Poverty rate",
       "y_axis_units": "%",
       "rate4": "Korea’s path",
@@ -223,7 +223,7 @@
       "data_download": "01.data.global_projections.zip",
       "data": "1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg",
       "keyFact": "600 million people",
-      "keyFactLabel": "more will live in extreme poverty in 2050 than today if the current trajectory continues",
+      "keyFactLabel": "more will live in extreme poverty in 2050 if countries’ current trajectories continue",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
         {
@@ -267,59 +267,54 @@
       "translationPrefix": "goal_01.content.#19"
     },
     {
-      "text": "The global speed of progress in reducing poverty is at a 75-year low,[reference: mahler2025a] partly due to  several large, low-income countries making little or no progress over the past decade.",
+      "text": "The global progress in reducing extreme poverty is the slowest it has been in more than three decades,[reference: mahler2025a] partly due to several large, low-income countries making little or no progress over the past decade. Yet even if all countries reduce extreme poverty, global extreme poverty could still rise, because population growth in poorer countries  is much higher than in richer ones. Populations in  countries with extreme poverty rates over 10 percent are growing at nearly 2.5 percent per year, compared to 0.5 percent in countries where extreme poverty is under 10 percent.",
       "type": "text",
       "translationPrefix": "goal_01.content.#20"
     },
     {
-      "text": "Yet even if all countries reduce extreme poverty, global extreme poverty could still rise, because population growth in poorer countries  is much higher than in richer ones. Populations in  countries with extreme poverty rates over 10 percent are growing at nearly 2.5 percent per year, compared to 0.5 percent in countries where extreme poverty is under 10 percent.",
-      "type": "text",
-      "translationPrefix": "goal_01.content.#21"
-    },
-    {
-      "text": "\u000bPopulation growth in poor countries is[emphasis:  five times faster] than in nonpoor countries. ",
+      "text": "Population growth in poor countries is[emphasis:  five times faster] than in nonpoor countries. ",
       "type": "text_emphasis",
-      "translationPrefix": "goal_01.content.#22"
+      "translationPrefix": "goal_01.content.#21"
     },
     {
       "text": "This has not always been the case. At the turn of the century, population growth rates in poor countries were about double those of richer ones. But the global population is shifting more rapidly toward poorer regions so, even if poverty rates within these countries fall, the absolute number of people living in extreme poverty globally may still rise, potentially reversing past progress.",
       "type": "text",
-      "translationPrefix": "goal_01.content.#23"
+      "translationPrefix": "goal_01.content.#22"
     },
     {
       "text": "Population growth itself is not a problem, and countries with high population growth may find themselves with a [emphasis: youth dividend ]— that is, economic growth resulting from a large influx of skilled youth entering the labor market. But this requires the creation of opportunities and jobs for the rapidly growing workforce. ",
       "type": "text",
-      "translationPrefix": "goal_01.content.#24"
+      "translationPrefix": "goal_01.content.#23"
     },
     {
       "text": "Why are some countries stuck in poverty?",
       "type": "subhed",
-      "translationPrefix": "goal_01.content.#25"
+      "translationPrefix": "goal_01.content.#24"
     },
     {
       "text": "To understand how to reignite the fight against global poverty, we need to understand why some countries have managed to eliminate extreme poverty while others remain entrenched in it. ",
       "type": "text",
-      "translationPrefix": "goal_01.content.#26"
+      "translationPrefix": "goal_01.content.#25"
     },
     {
-      "text": "Countries with low growth and high poverty often face compounding challenges, which hinder sustained progress. They lack quality jobs and the economic growth that such jobs bring, while poor health care and low levels of education make it difficult for people to earn a decent living.[reference: cunningham2024]  Sparse financial resources also prevent them from  implementing social safety nets that alleviate the consequences of poverty and allow households to invest in productive assets for their future.[reference: worldbank2025b]",
+      "text": "Countries with low growth and high poverty often face compounding challenges, which hinder sustained progress. They lack quality jobs and the economic growth that such jobs bring, while poor health care and low levels of education make it difficult for people to earn a decent living.[reference: cunningham2024]  Sparse financial resources prevent them from  implementing social safety nets that alleviate the consequences of poverty and allow households to invest in productive assets for their future.[reference: worldbank2025b]",
       "type": "text",
-      "translationPrefix": "goal_01.content.#27"
+      "translationPrefix": "goal_01.content.#26"
     },
     {
       "text": "But why have some countries managed to escape these compounding challenges while others have not? There are many possible root causes.[reference: berg2012]  Here, we explore three: conflict, poor economic management, and corruption. ",
       "type": "text",
+      "translationPrefix": "goal_01.content.#27"
+    },
+    {
+      "text": "First, when countries experience active conflict, both assets and livelihoods can be destroyed.[reference: corral2020] Second, poor economic management, such as poor debt management, can prevent governments from making the long-term investments necessary to spearhead development.[reference: worldbank2025c]  And third, when corruption is high or transparency and accountability are low, governments often fail to deliver basic services to their citizens or create opportunities for their economies to flourish.[reference: worldbank2017]",
+      "type": "text",
       "translationPrefix": "goal_01.content.#28"
     },
     {
-      "text": "First, when countries experience active conflict, both assets and livelihoods can be destroyed.[reference: corral2020] Second, poor economic management, such as poor debt management can prevent governments from making the long-term investments necessary to spearhead development.[reference: worldbank2025c]  And third, when corruption is high or transparency and accountability are low, governments often fail to deliver basic services to their citizens or create opportunities for their economies to flourish.[reference: worldbank2017]",
+      "text": "Defining countries in conflict, with poor economic management, or facing high levels of corruption as being <a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\">in fragile and conflict-affected situations</a> or having low <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\">Country Policy and Institutional Assessment</a> scores, we can overlay these root causes with a lack of progress on curbing extreme poverty. Of the 43 countries that are not on a path to curb extreme poverty to 10 percent by 2050, all but 10 suffer from conflict, poor economic management, or high levels of corruption. Seven—Afghanistan, Haiti, Mozambique, South Sudan, Sudan, Somalia, and the Republic of Yemen—suffer from all three. ",
       "type": "text",
       "translationPrefix": "goal_01.content.#29"
-    },
-    {
-      "text": "Defining countries in conflict, with poor economic management, or facing high levels of corruption as being <a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\">in fragile and conflict-affected situations</a> or having low <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\">Country Policy and Institutional Assessment</a> scores, we can overlay these root causes with a lack of progress on curbing extreme poverty. Of the 44 countries that are not on a path to curb extreme poverty to 10 percent by 2050, all but 11 suffer from conflict, poor economic management, or high levels of corruption. Seven —Afghanistan, Haiti, Mozambique, South Sudan, Sudan, Somalia, and the Republic of Yemen—suffer from all three. ",
-      "type": "text",
-      "translationPrefix": "goal_01.content.#30"
     },
     {
       "type": "vis",
@@ -338,32 +333,32 @@
       "not_taking_off": "Country with little or no progress",
       "number_poor": "Number of poor",
       "million": "(millions)",
-      "translationPrefix": "goal_01.content.#31"
+      "translationPrefix": "goal_01.content.#30"
     },
     {
-      "text": "These three root causes are certainly not the only relevant factors. Others include vulnerability to climate change[reference: hallegatte2016] and inequality. Livelihoods in Kenya, Pakistan, and Vanuatu are particularly threatened by climate change, while several countries in Southern Africa have some of the world’s highest levels of inequality. When inequality is high, segments of society face  fewer opportunities to  climb the economic ladder, which can reduce growth and stall reductions in poverty.[reference: sulla2022]",
+      "text": "These three root causes are certainly not the only relevant factors. Others include vulnerability to climate change[reference: hallegatte2016] and inequality.[reference: sulla2022] Livelihoods in Kenya, Pakistan, and Vanuatu are particularly threatened by climate change, while several countries in Southern Africa have some of the world’s highest levels of inequality. When inequality is high, segments of society face  fewer opportunities to  climb the economic ladder, which can reduce growth and stall reductions in poverty.",
       "type": "text",
-      "translationPrefix": "goal_01.content.#32"
+      "translationPrefix": "goal_01.content.#31"
     },
     {
       "text": "Without addressing these root causes, many countries will struggle to end extreme poverty, making it difficult for the global poverty trend to continue its impressive 75 year pathway. ",
       "type": "text",
-      "translationPrefix": "goal_01.content.#33"
+      "translationPrefix": "goal_01.content.#32"
     },
     {
       "text": "Beyond extreme poverty",
       "type": "subhed",
-      "translationPrefix": "goal_01.content.#34"
+      "translationPrefix": "goal_01.content.#33"
     },
     {
       "text": "Even if the world makes substantial progress in reducing global extreme poverty, it is important to remember that the international poverty line (less than $3 a day) represents an austere definition of poverty. Many countries that have ended extreme poverty still suffer from other definitions of poverty.",
       "type": "text",
-      "translationPrefix": "goal_01.content.#35"
+      "translationPrefix": "goal_01.content.#34"
     },
     {
-      "text": "Middle- and high-income countries tend to use higher poverty lines, reflecting the higher costs of covering what they consider to be basic needs in their national contexts.[reference: jolliffe2016] Countries can also have multidimensional measures of poverty, which go beyond income or consumption and capture whether individuals are deprived in other aspects of well-being, such as health care, education, and infrastructure. These national definitions tend to reveal a greater presence of poverty than that defined by the international poverty line. ",
+      "text": "Middle- and high-income countries tend to use higher poverty lines, reflecting the higher costs of covering what they consider to be basic needs in their national contexts.[reference: jolliffe2016] Countries can also have multidimensional measures of poverty, which go beyond income or consumption and capture whether individuals are deprived in other aspects of well-being, such as health care, education, and infrastructure. Multidimensional measures of poverty define households as poor if they are deprived in one or more aspects of well being. National definitions of poverty tend to reveal a greater presence of poverty than that defined by the international poverty line. ",
       "type": "text",
-      "translationPrefix": "goal_01.content.#36"
+      "translationPrefix": "goal_01.content.#35"
     },
     {
       "type": "vis",
@@ -380,22 +375,22 @@
       "data_download": "01.data.national_poverty_comparison.csv",
       "data": "1Vwbp7eBIOi_195OteLJ6w5_FTpO2nKAuH4K_MSx37E8",
       "indicator_360": "WB_WDI_SI_POV_MPUN",
-      "translationPrefix": "goal_01.content.#37"
+      "translationPrefix": "goal_01.content.#36"
     },
     {
       "text": "The path forward",
       "type": "subhed",
-      "translationPrefix": "goal_01.content.#38"
+      "translationPrefix": "goal_01.content.#37"
     },
     {
       "text": "Over the last 75 years, the world has made impressive progress in reducing global extreme poverty, largely due to countries with high levels of poverty virtually eliminating it over a relatively short period. But progress has slowed, with several countries apparently stuck in poverty due to conflict, poor governance, and other factors. Unless they can  overcome such challenges, their prospects are bleak, and global extreme poverty is unlikely to reduce much further.",
       "type": "text",
-      "translationPrefix": "goal_01.content.#39"
+      "translationPrefix": "goal_01.content.#38"
     },
     {
-      "text": "At the same time, countries that have ended extreme poverty must remember that SDG 1 calls for an end to poverty in all its forms; and that, while they may have curbed extreme poverty, other forms of poverty still remain to be tackled. ",
+      "text": "At the same time, countries that have ended extreme poverty must remember that while they may have curbed extreme poverty, other forms of poverty still remain to be tackled. ",
       "type": "text",
-      "translationPrefix": "goal_01.content.#40"
+      "translationPrefix": "goal_01.content.#39"
     }
   ],
   "references": {
@@ -403,7 +398,7 @@
     "foster2025": "Foster, E,  Jolliffe, D, Lara Ibarra, G,  Lakner, C, Tetteh Baah, S. 2025. <a href=\"https://doi.org/10.1596/1813-9450-11137\" target=\"_blank\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> World Bank.</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
     "mahler2025a": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2025. The World Is Developing at Its Slowest Pace in 75 Years.",
     "mahler2025b": "Mahler, D G, Foster, E, Lakner, C, Prinsloo, Z, Tchouakam Mbouendeu, R and Tetteh-Baah, S K. 2025.<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"> </span><a href=\"https://doi.org/10.1596/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. Global Poverty Monitoring Technical Note No. 45. World Bank.</span>",
-    "worldbank2025a": "World Bank. 2025. <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">Macro Poverty Outlook October 2025</a>. Washington DC: World Bank Group.",
+    "worldbank2026": "World Bank. 2026. <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">Macro Poverty Outlook April 2026</a>. Washington DC: World Bank Group.",
     "jolliffe2016": "Jolliffe, D and Prydz, E B. 2016. “<a href=\"https://doi.org/10.1007/s10888-016-9327-5\" target=\"_blank\">Estimating International Poverty Lines from Comparable National Thresholds.</a>“ Journal of Economic Inequality 15: 185–198.",
     "berg2012": "Berg, A, Ostry, J D and Zettelmeyer, J. 2012. \"<a href=\"https://doi.org/10.1016/j.jdeveco.2011.08.002\" target=\"_blank\">What Makes Growth Sustained?</a>\" Journal of Development Economics 98(2): 149–166.",
     "hausmann2005": "Hausmann, R, Pritchett, L and Rodrik, D. 2005. \"<a href=\"https://doi.org/10.1007/s10887-005-4712-0\" target=\"_blank\">Growth Accelerations</a>.\" Journal of Economic Growth 10: 303–329.",
