@@ -1,12 +1,16 @@
 skill_level,income_group,pct_of_population,skill_information
-Basic Digital Skills,HIC,66,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
-Basic Digital Skills,UMC,38,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
-Basic Digital Skills,LMC,21,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
-Basic Digital Skills,LIC,4,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
-Intermediate Digital Skills,HIC,57,Intermediate skills refer to use of software and data management. 
-Intermediate Digital Skills,UMC,26,Intermediate skills refer to use of software and data management. 
-Intermediate Digital Skills,LMC,13,Intermediate skills refer to use of software and data management. 
-Intermediate Digital Skills,LIC,3,Intermediate skills refer to use of software and data management. 
+Less than Basic Digital Skills,HIC,34,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Less than Basic Digital Skills,UMC,62,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Less than Basic Digital Skills,LMC,79,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Less than Basic Digital Skills,LIC,96,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Basic Digital Skills,HIC,9,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Basic Digital Skills,UMC,12,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Basic Digital Skills,LMC,8,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Basic Digital Skills,LIC,1,"Basic digital skills refer to basic use of digital devices, email communication, web search and online transactions."
+Intermediate Digital Skills,HIC,49,Intermediate skills refer to use of software and data management.
+Intermediate Digital Skills,UMC,22,Intermediate skills refer to use of software and data management.
+Intermediate Digital Skills,LMC,11,Intermediate skills refer to use of software and data management.
+Intermediate Digital Skills,LIC,2,Intermediate skills refer to use of software and data management.
 Advanced Digital Skills,HIC,8,"Advanced skills refer to data analysis, software development and high-level computing competences."
 Advanced Digital Skills,UMC,4,"Advanced skills refer to data analysis, software development and high-level computing competences."
 Advanced Digital Skills,LMC,2,"Advanced skills refer to data analysis, software development and high-level computing competences."

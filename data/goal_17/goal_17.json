@@ -3,16 +3,16 @@
     "type": "config",
     "goal": "17",
     "shortTitle": "Data for Development",
-    "title": "Can we measure progress?",
+    "title": "The state of development data",
     "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators (SPI) show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
-    "citation": " Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In Atlas of  Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+    "citation": "Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In Atlas of  Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Zander Prinsloo & Brian Stacy",
     "inputs": "Maria Eugenia Genoni & Alaka Holla",
     "visuals": "Maarten Lambrechts",
     "homeFactoidPercent": "60",
     "homeFactoidNumber": "60%",
     "homeFactoidText": "of low- and middle-income countries have a most recent poverty survey that is more than 5 years old",
-    "homeTagline": "For many countries, the data guiding budgets and regulations is years out of date, leaving millions of people invisible to policymakers",
+    "homeTagline": "For many countries, the data guiding budgets and regulations is years out of date, leaving millions of people invisible to policymakers.",
     "translationPrefix": "goal_17.config"
   },
   "content": [
@@ -50,7 +50,7 @@
       "translationPrefix": "goal_17.content.#5"
     },
     {
-      "text": "Take data on unemployment for instance. For the average low- and middle-income country the latest labor force survey is from 2019 and the most recent poverty survey is from 2020. For health surveys, measuring everything from child vaccinations to malnourishment and access to healthcare, the latest survey is from 2015 - that is, more than 10 years ago. Most of the surveys informing our current understanding of labor markets and public health are from before the COVID-19 pandemic.",
+      "text": "Take data on unemployment for instance. For the average low- and middle-income country the latest labor force survey[footnote:  This is calculated as the median year of the latest labor force survey for all low- and middle-income countries. An analogous approach is used for the poverty and health surveys, etc.] is from 2019 and the most recent poverty survey is from 2020. For health surveys, measuring everything from child vaccinations to malnourishment and access to healthcare, the latest survey is from 2015 - that is, more than 10 years ago. Most of the surveys informing our current understanding of labor markets and public health are from before the COVID-19 pandemic.",
       "type": "text",
       "translationPrefix": "goal_17.content.#6"
     },
@@ -209,7 +209,7 @@
         {
           "type": "scene",
           "id": "learn_assess",
-          "text": "Around [emphasis: 777 million children] between 7 and 14, roughly half of all children that age, live in countries with no comparable learning assessment in the past five years. More than half of children in <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span> have no comparable data on whether they can read or understand basic math at age-appropriate levels.",
+          "text": "Around [emphasis: 777 million children] aged between 7 and 14, roughly half of all children that age, live in countries with no comparable learning assessment in the past five years. More than half of children in <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span> have no comparable data on whether they can read or understand basic math at age-appropriate levels.",
           "translationPrefix": "goal_17.content.#17.scenes.#3"
         }
       ],
@@ -265,7 +265,7 @@
         {
           "type": "scene",
           "id": "fifth_quintile ",
-          "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income OECD economies</span> dominate the top tier of statistical systems. They account for 92% of countries in the top quintile. The top performers include Scandinavian countries such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94.14)</span> and Sweden (92.66). Performance at this level is strong and relatively even across all five pillars.",
+          "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income OECD economies</span> dominate the top tier of statistical systems. They account for a little over 90% of countries in the top quintile. The top performers include Scandinavian countries such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94.1)</span> and Sweden (92.7). Performance at this level is strong and relatively even across all five pillars.",
           "translationPrefix": "goal_17.content.#21.scenes.#2"
         },
         {

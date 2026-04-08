@@ -2,17 +2,17 @@
   "config": {
     "type": "config",
     "goal": "04",
-    "shortTitle": "Learning and work",
-    "title": "Skills are used and built on the job",
-    "abstract": "Each year of schooling that a worker attains improves productivity and wages. Education is one of the most powerful drivers of growth and poverty reduction. But learning does not end at school; workers acquire a significant share of their skills through on-the-job learning.",
+    "shortTitle": "Learning and Work",
+    "title": "Skills Are Used and Built on the Job",
+    "abstract": "Education is one of the most powerful drivers of growth and poverty reduction. Each year of schooling that a worker attains improves productivity and wages. But learning does not end at school; workers acquire a significant share of their skills through on-the-job learning.",
     "citation": "Stacy, Brian and Christian Lasser. 2026. ”Using and building skills  on the job”. In Atlas of  Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Brian Stacy",
     "inputs": "Norbert Schady, Joana Silva, Alaka Holla",
     "visuals": "Christian Laesser",
-    "homeFactoidPercent": "66",
-    "homeFactoidNumber": "2/3rds",
-    "homeFactoidText": "of the gpa in per capita income between rich and poor countries is explained by human capital",
-    "homeTagline": "People acquire around 3/4th of all the learning they need for at work at school; they gain the other 1/4th in the workplace",
+    "homeFactoidPercent": "33",
+    "homeFactoidNumber": "In 1 in 3",
+    "homeFactoidText": "low and lower-middle income countries, learning-adjusted years of schooling dropped between 2010 and 2025.",
+    "homeTagline": "Each year of schooling that a worker attains improves productivity and wages.  But learning does not end at school; workers acquire additional skills through on-the-job learning.",
     "translationPrefix": "goal_04.config"
   },
   "content": [
@@ -179,7 +179,7 @@
       "translationPrefix": "goal_04.content.#17"
     },
     {
-      "text": "A concerning trend is that learning has been declining in many low and lower middle-income countries, especially in Sub Saharan Africa.[reference: holla_silva_schady2026] In some cases, this declining trend in learning is accompanying the increase in years of schooling that have taken place in recent years.  Out of 37 low or lower-middle income countries with internationally comparable data in both 2010 and 2025, 13 of these countries saw declines in learning-adjusted years of school. ",
+      "text": "A concerning trend is that learning has been declining in many low and lower middle-income countries, especially in Sub Saharan Africa.[reference: holla_silva_schady2026] In some cases, this declining trend in learning is cancelling out the increase in years of schooling that have taken place in recent years, with learning-adjusted years of schooling falling.  Out of 37 low or lower-middle income countries with internationally comparable data in both 2010 and 2025, 13 of these countries saw declines in learning-adjusted years of school, despite an overall trend of rising enrollment. ",
       "type": "text",
       "translationPrefix": "goal_04.content.#18"
     },
@@ -188,6 +188,7 @@
       "graphic": "lays_change",
       "title": "Learning-adjusted years of schooling have decreased in around 1/3rd of low or lower-middle income countries",
       "subtitle": "[emphasis: ]",
+      "visSize": "small",
       "x_title": "Learning-adjusted years of schooling in 2010",
       "x_units": "",
       "y_title": "Learning-adjusted years of schooling in 2025",
@@ -198,8 +199,8 @@
       "visdescription": "The graphic shows a scatterplot of Learning-adjusted years of schooling in 2010 versus 2025",
       "data_download": "04.data.lays.scatter.csv",
       "data": "1esEqT9Zx2CTlF788bpNp6lyMYEuRoSP4lELpb9LJyGU",
-      "keyFact": "1 in 3",
-      "keyFactLabel": "low and lower-middle income countries saw drops in learning-adjusted years of schooling between 2010 and 2025.",
+      "keyFact": "In 1 in 3",
+      "keyFactLabel": "low and lower-middle income countries, learning-adjusted years of schooling fell between 2010 and 2025.",
       "translationPrefix": "goal_04.content.#19"
     },
     {
@@ -213,7 +214,7 @@
       "translationPrefix": "goal_04.content.#21"
     },
     {
-      "text": "In low- and middle-income countries, men with college education are about 5 percentage points more likely to work than those with little schooling. The gap is even larger for women, at 16 percentage points.[footnote:  Author’s calculations based on <a href=\"https://rshiny.ilo.org/dataexplorer60/?lang=en&segment=indicator&id=EMP_TEMP_SEX_AGE_EDU_NB_A&channel=ilostat\" target=\"_blank\">ILOSTAT data</a> on employment by sex, age, and education from 2010 to 2024. Calculation includes prime aged workers, aged 25-54 years old. High education individuals classified as having “Advanced” education according to ILO definitions. Low education individuals classified as “Less than basic” education according to ILO definitions.] Wage workers typically have 2.5 more years of schooling than the self-employed, and wage jobs tend to deliver more earnings growth over time.[reference: ginding][reference: holla_silva_schady2026] But even among workers with similar levels of education, the self-employed in low- and middle-income countries tend to earn less than their counterparts in wage employment, suggesting that the type of job matters for earnings, not just the schooling a worker brings to it.[reference: holla_silva_schady2026]",
+      "text": "In low- and middle-income countries, men with college education are about 5 percentage points more likely to work than those with little schooling. The gap is even larger for women, at 16 percentage points.[footnote:  Author’s calculations based on <a href=\"https://rshiny.ilo.org/dataexplorer60/?lang=en&segment=indicator&id=EMP_TEMP_SEX_AGE_EDU_NB_A&channel=ilostat\" target=\"_blank\">ILOSTAT data</a> on employment by sex, age, and education from 2010 to 2024. Calculation includes prime aged workers, aged 25-54 years old. High education individuals classified as having “Advanced” education according to ILO definitions. Low education individuals classified as “Less than basic” education according to ILO definitions.] Wage workers typically have 2.5 more years of schooling than the self-employed, and wage jobs tend to deliver more earnings growth over time.[reference: ginding] But even among workers with similar levels of education, the self-employed in low- and middle-income countries tend to earn less than their counterparts in wage employment, suggesting that the type of job matters for earnings, not just the schooling a worker brings to it.[reference: holla_silva_schady2026]",
       "type": "text",
       "translationPrefix": "goal_04.content.#22"
     },
@@ -226,7 +227,7 @@
       "translationPrefix": "goal_04.content.#23"
     },
     {
-      "text": "These gaps in educational attainment and job quality do not arise at random. Where a child grows up shapes their access to schools, health services, and social or environmental conditions. In Brazil, children from low-income families who grew up in wealthier neighborhoods completed 2.3 more years of schooling compared to similarly low-income children who grew up in poorer neighborhoods. These children later earned twice as much by their late twenties as comparable children who grew up in the poorer neighborhoods.[reference: holla_silva_schady2026]",
+      "text": "These gaps in educational attainment and job quality do not arise at random. Where a child grows up shapes their access to schools, health services, and social or environmental conditions. In Brazil, children from low-income families who grew up in wealthier neighborhoods completed 2.3 more years of schooling compared to similarly low-income children who grew up in poorer neighborhoods.[reference: holla_silva_schady2026]",
       "type": "text",
       "translationPrefix": "goal_04.content.#24"
     },

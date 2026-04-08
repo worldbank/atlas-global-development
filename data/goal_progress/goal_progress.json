@@ -2,9 +2,9 @@
   "config": {
     "type": "config",
     "goal": "progress",
-    "shortTitle": "Progress",
-    "title": "Measuring progress",
-    "abstract": "Measuring progress in development is complex, as simple metrics often provide conflicting results. This explainer introduces a measure that compares a country's progress against other countries at a similar stage of development. This approach offers a nuanced way to evaluate performance, set realistic targets, and understand the scale of development challenges.",
+    "shortTitle": "Measuring Progress",
+    "title": "A New Framework for Measuring Progress\" as the title",
+    "abstract": "Measuring progress in development is complex, and simple metrics often provide conflicting results. This explainer introduces a measure that compares a country's progress against other countries at a similar stage of development. The approach offers a contextualized way to evaluate performance, set realistic targets, and understand the scale of development challenges.",
     "citation": "Mahler, D G and Lambrechts, M. 2026. “Measuring Progress” In Atlas of Sustainable Development Goals 2026,  edited by A. F. Pirlea, D. Wadhwa, D. Mahler, U. Serajuddin, A. Thudt, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004",
     "credits": "Daniel Gerszon Mahler",
     "inputs": "Daniel Boller, Bob Rijkers, Nishant Yonzan",
@@ -27,12 +27,12 @@
       "translationPrefix": "goal_progress.content.#1"
     },
     {
-      "text": "India’s challenge regarding open defecation is a good example[emphasis: . ]Lagging behind its peers and its own target for ending open defecation, the government launched the<a href=\"https://swachhbharatmission.ddws.gov.in/index.php/about\" target=\"_blank\"> </a><a href=\"https://swachhbharatmission.ddws.gov.in/index.php/about\" target=\"_blank\">Swachh Bharat Mission</a> in 2014 to build toilets and change behavior regarding sanitation practices. During the first five years (Phase 1), the mission built over 100 million toilets and the proportion of the population practicing open defecation fell from 33 percent to 20 percent—a 40 percent drop.[reference: unsdg] Progress has since continued, and in 2024, only around 7 percent of the population practiced open defecation. ",
+      "text": "India’s open defecation challenge is a good example[emphasis: . ]Lagging behind its peers and its own target for ending open defecation, in 2014 the government launched the<a href=\"https://swachhbharatmission.ddws.gov.in/index.php/about\" target=\"_blank\"> </a><a href=\"https://swachhbharatmission.ddws.gov.in/index.php/about\" target=\"_blank\">Swachh Bharat Mission</a>  to build toilets and change behavior regarding sanitation practices. During the first five years (Phase 1), the mission built over 100 million toilets and the proportion of the population practicing open defecation fell from 33 percent to 20 percent—a 40 percent drop.[reference: unsdg] Progress has since continued, and in 2024, only around 7 percent of the population practiced open defecation. ",
       "type": "text",
       "translationPrefix": "goal_progress.content.#2"
     },
     {
-      "text": "Cases like this illustrate how understanding a country's progress, or lack of it, can spearhead policy change and document achievements. Although India’s achievements are impressive, how can we quantify how well it did over this time span? It is not as trivial as it may sound. ",
+      "text": "Cases like this illustrate how understanding a country's progress, or lack of it, can drive policy change and document achievements. Although India’s achievements are impressive, how can we quantify how well it did over this time span? It is not as trivial as it may sound. ",
       "type": "text",
       "translationPrefix": "goal_progress.content.#3"
     },
@@ -60,7 +60,7 @@
       "country_right": "GEO",
       "percentage_points": "pp",
       "target": "2030 target",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>.",
       "visdescription": "Compares progress in poverty reduction in Côte d’Ivoire and Georgia from 2015 to 2025 using different common metrics of progress.<span style=\"background-color: rgb(255,255,0);\"></span>",
       "data_download": "progress.data.poverty_slopecharts.csv",
       "data": "1U7w6yGILXAxwpQ15FWtQmbxjDdhyAFjhfSyLwyUpyN8",
@@ -69,19 +69,19 @@
         {
           "type": "scene",
           "id": "simple",
-          "text": "Between 2015 and 2025, both countries made impressive reductions in poverty, with Côte d’Ivoire reducing poverty from 27.4 percent to 15.9 percent and Georgia from 10.6 percent to 3.6 percent. ",
+          "text": "Between 2015 and 2025, both countries made impressive reductions in poverty, with Côte d’Ivoire reducing poverty from 26.3 percent to 16.1 percent and Georgia from 10.6 percent to 3.5 percent. ",
           "translationPrefix": "goal_progress.content.#7.scenes.#0"
         },
         {
           "type": "scene",
           "id": "percentage_points",
-          "text": "If we compare this in [emphasis: percentage points], Côte d’Ivoire has made the most progress, with 11.5 percent of its population escaping poverty over the 10-year period, compared to around 7 percent percent of Georgia’s population.",
+          "text": "If we compare this in [emphasis: percentage points], Côte d’Ivoire has made the most progress, with 10.2 percent of its population escaping poverty over the 10-year period, compared to around 7.1 percent of Georgia’s population.",
           "translationPrefix": "goal_progress.content.#7.scenes.#1"
         },
         {
           "type": "scene",
           "id": "percentages",
-          "text": "Yet Georgia could not have matched Côte d’Ivoire’s feat, as only 10.6 percent of the population was in poverty at the start of the period. If we look instead at the decline in [emphasis: percent] (reflecting the share of poor population that has escaped poverty), then Georgia made the most progress, as 66 percent of its poor population escaped poverty, compared to 42 percent in Côte d’Ivoire.",
+          "text": "Yet Georgia could hardly have matched Côte d’Ivoire’s feat, as only 10.6 percent of the population was in poverty at the start of the period. If we look instead at the decline in [emphasis: percent] (reflecting the share of the poor population that has escaped poverty), then Georgia made the most progress, as 67 percent of its poor population escaped poverty, compared to 39 percent in Côte d’Ivoire.",
           "translationPrefix": "goal_progress.content.#7.scenes.#2"
         }
       ],
@@ -118,10 +118,10 @@
       "years": "years",
       "country_1": "CIV",
       "country_2": "GEO",
-      "country_standstill": "SLV",
+      "country_standstill": "SLE",
       "country_regress": "MWI",
       "visSize": "fullScreen",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025b)</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025b)</a>.",
       "visdescription": "Shows the typical changes in poverty rates as a function of initial changes in poverty rates, and how this predicts typical trajectories of poverty rates.",
       "data_download": "progress.data.poverty_rate_change.zip",
       "data": "1z6pnQuuVZ65e1v_6fa1PcrpktWHD7qdpVa8ekuV6Ku8",
@@ -148,25 +148,25 @@
         {
           "type": "scene",
           "id": "median_explanation2",
-          "text": "A country with a 50 percent poverty rate typically decreases poverty by 0.71 percentage points the following year…",
+          "text": "A country with a 50 percent poverty rate typically decreases poverty by 0.73 percentage points the following year…",
           "translationPrefix": "goal_progress.content.#10.scenes.#3"
         },
         {
           "type": "scene",
           "id": "median_explanation3",
-          "text": "…while a country with a 5 percent poverty rate typically decreases poverty by 0.19 percentage points the following year.",
+          "text": "…while a country with a 5 percent poverty rate typically decreases poverty by 0.22 percentage points the following year.",
           "translationPrefix": "goal_progress.content.#10.scenes.#4"
         },
         {
           "type": "scene",
           "id": "country1_15",
-          "text": "From this, we can trace out a typical trajectory from any starting point. If we look at Côte d’Ivoire’s 2015 poverty rate of 27.4 percent, the typical change is -0.65.",
+          "text": "From this, we can trace out a typical trajectory from any starting point. If we look at Côte d’Ivoire’s 2015 poverty rate of 26.3 percent, the typical change is -0.65.",
           "translationPrefix": "goal_progress.content.#10.scenes.#5"
         },
         {
           "type": "scene",
           "id": "country1_16",
-          "text": "So, if Côte d’Ivoire had followed the typical pattern, in 2016, its poverty rate would have been 26.7 percent.",
+          "text": "So, if Côte d’Ivoire had followed the typical pattern, in 2016, its poverty rate would have been 25.6 percent.",
           "translationPrefix": "goal_progress.content.#10.scenes.#6"
         },
         {
@@ -184,13 +184,13 @@
         {
           "type": "scene",
           "id": "country1_end",
-          "text": "The progress Côte d’Ivoire achieved between 2015 and 2025 would have typically taken until 2035. In other words, Côte d’Ivoire achieved in 10 years what would typically take 20 years. We denote this a speed of two, reflecting that Côte d’Ivoire developed twice as fast as the typical experience.",
+          "text": "The progress Côte d’Ivoire achieved between 2015 and 2025 would have typically taken until 2033. In other words, Côte d’Ivoire achieved in 10 years what would typically take 17 years. We denote this a speed of 1.7, reflecting that Côte d’Ivoire developed nearly twice as fast as the typical experience.",
           "translationPrefix": "goal_progress.content.#10.scenes.#9"
         },
         {
           "type": "scene",
           "id": "country2",
-          "text": "If we do the same for Georgia, we can see that its progress over 10 years was equivalent to what typically takes 30 years, giving us a speed of three suggesting that Georgia made faster progress than Côte d’Ivoire.",
+          "text": "If we do the same for Georgia, we can see that its progress over 10 years was equivalent to what typically takes 25 years, giving us a speed of 2.5 suggesting that Georgia made faster progress than Côte d’Ivoire.",
           "translationPrefix": "goal_progress.content.#10.scenes.#10"
         },
         {
@@ -214,25 +214,25 @@
         {
           "type": "scene",
           "id": "s_curve_annotation1",
-          "text": "The purple circle denotes Côte d'Ivoire’s position in 2015.",
+          "text": "The black circle denotes Côte d'Ivoire’s position in 2015.",
           "translationPrefix": "goal_progress.content.#10.scenes.#14"
         },
         {
           "type": "scene",
           "id": "s_curve_annotation2",
-          "text": "Over the next 10 years, Côte d'Ivoire reduced poverty by 11.5 percentage points, moving twice as fast as the typical rate of countries at a similar level of development.",
+          "text": "Over the next 10 years, Côte d'Ivoire reduced poverty by 10.2 percentage points, moving almost twice as fast as the typical rate of countries at a similar level of development.",
           "translationPrefix": "goal_progress.content.#10.scenes.#15"
         },
         {
           "type": "scene",
           "id": "s_curve_country2",
-          "text": "Over the same 10 years, Georgia reduced its poverty rate by 7 percentage points, a reduction typically seen over a period of almost 30 years. So Georgia moved at a speed of three.",
+          "text": "Over the same 10 years, Georgia reduced its poverty rate by 7 percentage points, a reduction typically seen over a period of 25 years. So Georgia moved at a speed of three.",
           "translationPrefix": "goal_progress.content.#10.scenes.#16"
         },
         {
           "type": "scene",
           "id": "country_no_progress",
-          "text": "El Salvador, by contrast, made no progress and it moved at a speed of zero.",
+          "text": "Sierra Leone, by contrast, made no progress and it moved at a speed of zero.",
           "translationPrefix": "goal_progress.content.#10.scenes.#17"
         },
         {
@@ -328,7 +328,7 @@
       "translationPrefix": "goal_progress.content.#18"
     },
     {
-      "text": "[emphasis: First, this method cannot be applied to all indicators. ]The speed method does not work, for example, for indicators where countries do not expect to make progress. For such cases, we have developed a complementary way of measuring progress that gives all countries a score from 0–100 that reflects the share of historical experiences they are outperforming.[reference: mahler2025a] For example, a score of 80 means that a country is progressing faster than 80 percent of all the cases we have observed historically. ",
+      "text": "[emphasis: First, this method cannot be applied to all indicators. ]The speed method does not work, for example, for indicators where countries on expectation have not made historical progress. For such cases, we have developed a complementary way of measuring progress that gives all countries a score from 0–100 that reflects the share of historical experiences they are outperforming.[reference: mahler2025a] For example, a score of 80 means that a country is progressing faster than 80 percent of all the cases observed historically. ",
       "type": "text",
       "translationPrefix": "goal_progress.content.#19"
     },

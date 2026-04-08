@@ -3,7 +3,7 @@
     "type": "config",
     "goal": "10",
     "shortTitle": "Inequality",
-    "title": "Combining income growth with inequality reduction benefits everyone",
+    "title": "Combining Income Growth with Inequality Reduction Benefits Everyone",
     "abstract": "Most inequality measures fail to account for overall economic development. The Prosperity Gap tracks both economic progress and its distribution. Although prosperity has improved globally, many economies—particularly in Sub-Saharan Africa—have regressed in recent decades.",
     "citation": "Lønborg, J H, Lambrechts, M and Yonzan, N. 2026. “Combining income growth with inequality reduction benefits everyone” In Atlas of Global Development 2026, edited by D Mahler, A F Pirlea, U Serajuddin, A Thudt, D Wadhwa, and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004[emphasis: <a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\">https://doi.org/10.60616/f7gk-me57</a>]",
     "credits": "Jonas Helth Lønborg and Nishant Yonzan",
@@ -12,7 +12,7 @@
     "homeFactoidPercent": "80",
     "homeFactoidNumber": "4 in 5",
     "homeFactoidText": "individuals worldwide live below the global prosperity standard of $28 per day",
-    "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the world was in 1981, making the region roughly 40 years behind the global average.",
+    "homeTagline": "The Prosperity Gap in Sub-Saharan Africa is at the same level as the world was in 1981, making the region roughly 4 decades behind the global average.",
     "translationPrefix": "goal_10.config"
   },
   "content": [
@@ -32,7 +32,7 @@
       "translationPrefix": "goal_10.content.#2"
     },
     {
-      "text": "To that end, the World Bank has started tracking the[emphasis:  number of economies with high inequality], defined as economies with a Gini index over 40.[reference: Haddad2024] In 2024, inequality was high in 44 of the 169 economies with data to calculate the Gini index. Compared to 72 economies with high inequality in 1995, this progress, though slow and gradual, has been significant.",
+      "text": "To that end, the World Bank has started tracking the[emphasis:  number of economies with high inequality], defined as economies with a Gini index over 40.[reference: Haddad2024] In 2024, inequality was high in 43 of the 169 economies with data to calculate the Gini index. Compared to 72 economies with high inequality in 1995, this progress, though slow and gradual, has been significant.",
       "type": "text",
       "translationPrefix": "goal_10.content.#3"
     },
@@ -46,16 +46,16 @@
       "moderate": "Moderate inequality",
       "low": "Low inequality",
       "y_axis_title": "Number of economies",
-      "visdescription": "The figure reports the number of economies with a Gini index over 40 for 1995–2024. The number of economies with high inequality has fallen from 72 in 1995 to 44 in 2024. The number of economies with low inequality, defined as those with Gini index under 30, has increased from 24 in 1995 to 34 in 2024. ",
+      "visdescription": "The figure reports the number of economies with a Gini index over 40 for 1995–2024. The number of economies with high inequality has fallen from 72 in 1995 to 43 in 2024. The number of economies with low inequality, defined as those with Gini index under 30, has increased from 24 in 1995 to 33 in 2024. ",
       "data_download": "10.data.high_inequality_trend.csv",
       "data": "11Lw3knTCwFMNRc_bb5E3N52V3M9GhizD9HE1NpJ4g8k",
-      "keyFact": "44",
+      "keyFact": "43",
       "keyFactLabel": "economies have high inequality today, compared to 72 in 1995.",
       "scenes": [
         {
           "type": "scene",
           "id": "",
-          "text": "The number of economies with  <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">high inequality</span> (Gini index > 40) has decreased substantially since the 1990s. In 1995, 72 economies had high inequality; by 2024, this had fallen to 44—or close to half the number in the 1990s.",
+          "text": "The number of economies with  <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">high inequality</span> (Gini index > 40) has decreased substantially since the 1990s. In 1995, 72 economies had high inequality; by 2024, this had fallen to 43—nearly half the number in the 1990s.",
           "translationPrefix": "goal_10.content.#4.scenes.#0"
         },
         {
@@ -68,12 +68,12 @@
       "translationPrefix": "goal_10.content.#4"
     },
     {
-      "text": "The map below uses the latest household survey to report the Gini index for each economy. Looking at the regional pattern, we see that high inequality is concentrated in <span data-color-id=\"LCN\" class=\"LCN\">Latin America & the Caribbean</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>. Although economies in Latin America are well known to have high inequality [reference: Alvaredo2023], its presence in Sub-Saharan Africa is less discussed.",
+      "text": "The map below uses the latest household survey to report the Gini index for each economy. Looking at the regional pattern, we see that high inequality is concentrated in Latin America & the Caribbean and Sub-Saharan Africa. Although economies in Latin America are well known to have high inequality [reference: Alvaredo2023], its presence in Sub-Saharan Africa is less discussed.",
       "type": "text",
       "translationPrefix": "goal_10.content.#5"
     },
     {
-      "text": "<span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span> [emphasis: faces high levels of both poverty and inequality].[emphasis:  ]Despite this, [emphasis: Benin ]is among the economies that have managed to move from high to moderate inequality.[reference: WorldBank2025] Here, a combination of high economic growth and a stronger tax collection system has increased domestic resource mobilization, enabling an expansion of social safety net programs targeting the poorest. ",
+      "text": "Sub-Saharan Africa[emphasis:  faces high levels of both poverty and inequality].[emphasis:  ]Despite this, [emphasis: Benin ]is among the economies that have managed to move from high to moderate inequality.[reference: WorldBank2025] Here, a combination of high economic growth and a stronger tax collection system has increased domestic resource mobilization, enabling an expansion of social safety net programs targeting the poorest. ",
       "type": "text",
       "translationPrefix": "goal_10.content.#6"
     },
@@ -94,7 +94,7 @@
       "translationPrefix": "goal_10.content.#7"
     },
     {
-      "text": "Although it is clear that the number of economies with high inequality has decreased over recent decades, this metrics say little about how much the economies grew or which groups experienced progress. In extreme cases, an improvement in the Gini index could be due to the poorest experiencing proportionally smaller income losses than the wealthy, as happened in some cases during the COVID-19 pandemic. This does not constitute progress.",
+      "text": "Although it is clear that the number of economies with high inequality has decreased over recent decades, this metric says little about how much the economies grew or which groups experienced progress. In extreme cases, an improvement in the Gini index could be due to the poorest experiencing proportionally smaller income losses than the wealthy, as happened in some cases during the COVID-19 pandemic. This does not constitute progress.",
       "type": "text",
       "translationPrefix": "goal_10.content.#8"
     },
@@ -126,9 +126,9 @@
       "source": "<a href=\"https://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity\" target=\"_blank\">Global Database on Shared Prosperity</a> (October 2024). ",
       "fasterlabel": "Faster growth for the poorest 40 percent",
       "slowerlabel": "Slower growth for the poorest 40 percent",
-      "xaxistitle": "Growth of income of the poorest 40, percent",
-      "yaxistitle": "Growth of national average income, percent",
-      "visdescription": "The figure compares the growth rates of average national income and average income of the poorest 40 percent of the population. In three out of four economies, income growth  for the poorest 40 percent compared was better than the average income.",
+      "xaxistitle": "Growth of income of the poorest 40 percent of the population (%)",
+      "yaxistitle": "Growth of national average income (%)",
+      "visdescription": "The figure compares the growth rates of average national income and average income of the poorest 40 percent of the population. In three out of four economies, income growth  for the poorest 40 percent was better than the average income.",
       "data_download": "10.data.shared_prosperity.csv",
       "data": "1Xc3ceq3jZck-SqU6nNrKFRgpsu0oirNFDNi4zv2xiJ0",
       "keyFact": "3 in 4",
@@ -155,19 +155,19 @@
         {
           "type": "scene",
           "id": "lcn",
-          "text": "For example, although we can compare income growth of the poorest 40 percent across <span data-color-id=\"LCN\" class=\"LCN\">Latin American &Caribbean </span>economies, it is hard to see which economy has improved the most given their starting positions. For example, income growth among Mexico's poorest 40 percent has less income growth, but the average Mexican is still richer than the average Peruvian. This difference isn't shown in the bottom 40 measure.",
+          "text": "For example, although we can compare income growth of the poorest 40 percent across <span data-color-id=\"LCN\" class=\"LCN\">Latin American &Caribbean </span>economies, it is hard to see which economy has improved the most given their starting positions. For example, income growth among Mexico's poorest 40 percent is lower than Peru’s, but the average Mexican is still richer than the average Peruvian. The poorest 40 percent measure does not show this difference.",
           "translationPrefix": "goal_10.content.#13.scenes.#3"
         }
       ],
       "translationPrefix": "goal_10.content.#13"
     },
     {
-      "text": "It is telling that not all 169 economies with data to calculate the Gini index are included in the chart showing growth in the poorest 40 percent. This is because the latter measure is taxing on the data. First, we need two points in time to calculate growth. Second, we need the chosen years to have comparable surveys, and this is not always the case. As a result,  the chart only reports growth for 89 economies, using data for 2016–21. There are not enough recent comparable surveys to calculate growth for a meaningful number of economies beyond 2021.",
+      "text": "Calculating growth of the poorest 40 percent requires comparable surveys across two years. As a result, the chart only reports growth for 89 economies using data from years around 2016 and 2021. There are not enough recent comparable surveys to calculate growth for a meaningful number of economies beyond 2021.",
       "type": "text",
       "translationPrefix": "goal_10.content.#14"
     },
     {
-      "text": "On their own, neither the GDP per capita, Gini index, or poorest 40 measures provide a comprehensive assessment of global prosperity and how it is shared. To get this full picture, we need to examine income levels, the pace of income growth, and how growth is distributed across the population. Accurately assessing both overall prosperity and how it is distributed is essential to identify vulnerable population groups, which is fundamental for designing effective, targeted interventions to foster further advancement. Relying solely on GDP per capita growth, income growth of the poorest 40 percent, or inequality measures does not adequately facilitate such analysis.",
+      "text": "A thorough evaluation of prosperity requires analyzing income levels, growth rates, and how gains are shared among the population. This is crucial for identifying vulnerable groups and designing targeted interventions. The measure introduced below attempts to do this.",
       "type": "text",
       "translationPrefix": "goal_10.content.#15"
     },
@@ -227,7 +227,7 @@
         {
           "type": "scene",
           "id": "prosperity_gap_intro",
-          "text": "Let’s suppose that there are 100 people in each economy ranked from poorest on the left to richest on the right. The height of each bar represents the income of each individual in 2025.",
+          "text": "Suppose that there are 100 people in each economy ranked from poorest on the left to richest on the right. The height of each bar represents the income of each individual in 2025.",
           "translationPrefix": "goal_10.content.#23.scenes.#0"
         },
         {
@@ -251,7 +251,7 @@
         {
           "type": "scene",
           "id": "all_gaps",
-          "text": "Each segment of the bar represents the person's level of income. The number of segments represents how many times their income needs to increase. Individuals with lower incomes require a substantially greater increase in income to reach the prosperity standard. ",
+          "text": "Each brick represents the person's level of income. The number of bricks represents how many times their income needs to increase. Individuals with lower incomes require a substantially greater increase in income to reach the prosperity standard. ",
           "translationPrefix": "goal_10.content.#23.scenes.#4"
         },
         {
@@ -269,19 +269,19 @@
         {
           "type": "scene",
           "id": "prosperity_gap_averages",
-          "text": "A nation’s Prosperity Gap is the average gap of all individuals in that nation. The Prosperity Gap is higher in Colombia (four-and-half) than in Peru (three-and-half), reflecting the larger gaps among the poor in Colombia.",
+          "text": "A nation’s Prosperity Gap is the average gap of all individuals in that nation. The Prosperity Gap is higher in Colombia (4.5) than in Peru (3.5), reflecting the larger gaps among the poor in Colombia.",
           "translationPrefix": "goal_10.content.#23.scenes.#7"
         }
       ],
       "translationPrefix": "goal_10.content.#23"
     },
     {
-      "text": "If we only consider the Gini index, we could see that Colombia (with 54) is more unequal than Peru (with 41) today, despite both economies having had similar levels of inequality in 2003  (53.6 in Colombia and 53.1 in Peru). Since then, Peru has experienced sustained economic growth and an improved labor market which together with an expansion of its targeted social programs, including transfers to the poorest, has helped reduce inequality.[reference: WorldBank2023] But the Gini index does not tell us anything about income levels. People in Colombia earn more on average ($20 per day) than people in Peru ($14 per day). [emphasis: The Prosperity Gap, on the other hand, rewards higher levels of income while also imposing a “penalty” for inequality.]",
+      "text": "If we only consider the Gini index, we could see that Colombia (with 54) is more unequal than Peru (with 41) today, despite both economies having had similar levels of inequality in 2003  (53.6 in Colombia and 53.1 in Peru). Since then, Peru has experienced sustained economic growth and an improved labor market which together with an expansion of its targeted social programs, including transfers to the poorest, has helped reduce inequality.[reference: WorldBank2023] If we instead only looked at income levels, people in Colombia earn more on average ($20 per day) than people in Peru ($14 per day). [emphasis: The Prosperity Gap rewards higher levels of income while also imposing a “penalty” for inequality.]",
       "type": "text",
       "translationPrefix": "goal_10.content.#24"
     },
     {
-      "text": "Next, we’ll look at the Prosperity Gap of economies, regions, and the world in 2025, and consider trends to highlight changes over time. Then we will break down these trends to examine the roles that mean income and inequality play in shaping the Prosperity Gap.",
+      "text": "Next, we’ll look at the Prosperity Gap of economies, regions, and the world in 2026, and consider trends to highlight changes over time. Then we will break down these trends to examine the roles that mean income and inequality play in shaping the Prosperity Gap.",
       "type": "text",
       "translationPrefix": "goal_10.content.#25"
     },
@@ -311,19 +311,19 @@
         {
           "type": "scene",
           "id": "col_mex",
-          "text": "In 2025, the Prosperity Gap for Colombia was four-and-half and that for Peru is three-and-half.",
+          "text": "In 2026, the Prosperity Gap for Colombia was 4.5 and for Peru, 3.5.",
           "translationPrefix": "goal_10.content.#28.scenes.#0"
         },
         {
           "type": "scene",
           "id": "country_gaps",
-          "text": "Each square represents an economy’s Prosperity Gap in 2025, colored by region and reflecting the population size.",
+          "text": "Each square represents an economy’s Prosperity Gap in 2026, colored by region and reflecting the population size.",
           "translationPrefix": "goal_10.content.#28.scenes.#1"
         },
         {
           "type": "scene",
           "id": "country_gaps",
-          "text": "There is a large difference in prosperity between economies. In some, such as the United States, India, and Kosovo, incomes are almost enough to meet the prosperity standard, but in others, such as South Sudan, incomes would have to grow 35 times to reach that level.",
+          "text": "There is a large difference in prosperity between economies. In some, such as the United States, Japan, and Estonia, incomes are almost enough to meet the prosperity standard, but in others, such as South Sudan and Haiti, incomes would have to grow 27 times to reach that level.",
           "translationPrefix": "goal_10.content.#28.scenes.#2"
         },
         {
@@ -335,29 +335,29 @@
         {
           "type": "scene",
           "id": "region_gaps",
-          "text": "Today, most people in <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Europe &Central Asia</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span> have reached the prosperity standard of $28 per day. On average, people in <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia</span> need to increase their incomes about [emphasis: three times] to reach that same level of prosperity. In <span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span> and the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan & Paksitan</span>, incomes need to be about [emphasis: five times] higher, and in <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, almost [emphasis: 12 times] higher.",
+          "text": "Today, most people in <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Europe &Central Asia</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span> have reached the prosperity standard of $28 per day. On average, people in <span data-color-id=\"LCN\" class=\"LCN\">Latin America & the Caribbean</span> need to increase their incomes about [emphasis: three times] to reach that same level of prosperity. In <span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span> and the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan & Paksitan</span>, incomes need to be about [emphasis: five times] higher, and in <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, almost [emphasis: 11 times] higher.",
           "translationPrefix": "goal_10.content.#28.scenes.#4"
         },
         {
           "type": "scene",
           "id": "global_gap",
-          "text": "The <span data-color-id=\"WLD\" class=\"WLD\">Global Prosperity Gap</span> combines the Prosperity Gaps of every person in the world. In 2025, a typical person would have to increase their income almost [emphasis: five times] to reach the prosperity standard of $28 per day.",
+          "text": "The <span data-color-id=\"WLD\" class=\"WLD\">Global Prosperity Gap</span> combines the Prosperity Gaps of every person in the world. Today, a typical person would have to increase their income almost [emphasis: five times] to reach the prosperity standard of $28 per day.",
           "translationPrefix": "goal_10.content.#28.scenes.#5"
         }
       ],
       "translationPrefix": "goal_10.content.#28"
     },
     {
-      "text": "Nations can learn from the East Asian case, where incomes grew rapidly in the past few decades, helping them reduce the Prosperity Gap considerably from close to 18 in 1981 to under “only” three today. In the next section, we will take a closer look at these trends.",
+      "text": "Nations can learn from the East Asian case, where incomes grew rapidly in the past few decades, helping them reduce the Prosperity Gap considerably from close to 18 in 1981 to under three today. In the next section, we will take a closer look at these trends.",
       "type": "text",
       "translationPrefix": "goal_10.content.#29"
     },
     {
       "type": "factoid",
       "title": "Global Prosperity Gap",
-      "number": "5",
+      "number": "4.5",
       "units": "times",
-      "label": "Incomes today need to increase nearly [emphasis: five times, ]on average, for everyone to reach the prosperity standard of $28 a day.",
+      "label": "Incomes today need to increase close to [emphasis: five times, ]on average, for everyone to reach the prosperity standard of $28 a day.",
       "translationPrefix": "goal_10.content.#30"
     },
     {
@@ -386,13 +386,13 @@
         {
           "type": "scene",
           "id": "world",
-          "text": "The Global Prosperity Gap has more than halved from more than [emphasis: 11 ]in [emphasis: 1981 ]to  less than [emphasis: five ]in [emphasis: 2025]. This significant progress reflects the poorer nations and people catching up to the richer nations and people.",
+          "text": "The Global Prosperity Gap has more than halved from more than [emphasis: 13 ]in [emphasis: 1981 ]to  less than [emphasis: five ]in [emphasis: 2025]. This significant progress reflects the poorer nations and people catching up to the richer nations and people.",
           "translationPrefix": "goal_10.content.#33.scenes.#0"
         },
         {
           "type": "scene",
           "id": "regions",
-          "text": "All regions have made significant progress since 1981, with <span data-color-id=\"EAS\" class=\"EAS\">East Asia and Pacific</span> standing out, having the largest (18) to the third lowest gap (2.68). But  the most recent decade has seen stagnation in the Prosperity Gaps in two regions: <span data-color-id=\"MEA\" class=\"MEA\">Middle East, North Africa, Afghanistan & Pakistan</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, with the latter’s Prosperity Gap today close to the 1981 global gap. By this metric, the region is around 40 years behind global progress.",
+          "text": "All regions have made significant progress since 1981, with <span data-color-id=\"EAS\" class=\"EAS\">East Asia and Pacific</span> standing out, having the largest (21) to the third lowest gap (2.5). But  the most recent decade has seen stagnation in the Prosperity Gaps in two regions: <span data-color-id=\"MEA\" class=\"MEA\">Middle East, North Africa, Afghanistan & Pakistan</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, with the latter’s Prosperity Gap today close to the global gap in the 1980s. By this metric, the region is around 40 years behind global progress.",
           "translationPrefix": "goal_10.content.#33.scenes.#1"
         },
         {
@@ -415,7 +415,7 @@
       "translationPrefix": "goal_10.content.#35"
     },
     {
-      "text": "Going back to Colombia, let’s consider what happens if every person earns 10 percent more. This raises everyone’s income, including the average national income, by 10 percent. Since, everyone’s income increases by the same amount, relative inequality stays unchanged. For example, say person A had an initial income of $10 and person B, $20. With a 10 percent increase, A earns $11 and B earns $22. This means that the initial ratio of income between A and B ($20/$10 = 2) remains the same ($22/$11 = 2). The ratio shows the relative distance in income between the two individuals—B has double the income of A. Since inequality is unchanged, all the change in the Prosperity Gap in that economy is due to the change in average income alone.",
+      "text": "Going back to Colombia, let’s consider what happens if every person earns 10 percent more. This raises everyone’s income, including the average national income, by 10 percent, so . relative inequality stays unchanged. For example, say person A had an initial income of $10 and person B, $20. With a 10 percent increase, A earns $11 and B earns $22. This means that the initial ratio of income between A and B ($20/$10 = 2) remains the same ($22/$11 = 2). The ratio shows the relative distance in income between the two individuals—B has double the income of A. Since inequality is unchanged, all the change in the Prosperity Gap in that economy is due to the change in average income alone.",
       "type": "text",
       "translationPrefix": "goal_10.content.#36"
     },
@@ -439,7 +439,7 @@
       "translationPrefix": "goal_10.content.#37"
     },
     {
-      "text": "Next, consider what happens to the Prosperity Gap if every Colombian’s income increases by $10 instead of 10 percent in the example above). This raises everyone’s income, including the average national income, by $10. The difference here is that the $10 increase is a relatively larger increase for those with lower incomes and a relatively smaller increase for those with higher incomes.",
+      "text": "Next, consider what happens to the Prosperity Gap if every Colombian’s income increases by $10 instead of 10 percent. This raises everyone’s income, including the average national income, by $10. The difference here is that the $10 increase is a relatively larger increase for those with lower incomes and a relatively smaller increase for those with higher incomes.",
       "type": "text",
       "translationPrefix": "goal_10.content.#38"
     },
@@ -454,7 +454,7 @@
       "title": "Raise everyone’s income by $10",
       "simulation": "dollar_for_everyone",
       "subtitle": "",
-      "textParagraph": "If everyone earns an extra $10, the average income increases from $20 to $30, and the Prosperity Gap falls from four-and-half to just over one. One-third of this change in the Prosperity Gap is driven by an increase in average income; the rest is driven by the reduction in inequality.",
+      "textParagraph": "If everyone earns an extra $10, the average income increases from $20 to $30, and the Prosperity Gap falls from 4.5 to just over 1. One-third of this change in the Prosperity Gap is driven by an increase in average income; the rest is driven by the reduction in inequality.",
       "source": "Authors’ calculation, <a href=\"https://pip.worldbank.org/key-inequality-indicators\" target=\"_blank\">Poverty and Inequality Platform</a> (version March 2026). ",
       "income": "Income",
       "prosperity_gap": "Prosperity Gap",
@@ -490,7 +490,7 @@
       "average_income_units": "$/day",
       "average_prosperity_gap": "Prosperity Gap:",
       "source": "Authors’ calculation, <a href=\"https://pip.worldbank.org/key-inequality-indicators\" target=\"_blank\">Poverty and Inequality Platform</a> (version March 2026). ",
-      "visdescription": "This visualization reports the changes in the Prosperity Gap due to income increase, in percent or dollars, for an economy of choice. ",
+      "visdescription": "This visualization reports the changes in the Prosperity Gap due to income increase, in percent or $, for an economy of choice. ",
       "data_download": "10.data.prosperity_gap_interactive.csv",
       "data": "1L99hy4R6DNW1aCn6GZym-ijXMU7Woim8vhWEaUowtHU",
       "translationPrefix": "goal_10.content.#43"

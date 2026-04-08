@@ -2,8 +2,8 @@
   "config": {
     "type": "config",
     "goal": "07",
-    "shortTitle": "Electricity access",
-    "title": "Access to electricity: who remains without power?",
+    "shortTitle": "Electricity Access",
+    "title": "Access to Electricity: Who Remains Without Power?",
     "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to extend electricity to  300 million more people in Africa by 2030.",
     "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Tony Fujs and Haruna Kashiwase",
@@ -74,20 +74,26 @@
         {
           "type": "scene",
           "id": "all",
-          "text": "Most regions already had very high levels of access in 2000, and had achieved near-universal access to electricity by 2023. Two regions, <span style=\"color: rgb(4,1,16);\">South Asia</span> and <span style=\"color: rgb(4,1,16);\">Sub-Saharan Africa</span> lagged noticeably behind in 2000.",
+          "text": "Most regions already had very high levels of access in 2000, and had achieved near-universal access to electricity by 2023.",
           "translationPrefix": "goal_07.content.#6.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "sas_ssf",
+          "text": "Two regions, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan</span><span style=\"color: rgb(4,1,16);\"> Africa</span> lagged noticeably behind in 2000.",
+          "translationPrefix": "goal_07.content.#6.scenes.#2"
         },
         {
           "type": "scene",
           "id": "sas",
           "text": "<span style=\"color: rgb(4,1,16);\">But </span><span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span><span style=\"color: rgb(4,1,16);\"> made dramatic progress. </span>In 2000, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span> lagged far behind the global average with less than 60 percent of the population having access to electricity. But by 2021, the region reached near universal access.",
-          "translationPrefix": "goal_07.content.#6.scenes.#2"
+          "translationPrefix": "goal_07.content.#6.scenes.#3"
         },
         {
           "type": "scene",
           "id": "ssf",
           "text": "<span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span><span data-color-id=\"SSF\" class=\"SSF\"> </span>started from an even lower base in 2000 (about 26 percent). In the next two decades, access doubled. Still, only about half of the region’s population had electricity by 2023. ",
-          "translationPrefix": "goal_07.content.#6.scenes.#3"
+          "translationPrefix": "goal_07.content.#6.scenes.#4"
         }
       ],
       "translationPrefix": "goal_07.content.#6"
