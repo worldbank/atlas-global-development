@@ -37,7 +37,7 @@
       "label_rural": "Rural",
       "data_download": "11.data.urban_rural_pop.csv",
       "data": "1zAXd0QAWWd2VBTMKeh9ACIOO8uR_l5p_OMPvkXbzyRA",
-      "keyFact": "58 percent",
+      "keyFact": "Nearly 60%",
       "keyFactLabel": "Of the world population lives in urban areas today.",
       "scenes": [
         {
@@ -84,7 +84,7 @@
       "translationPrefix": "goal_11.content.#4"
     },
     {
-      "text": "There is no single definition of a city. A “city” is an urban settlement often defined by each country’s national statistical authorities, typically based on criteria such as population size, population density, administrative status, and the share of non-agricultural activities. A simpler definition by World Urbanization Prospects uses only population density and total population as the key criteria to identify a city. Let’s take a look at how cities have and will evolve as per this definition by 2050.",
+      "text": "There is no single definition of a city. A “city” is an urban settlement often defined by each country’s national statistical authorities, typically based on criteria such as population size, population density, administrative status, and the share of non-agricultural activities.[reference: city-def] A simpler definition by World Urbanization Prospects uses only population density and total population as the key criteria to identify a city. Let’s take a look at how cities have and will evolve as per this definition by 2050.",
       "type": "text",
       "translationPrefix": "goal_11.content.#5"
     },
@@ -148,6 +148,7 @@
     {
       "type": "vis",
       "graphic": "urban_gdp_scatterplot",
+      "visSize": "small",
       "title": "Urbanization is associated with economic growth",
       "subtitle": "Countries and economies with higher urbanization rates also have higher GDP per capita.",
       "source": "World Bank staff estimates based on the <a href=\"http://population.un.org/wup\" target=\"_blank\">United Nations Population Division's World Urbanization Prospects</a>, National definitions. Country official statistics, National Statistical Organizations and/or Central Banks; National Accounts data files, Organisation for Economic Co-operation and Development (OECD). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SP.URB.TOTL\" target=\"_blank\">SP.URB.TOTL</a>, <a href=\"https://data.worldbank.org/indicator/NY.GDP.PCAP.CD\" target=\"_blank\">NY.GDP.PCAP.CD</a>).",
@@ -217,7 +218,7 @@
         {
           "type": "scene",
           "id": "1",
-          "text": "Each [emphasis: dot represents a country]. If a job is more specialized than employment overall, the indicator is above 1 for that country. When the value is closer to one, the job is distributed much like other jobs. Values below one suggest that jobs are relatively less specialized. This is reported for <span data-color-id=\"cat1\" class=\"cat1\">urban</span> and <span data-color-id=\"cat4\" class=\"cat4\">rural areas</span> and for three skill levels in each country.",
+          "text": "Each [emphasis: dot represents a country]. If a job is more specialized than employment overall, the indicator is above 1 for that country. When the value is closer to one, the job is distributed much like other jobs. Values below one suggest that jobs are relatively less specialized. This is reported for <span data-color-id=\"cat1\" class=\"cat1\">urban</span> and <span data-color-id=\"rural\" class=\"rural\">rural areas</span> and for three skill levels in each country.",
           "translationPrefix": "goal_11.content.#17.scenes.#0"
         },
         {
@@ -229,7 +230,7 @@
         {
           "type": "scene",
           "id": "1",
-          "text": "Similarly, medium skill jobs are only <span data-color-id=\"cat4\" class=\"cat4\">5 percent more common</span> in <span style=\"color: rgb(4,1,16);\">rural areas</span> and <span data-color-id=\"cat1\" class=\"cat1\">5 percent less common</span> in urban areas.",
+          "text": "Similarly, medium skill jobs are only <span data-color-id=\"rural\" class=\"rural\">5 percent more common</span> in <span style=\"color: rgb(4,1,16);\">rural areas</span> and <span data-color-id=\"cat1\" class=\"cat1\">5 percent less common</span> in urban areas.",
           "translationPrefix": "goal_11.content.#17.scenes.#2"
         },
         {
@@ -342,8 +343,8 @@
       "data": "1dkRx6AbILx1nI4m1sJ2EaQp45E3ajOxnxSmjfs7sjJk",
       "x_title": "",
       "x_units": "",
-      "label_urban": "More pay in urban jobs",
-      "label_rural": "More pay in rural jobs",
+      "label_urban": "More pay in [emphasis: urban] jobs",
+      "label_rural": "More pay in [emphasis: rural] jobs",
       "translationPrefix": "goal_11.content.#28"
     },
     {
@@ -376,6 +377,7 @@
       "graphic": "buildup_area_overtime",
       "title": "Built-up area in Addis Ababa has more than tripled in the last five decades",
       "subtitle": "Built-up area (km²) and population of Addis Ababa, 1975-2025",
+      "visSize": "small",
       "source": "Pesaresi et al. (2024). <a href=\"https://www.tandfonline.com/doi/full/10.1080/17538947.2024.2390454\" target=\"_blank\">Advances on the Global Human Settlement Layer by joint assessment of Earth Observation and population survey data. International Journal of Digital Earth</a>, 17(1).",
       "textParagraph": "In 1975, Addis Ababa had nearly 39 km² of built-up area. By 2025, that figure had grown to 128 km².[reference: ghsl]",
       "visdescription": "",
@@ -393,7 +395,7 @@
       "translationPrefix": "goal_11.content.#35"
     },
     {
-      "text": "Without that foresight, rapid urbanization can give rise to slums, overcrowding, and limited economic opportunity. Governments must therefore treat infrastructure planning not as a reaction to urban growth, but as a precondition for it.",
+      "text": "Without that foresight, rapid urbanization can give rise to slums, overcrowding, and limited economic opportunity. Governments must therefore treat infrastructure planning not as a reaction to urban growth, but as a precondition for it.[reference: plan-city]",
       "type": "text",
       "translationPrefix": "goal_11.content.#36"
     },
@@ -487,6 +489,7 @@
       "graphic": "buildup_area_income",
       "title": "Built-up area will expand by more than 50 percent over the next 25 years",
       "subtitle": "",
+      "visSize": "small",
       "source": "Pesaresi et al. (2024). <a href=\"https://www.tandfonline.com/doi/full/10.1080/17538947.2024.2390454\" target=\"_blank\">Advances on the Global Human Settlement Layer by joint assessment of Earth Observation and population survey data. International Journal of Digital Earth</a>, 17(1).",
       "visdescription": "",
       "data_download": "11.data.buildup_area_income.csv",
@@ -497,7 +500,7 @@
       "y_unit": "",
       "projection_label": "",
       "keyFact": "Over 50%",
-      "keyFactLabel": "Increase in urban built-up area is expected in the next 25 years",
+      "keyFactLabel": "Increase in urban built-up area is expected in the next 25 years.",
       "translationPrefix": "goal_11.content.#49"
     },
     {
@@ -515,20 +518,20 @@
     "type": "references",
     "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
     "wup": "<a href=\"https://desapublications.un.org/publications/world-urbanization-prospects-2025-summary-results?_gl=1*5smu8s*_ga*MjEyMzcxMzkzMC4xNzU1NzE3MDY2*_ga_TK9BQL5X7Z*czE3NzQzODE5NTkkbzE1JGcwJHQxNzc0MzgxOTU5JGo2MCRsMCRoMA\" target=\"_blank\">https://desapublications.un.org/publications/world-urbanization-prospects-2025-summary-results?_gl=1*5smu8s*_ga*MjEyMzcxMzkzMC4xNzU1NzE3MDY2*_ga_TK9BQL5X7Z*czE3NzQzODE5NTkkbzE1JGcwJHQxNzc0MzgxOTU5JGo2MCRsMCRoMA</a>.. ",
-    "wb-gmr2013": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank — </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Global Monitoring Report 2013: Rural-Urban Dynamics and the MDGs</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> (</span><a href=\"https://documentsinternal.worldbank.org/Search/16432410\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
+    "wb-gmr2013": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank — </span><a href=\"https://documentsinternal.worldbank.org/Search/16432410\" target=\"_blank\">Global Monitoring Report 2013: Rural-Urban Dynamics and the MDGs</a>",
     "wb1974": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (1974). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Population Policies and Economic Development</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. World Bank Staff Report. Washington, DC: World Bank.</span>",
     "jedwab2017": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Jedwab, R., Christiaensen, L., & Gindelsky, M. (2017) — \"Rural push, urban pull and… urban push? New historical evidence from Africa\"</span>",
-    "wb2021": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank — </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Migrants, Markets, and Mayors: Rising Above the Employment Challenge in Africa's Secondary Cities</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> (2021) (</span><a href=\"https://documentsinternal.worldbank.org/Search/33233454\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
-    "econgrowth": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2013/2014). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Overview: The Urban Imperative — Toward Shared Prosperity</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank. (</span><a href=\"https://documentsinternal.worldbank.org/Search/18869240\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
+    "wb2021": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank — </span><a href=\"https://documentsinternal.worldbank.org/Search/33233454\" target=\"_blank\">Migrants, Markets, and Mayors: Rising Above the Employment Challenge in Africa's Secondary Cities</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> (2021)</span>",
+    "econgrowth": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2013/2014). </span><a href=\"https://documentsinternal.worldbank.org/Search/18869240\" target=\"_blank\">Overview: The Urban Imperative — Toward Shared Prosperity</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank. </span>",
     "blog-jobs": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Zhang, Ming. (2025, March 10). \"The world is facing a looming jobs crisis. Cities can help.\" </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank Blogs</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. World Bank.</span>",
-    "Quigley2008": "<span style=\"color: rgb(9,9,11); background-color: rgb(255,255,255);\">John M. Quigley.2008. Urbanization, agglomeration, and economic development. Washington, DC: World Bank.</span>",
-    "wb2002": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2002). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Policies for Efficient and Equitable Growth of Cities in Developing Countries</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank. (</span><a href=\"https://documentsinternal.worldbank.org/Search/1555099\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
-    "wdr2013": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2012). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Development Report 2013: Jobs</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank. (</span><a href=\"https://documentsinternal.worldbank.org/Search/16420923\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
-    "task2002": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2002). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">The Task Ahead for the Cities of the Developing Countries</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank. (</span><a href=\"https://documentsinternal.worldbank.org/Search/1555223\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
-    "urban-sustainability": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2018). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Urban Sustainability Framework</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank. (</span><a href=\"https://documentsinternal.worldbank.org/Search/29559795\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
-    "blog-li": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Li, Y. and Rama, M. (2014). \"Rural Jobs Allow People to Escape Poverty; Urban Jobs Are a Ticket to the Middle Class.\" </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank Blogs.</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> (</span><a href=\"https://blogs.worldbank.org/jobs/rural-jobs-allow-people-escape-poverty-urban-jobs-are-ticket-middle-class\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">) — based on </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Addressing Inequality in South Asia</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">, World Bank, 2014</span>",
-    "urbanpay": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2014). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Growing Through Cities in Developing Countries</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank. (</span><a href=\"https://documentsinternal.worldbank.org/Search/19303506\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">) </span>",
-    "thickermarket": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2014). </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Are Cities the New Growth Escalator?</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> Washington, DC: World Bank. (</span><a href=\"https://documentsinternal.worldbank.org/Search/19540035\" target=\"_blank\">link</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">)</span>",
+    "Quigley2008": "<span style=\"color: rgb(9,9,11); background-color: rgb(255,255,255);\">John M. Quigley.2008. </span><a href=\"https://documentsinternal.worldbank.org/search/13162534\" target=\"_blank\">Urbanization, agglomeration, and economic development.</a><span style=\"color: rgb(9,9,11); background-color: rgb(255,255,255);\"> Washington, DC: World Bank.</span>",
+    "wb2002": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2002). </span><a href=\"https://documentsinternal.worldbank.org/Search/1555099\" target=\"_blank\">Policies for Efficient and Equitable Growth of Cities in Developing Countries</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank.</span>",
+    "wdr2013": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2012). </span><a href=\"https://documentsinternal.worldbank.org/Search/16420923\" target=\"_blank\">World Development Report 2013: Jobs</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank.</span>",
+    "task2002": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2002). </span><a href=\"https://documentsinternal.worldbank.org/Search/1555223\" target=\"_blank\">The Task Ahead for the Cities of the Developing Countries</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank.</span>",
+    "urban-sustainability": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2018). </span><a href=\"https://documentsinternal.worldbank.org/Search/29559795\" target=\"_blank\">Urban Sustainability Framework</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank.</span>",
+    "blog-li": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Li, Y. and Rama, M. (2014). \"</span><a href=\"https://blogs.worldbank.org/jobs/rural-jobs-allow-people-escape-poverty-urban-jobs-are-ticket-middle-class\" target=\"_blank\">Rural Jobs Allow People to Escape Poverty; Urban Jobs Are a Ticket to the Middle Class.</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">\" </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank Blogs</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">, </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank, 2014</span>",
+    "urbanpay": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2014). </span><a href=\"https://documentsinternal.worldbank.org/Search/19303506\" target=\"_blank\">Growing Through Cities in Developing Countries</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">. Washington, DC: World Bank.</span>",
+    "thickermarket": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank. (2014). </span><a href=\"https://documentsinternal.worldbank.org/Search/19540035\" target=\"_blank\">Are Cities the New Growth Escalator?</a><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> Washington, DC: World Bank.</span>",
     "compet-pay": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Calì, M. and Presidente, G. (2023). \"Is it Time to Rebalance Competition Policy for Workers?\" </span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">World Bank Blogs.</span><span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\"> Washington, DC: World Bank. </span>",
     "paydata": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">TBD</span>",
     "papa-pay": "<span style=\"color: rgb(9,9,11); background-color: rgb(253,251,250);\">Papageorgiou, Theodore. 2022. \"Occupational Matching and Cities.\" American Economic Journal: Macroeconomics 14 (3): 82–132.</span>",
@@ -542,6 +545,8 @@
     "who-slums": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">https://www.who.int/teams/environment-climate-change-and-health/healthy-urban-environments/housing/health-equity#:~:text=Slum%20environments%20are%20neighbourhoods%20characterized,stress%20and%20mental%20health%20impacts</span>",
     "skill-ilo": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">https://ilostat.ilo.org/methods/concepts-and-definitions/classification-occupation/</span>",
     "wdi-slum": "<a href=\"https://data.unhabitat.org/\" target=\"_blank\">Urban Indicators Database</a>, UN Human Settlements Programme (UN-Habitat). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/EN.POP.SLUM.UR.ZS\" target=\"_blank\">EN.POP.SLUM.UR.ZS</a>).<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"></span>",
+    "city-def": "United Nations (2025). <a href=\"https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2025_data-booklet_world_cities_in_2025.pdf\" target=\"_blank\">The World’s Cities in 2025 – Data Booklet</a>. (UN DESA/POP/2025/TR/No. 14).",
+    "plan-city": "UN-Habitat. 2022. <a href=\"https://unhabitat.org/sites/default/files/2022/06/wcr_2022.pdf\" target=\"_blank\">World Cities Report 2022: Envisaging the Future of Cities</a>. Nairobi: United Nations Human Settlements Programme.",
     "translationPrefix": "goal_11.references"
   },
   "translationPrefix": "goal_11"
