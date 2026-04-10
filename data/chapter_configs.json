@@ -63,7 +63,7 @@
       "visuals": "Ændra Rininsland",
       "homeFactoidPercent": "18",
       "homeFactoidNumber": "1 in 5",
-      "homeFactoidText": "people are exposed and highly vulnerable to climate hazards",
+      "homeFactoidText": "people are exposed and vulnerable to climate hazards",
       "homeTagline": "Climate change intensifies extreme weather events, exposing more than half the global population of which a large share is also vulnerable and in need of adaptation"
     }
   },
@@ -174,12 +174,12 @@
     "en": {
       "type": "config",
       "goal": "01",
-      "shortTitle": "Extreme poverty",
-      "title": "Past, present, and future: 100 years of  challenges in tackling extreme poverty",
+      "shortTitle": "Extreme Poverty",
+      "title": "Past, Present, and Future: 100 Years of  Challenges in Tackling Extreme Poverty",
       "abstract": "Global extreme poverty has fallen drastically since 1950, but progress has slowed to its weakest pace in 75 years. Over half of the world's poor are in countries where poverty is increasing, often due to conflict and weak governance. This trend threatens to reverse decades of progress and could cause global poverty to rise.",
       "citation": "Mahler",
       "credits": "Daniel Gerszon Mahler and Maarten Lambrechts",
-      "inputs": "Christoph Lakner, Rinku Murgai, Samuel Kofi Tetteh-Baah, Mario Negre, Rubena Sukaj, Nishant Yonzan",
+      "inputs": "Christoph Lakner, Rinku Murgai, Samuel Kofi Tetteh-Baah, Cameron Nadim Haddad, Mario Negre, Rubena Sukaj, Nishant Yonzan",
       "visuals": "Maarten Lambrechts",
       "homeFactoidPercent": "50",
       "homeFactoidNumber": "1 in 2",
@@ -255,8 +255,8 @@
     "en": {
       "type": "config",
       "goal": "06",
-      "shortTitle": "Water access",
-      "title": "Water quality: A foundation for health and development",
+      "shortTitle": "Water Access",
+      "title": "Water Quality: A Foundation for Health and Development",
       "abstract": "Access to safe drinking water is essential for health and development, yet over 2 billion people, mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also the safety of drinking water.",
       "citation": "Kashiwase, Haruna and Tony Fujs. 2026. “Water quality: A foundation for health and development”. In",
       "credits": "Haruna Kashiwase and Tony Fujs",
@@ -290,7 +290,7 @@
       "type": "config",
       "goal": "progress",
       "shortTitle": "Measuring Progress",
-      "title": "A New Framework for Measuring Progress\" as the title",
+      "title": "A New Framework for Measuring Progress",
       "abstract": "Measuring progress in ",
       "citation": "Mahler",
       "credits": "Daniel Gerszon Mahler",
@@ -342,8 +342,8 @@
       "goal": "07",
       "shortTitle": "Electricity Access",
       "title": "Access to Electricity: Who Remains Without Power?",
-      "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly behind, with rural communities facing the greatest barriers. Initiatives like Mission 300 aim to extend electricity to  300 million more people in Africa by 2030.",
-      "citation": "Tony Fujs, Haruna Kashiwase, and Maarten Lambrechts. 2026. “Access to electricity: who remains without power?” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+      "abstract": "Global electricity access has expanded steadily over the past two decades, yet progress remains deeply uneven. While most regions have achieved near-universal coverage, Sub-Saharan Africa continues to lag significantly, particularly its rural communities. Initiatives like Mission 300 aim to extend electricity to 300 million more people in Africa by 2030.",
+      "citation": "Fujs, T, Kashiwase, H and Lambrechts, M. 2026. “Access to Electricity: Who Remains Without Power?” In ",
       "credits": "Tony Fujs and Haruna Kashiwase",
       "inputs": "Sandeep Kohli, Patrick Rugwizangoga",
       "visuals": "Maarten Lambrechts",
@@ -351,7 +351,7 @@
       "homeFactoidPercent": "53",
       "homeFactoidNumber": "1 in 2",
       "homeFactoidText": "people in Sub-Saharan Africa live without electricity today",
-      "homeTagline": "Global electricity access has expanded steadily over the past two decades, yet millions in Sub-Saharan Africa's rural areas remain left behind."
+      "homeTagline": "Although global electricity access has expanded steadily over the past two decades, millions in rural Sub-Saharan Africa have been left behind."
     }
   },
   "ID4D": {

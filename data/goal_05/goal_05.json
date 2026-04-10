@@ -92,7 +92,7 @@
       "in_2015": "in 2015",
       "slower_progress": "Slower than typical progress",
       "faster_progress": "Faster than typical progress",
-      "pp": "",
+      "pp": "pp",
       "visSize": "default",
       "publish_progress": "true",
       "data_download": "05.data.typical_path_speeds.zip",
@@ -127,13 +127,13 @@
         {
           "type": "scene",
           "id": "exampleTurkiye_2",
-          "text": "By 2024, it had risen to 41.5 percent—an increase of 6.5 percentage points.",
+          "text": "By 2024, it had risen to 41.5 percent—an increase of 6.8 percentage points.",
           "translationPrefix": "goal_05.content.#8.scenes.#4"
         },
         {
           "type": "scene",
           "id": "exampleTurkiye_3",
-          "text": "But for a typical country or economy, this increase would take more than 35 years.",
+          "text": "But for a typical country or economy, this increase would take 36 years.",
           "translationPrefix": "goal_05.content.#8.scenes.#5"
         },
         {
@@ -145,7 +145,7 @@
         {
           "type": "scene",
           "id": "explore",
-          "text": "Use the drop-down menu to explore where different countries and economies  stand today, how fast they have progressed since 2015, and how far they are from parity.",
+          "text": "Use the drop-down menu to explore where different countries and economies  stand today, how fast they have progressed since 2015, and how far they are from parity. Positive values indicate increase and negative values indicate a decrease in female labor force participation.",
           "translationPrefix": "goal_05.content.#8.scenes.#7"
         }
       ],
@@ -249,6 +249,11 @@
       "visSize": "default",
       "data_download": "05.data.flfp_drivers_education.csv",
       "data": "1wv1ALjkR9I4wBHn7AiIimyJ7fbxLsM0LFKs1YGCxY2M",
+      "labels__Advanced": "Advanced",
+      "labels__Intermediate": "Intermediate",
+      "labels__Basic": "Basic",
+      "labels__LessThanBasic": "Less than basic",
+      "labels__Total": "Total",
       "translationPrefix": "goal_05.content.#22"
     },
     {
@@ -305,7 +310,7 @@
       "male": "Men",
       "female": "Women",
       "x_axis_title": "Employment status (% of population in the labor force)",
-      "x_axis_units": "%",
+      "x_axis_units": "",
       "visSize": "default",
       "data_download": "05.data.types_employment_gender.csv",
       "data": "18cDq2Bwm7zmviWFr4YgTuYFIejiRycLv8F65l7M_ez4",
@@ -354,7 +359,7 @@
       "subtitle": "",
       "textParagraph": "Vulnerable employment is common in low- and middle-income countries and economies, with women more affected than men.",
       "y_axis_title": "Vulnerable employment (% of labor force) by gender",
-      "y_axis_units": "%",
+      "y_axis_units": "",
       "male_rate": "Male vulnerable employment rate",
       "female_rate": "Female vulnerable employment rate",
       "source": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO). Retrieved from Gender Data Portal (<a href=\"https://genderdata.worldbank.org/en/indicator/sl-emp-vuln-zs\" target=\"_blank\">SL.EMP.VULN.FE.ZS; SL.EMP.VULN.MA.ZS</a>)",
@@ -423,10 +428,10 @@
       "data": "11xTcc7eM3HUKOmEgw6-iIRzmMO8OPWGjes9_0tEJd6M",
       "keyFact": "82 cents",
       "keyFactLabel": "earned by women for every $1 earned by men in a month",
-      "labels__per_month": "per month",
-      "labels__per_hour": "per hour",
-      "labels__men": "Men",
-      "labels__women": "Women",
+      "labels__per_month": "more per month",
+      "labels__per_hour": "more per hour",
+      "labels__men": "Men earn",
+      "labels__women": "Women earn",
       "scenes": [
         {
           "type": "scene",
@@ -487,7 +492,7 @@
       "men": "Men",
       "women": "Women",
       "y_axis_title": "Labor force participation (% of population, ages 15-64) by gender",
-      "y_axis_units": "%",
+      "y_axis_units": "",
       "x_axis_title": "Time spent working in a day",
       "x_axis_units": "hours",
       "high_lfp": "High labor force participation",

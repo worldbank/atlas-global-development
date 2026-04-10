@@ -2,8 +2,8 @@
   "config": {
     "type": "config",
     "goal": "06",
-    "shortTitle": "Water access",
-    "title": "Water quality: A foundation for health and development",
+    "shortTitle": "Water Access",
+    "title": "Water Quality: A Foundation for Health and Development",
     "abstract": "Access to safe drinking water is essential for health and development, yet over 2 billion people, mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also the safety of drinking water.",
     "citation": "Kashiwase, Haruna and Tony Fujs. 2026. “Water quality: A foundation for health and development”. In Atlas of Global Development 2026, edited by A F Pirlea, U Serajuddin, A Thudt, D Wadhwa and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
     "credits": "Haruna Kashiwase and Tony Fujs",
@@ -277,7 +277,7 @@
         {
           "type": "scene",
           "id": "scene4",
-          "text": "The map presents the limiting factors for safely managed drinking water access in 148 countries. Please note that countries shaded gray have no data for safely managed drinking water. Some countries lack availability data, but safely managed drinking water is still estimated when water quality and accessibility data are available.",
+          "text": "The map presents the limiting factors for safely managed drinking water access in 148 countries. Please note that countries shaded gray have no data for safely managed drinking water. Some countries lack availability data, but safely managed drinking water is still estimated when water quality and accessibility data are available. Countries that have achieved universal access are also included.",
           "translationPrefix": "goal_06.content.#18.scenes.#3"
         }
       ],
