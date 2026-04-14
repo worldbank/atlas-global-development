@@ -27,42 +27,29 @@
       "translationPrefix": "goal_13.content.#1"
     },
     {
-      "text": "These impacts are not felt equally. The most vulnerable people are those who depend directly on climate-sensitive livelihoods but lack the resources to adapt, such as smallholder farmers without access to advanced technologies, coastal communities affected by sea level rise, people living in poverty without means to adapt and people lacking access to social protection when a disaster strikes.[reference: WB3]",
+      "text": "These impacts are not felt equally. People in different areas face different levels of exposures to climate hazards. However, even when faced with the same hazard, some people are more likely to be adversely affected or unable to cope with the impacts, for instance due to  living in poverty  or lacking access to social protection.[reference: WB3]",
       "type": "text",
       "translationPrefix": "goal_13.content.#2"
     },
     {
-      "type": "factoid",
-      "title": "Population at high risk of climate-related hazards",
-      "number": "1.5",
-      "label": "globally in 2024[footnote:  Spell out 4 climate-related hazards][reference: CSC1]",
-      "units": "billion people",
-      "translationPrefix": "goal_13.content.#3"
-    },
-    {
-      "text": "People at high risk of climate impact are both exposed to key climate-related hazards and more likely to be adversely affected or unable to cope with the impacts of these hazards. Nearly 6 out of every 10 people worldwide live in areas exposed to the consequences of climate change. The extent to which these people are affected depends on their vulnerability. To help people adapt to climate change it is important to identify and quantify who is exposed and vulnerable.[reference: WB2] ",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#4"
-    },
-    {
       "text": "Let’s see which climate hazards the world’s population is exposed to and what makes people vulnerable.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#5"
+      "translationPrefix": "goal_13.content.#3"
     },
     {
       "text": "Exposure to climate hazards",
       "type": "subhed",
+      "translationPrefix": "goal_13.content.#4"
+    },
+    {
+      "text": "We focus on four climate-related hazards: [emphasis: <span data-color-id=\"cat1\" class=\"cat1\">floods</span>],[emphasis:  ][emphasis: <span data-color-id=\"cat2\" class=\"cat2\">agricultural droughts</span>], [emphasis: <span data-color-id=\"cat3\" class=\"cat3\">cyclones</span>][emphasis:  ]and [emphasis: <span data-color-id=\"cat4\" class=\"cat4\">heatwaves</span>]. Not all regions are equally exposed to them and the number of people living in affected areas differs substantially. Therefore, to estimate the number of people per country who are exposed, we need to overlay the geographical location of the hazards with the number of people living there.",
+      "type": "text",
+      "translationPrefix": "goal_13.content.#5"
+    },
+    {
+      "text": "The population exposed is defined as those people living in an area affected by a given climate hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than one percent. This translates into[emphasis:  ] slightly over a[emphasis:  ]50 percent probability[footnote: To estimate the exposure, a 100-year return period is considered, which is the same as a 1 percent probability that the hazard occurs in a given year. The average life expectancy in the World is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52% to occur in a period of 72 years. ] that a person faces the hazard over their life span. Weather events are considered hazards  when their intensity  is high enough to significantly impact lives, assets and livelihoods. ",
+      "type": "text",
       "translationPrefix": "goal_13.content.#6"
-    },
-    {
-      "text": "Climate change causes a multitude of climate hazards. Here we focus on four of them: [emphasis: <span data-color-id=\"cat1\" class=\"cat1\">floods</span>],[emphasis:  ][emphasis: <span data-color-id=\"cat2\" class=\"cat2\">agricultural droughts</span>], [emphasis: <span data-color-id=\"cat3\" class=\"cat3\">cyclones</span>][emphasis:  ]and [emphasis: <span data-color-id=\"cat4\" class=\"cat4\">heatwaves</span>]. Not all regions are equally exposed to these climate-related hazards, and the number of people living in the affected areas differs substantially. Therefore, to estimate the number of people per country who are exposed, we need to overlay the geographical location of the hazards with the population density.",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#7"
-    },
-    {
-      "text": "The population exposed is defined as those people living in an area affected by a given climate hazard. To determine exposure, an area is considered exposed if the probability that the hazard strikes in a given year is more than one percent, which translates into a [emphasis: 52 percent probability][footnote: To estimate the exposure, a 100-year return period is considered, which is the same as a 1 percent probability that the hazard occurs in a given year. The average life expectancy in the World is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52% to occur in a period of 72 years. ][emphasis:  of occurrence over the average life span] of 72 years of people in the world. Only exposure to hazards above a critical intensity threshold is considered, where the climate hazard significantly impacts lives, assets and livelihoods. Examples of thresholds are inundation depth for floods or wind speed for cyclones. ",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#8"
     },
     {
       "type": "factoid",
@@ -70,22 +57,22 @@
       "number": "4.5",
       "label": "globally in 2024[reference: WB1]",
       "units": "billion people",
-      "translationPrefix": "goal_13.content.#9"
+      "translationPrefix": "goal_13.content.#7"
     },
     {
       "text": "Let’s look at the people exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>],[emphasis:  ][emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural droughts</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>][emphasis:  ]and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>].",
       "type": "text",
-      "translationPrefix": "goal_13.content.#10"
+      "translationPrefix": "goal_13.content.#8"
     },
     {
-      "text": "[emphasis: <span data-color-id=\"cat1\" class=\"cat1\">Floods</span>] can occur because of heavy rain ([emphasis: pluvial floods]), river levels rising ([emphasis: fluvial floods]) as well as in coastal areas ([emphasis: coastal floods]). Each of these three types of flooding is affected by a changing climate. Changes in precipitation patterns leading to heavier and more frequent rainfall can cause pluvial floods.[reference: UNEP1] Rain and different patterns of snow melt can cause fluvial floods. Stronger storms, such as hurricanes, and sea level rise, both linked to climate change, can cause coastal floods.",
+      "text": "because [emphasis: <span data-color-id=\"cat1\" class=\"cat1\">Floods</span>] can occur because of heavy rain as well as rivers and sea levels rising.  Each of these three types of flooding is affected by a changing climate. Changes in precipitation patterns leading to heavier and more frequent rainfall can cause pluvial floods.[reference: UNEP1] Rain and different patterns of snow melt can cause fluvial floods. Stronger storms, such as hurricanes, and sea level rise, both linked to climate change, can cause coastal floods.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#11"
+      "translationPrefix": "goal_13.content.#9"
     },
     {
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
-      "title": "Exposure to pluvial, fluvial and coastal floods",
+      "title": "Exposure to floods",
       "subtitle": "Area and share of population exposed to floods with an annual probability of more than 1 percent to experience flooding with more inundation depth exceeding 50 centimeters",
       "source": "<a href=\"https://planetarycomputer.microsoft.com/dataset/deltares-floods\" target=\"_blank\">Deltares</a>, <a href=\"https://www.fathom.global/product/global-flood-map/\" target=\"_blank\">Fathom</a>, Hill et al. [reference: WB2]",
       "visdescription": "Share of population exposed to floods and location of areas exposed to flood risk",
@@ -100,27 +87,27 @@
           "type": "scene",
           "id": "floods__sat__wld",
           "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">Floods</span>] can severely damage infrastructure and homes, disrupt the economy, and destroy crops and livestock. Impacts become particularly severe when inundation depth exceeds 50 centimeters—used here as the threshold to measure population exposed to floods.[reference: Rentschler] Areas shown in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">blue</span>] indicate exposure above this level.",
-          "translationPrefix": "goal_13.content.#12.scenes.#0"
+          "translationPrefix": "goal_13.content.#10.scenes.#0"
         },
         {
           "type": "scene",
           "id": "floods__sat__bbox1",
           "text": "The [emphasis: location of the population exposed to ] [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] is closely tied to the location of rivers, land elevation and coastal proximity, and is concentrated in river deltas and coastal areas.  For example, in The Netherlands more than 36 percent of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] due to the many rivers and low elevation of the country.",
-          "translationPrefix": "goal_13.content.#12.scenes.#1"
+          "translationPrefix": "goal_13.content.#10.scenes.#1"
         },
         {
           "type": "scene",
           "id": "floods__vec__wld",
-          "text": "Globally, [emphasis: 775 million people are exposed to] [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] of which half live in three countries: China, India and Bangladesh. In Bangladesh one third of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>].",
-          "translationPrefix": "goal_13.content.#12.scenes.#2"
+          "text": "Globally, [emphasis: 775 million people are exposed to] [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] Half of them live in three populous countries: China, India and Bangladesh. In Bangladesh one third of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>].",
+          "translationPrefix": "goal_13.content.#10.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_13.content.#12"
+      "translationPrefix": "goal_13.content.#10"
     },
     {
       "text": "[emphasis: <span data-color-id=\"cat2\" class=\"cat2\">Agricultural droughts</span>] are among the most damaging natural hazards. The  share of the planet [emphasis: affected by agricultural droughts has more than doubled in the last 40 years] and 80 percent of its effects in low- and middle-income countries have been absorbed directly by agricultural activities. By reducing water availability and soil moisture, droughts severely constrain crop and livestock production, undermining food security and rural livelihoods. Climate change is intensifying droughts by increasing their frequency, severity, and duration, placing growing pressure on already vulnerable farming systems. ",
       "type": "text",
-      "translationPrefix": "goal_13.content.#13"
+      "translationPrefix": "goal_13.content.#11"
     },
     {
       "type": "scroller",
@@ -140,32 +127,32 @@
           "type": "scene",
           "id": "drought__sat__wld",
           "text": "As [emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural drought</span>] is mainly a challenge for the rural population, only rural areas are considered here. Locations exposed to [emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural drought</span>] are based on the Agricultural Stress Index (ASI) developed by FAO.[reference: FAO2] [reference: VanHoolst] An [emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">area</span>] is considered to be exposed to [emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural drought</span>] if more than 30 percent of the cropland or pasture experienced severe drought[footnote:  Severe drought is defined when the FAO Agricultural Stress Index (ASI) exceeds 30.] in at least one of the past 39 years with observations. When this threshold is exceeded, agricultural production losses are expected.",
-          "translationPrefix": "goal_13.content.#14.scenes.#0"
+          "translationPrefix": "goal_13.content.#12.scenes.#0"
         },
         {
           "type": "scene",
           "id": "drought__sat__bbox1",
           "text": "[emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Agricultural drought</span>] is most prevalent in arid and semi-arid regions. In Eswatini, Lesotho, Namibia, and Zimbabwe more than half the population is exposed to drought.",
-          "translationPrefix": "goal_13.content.#14.scenes.#1"
+          "translationPrefix": "goal_13.content.#12.scenes.#1"
         },
         {
           "type": "scene",
           "id": "drought__vec__wld",
           "text": "37 percent of the world’s rural population, or almost 1.4 billion people are exposed to [emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural drought</span>]. With around 1.3 billion people worldwide depending on agriculture for their income, droughts can halt or reverse progress in poverty reduction and food security. Beyond agriculture, prolonged droughts also contribute to environmental degradation, forced migration, and heightened social tensions.",
-          "translationPrefix": "goal_13.content.#14.scenes.#2"
+          "translationPrefix": "goal_13.content.#12.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_13.content.#14"
+      "translationPrefix": "goal_13.content.#12"
     },
     {
       "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\"></span>]",
       "type": "text",
-      "translationPrefix": "goal_13.content.#15"
+      "translationPrefix": "goal_13.content.#13"
     },
     {
       "text": "[emphasis: <span data-color-id=\"cat3\" class=\"cat3\">Cyclones</span>] are large revolving storms that form over tropical oceans and are also known by the names hurricane and typhoon.[footnote:  Different names are used for tropical cyclones depending on their location. Over the Atlantic Ocean and East Pacific Ocean, tropical cyclones are commonly called hurricanes. Tropical cyclones that form in the West Pacific Ocean are referred to as typhoons. Those in the Indian Ocean and around Australia are called cyclones.] Climate change causes cyclones to be stronger and entail heavier rainfall as the ocean water temperature is higher. ",
       "type": "text",
-      "translationPrefix": "goal_13.content.#16"
+      "translationPrefix": "goal_13.content.#14"
     },
     {
       "type": "scroller",
@@ -185,27 +172,27 @@
           "type": "scene",
           "id": "cyclones__sat__wld",
           "text": "We consider exposure to tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>] of category 2 or higher on the Saffir-Simpson Hurricane Wind Scale,[footnote:  The Saffir Simpson scale is used to classify tropical cyclones into five categories (1–5) based solely on their maximum sustained wind speed. Cyclones with wind speeds over 154 km/h are classified as Category 2 and above and considered to cause extensive damage.] which are associated with extensive damage to buildings and infrastructure. Cyclones occur in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">areas</span>] are exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>]. ",
-          "translationPrefix": "goal_13.content.#17.scenes.#0"
+          "translationPrefix": "goal_13.content.#15.scenes.#0"
         },
         {
           "type": "scene",
           "id": "cyclones__vec__bbox1",
           "text": "The tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] Melissa made landfall in Jamaica on October 28,  2025. It was the third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] in the Atlantic Ocean, classified as category 5 strength cyclone on the Saffir-Simpson Hurricane Wind Scale with wind speeds up to 300 km/h. Cyclone Melissa wreaked havoc in several Caribbean countries, especially in Jamaica.[reference: WMO4] Due to early warning systems, the number of casualties was limited at 50, but the damage to infrastructure and houses was enormous.[reference: NOAA1][emphasis: ]",
-          "translationPrefix": "goal_13.content.#17.scenes.#1"
+          "translationPrefix": "goal_13.content.#15.scenes.#1"
         },
         {
           "type": "scene",
           "id": "cyclones__vec__wld",
           "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Cyclones</span>] occur only over warm tropical oceans. Therefore, a relatively small share of the  global population is exposed to cyclones. However, in many Small Island Developing States (SIDS), the entire population is exposed. Thirty-six small island developing states in the Caribbean and Pacific Ocean have 100 percent of their population exposed to tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>].[footnote:  These are the following small island developing states: Aruba, Anguilla, American Samoa, Antigua and Barbuda, Bonaire, Sint Eustatius and Saba, Bahamas, Saint Barthélemy, Bermuda, Barbados, Cuba, Curaçao, Cayman Islands, Dominica, Dominican Republic, Grenada, Guam, Haiti, Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Northern Mariana Islands, Montserrat, Mauritius, Niue, Puerto Rico, Sint Maarten (Dutch part), Turks and Caicos Islands, Tonga, Taiwan, Saint Vincent and the Grenadines, British Virgin Islands, United States Virgin Islands, Vanuatu, Wallis and Futuna, Samoa. In Fiji more than 99 percent of the population is exposed.] ",
-          "translationPrefix": "goal_13.content.#17.scenes.#2"
+          "translationPrefix": "goal_13.content.#15.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_13.content.#17"
+      "translationPrefix": "goal_13.content.#15"
     },
     {
       "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Heatwaves</span>] are prolonged periods of unusually high temperatures that impact human health, economies, infrastructure and agriculture.  Heatwaves increase the risk of dehydration, heat exhaustion and heatstroke, worsen cardiovascular and respiratory diseases, and significantly raise mortality especially among older adults and people with pre-existing conditions.[reference: WHO1] Heatwaves reduce labor productivity, particularly in outdoor and non-air-conditioned sectors such as agriculture, construction, and manufacturing, while increasing energy demand, infrastructure stress, and healthcare costs, leading to economic losses.[reference: ILO1]",
       "type": "text",
-      "translationPrefix": "goal_13.content.#18"
+      "translationPrefix": "goal_13.content.#16"
     },
     {
       "type": "scroller",
@@ -225,27 +212,27 @@
           "type": "scene",
           "id": "heatwave__sat__wld",
           "text": "The impact heat has on the human body also depends on other factors such as humidity and wind. Therefore, instead of using a simple temperature measure, we use the 5-day average maximum Wet-Bulb Globe Temperature (WBGT), which better captures the effect of temperature on the human body, to determine the population exposed to [emphasis: <span data-color-id=\"cat8\" class=\"cat8\">heatwaves</span>]. If the WBGT exceeds 33 degrees Celsius, it becomes difficult for healthy humans to maintain a normal body temperature, which leads to increased mortality and hospitalizations. The capacity to do physical work is also halved.[reference: WB2][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\"></span>]",
-          "translationPrefix": "goal_13.content.#19.scenes.#0"
+          "translationPrefix": "goal_13.content.#17.scenes.#0"
         },
         {
           "type": "scene",
           "id": "heatwave__sat__bbox",
           "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Heatwaves</span>] are mostly prevalent in the tropics. More than three quarters of the global population exposed to heatwaves live in four populous countries in Asia: India, China, Pakistan, Bangladesh. ",
-          "translationPrefix": "goal_13.content.#19.scenes.#1"
+          "translationPrefix": "goal_13.content.#17.scenes.#1"
         },
         {
           "type": "scene",
           "id": "heatwave__vec__wld",
           "text": "Globally, 40 percent of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>]. The share of people exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>] is especially high in countries around the Equator in Africa, South-East Asia and the Arabian peninsula.",
-          "translationPrefix": "goal_13.content.#19.scenes.#2"
+          "translationPrefix": "goal_13.content.#17.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_13.content.#19"
+      "translationPrefix": "goal_13.content.#17"
     },
     {
       "text": "If we overlay the exposure to each of the four climate hazards with population density, 4.5 billion people or 57 percent of the global population is exposed to at least one climate hazard. There is no country in the world with no population exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>],[emphasis:  ][emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural droughts</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>][emphasis:  ]or [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>], but the share of the population exposed varies from less than 1 percent to 100 percent.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#20"
+      "translationPrefix": "goal_13.content.#18"
     },
     {
       "type": "vis",
@@ -269,17 +256,17 @@
       "scale_title_sha": "Percentage of population exposed to climate effects",
       "keyFact": "4.5 billion",
       "keyFactLabel": "people are exposed to climate-related hazards",
-      "translationPrefix": "goal_13.content.#21"
+      "translationPrefix": "goal_13.content.#19"
     },
     {
       "text": "Vulnerability to climate hazards",
       "type": "subhed",
-      "translationPrefix": "goal_13.content.#22"
+      "translationPrefix": "goal_13.content.#20"
     },
     {
-      "text": "Mapping climate hazards is only half the task; the other half is understanding vulnerability to climate hazards. The loss of income or damage to property caused by a heat wave, drought, or flood may be a minor inconvenience for some but a long‑term livelihood shock for others. The effect of the climate hazard depends on someone’s vulnerability, which describes how sensitive people are to climate hazards and their ability and capacity to cope, adapt and recover. Climate risk is therefore shaped not just by exposure, but also by vulnerability.",
+      "text": "Mapping climate hazards is only half the task; the other half is understanding vulnerability to climate hazards. The loss of income or damage to property caused by a heat wave, drought, or flood may be a minor inconvenience for some but a long‑term livelihood shock for others. The effect of the climate hazard depends on people’s ability and capacity to cope, adapt and recover. Climate risk is therefore shaped not just by exposure, but also by vulnerability.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#23"
+      "translationPrefix": "goal_13.content.#21"
     },
     {
       "type": "factoid",
@@ -287,17 +274,17 @@
       "number": "2.8",
       "units": "billion people",
       "label": "globally in 2023[reference: WB1]",
-      "translationPrefix": "goal_13.content.#24"
+      "translationPrefix": "goal_13.content.#22"
     },
     {
       "text": "In order to measure vulnerability to climate hazards, the World Bank has identified seven dimensions of vulnerability[footnote:  The seven dimensions of vulnerability are defined based on existing literature as well as data availability.], grouped into [emphasis: physical and economic vulnerability]. Physical vulnerability is measured by [emphasis: access to clean water, access to electricity, ]and [emphasis: access to services and markets]. Economic vulnerability is measured by [emphasis: extreme poverty] (add link to SDG 1)[emphasis: , level of education, access to social protection and  access to financial services].[reference: WB2] Individuals are considered highly vulnerable to adverse events, including climate shocks, if they score below set thresholds on at least one of these seven dimensions. ",
       "type": "text",
-      "translationPrefix": "goal_13.content.#25"
+      "translationPrefix": "goal_13.content.#23"
     },
     {
-      "text": "Many people experience vulnerability across multiple dimensions. Let’s look at who is vulnerable according to these measures of vulnerability.[footnote:  We restrict ourselves to the six dimensions of the vulnerability that come from household surveys. The seventh dimension is the access to roads and markets, which is measured using spatial data. As it is not possible to combine the spatial data with the survey data, it is not possible to assess the overlap of these dimensions with the six others. However, the spatial vulnerability measure affects only 44 million out of the total number of 2.8 billion vulnerable worldwide.]",
+      "text": "Many people even experience vulnerability across multiple dimensions. Let’s look at who is vulnerable according to these measures of vulnerability.[footnote:  We restrict ourselves to the six dimensions of the vulnerability that come from household surveys. The seventh dimension is the access to roads and markets, which is measured using spatial data. As it is not possible to combine the spatial data with the survey data, it is not possible to assess the overlap of these dimensions with the six others. However, the spatial vulnerability measure affects only 44 million out of the total number of 2.8 billion vulnerable worldwide.]",
       "type": "text",
-      "translationPrefix": "goal_13.content.#26"
+      "translationPrefix": "goal_13.content.#24"
     },
     {
       "type": "scroller",
@@ -316,39 +303,39 @@
         {
           "type": "scene",
           "id": "multi__grid__vuln__wld",
-          "text": "37 percent of the[emphasis:  ][emphasis: <span data-color-id=\"WLD\" class=\"WLD\">global population</span>], or 2.8 billion people, are vulnerable in at least one dimension. This is shown in the first waffle where each square represents  8 million people of the global population.  percent of the global population. Almost half of these are vulnerable along 2 or more dimensions. This corresponds to approximately 1.3 billion people.",
-          "translationPrefix": "goal_13.content.#27.scenes.#0"
+          "text": "There are 100 squares in each column, each individual square representing 8 million people. More than a third of the[emphasis:  ][emphasis: <span data-color-id=\"WLD\" class=\"WLD\">global population</span>], or 2.8 billion people, are vulnerable in at least one dimension. Almost half of these are vulnerable along two or more dimensions. This corresponds to approximately 1.3 billion people.",
+          "translationPrefix": "goal_13.content.#25.scenes.#0"
         },
         {
           "type": "scene",
           "id": "multi__grid__vuln__nac",
-          "text": "The level of vulnerability differs significantly across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.2 percent of the population are identified as being vulnerable in at least one dimension. These are due to living in extreme poverty or lacking basic education.",
-          "translationPrefix": "goal_13.content.#27.scenes.#1"
+          "text": "The level of vulnerability ranges from 1.2 to 93 percent across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.2 percent of the population are identified as being vulnerable. They are vulnerable because they either live in extreme poverty or lack basic education.",
+          "translationPrefix": "goal_13.content.#25.scenes.#1"
         },
         {
           "type": "scene",
           "id": "multi__grid__vuln__ssf",
-          "text": "In [emphasis: <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa,</span>] a staggering 93 percent of the population are vulnerable. Lack of social protection impacts 3 out of 4 people in the region and having no access to electricity or living in extreme poverty affects almost every second person. ",
-          "translationPrefix": "goal_13.content.#27.scenes.#2"
+          "text": "In [emphasis: <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa,</span>] a staggering 93 percent of the population is vulnerable. Lack of social protection impacts 3 out of 4 people in the region and lack of access to electricity or extreme poverty affects half the population. ",
+          "translationPrefix": "goal_13.content.#25.scenes.#2"
         },
         {
           "type": "scene",
           "id": "multi__explore",
-          "text": "Select a country or region to see what share of the population is vulnerable and which dimensions of vulnerability are driving this.",
-          "translationPrefix": "goal_13.content.#27.scenes.#3"
+          "text": "Select a country or region to see the share of population that is vulnerable and which dimensions of vulnerability are drive it.",
+          "translationPrefix": "goal_13.content.#25.scenes.#3"
         }
       ],
-      "translationPrefix": "goal_13.content.#27"
+      "translationPrefix": "goal_13.content.#25"
     },
     {
       "text": "1.5 billion people are at risk of climate-related hazards",
       "type": "subhed",
-      "translationPrefix": "goal_13.content.#28"
+      "translationPrefix": "goal_13.content.#26"
     },
     {
-      "text": "Combining [emphasis: exposure ]to climate hazards and measures of [emphasis: vulnerability] allows for identifying people [emphasis: at risk] to climate-related hazards. People are considered [emphasis: at risk] when they are exposed to at least one climate hazard and are vulnerable along at least one of the seven dimensions. ",
+      "text": "Combining [emphasis: exposure ]to climate hazards and measures of [emphasis: vulnerability] allows for identifying people [emphasis: at risk] to climate-related hazards. People are considered at risk when they are [emphasis: exposed to at least one climate hazard and are vulnerable along at least one of the seven dimensions]. ",
       "type": "text",
-      "translationPrefix": "goal_13.content.#29"
+      "translationPrefix": "goal_13.content.#27"
     },
     {
       "type": "factoid",
@@ -356,17 +343,17 @@
       "number": "1.5",
       "units": "billion",
       "label": "People globally are vulnerable and exposed to climate hazards.",
-      "translationPrefix": "goal_13.content.#30"
+      "translationPrefix": "goal_13.content.#28"
     },
     {
       "text": "The 1.5 billion people corresponds to 18 percent of the global population who are at high risk from climate-related hazards. But this does not mean that 18 percent of the populations of each country are at high risk. In North America only 0.3 percent of the population (approximately 0.6 million people) are at high risk, but 26 percent of the populations living in <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, 32 percent of the population living in the <span data-color-id=\"MEA\" class=\"MEA\">Middle East, North Africa, Afghanistan and Pakistan</span> region and 35 percent of the population of Sub-Saharan Africa are at high risk. ",
       "type": "text",
-      "translationPrefix": "goal_13.content.#31"
+      "translationPrefix": "goal_13.content.#29"
     },
     {
       "text": "Let’s see how countries’ population at risk depends on the people exposed and the people vulnerable respectively.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#32"
+      "translationPrefix": "goal_13.content.#30"
     },
     {
       "type": "scroller",
@@ -386,43 +373,43 @@
           "type": "scene",
           "id": "mono__grid__vul__bfa_ken",
           "text": "[emphasis: Burkina Faso ]and [emphasis: Kenya ]have similar levels of [emphasis: vulnerability]. In Burkina Faso, 89 percent of  the population are identified as vulnerable in at least one dimension. In Kenya, the same is true for 87 percent of the population.",
-          "translationPrefix": "goal_13.content.#33.scenes.#0"
+          "translationPrefix": "goal_13.content.#31.scenes.#0"
         },
         {
           "type": "scene",
           "id": "mono__diff__vul_exp__bfa_ken",
           "text": "But the countries differ substantially when we look at their [emphasis: exposure ]to climate hazards. Only 28 percent of people in Kenya but  81 percent of people in Burkina Faso are exposed. As a result, only 1 in 4 Kenyans but 3 in 4 Burkinabè are at risk of climate hazards. This shows that similar vulnerability levels do not imply similar shares of the population at risk.",
-          "translationPrefix": "goal_13.content.#33.scenes.#1"
+          "translationPrefix": "goal_13.content.#31.scenes.#1"
         },
         {
           "type": "scene",
           "id": "mono__grid__exp__phl_vnm",
           "text": "The populations of the [emphasis: Philippines ]and [emphasis: Vietnam] are similarly [emphasis: exposed ]to climate hazards. In the Philippines, 84.6 percent are exposed, while 88.4 percent are exposed in Vietnam.",
-          "translationPrefix": "goal_13.content.#33.scenes.#2"
+          "translationPrefix": "goal_13.content.#31.scenes.#2"
         },
         {
           "type": "scene",
           "id": "mono__diff__exp_vul__phl_vnm",
           "text": "However, despite similar [emphasis: exposure ]profiles, 55 percent of people are at risk in the Philippines, while the same is true for 19 percent of the Vietnamese population. This is due to the differing levels of vulnerability. In the Philippines, more than 3 out of 5 people are vulnerable, while the same is true for only 1 in 4 people in Vietnam.",
-          "translationPrefix": "goal_13.content.#33.scenes.#3"
+          "translationPrefix": "goal_13.content.#31.scenes.#3"
         }
       ],
-      "translationPrefix": "goal_13.content.#33"
+      "translationPrefix": "goal_13.content.#31"
     },
     {
       "text": "Share of people at risk has halved since 2010",
       "type": "subhed",
-      "translationPrefix": "goal_13.content.#34"
+      "translationPrefix": "goal_13.content.#32"
     },
     {
-      "text": "The population exposed to climate hazards increased from 4 billion people to 4.6 billion people between 2010 and 2023. This increase is mainly due to the growth of the population in exposed areas. Yet, the [emphasis: population at risk of climate hazards has decreased from 2.6 billion to 1.5 billion] in the same period. This is due to a large reduction in the vulnerability of the population. The number of vulnerable people fell from 4.4 to 2.8 billion offsetting the rise in exposure. This shows that the most promising way to reduce the population at risk is to increase resilience and focus on adaptation.",
+      "text": "The population exposed to climate hazards increased from 4 billion people to 4.6 billion people between 2010 and 2023. This increase is mainly due to the growth of the population in exposed areas. Yet, the [emphasis: population at risk of climate hazards has decreased from 2.6 billion to 1.5 billion] in the same period. This is due to a large reduction in the vulnerability of the population. The number of vulnerable people fell from 4.4 to 2.8 billion, more than offsetting the rise in exposure. This shows that the most promising way to reduce the population at risk is to increase resilience and focus on adaptation.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#35"
+      "translationPrefix": "goal_13.content.#33"
     },
     {
       "text": "Differences across countries and regions are stark, both on the exposure as well as the vulnerability dimension. Almost all regions have made progress in reducing the population at risk, although the share of the population at risk has remained stagnant in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#36"
+      "translationPrefix": "goal_13.content.#34"
     },
     {
       "type": "scroller",
@@ -439,51 +426,41 @@
           "type": "scene",
           "id": "map_2010",
           "text": "On this map, the size of the circles is proportional to the size of the population of the seven World Bank regions. The blue circle shows the size of the population exposed to climate-related hazards. And the red circle shows the size of the population exposed to climate-related hazards, who are also vulnerable - i.e. the populations at risk.",
-          "translationPrefix": "goal_13.content.#37.scenes.#0"
+          "translationPrefix": "goal_13.content.#35.scenes.#0"
         },
         {
           "type": "scene",
           "id": "map_2024",
           "text": "By 2023, the exposure to climate-related hazards does not change much. But in some regions, the share of those exposed, who are also vulnerable, has decreased dramatically.",
-          "translationPrefix": "goal_13.content.#37.scenes.#1"
+          "translationPrefix": "goal_13.content.#35.scenes.#1"
         }
       ],
-      "translationPrefix": "goal_13.content.#37"
+      "translationPrefix": "goal_13.content.#35"
     },
     {
       "text": "Building resilience to reduce vulnerability",
       "type": "subhed",
-      "translationPrefix": "goal_13.content.#38"
+      "translationPrefix": "goal_13.content.#36"
     },
     {
       "text": "To help governments prioritize climate adaptation, the World Bank developed the [emphasis: <a href=\"https://climatescreeningtools.worldbank.org/\" target=\"_blank\">Adaptation and Resilience Readiness Assessment Tool</a>], a whole‑of‑economy diagnostic built around six adaptation principles. Anchored in rapid and inclusive development, the framework focuses on four priority areas: supporting adaptation by firms and people, adapting land use and protecting critical assets, strengthening people’s ability to cope with and recover from shocks, and managing macroeconomic and fiscal risks. Effective governance and continuous monitoring underpin all actions.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#39"
+      "translationPrefix": "goal_13.content.#37"
     },
     {
       "text": "These principles, first applied in 17 Caribbean countries, have since guided adaptation efforts elsewhere. In [emphasis: Zambia ]and [emphasis: Brazil], World Bank–supported programs helped shift from reactive to proactive resilience building, contributing to substantial declines in vulnerability and the number of people at high risk from climate hazards between 2010 and 2023.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#40"
+      "translationPrefix": "goal_13.content.#38"
     },
     {
-      "text": "These experiences show that reducing climate risk is possible, even as exposure continues to grow. While one in five people globally remains at high risk in 2023, this is a marked improvement from two in five in 2010. Sustained investment in adaptation, resilience, and inclusive development can significantly lower vulnerability and protect lives and livelihoods from climate‑related shocks.",
+      "text": "These experiences show that reducing climate risk is possible, even as exposure continues to grow. While one in five - or 1.5 billion - people globally remains at high risk in 2024, this is a marked improvement from two in five - or 2.6 billion - in 2010. Sustained investment in adaptation, resilience, and inclusive development can significantly lower vulnerability and protect lives and livelihoods from climate‑related shocks.",
       "type": "text",
-      "translationPrefix": "goal_13.content.#41"
-    },
-    {
-      "text": "These principles were developed as part of an effort to provide detailed assessments of and recommendations to 17 Caribbean countries, and have since been applied to other regions. ",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#42"
-    },
-    {
-      "text": "These experiences show that reducing climate risk is possible, even as exposure continues to grow. While one in five people globally remains at high risk in 2024, this is a marked improvement from two in five in 2010. Sustained investment in adaptation, resilience, and inclusive development can significantly lower vulnerability and protect lives and livelihoods from climate‑related shocks.",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#43"
+      "translationPrefix": "goal_13.content.#39"
     },
     {
       "text": "Shocks caused by climate hazards can be a threat to income, food security, health, and safety, deepening existing inequalities. Reducing emissions will not solve the problem on its own. Governments also need to put in place adaptation strategies: policies that strengthen resilience by protecting livelihoods, reducing risk, and enabling vulnerable people to cope with and recover from a changing climate.[reference: WB1]",
       "type": "text",
-      "translationPrefix": "goal_13.content.#44"
+      "translationPrefix": "goal_13.content.#40"
     }
   ],
   "references": {

@@ -7,7 +7,7 @@
     "abstract": "Most inequality measures fail to account for overall economic development. The Prosperity Gap tracks both economic progress and its distribution. Although prosperity has improved globally, many economies—particularly in Sub-Saharan Africa—have regressed in recent decades.",
     "citation": "Lønborg, J H, Lambrechts, M and Yonzan, N. 2026. “Combining income growth with inequality reduction benefits everyone” In Atlas of Global Development 2026, edited by D Mahler, A F Pirlea, U Serajuddin, A Thudt, D Wadhwa, and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004[emphasis: <a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\">https://doi.org/10.60616/f7gk-me57</a>]",
     "credits": "Jonas Helth Lønborg and Nishant Yonzan",
-    "inputs": "Christoph Lakner, Maria Eugenia Genoni",
+    "inputs": "Aart Kraay, Maria Eugenia Genoni, Christoph Lakner",
     "visuals": "Maarten Lambrechts",
     "homeFactoidPercent": "80",
     "homeFactoidNumber": "4 in 5",
@@ -41,6 +41,7 @@
       "graphic": "high_inequality_trend",
       "title": "The number of economies with high inequality has almost halved in the past three decades",
       "subtitle": "Economies with high inequality have a Gini index > 40; those with low inequality have a Gini index < 30",
+      "visSize": "small",
       "source": "<a href=\"https://pip.worldbank.org/key-inequality-indicators\" target=\"_blank\">Key Inequality Indicators, Poverty and Inequality Platform</a> (version March 2026).",
       "high": "High inequality",
       "moderate": "Moderate inequality",
@@ -182,7 +183,7 @@
       "translationPrefix": "goal_10.content.#17"
     },
     {
-      "text": "The [emphasis: Prosperity Gap] is defined as the factor by which incomes must be multiplied to reach a global prosperity standard. This standard is currently set at $28 per person per day, which is approximately equal to the average income of a person living in an economy that is at the threshold of high-income status. [reference: kraay2023]",
+      "text": "The [emphasis: Prosperity Gap] is defined as the average factor by which individuals’ incomes must be multiplied to reach a global prosperity standard. This standard is currently set at $28 per person per day, which is approximately equal to the average income of a person living in an economy that is at the threshold of high-income status. [reference: kraay2023]",
       "type": "text",
       "translationPrefix": "goal_10.content.#18"
     },
@@ -190,12 +191,12 @@
       "type": "factoid",
       "title": "Global prosperity standard",
       "number": "$28",
-      "units": "per person per day (2021 purchasing power parity dollars)",
+      "units": "per person per day ",
       "label": "Approximately equivalent to the average income of a typical individual living in an economy that is graduating from middle- to high-income status.",
       "translationPrefix": "goal_10.content.#19"
     },
     {
-      "text": "The Prosperity Gap is a measure that gives higher emphasis to the level of income of the poor. Consider an individual earning $14 a day and another earning $7 a day. To reach the $28 a day standard, the first individual must [emphasis: double ]their income while the second must increase their income [emphasis: fourfold]. Consequently, the Prosperity Gap is two for the first individual and four for the second. Notably, this measure gives the person with half the income double the emphasis. ",
+      "text": "The Prosperity Gap is a measure that gives higher emphasis to the level of income of the poor. Consider an individual earning $14 a day and another earning $7 a day. To reach the $28 a day standard, the first individual must [emphasis: double ]their income while the second must increase their income [emphasis: fourfold]. Consequently, the Prosperity Gap is two for the first individual and four for the second. In other words, this measure gives the person with half the income double the emphasis. ",
       "type": "text",
       "translationPrefix": "goal_10.content.#20"
     },
@@ -276,7 +277,7 @@
       "translationPrefix": "goal_10.content.#23"
     },
     {
-      "text": "If we only consider the Gini index, we could see that Colombia (with 54) is more unequal than Peru (with 41) today, despite both economies having had similar levels of inequality in 2003  (53.6 in Colombia and 53.1 in Peru). Since then, Peru has experienced sustained economic growth and an improved labor market which together with an expansion of its targeted social programs, including transfers to the poorest, has helped reduce inequality.[reference: WorldBank2023] If we instead only looked at income levels, people in Colombia earn more on average ($20 per day) than people in Peru ($14 per day). [emphasis: The Prosperity Gap rewards higher levels of income while also imposing a “penalty” for inequality.]",
+      "text": "If we only consider the Gini index, we could see that Colombia (with 54) is more unequal than Peru (with 41) today. If we instead only looked at income levels, people in Colombia earn more on average ($20 per day) than people in Peru ($14 per day).   [emphasis: The Prosperity Gap rewards higher levels of income while also imposing a “penalty” for inequality.  ]In the case of Colombia and Peru, the negative effect of higher inequality in Colombia outweighs its higher average income – the Prosperity Gap is larger in Columbia than in Peru.[emphasis: ]",
       "type": "text",
       "translationPrefix": "goal_10.content.#24"
     },
@@ -323,7 +324,7 @@
         {
           "type": "scene",
           "id": "country_gaps",
-          "text": "There is a large difference in prosperity between economies. In some, such as the United States, Japan, and Estonia, incomes are almost enough to meet the prosperity standard, but in others, such as South Sudan and Haiti, incomes would have to grow 27 times to reach that level.",
+          "text": "There is a large difference in prosperity between economies. In some, such as the United States, Japan, and Estonia, incomes are almost enough to meet the prosperity standard, but in others, such as South Sudan and Mozambique, incomes would have to grow roughly 25 times to reach that level.",
           "translationPrefix": "goal_10.content.#28.scenes.#2"
         },
         {
@@ -415,7 +416,7 @@
       "translationPrefix": "goal_10.content.#35"
     },
     {
-      "text": "Going back to Colombia, let’s consider what happens if every person earns 10 percent more. This raises everyone’s income, including the average national income, by 10 percent, so . relative inequality stays unchanged. For example, say person A had an initial income of $10 and person B, $20. With a 10 percent increase, A earns $11 and B earns $22. This means that the initial ratio of income between A and B ($20/$10 = 2) remains the same ($22/$11 = 2). The ratio shows the relative distance in income between the two individuals—B has double the income of A. Since inequality is unchanged, all the change in the Prosperity Gap in that economy is due to the change in average income alone.",
+      "text": "Consider a scenario where everyone earns 10 percent more income. This raises everyone’s income equally in relative terms, hence, relative inequality stays unchanged. For example, say person A had an initial income of $10 and person B, $20. With a 10 percent increase, A earns $11 and B earns $22. The initial ratio of income between A and B ($20/$10 = 2) remains the same even after the increase ($22/$11 = 2). Since inequality is unchanged, all the change in the Prosperity Gap in that economy is due to the change in average income alone.",
       "type": "text",
       "translationPrefix": "goal_10.content.#36"
     },
@@ -462,13 +463,13 @@
       "average_income_units": "$/day",
       "average_prosperity_gap": "Prosperity Gap",
       "reality": "Initial level of income and Prosperity Gap",
-      "visdescription": "This chart reports the changes in average income and Prosperity Gap for a scenario where everyone’s incomeis raised by $10.",
+      "visdescription": "This chart reports the changes in average income and Prosperity Gap for a scenario where everyone’s income is raised by $10.",
       "data_download": "10.data.prosperity_gap.csv",
       "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
       "translationPrefix": "goal_10.content.#40"
     },
     {
-      "text": "Playground",
+      "text": "Find out what happens to the Prosperity Gap for any country",
       "type": "subhed",
       "translationPrefix": "goal_10.content.#41"
     },
@@ -524,7 +525,6 @@
     "kraay2023": "Kraay, A ⓡ Lakner, C ⓡ Özler, B ⓡ Decerf, B ⓡ Jolliffe, D ⓡ Sterck, O ⓡ Yonzan, N. 2023. “<a href=\"http://hdl.handle.net/10986/39913\" target=\"_blank\">A New Distribution Sensitive Index for Measuring Welfare, Poverty, and Inequality</a>.” Policy Research Working Paper 10470.  Washington DC: World Bank.",
     "Lakner2022": "Lakner, C, Gerszon Mahler, D, Negre, M and Prydz, E B. 2022. “<a href=\"https://doi.org/10.1007/s10888-021-09510-w\" target=\"_blank\">How Much Does Reducing Inequality Matter for Global Poverty?</a>” The Journal of Economic Inequality 20(3): 559–85. ",
     "WBvision": "<a href=\"https://scorecard.worldbank.org/en/vision?orgCode=ALL&refareatype=REGION&refareacode=ACW&age=_T&disability=_T&sex=_T\" target=\"_blank\">World Bank Group Scorecard</a> (accessed March 11, 2026).",
-    "WorldBank2023": "World Bank. 2023. “<a href=\"https://www.worldbank.org/en/country/peru/publication/resurgir-fortalecidos-evaluacion-de-pobreza-y-equidad-en-el-peru\" target=\"_blank\">Rising Strong: Peru Poverty and Equity Assessmen</a>t.” Washington DC: World Bank.",
     "WorldBank2024": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">World Bank. 2024. “</span><a href=\"http://hdl.handle.net/10986/42211\" target=\"_blank\">Poverty, Prosperity, and Planet Report 2024: Pathways Out of the Polycrisis.</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">” Washington DC.: World Bank. </span>",
     "WorldBank2025": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">World Bank. 2025. Perspectives économiques du Bénin: Accroître la mobilisation des recettes intérieures tout en protégeant les pauvres. Washington DC: World Bank.</span>",
     "translationPrefix": "goal_10.references"

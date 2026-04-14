@@ -7,7 +7,7 @@
     "abstract": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal. While networks now reach much of the world, millions of people, especially in poorer countries, are still shut out of the digital economy. The reasons go beyond infrastructure, and reflect gaps in affordability, skills, and inclusive policy design.",
     "citation": "",
     "credits": "Ana Florina Pirlea, Lorena Corso",
-    "inputs": "Sharada Srinivasan",
+    "inputs": "Sharada Srinivasan, Daniel Boller",
     "visuals": "Jan Willem Tulp, Maarten Lambrechts",
     "homeFactoidPercent": "25",
     "homeFactoidNumber": "1 in 4",
@@ -68,19 +68,19 @@
         {
           "type": "scene",
           "id": "world",
-          "text": "<span style=\"color: rgb(255,255,255); background-color: rgb(8,16,121);\">Worldwide</span>, the share of people who access the Internet has increased from 16 percent only two decades ago to over 70 percent today. Still, over a quarter of the global population (2.2 billion) remains offline.",
+          "text": "[emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(8,16,121);\">Worldwide</span>], the share of people who access the Internet has increased from 16 percent only two decades ago to over 70 percent today. Still, over a quarter of the global population (2.2 billion) remains offline.",
           "translationPrefix": "goal_09.content.#6.scenes.#0"
         },
         {
           "type": "scene",
           "id": "income_groups",
-          "text": "Internet adoption mirrors a country’s level of development: it is nearly universal  (94 percent) in <span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\">high-income nations</span> but less than a quarter (23 percent) in <span style=\"color: rgb(255,255,255); background-color: rgb(59,77,166);\">low-income countries</span>. ",
+          "text": "Internet adoption mirrors an economy’s level of development: it is nearly universal  (94 percent) in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\">high-income countries</span>] but less than a quarter (23 percent) in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(59,77,166);\">low-income countries</span>]. ",
           "translationPrefix": "goal_09.content.#6.scenes.#1"
         },
         {
           "type": "scene",
           "id": "regions_groups",
-          "text": "Basic Internet access is lowest in <span style=\"background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, where only around  one-third  of the population (36 percent) is online.",
+          "text": "Basic Internet access is lowest in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>], where only around  one-third  of the population (36 percent) is online.",
           "translationPrefix": "goal_09.content.#6.scenes.#2"
         }
       ],
@@ -170,7 +170,7 @@
     {
       "type": "scroller",
       "graphic": "internet_progress",
-      "title": "Almost all countries have steadily increased their Internet access since 2015",
+      "title": "Almost all countries have increased their Internet access since 2015",
       "subtitle": "Individuals using the Internet (% of population)",
       "select_country": "Select countries to highlight",
       "typical_progress": "Typical progress",
@@ -260,7 +260,7 @@
         {
           "type": "scene",
           "id": "hic",
-          "text": "Fixed broadband is common in many high-income countries. In [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\">Germany</span>], for example, there are approximately 46 fixed broadband connections per 100 people. [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(115,175,72);\">China</span>], an upper-middle-income country, is also highly connected, with 47 fixed high-speed Internet subscriptions per 100 people in 2024. ",
+          "text": "[emphasis: Fixed broadband] is common in many high-income countries. In [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\">Germany</span>], for example, there are approximately 46 fixed broadband connections per 100 people. [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(115,175,72);\">China</span>], an upper-middle-income country, is also highly connected, with 47 fixed high-speed Internet subscriptions per 100 people in 2024. ",
           "translationPrefix": "goal_09.content.#27.scenes.#1"
         },
         {
@@ -272,7 +272,7 @@
         {
           "type": "scene",
           "id": "civ_sen",
-          "text": "[emphasis: Across much of the world, people connect to the Internet through mobile phones]. In [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Morocco</span>] and in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Eswatini</span>][emphasis: , ]there are 98 and 116 active mobile broadband subscriptions, respectively, per 100 people. In many countries, there are more than 100 mobile broadband subscriptions per 100 people due to  multiple connections—for example, through  smartphones, tablets, work devices, or other connected equipment.[reference: mrbs1]",
+          "text": "Across much of the world, people connect to the Internet through mobile phones. In [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Morocco</span>] and in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Eswatini</span>][emphasis: , ]there are 98 and 116 active [emphasis: mobile broadband] subscriptions, respectively, per 100 people. In many countries, there are more than 100 mobile broadband subscriptions per 100 people due to  multiple connections—for example, through  smartphones, tablets, work devices, or other connected equipment.[reference: mrbs1]",
           "translationPrefix": "goal_09.content.#27.scenes.#3"
         }
       ],
@@ -349,7 +349,7 @@
         {
           "type": "scene",
           "id": "coverage_5G",
-          "text": "In Sub-Saharan Africa, the deployment of 5G remains largely confined to a few high-density urban areas, and only [emphasis: Mauritius ]and [emphasis: South Africa ]have over 50 percent coverage.",
+          "text": "In Sub-Saharan Africa, the deployment of 5G remains largely confined to a few high-density urban areas, and only [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(115,175,72);\">Mauritius</span>][emphasis:  ]and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(115,175,72);\">South Africa</span>][emphasis:  ]have over 50 percent coverage.",
           "translationPrefix": "goal_09.content.#34.scenes.#3"
         }
       ],
@@ -402,7 +402,7 @@
       "translationPrefix": "goal_09.content.#41"
     },
     {
-      "text": "There is often a significant gap between network coverage and Internet use.[emphasis:  Even when broadband networks reach most of the population, many people remain offline due to the high cost of devices and data packages,[reference: ai1] as well as low levels of digital literacy.] For example, in Bangladesh, although 4G mobile networks covered 100 percent of the population in 2024, only 53 percent of people were observed to be using the Internet. ",
+      "text": "There is often a significant gap between network coverage and Internet use.[emphasis:  Even when broadband networks reach most of the population, many people remain offline due to the high cost of devices and data packages,[reference: ai1] as well as low levels of digital literacy.] For example, in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Bangladesh</span>], although 4G mobile networks covered 100 percent of the population in 2024, only 53 percent of people were observed to be using the Internet. ",
       "type": "text",
       "translationPrefix": "goal_09.content.#42"
     },

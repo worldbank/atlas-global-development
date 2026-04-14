@@ -3,7 +3,7 @@
     "type": "config",
     "goal": "17",
     "shortTitle": "Data for Development",
-    "title": "The state of development data",
+    "title": "The State of Development Data",
     "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remain hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators (SPI) show, low data availability is not inevitable. Some countries build strong, reliable data systems even with limited resources.",
     "citation": "Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?”. In Atlas of  Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Zander Prinsloo & Brian Stacy",
@@ -235,8 +235,10 @@
       "graphic": "spi_scroller",
       "title": "Statistical performance varies widely across economies",
       "subtitle": "The World Bank Statistical Performance Indicators (SPI) measures the strength of statistical systems",
+      "fcv_countries": "Fragile and conflict-affected countries",
       "fcv_median": "Median FCV countries",
       "non_fcv_median": "Median non-FCV countries",
+      "spi": "SPI",
       "pillar1": "Data use",
       "pillar2": "Data services",
       "pillar3": "Data products",
@@ -271,7 +273,7 @@
         {
           "type": "scene",
           "id": "fourth_quintile",
-          "text": "In the next quintile (60th–80th percentile), the composition shifts: <span data-color-id=\"UMC\" class=\"UMC\">upper-middle-income economies</span> make up over half, and <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">lower-middle-income economies</span> account for about 16% –evidence that strong statistical performance extends well beyond high-income economies.<span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\"></span>",
+          "text": "In the next quintile (60th–80th percentile), the composition shifts: <span data-color-id=\"UMC\" class=\"UMC\">upper-middle-income economies</span> make up over half, and <span data-color-id=\"LMC\" class=\"LMC\">lower-middle-income economies</span> account for about 16% –evidence that strong statistical performance extends well beyond high-income economies.",
           "translationPrefix": "goal_17.content.#21.scenes.#3"
         },
         {
@@ -295,7 +297,7 @@
         {
           "type": "scene",
           "id": "fcv_pillars",
-          "text": "About 60.5% of <span style=\"color: rgb(255,255,255); background-color: rgb(47,128,237);\">FCV countries</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design – making investment in statistical systems especially urgent",
+          "text": "About 60.5% of <span style=\"color: rgb(255,255,255); background-color: rgb(6,41,88);\">FCV countries</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design – making investment in statistical systems especially urgent.",
           "translationPrefix": "goal_17.content.#21.scenes.#7"
         },
         {

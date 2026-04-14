@@ -61,6 +61,7 @@
       "slow_progress": "Slow progress",
       "progress_in": "Progress in",
       "average": "Average",
+      "average_progress_speed": "Average progress speed",
       "six_indicators": "six indicators",
       "visdescription": "This visualization shows the speed of progress across six development indicators from 1950 to 2025 using line charts. The y-axis reflects the speed of development and is annotated with values to make the values more comprehensible.",
       "visSize": "fullScreen",

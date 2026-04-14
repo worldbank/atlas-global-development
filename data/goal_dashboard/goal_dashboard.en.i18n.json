@@ -32,6 +32,7 @@
   "goal_dashboard.content.#5.slow_progress": "Slow progress",
   "goal_dashboard.content.#5.progress_in": "Progress in",
   "goal_dashboard.content.#5.average": "Average",
+  "goal_dashboard.content.#5.average_progress_speed": "Average progress speed",
   "goal_dashboard.content.#5.six_indicators": "six indicators",
   "goal_dashboard.content.#5.visdescription": "This visualization shows the speed of progress across six development indicators from 1950 to 2025 using line charts. The y-axis reflects the speed of development and is annotated with values to make the values more comprehensible.",
   "goal_dashboard.content.#5.visSize": "fullScreen",
