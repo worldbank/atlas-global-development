@@ -1,0 +1,1 @@
+import"./DPGBllWf.js";import{q as o,v as m,x as i}from"./0Jxu6r5g.js";import{s as l}from"./B2BSaMh6.js";import"./CeG_LHgA.js";import{L as n}from"./DEAyV5KQ.js";function L(s,t){n(s,{get class(){return`mb-1 text-xs text-gray-500 ${t.class??""}`},children:(a,p)=>{var r=o(),e=m(r);l(e,()=>t.children),i(a,r)},$$slots:{default:!0}})}export{L};
