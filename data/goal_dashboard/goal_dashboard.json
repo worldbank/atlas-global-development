@@ -5,15 +5,15 @@
     "shortTitle": "Global Progress",
     "title": "Tracking Progress in Global Development",
     "abstract": "After decades of progress, global development has reached a critical phase. Today, progress is taking place at its slowest pace in 75 years. The slowdown spans several areas of development including life expectancy, poverty reduction, education, and women’s empowerment. Explore the data to see how progress is unfolding across countries worldwide.",
-    "citation": "Lambrechts, M, Mahler D G, Thudt, A, and Wadhwa, D. 2026. “Global progress is grinding to a halt.” In Atlas of  Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, A Thudt, and M Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+    "citation": "Lambrechts, M, Mahler D G, Thudt, A and Wadhwa, D. 2026. “Global Progress is Grinding to a Halt.” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, A Thudt and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Daniel Gerszon Mahler, Divyanshi Wadhwa ",
-    "inputs": "Nishant Yonzan",
+    "inputs": "Nishant Yonzan, Rossana Tatulli",
     "visuals": "Alice Thudt, Maarten Lambrechts",
     "homeFactoidPercent": "58",
     "homeFactoidNumber": "15 of 26",
     "homeFactoidTitle": "Progress is the slowest on record in",
     "homeFactoidText": "of the explored development indicators.",
-    "homeTagline": "Explore progress data on crucial areas from poverty reduction and life expectancy to education to understand the global progress slowdown.",
+    "homeTagline": "Explore progress data on key development areas from poverty reduction and life expectancy to education to understand the global progress slowdown.",
     "translationPrefix": "goal_dashboard.config"
   },
   "content": [
@@ -23,22 +23,22 @@
       "translationPrefix": "goal_dashboard.content.#0"
     },
     {
-      "text": "For 75 years, global development moved decisively forward, lifting millions out of poverty and delivering major gains in health, education, and other vital areas. That progress is no longer assured. [emphasis: Development is now advancing at its slowest pace in generations], marking a clear break from the steady improvements that defined progress up until now and raising urgent questions about the world’s ability to sustain past gains.",
+      "text": "For 75 years, global development moved decisively forward, lifting millions out of poverty and delivering major gains in health, education, and other vital areas. That progress is no longer assured. [emphasis: Development is now advancing at its slowest pace in generations], marking a clear break from the steady improvements that have defined progress to date  and raising urgent questions about the world’s ability to sustain past gains.",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#1"
     },
     {
-      "text": "Getting a long-run picture of progress in global development requires data spanning decades. Data exists dating back to 1950 for only a handful of key development indicators including poverty, life expectancy, years of schooling, women's political empowerment, electricity supply, and carbon intensity of the economy.[reference: mahler2026] Due to their long time span, these indicators will be the focus of this story. As will be shown later, the dire outlook they suggest about global progress generalizes to 20 indicators with shorter data availability. ",
+      "text": "Getting a long-run picture of progress in global development requires decades of data. But data back to 1950 exist for only a handful of key development indicators, such as poverty, life expectancy, years of schooling, women's political empowerment, electricity supply, and carbon intensity of the economy.[reference: mahler2026] As a result, these will be the focus of this story.  But the dire outlook they suggest about global progress also generalizes to 20 indicators with shorter data availability. ",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#2"
     },
     {
-      "text": "Comparing progress across diverse development indicators over time is inherently difficult, but it can be done using a common benchmark. One approach is to measure a country’s progress relative to the pace at which the typical country advanced over the past 75 years, allowing today’s performance to be evaluated against long‑run historical norms. For example, if it typically takes 10 years to decrease poverty rates from 20 percent to 15 percent and a country did this in five years, it can be said to have moved twice as fast as the typical experience. If it achieved the feat in 10 years, it moved at the typical speed – a speed of one – while if it took 20 years, it moved at a speed of a half (see an interactive visual explanation of how these speed scores are constructed <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">here</a>).  ",
+      "text": "It is inherently difficult to compare progress across development indicators over time; but it can be done through a common benchmark. For example, it is possible to measure a country’s progress against the typical progress observed over the past 75 years, allowing a country’s performance today to be evaluated against long‑run historical norms. So, if it typically takes 10 years to decrease poverty rates from 20 to 15 percent and a country did this in five years, it can be said to have moved twice as fast as the typical experience. If it achieved the feat in 10 years, it moved at typical speed—a speed of one— and if it took 20 years, it moved at a speed of a half.[footnote: See an interactive visual explanation of how these speed scores are constructed <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">here</a>.]",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#3"
     },
     {
-      "text": "If we calculate the speed of progress for a country over a five-year span, and average these across all countries, we can get a picture of the changing pace of development over the last 75 years. ",
+      "text": "Calculating individual countries’ speed of progress over a five-year span and averaging these across all countries gives us a picture of the changing pace of development over the last 75 years. ",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#4"
     },
@@ -46,14 +46,14 @@
       "type": "scroller",
       "graphic": "indicators_progress",
       "title": "The global speed of progress is falling in many domains",
-      "subtitle": "Global average speed of progress, 1950-2024",
-      "source": "Mahler et al. 2026",
-      "lifeexpectancy": "Life expectancy",
-      "education": "Years of schooling",
-      "gender": "Women political empowerment index",
-      "ghggdp": "Tons CO2 equivalent/US$ GDP",
-      "electricity": "Electricity supply (mWh/capita)",
-      "poverty300": "Extreme poverty rate",
+      "subtitle": "Global average speed of progress, 1950–2024",
+      "source": "<a href=\"https://hdl.handle.net/10986/44655\" target=\"_blank\">Mahler et al. 2026</a>",
+      "lifeexpectancy": "life expectancy",
+      "education": "years of schooling",
+      "gender": "women political empowerment index",
+      "ghggdp": "tons CO2 equivalent/$ GDP",
+      "electricity": "electricity supply (mWh/capita)",
+      "poverty300": "extreme poverty rate",
       "typical_progress": "Typical progress",
       "fast_progress": "Fast progress",
       "standstill": "Standstill",
@@ -63,7 +63,7 @@
       "average": "Average",
       "average_progress_speed": "Average progress speed",
       "six_indicators": "six indicators",
-      "visdescription": "This visualization shows the speed of progress across six development indicators from 1950 to 2025 using line charts. The y-axis reflects the speed of development and is annotated with values to make the values more comprehensible.",
+      "visdescription": "Line charts showing  the speed of progress across six development indicators from 1950 to 2025 . The y-axes reflect the speed of development and are annotated with values to make the values more comprehensible.",
       "visSize": "fullScreen",
       "data_download": "dashboard.data.progress_speeds.zip",
       "data": "1V4JWANmBNf9VWrsXeahBdfuR1z1wbhnYJhXgFDAVm2s",
@@ -71,54 +71,54 @@
         {
           "type": "scene",
           "id": "values",
-          "text": "Here this is done for extreme poverty rates, where a year’s speed of progress refers to changes over the prior five years. Progress in reducing poverty was at its slowest in the 1980s and early 1990s, where countries on average saw increases in poverty. This was followed by a golden area of poverty reduction in the later 1990s and early 2000s. That area has come to a halt, and today poverty is progressing at its lowest speed in more than three decades. ",
+          "text": "Looking at  extreme poverty rates, where a year’s speed of progress refers to changes over the previous five years, progress in reducing poverty was at its slowest in the 1980s and early 1990s, with countries seeing, on average, an increase in poverty. This was followed by a golden area of poverty reduction in the later 1990s and early 2000s. That has since stalled, and today poverty reduction is at its lowest speed in more than three decades. ",
           "translationPrefix": "goal_dashboard.content.#5.scenes.#0"
         },
         {
           "type": "scene",
           "id": "smooth",
-          "text": "We can do the same for multiple indicators and see how they compare. The pace of progress changes annually and smoothening the data helps distinguish patterns from noise.",
+          "text": "Looking at other indicators, we can see that the pace of progress changes annually and smoothing the data helps distinguish patterns from noise.",
           "translationPrefix": "goal_dashboard.content.#5.scenes.#1"
         },
         {
           "type": "scene",
           "id": "2010",
-          "text": "For life expectancy and electricity supply, the pace of progress is the slowest it has been in 75 years. For education, the current pace is the slowest we have seen since the 1960s. For the first time since 1950, progress in women’s political empowerment is reversing. Only for CO2 emissions per GDP is progress faster than in past decades. ",
+          "text": "For life expectancy and electricity supply, the pace of progress today is the slowest it has been in 75 years. For schooling, it is the slowest since the 1960s, while in women’s political empowerment, progress is reversing for the first time since the 1950s. The only indicator where  progress is faster today than in past decades is carbon dioxide CO2 emissions per gross domestic product (GDP). ",
           "translationPrefix": "goal_dashboard.content.#5.scenes.#2"
         },
         {
           "type": "scene",
           "id": "overlay",
-          "text": "If we overlay the six indicators, we can compare indicators against each other. Of the six indicators, the only one with a higher than typical speed today is CO2 emissions per GDP.",
+          "text": "Overlaying the six indicators, allows us to compare them against each other, confirming that only CO2 emissions per GDP has a higher-than-typical speed today.",
           "translationPrefix": "goal_dashboard.content.#5.scenes.#3"
         },
         {
           "type": "scene",
           "id": "average_of_averages",
-          "text": "By calculating the average speed across indicators, we get a picture of how the pace of global development has changed over the last 75 years. The global speed of progress has declined since around 2010, and is currently at its lowest point since 1950. ",
+          "text": "Calculating the average speed across indicators provides a picture of how the pace of global development has changed over the last 75 years. After peaking just before 2010, the global speed of progress has declined steadily. It is now at its lowest point since 1950. ",
           "translationPrefix": "goal_dashboard.content.#5.scenes.#4"
         },
         {
           "type": "scene",
           "id": "region_progress",
-          "text": "This slowdown is widespread across regions. In every region except South Asia, the pace of progress is now the slowest observed since 1950.",
+          "text": "This slowdown is widespread across regions, with the pace of progress across all regions except South Asia now at its slowest since 1950.",
           "translationPrefix": "goal_dashboard.content.#5.scenes.#5"
         }
       ],
       "translationPrefix": "goal_dashboard.content.#5"
     },
     {
-      "text": " The consequences are far reaching. We can measure the impact of the decline by calculating the gap between where we are today and where we would have been if the pace of progress had not slowed down. There are currently around 800 million extreme poor in the world, yet if the speed of progress had not slowed down in the last decade, there would have been 150 million fewer.",
+      "text": " The consequences are far reaching. We can measure the impact of the decline by calculating the gap between where we are today and where we would have been if the pace of progress had not slowed. Currently around 800 million people are extremely poor in the world, yet if the speed of progress had not slowed down in the last decade, there would  be 150 million fewer.",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#6"
     },
     {
-      "text": "If the global pace of progress had not slowed down in the last decade, there would there have been 1[emphasis: 50 million fewer people living in extreme poverty] today, nearly [emphasis: a year higher life expectancy,] and [emphasis: a 15 percent increase in women’s empowerment].  ",
+      "text": "Had the global pace of progress not slowed down in the last decade, [emphasis: 150 million fewer people would be living in extreme poverty], life expectancy would be nearly [emphasis: a year longer,] and[emphasis:  women’s empowerment would be 15 percent higher ]today. ",
       "type": "text_emphasis",
       "translationPrefix": "goal_dashboard.content.#7"
     },
     {
-      "text": "The slowdown is evident across a wide range of development indicators extending beyond the six chosen here, which were selected partly based on data availability in 1950. Progress is at its slowest on record for many key outcomes, including stunting, undernourishment, under‑five mortality, GNI per capita, access to clean cooking fuels, cereal yield, immunization coverage (DPT and measles), employment share in services, and access to safe drinking water. For several other indicators (including rural electricity access, basic water and sanitation, safely managed sanitation, and vulnerable employment) progress has recently slowed. Only three of twenty additional indicators examined show accelerating progress: gross tertiary enrollment, mobile subscriptions, and internet use.",
+      "text": "The slowdown is evident across a range of development indicators beyond the six examined here, which were selected partly due to data availability in 1950. Progress is at its slowest on record for many other key outcomes, including stunting, undernourishment, under‑five mortality, gross national income per capita, access to clean cooking fuels, cereal yield, immunization coverage (<span style=\"color: rgb(0,29,53); background-color: rgb(255,255,255);\">diphtheria, tetanus, and pertussis </span> and measles), employment share in services, and access to safe drinking water. For others, including rural electricity access, basic water and sanitation, safely managed sanitation, and vulnerable employment, progress has recently slowed. Of the 20 additional indicators examined, only three— gross tertiary enrollment, mobile subscriptions, and Internet use—show accelerating progress.",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#8"
     },
@@ -128,7 +128,7 @@
       "translationPrefix": "goal_dashboard.content.#9"
     },
     {
-      "text": "You can explore this approach by looking at progress applied to 13 key indicators from the Atlas of Global Development and check how your country has performed relative to others over the last 10 years. ",
+      "text": "To explore this approach, we can compare countries’ progress in 13 key Atlas of Global Development indicators against others over the last 10 years. ",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#10"
     },
@@ -140,7 +140,7 @@
       "disableFooter": "true",
       "source": "Source of the data",
       "visSize": "fullScreen",
-      "visdescription": "This visualization builds an interactive dashboard showing how much progress countries have made on a development indicators over the last 10 years. It allows users to explore different options for comparing progress. ",
+      "visdescription": "Interactive dashboard showing how much progress countries have made on development indicators over the last 10 years. It allows users to explore different options to compare progress. ",
       "readstoryon": "Read Story on",
       "readmore": "Read more on measuring progress",
       "indicator": "indicator",
@@ -183,37 +183,37 @@
         {
           "type": "scene",
           "id": "intro",
-          "text": "In the Atlas, each square represents a data point for a particular country, year and development indicator. You can change the selected indicator in the dropdown in the top-left of the screen. ↖️",
+          "text": "In the Atlas, each square represents a data point for a particular country, year, and development indicator. You can change the selected indicator in the dropdown in the top left of the screen. ↖️",
           "translationPrefix": "goal_dashboard.content.#11.scenes.#0"
         },
         {
           "type": "scene",
           "id": "indicator",
-          "text": "Here we see  the [emphasis: latest available values] for the [emphasis: {selectedDashboardIndicator}] across countries, with larger squares signifying higher values. ",
+          "text": "This shows the [emphasis: latest available values] for the [emphasis: {selectedDashboardIndicator}] across countries, with larger squares signifying higher values. ",
           "translationPrefix": "goal_dashboard.content.#11.scenes.#1"
         },
         {
           "type": "scene",
           "id": "progress_top",
-          "text": "Current outcomes do not reveal how much progress has been made. In this illustrative chart, the dark triangle represents the latest observed value, while the transparent triangle represents the level that would have been reached under the typical pace of progress between 2015 and the last year with data. When the dark triangle lies ahead of the transparent one, progress has exceeded the typical path.",
+          "text": "Current outcomes do not reveal how much progress has been made. In this illustrative chart, a dark triangle represents the latest observed value, while a transparent triangle represents the level the country would have reached under the typical pace of progress between 2015 and the last year with data. When the dark triangle lies ahead of the transparent one, the country’s progress is faster than typical.",
           "translationPrefix": "goal_dashboard.content.#11.scenes.#2"
         },
         {
           "type": "scene",
           "id": "progress_comparison",
-          "text": "Let’s look at a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow</span>], a [emphasis: <span style=\"background-color: rgb(255,221,146);\">typical</span>], and a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,161,196);\">fast</span>][emphasis:  progressing country]. For the [emphasis: <span style=\"background-color: rgb(255,221,146);\">typical </span>]country, the typical progress (the transparent triangle) roughly reflects the country’s actual outcome, while for the [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow</span>] country, outcomes today are worse than if it had followed the typical pace of progress. ",
+          "text": "Let’s look at a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow-</span>], a [emphasis: <span style=\"background-color: rgb(255,221,146);\">typical-</span>], and a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,161,196);\">fast-</span>][emphasis:  progressing country]. For the country with [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,161,196);\">fast</span>] progress, the dark triangle is ahead of the transparent triangle, so the country is outperforming the typical pattern. For the [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow</span>] country, outcomes are worse than they would have been under the typical pace of progress. ",
           "translationPrefix": "goal_dashboard.content.#11.scenes.#3"
         },
         {
           "type": "scene",
           "id": "progress_all",
-          "text": "Now, let’s [emphasis: compare the speed of progress of all countries]. The countries to the left made the slowest progress – often reversing outcomes – while the countries to the right made the fastest progress.",
+          "text": "Now, let’s [emphasis: compare the speed of progress of all countries]. The countries on the left made the slowest progress, often reversing outcomes, while those on  the right made the fastest progress.",
           "translationPrefix": "goal_dashboard.content.#11.scenes.#4"
         },
         {
           "type": "scene",
           "id": "explore",
-          "text": "Some countries that were far apart 10 years ago now have similar outcomes because they progressed at different speeds. See how this carries through in other indicators used in the Atlas of Global  Development Indicators by changing the view. You can bring up details by hovering over the countries<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">.</span><span id=\"explore-scene\" />",
+          "text": "Some countries that were far apart 10 years ago have similar outcomes today because they have progressed at different speeds. See how this carries through in other Atlas of Global Development Indicators by changing the selected indicator in the dropdown in the top left of the screen. ↖️. You can bring up details by hovering over the countries or highlight individual countries in the dropdown in the top right of the screen<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">.</span><span id=\"explore-scene\" />",
           "translationPrefix": "goal_dashboard.content.#11.scenes.#5"
         }
       ],
@@ -222,7 +222,7 @@
   ],
   "references": {
     "type": "references",
-    "mahler2026": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. The World Is Developing at Its Slowest Pace in 75 Years.",
+    "mahler2026": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. <a href=\"https://hdl.handle.net/10986/44655\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years</a>. World Bank Policy Research Working Paper 11350",
     "translationPrefix": "goal_dashboard.references"
   },
   "translationPrefix": "goal_dashboard"

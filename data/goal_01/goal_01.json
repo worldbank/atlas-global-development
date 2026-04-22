@@ -11,8 +11,8 @@
     "visuals": "Maarten Lambrechts",
     "homeFactoidPercent": "50",
     "homeFactoidNumber": "1 in 2",
-    "homeFactoidText": "of the world's extreme poor live in countries where poverty has increased the past 10 years",
-    "homeTagline": "After 75 years of historic poverty reduction, shifting global dynamics threaten to reverse our progress",
+    "homeFactoidText": "of the world's extreme poor live in countries where poverty has increased in the past 10 years",
+    "homeTagline": "After 75 years of historic poverty reduction, shifting global dynamics threaten to reverse our progress.",
     "translationPrefix": "goal_01.config"
   },
   "content": [
@@ -27,7 +27,7 @@
       "translationPrefix": "goal_01.content.#1"
     },
     {
-      "text": "[emphasis: Extreme poverty] is best measured through surveys that capture consumption or income patterns from a representative sample of households. Not all countries undertake such surveys annually, yet under strong assumptions about how national economic growth reaches the poor, it is possible to extrapolate data from the World Bank <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">Poverty and Inequality Platform</a> to estimate poverty in years it does not cover, going back to 1950.[reference: mahler2025b][reference: mahler2025a] Although these extrapolations carry significant uncertainty, particularly for the earlier decades where survey data are limited,  such modeling provides a useful approximation of long-term trends in global poverty.",
+      "text": "[emphasis: Extreme poverty] is best measured through surveys that capture consumption or income patterns from a representative sample of households. Not all countries undertake such surveys annually, yet under strong assumptions about how national economic growth reaches the poor, it is possible to extrapolate data from the World Bank <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">Poverty and Inequality Platform</a> to estimate poverty in years it does not cover, going back to 1950.[reference: mahler2025][reference: mahler2026] Although these extrapolations carry significant uncertainty, particularly for the earlier decades where survey data are limited,  such modeling provides a useful approximation of long-term trends in global poverty.",
       "type": "text",
       "translationPrefix": "goal_01.content.#2"
     },
@@ -49,7 +49,7 @@
       "instructions": "Click and drag to draw a line with your best guess, starting from the <span style=\"color: rgb(255,255,255); background-color: rgb(177,67,199);\">global poverty rate</span> in 1950 on the left",
       "encouragement": "Keep going! Draw your guess all the way to 2025 on the right",
       "done": "Click the button to see your result. You can still adjust your guess",
-      "good_result": "Nice work! <span data-color-id=\"cat7\" class=\"cat7\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
+      "good_result": "Nice work! <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
       "ok_result": "Not bad! <span data-color-id=\"cat1\" class=\"cat1\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
       "hm_result": "Hmm, that could've been better. <span data-color-id=\"cat1\" class=\"cat1\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
       "poor_result": "That was poor. <span data-color-id=\"cat1\" class=\"cat1\">Your guess</span> was on average {result} percentage points off the actual <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">global poverty rate</span>, which is around 10 percent today",
@@ -59,7 +59,7 @@
       "alt-text": "Global poverty rate time series",
       "data_download": "01.data.global_poverty.csv",
       "data": "1Wj93Lyhbf1AS0t7A6AlU6WUgItdDEsQA7YlF4VtB3Vg",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>; <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>; Mahler et al. 2025a; <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>; <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>; <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>; <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "translationPrefix": "goal_01.content.#4"
     },
@@ -69,7 +69,7 @@
       "translationPrefix": "goal_01.content.#5"
     },
     {
-      "text": "The poverty rate has fallen across all regions, most significantly in South and East Asia. Latin America and the Middle East, North Africa, Afghanistan, and Pakistan also achieved substantial declines—particularly in the earlier decades—but in recent years, extreme poverty in these regions has either stagnated or increased. There has also been progress in Sub-Saharan Africa, albeit at a slower and less consistent pace, although this has also stagnated in the last decade, and close to half of the population there still lives in extreme poverty.",
+      "text": "The poverty rate has fallen across all regions, most significantly in South and East Asia. Latin America and the Middle East, North Africa, Afghanistan, and Pakistan also achieved substantial declines—particularly in the earlier decades—but in recent years, extreme poverty in these regions has either stagnated or increased. There has also been progress in Sub-Saharan Africa, albeit at a slower and less consistent pace. In the last decade, though, poverty reduction has stagnated, and close to half of the population still lives in extreme poverty in Sub-Saharan Africa.",
       "type": "text",
       "translationPrefix": "goal_01.content.#6"
     },
@@ -78,7 +78,7 @@
       "graphic": "poverty_regions",
       "title": "Extreme poverty has fallen in most regions since 1950",
       "subtitle": "Poverty rate by region (%)",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, Mahler et al. 2025a, <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
       "y_axis_title": "Poverty rate",
       "y_axis_units": "%",
       "visdescription": "Global extreme poverty has fallen from about 60 percent in 1950 to about 10 percent in 2025",
@@ -100,7 +100,7 @@
       "graphic": "poverty_scroller",
       "title": "Several countries have eliminated poverty since 1950",
       "subtitle": "",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, Mahler et al. 2025a, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
       "visdescription": "Poverty trends across selected countries from 1950-2025 as well as projections to 2050 for selected countries that still have high poverty rates. ",
       "theme": "light (alternatively: dark)",
       "data_download": "01.data.country_poverty.zip",
@@ -210,7 +210,7 @@
       "title": "Global poverty could increase if current trends continue",
       "subtitle": "",
       "skip": "If all countries progress at Korea’s pace, global extreme poverty would be reduced to 1 percent by 2050. But copying Korea's trajectory will be difficult. If countries progress at the pace of Brazil or Türkiye, there will be modest declines, and if they progress at the typical speed observed since 1950, global extreme poverty will stand at 8.5 percent poverty by 2050. Unfortunately, the speed of global poverty reduction has slowed down over the past years, and if countries continue on their current paths, global poverty will start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed]",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, Mahler et al. 2025a, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025b</a>",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>",
       "y_axis_title": "Poverty rate",
       "y_axis_units": "%",
       "rate4": "Korea’s path",
@@ -222,8 +222,8 @@
       "theme": "light (alternatively: dark)",
       "data_download": "01.data.global_projections.zip",
       "data": "1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg",
-      "keyFact": "600 million people",
-      "keyFactLabel": "more will live in extreme poverty in 2050 if countries’ current trajectories continue",
+      "keyFact": "600 million",
+      "keyFactLabel": "more people will live in extreme poverty in 2050 if countries’ current trajectories continue",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
         {
@@ -267,7 +267,7 @@
       "translationPrefix": "goal_01.content.#19"
     },
     {
-      "text": "The global progress in reducing extreme poverty is the slowest it has been in more than three decades,[reference: mahler2025a] partly due to several large, low-income countries making little or no progress over the past decade. Yet even if all countries reduce extreme poverty, global extreme poverty could still rise, because population growth in poorer countries  is much higher than in richer ones. Populations in  countries with extreme poverty rates over 10 percent are growing at nearly 2.5 percent per year, compared to 0.5 percent in countries where extreme poverty is under 10 percent.",
+      "text": "The global progress in reducing extreme poverty is the slowest it has been in more than three decades,[reference: mahler2026] partly due to several large, low-income countries making little or no progress over the past decade. Yet even if all countries reduce extreme poverty, global extreme poverty could still rise, because population growth in poorer countries  is much higher than in richer ones. Populations in  countries with extreme poverty rates over 10 percent are growing at nearly 2.5 percent per year, compared to 0.5 percent in countries where extreme poverty is under 10 percent.",
       "type": "text",
       "translationPrefix": "goal_01.content.#20"
     },
@@ -396,8 +396,8 @@
   "references": {
     "type": "references",
     "foster2025": "Foster, E,  Jolliffe, D, Lara Ibarra, G,  Lakner, C, Tetteh Baah, S. 2025. <a href=\"https://doi.org/10.1596/1813-9450-11137\" target=\"_blank\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> World Bank.</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
-    "mahler2025a": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2025. The World Is Developing at Its Slowest Pace in 75 Years.",
-    "mahler2025b": "Mahler, D G, Foster, E, Lakner, C, Prinsloo, Z, Tchouakam Mbouendeu, R and Tetteh-Baah, S K. 2025.<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"> </span><a href=\"https://doi.org/10.1596/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. Global Poverty Monitoring Technical Note No. 45. World Bank.</span>",
+    "mahler2026": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years.</a> World Bank.",
+    "mahler2025": "Mahler, D G, Foster, E, Lakner, C, Prinsloo, Z, Tchouakam Mbouendeu, R and Tetteh-Baah, S K. 2025.<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\"> </span><a href=\"https://doi.org/10.1596/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. Global Poverty Monitoring Technical Note No. 45. World Bank.</span>",
     "worldbank2026": "World Bank. 2026. <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">Macro Poverty Outlook April 2026</a>. Washington DC: World Bank Group.",
     "jolliffe2016": "Jolliffe, D and Prydz, E B. 2016. “<a href=\"https://doi.org/10.1007/s10888-016-9327-5\" target=\"_blank\">Estimating International Poverty Lines from Comparable National Thresholds.</a>“ Journal of Economic Inequality 15: 185–198.",
     "berg2012": "Berg, A, Ostry, J D and Zettelmeyer, J. 2012. \"<a href=\"https://doi.org/10.1016/j.jdeveco.2011.08.002\" target=\"_blank\">What Makes Growth Sustained?</a>\" Journal of Development Economics 98(2): 149–166.",

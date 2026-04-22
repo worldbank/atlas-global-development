@@ -54,6 +54,7 @@
       "done_button": "Done, show my result",
       "reset": "Reset",
       "y_axis_title": "Labor force participation (% of population ages 15-64) by gender",
+      "y_axis_title_mobile": "Labor force participation (%)",
       "y_axis_units": "",
       "translationPrefix": "goal_05.content.#3"
     },
@@ -68,7 +69,7 @@
       "translationPrefix": "goal_05.content.#5"
     },
     {
-      "text": "Equality could still be 400 years away",
+      "text": "Equality could still be 350 years away",
       "type": "subhed",
       "translationPrefix": "goal_05.content.#6"
     },
@@ -80,12 +81,13 @@
     {
       "type": "scroller",
       "graphic": "sdg5_350_years",
-      "title": "Women’s labor force participation is nearly 400 years away from equality",
+      "title": "Women’s labor force participation is over 350 years away from equality",
       "subtitle": "<span style=\"background-color: rgb(255,255,0);\"></span>",
       "source": "World Bank staff calculations, based on XXXX 2026 (to be added when working paper available)",
       "visdescription": "This is a line chart with the number of years before reaching equality on the x-axis and the rate of female labor force participation on the y-axis. The line shows the typical path and how much progress has been made by individual countries from 2015.",
       "x_axis_title": "Number of years to equality",
       "y_axis_title": "Female labor force participation (% of female population ages 15-64)",
+      "y_axis_title_mobile": "Female labor force participation (%)",
       "male_rate": "Global male labor force participation",
       "years": "years",
       "years_to_equality": "years to equality",
@@ -97,7 +99,7 @@
       "publish_progress": "true",
       "data_download": "05.data.typical_path_speeds.zip",
       "data": "1o5yF32I0XmxlazXO2NtB3QEvmoQH1RnobwgZLAnAXUg",
-      "keyFact": "Nearly 400 years",
+      "keyFact": "Over 350 years",
       "keyFactLabel": "away from equality in labor force participation between women and men",
       "scenes": [
         {
@@ -109,13 +111,13 @@
         {
           "type": "scene",
           "id": "example850",
-          "text": "If this country took the typical path of progress, it would take 850 years for women’s labor force participation to reach 80 percent, which is today’s global average for men.",
+          "text": "If this country took the typical path of progress, it would take 825 years for women’s labor force participation to reach 80 percent, which is today’s global average for men.",
           "translationPrefix": "goal_05.content.#8.scenes.#1"
         },
         {
           "type": "scene",
           "id": "example850_draw2024",
-          "text": "With the global average at 55 percent in 2024, this means women are still 391 years away from reaching parity with men. So, are there any countries where  women’s participation in the labor force is increasing at a faster rate?",
+          "text": "With the global average at 55 percent in 2024, this means women are still over 350 years away from reaching parity with men. So, are there any countries where  women’s participation in the labor force is increasing at a faster rate?",
           "translationPrefix": "goal_05.content.#8.scenes.#2"
         },
         {
@@ -127,7 +129,7 @@
         {
           "type": "scene",
           "id": "exampleTurkiye_2",
-          "text": "By 2024, it had risen to 41.5 percent—an increase of 6.8 percentage points.",
+          "text": "By 2024, it had risen to nearly 42 percent—an increase of 7.8 percentage points.",
           "translationPrefix": "goal_05.content.#8.scenes.#4"
         },
         {
@@ -310,6 +312,7 @@
       "male": "Men",
       "female": "Women",
       "x_axis_title": "Employment status (% of population in the labor force)",
+      "x_axis_title_mobile": "% of population",
       "x_axis_units": "",
       "visSize": "default",
       "data_download": "05.data.types_employment_gender.csv",
@@ -359,6 +362,7 @@
       "subtitle": "",
       "textParagraph": "Vulnerable employment is common in <span style=\"color: rgb(255,255,255); background-color: rgb(59,77,166);\">low-income</span> countries and economies. Among the poorest countries, vulnerable employment rates are as high as 90 percent, and with <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">women</span> more affected than <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">men</span>. In <span style=\"color: rgb(255,255,255); background-color: rgb(1,107,108);\">higher-income</span> countries, vulnerable employment is less common, and the share of <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">men</span> in vulnerable employment tends to be higher than among <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">women</span>. ",
       "y_axis_title": "Vulnerable employment (% of labor force) by gender",
+      "y_axis_title_mobile": "Vulnerable employment (%)",
       "y_axis_units": "",
       "male_rate": "Male vulnerable employment rate",
       "female_rate": "Female vulnerable employment rate",
@@ -421,7 +425,9 @@
       "women_lower": "Lower wages for women",
       "women_higher": "Higher wages for women",
       "wage_ratio": "Hourly wage ratio (Ratio of women’s to men’s hourly wages), most recent value (2015-2024)",
-      "wage_month_ratio": "Monthly wage ratio (Ratio of women’s to men’s monthly wages), most recent value (2015-2024)",
+      "wage_ratio_month": "Monthly wage ratio (Ratio of women’s to men’s monthly wages), most recent value (2015-2024)",
+      "wage_ratio_mobile": "Hourly wage ratio",
+      "wage_ratio_month_mobile": "Monthly wage ratio",
       "visdescription": "This is a beeswarm where the x-axis shows World Bank regions and each dot represents the ratio of women’s average wages to men’s average wages in a country. The y-axis shows this ratio. ",
       "disableScreenshot": "true",
       "data_download": "wage_month.csv",
@@ -447,7 +453,7 @@
         },
         {
           "type": "scene",
-          "id": "wage_month_ratio",
+          "id": "wage_ratio_month",
           "text": "When measured in monthly earnings, the gap widens. As care and household responsibilities fall disproportionately on women, they are more likely to require flexible arrangements, working part-time or taking on fewer hours. So, in the average country or economy,[footnote: Using the median country as the average country] women earn just 82 cents for every dollar earned by men per month.",
           "translationPrefix": "goal_05.content.#43.scenes.#2"
         }
@@ -492,6 +498,7 @@
       "men": "Men",
       "women": "Women",
       "y_axis_title": "Labor force participation (% of population, ages 15-64) by gender",
+      "y_axis_title_mobile": "Labor force participation (%) ",
       "y_axis_units": "",
       "x_axis_title": "Time spent working in a day",
       "x_axis_units": "hours",

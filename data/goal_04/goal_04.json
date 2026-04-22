@@ -148,7 +148,7 @@
     {
       "type": "vis",
       "graphic": "education_quality_details",
-      "title": "Learning-adjusted years of schooling ",
+      "title": "Learning-adjusted years of schooling are only two-thirds as high has unadjusted years of schooling on average",
       "subtitle": "",
       "years_title": "Years of schooling",
       "years_label": "years",
@@ -239,7 +239,8 @@
     {
       "type": "vis",
       "graphic": "wages",
-      "title": "Typical wage premiums by education level ",
+      "title": "More schooling leads to higher earnings in the labor market",
+      "subtitle": "Typical wage premiums by education level ",
       "x_title": "Earnings Relative to Non-Completers",
       "x_unit": "%",
       "pri_title": "Completed primary education",
@@ -333,8 +334,8 @@
     {
       "type": "scroller",
       "graphic": "wage_scroller",
-      "title": "Wage profiles",
-      "subtitle": "",
+      "title": "Earnings for those with tertiary are higher and grow faster",
+      "subtitle": "Wage profiles by worker experience",
       "source": "World Bank staff calculations, based on data of GLD (Global Labor Database Repository), <a href=\"https://worldbank.github.io/gld/README.html\" target=\"_blank\">https://worldbank.github.io/gld/README.html</a>, World Bank. Wages in PPP adjusted US dollars.",
       "visdescription": "Line charts showing wage profiles for workers with differing levels of education for India and Brazil.",
       "visSize": "default",
