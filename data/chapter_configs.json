@@ -106,7 +106,7 @@
       "type": "config",
       "goal": "16",
       "shortTitle": "Artificial Intelligence (AI)",
-      "title": "Inequalities in Use of and Exposure to Artificial Intelligence",
+      "title": "Inequalities in Use of, and Exposure to, Artificial Intelligence",
       "abstract": "Artificial Intelligence is reshaping the world, but the digital shift is filtering slowly to the global poor. While wealthy nations race ahead, high costs and a lack of digital skills leave billions behind. In poorer countries, the workplace remains mostly untouched by AI, threatening to turn a technological leap into a permanent global divide.",
       "citation": "Mahler, D G, Tulp, J W, Wang, H and Weber, M. 2026. “Inequalities in AI use and exposure” In ",
       "credits": "Daniel Gerszon Mahler, He Wang,  Michael Weber",
@@ -212,7 +212,7 @@
       "visuals": "Christian Laesser",
       "homeFactoidPercent": "33",
       "homeFactoidNumber": "In 1 in 3",
-      "homeFactoidText": "low and lower-middle income countries, learning-adjusted years of schooling dropped between 2010 and 2025.",
+      "homeFactoidText": "low- and lower-middle income countries, learning-adjusted years of schooling dropped between 2010 and 2025",
       "homeTagline": "Each year of schooling that a worker attains improves productivity and wages.  But learning does not end at school; workers acquire additional skills through on-the-job learning."
     }
   },
@@ -220,7 +220,7 @@
     "en": {
       "type": "config",
       "goal": "05",
-      "shortTitle": "Gender and jobs",
+      "shortTitle": "Gender and Jobs",
       "title": "Shaping the Future of Women in the Workplace",
       "abstract": "Women face persistent barriers when it comes to participating in the labor force. And those who do work are more likely to be in vulnerable employment, earn lower wages, and shoulder the majority of domestic and care responsibilities—highlighting slow and uneven progress toward gender equality at work.",
       "citation": "",
@@ -229,7 +229,7 @@
       "visuals": "Ændra Rininsland, Maarten Lambrechts",
       "homeFactoidPercent": "55",
       "homeFactoidNumber": "Only 1 in 2",
-      "homeFactoidText": "women are engaged in income generating work",
+      "homeFactoidText": "women are engaged in income-generating work",
       "homeTagline": "Women face persistent barriers to work and are more likely to be in vulnerable jobs, earn lower wages, and shoulder care burden."
     }
   },
@@ -247,7 +247,7 @@
       "homeFactoidPercent": "58",
       "homeFactoidNumber": "15 of 26",
       "homeFactoidTitle": "Progress is the slowest on record in",
-      "homeFactoidText": "of the explored development indicators.",
+      "homeFactoidText": "of the explored development indicators",
       "homeTagline": "Explore progress data on key development areas from poverty reduction and life expectancy to education to understand the global progress slowdown."
     }
   },
@@ -264,7 +264,7 @@
       "visuals": "Jan Willem Tulp",
       "homeFactoidPercent": "51",
       "homeFactoidNumber": "Around 50%",
-      "homeFactoidText": "of countries with data (48 out of 94) face water quality challenges.",
+      "homeFactoidText": "of countries with data (48 out of 94) face water quality challenges",
       "homeTagline": "Access to safe drinking water is essential for health and development, yet over 2 billion people still lack it. Water quality remains the main barrier to safely managed drinking water."
     }
   },
@@ -282,7 +282,7 @@
       "homeFactoidPercent": "25",
       "homeFactoidNumber": "1 in 4",
       "homeFactoidText": "people worldwide do not use the Internet",
-      "homeTagline": "Internet access has grown at remarkable speed since the turn of the century, yet millions of people, especially in poorer countries, are still shut out of the digital economy."
+      "homeTagline": "Internet access has grown at remarkable speed since the turn of the century, yet millions of people are shut out of the digital economy, especially in poorer countries."
     }
   },
   "progress": {

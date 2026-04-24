@@ -56,6 +56,7 @@
       "graphic": "poverty_progress_comparison",
       "title": "Which country made the most progress?",
       "subtitle": "Poverty rate (%)",
+      "visSize": "small",
       "country_left": "CIV",
       "country_right": "GEO",
       "percentage_points": "pp",
@@ -256,7 +257,7 @@
       "translationPrefix": "goal_progress.content.#11"
     },
     {
-      "text": "At the typical speed of development, going from very high poverty rates to a society free of extreme poverty can take centuries. This also applies to other domains of developmentl.[reference: mahler2026] Even if countries move drastically faster than the typical speed of development—like Singapore and the Republic of Korea have done since the 1950s—transitioning from the worst-observed outcomes to some of the best easily takes 75 years.",
+      "text": "At the typical speed of development, going from very high poverty rates to a society free of extreme poverty can take centuries. This also applies to other domains of development.[reference: mahler2026] Even if countries move drastically faster than the typical speed of development—like Singapore and the Republic of Korea have done since the 1950s—transitioning from the worst-observed outcomes to some of the best easily takes 75 years.",
       "type": "text",
       "translationPrefix": "goal_progress.content.#12"
     },

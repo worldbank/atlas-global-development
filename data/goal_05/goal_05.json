@@ -2,7 +2,7 @@
   "config": {
     "type": "config",
     "goal": "05",
-    "shortTitle": "Gender and jobs",
+    "shortTitle": "Gender and Jobs",
     "title": "Shaping the Future of Women in the Workplace",
     "abstract": "Women face persistent barriers when it comes to participating in the labor force. And those who do work are more likely to be in vulnerable employment, earn lower wages, and shoulder the majority of domestic and care responsibilities—highlighting slow and uneven progress toward gender equality at work.",
     "citation": "",
@@ -11,7 +11,7 @@
     "visuals": "Ændra Rininsland, Maarten Lambrechts",
     "homeFactoidPercent": "55",
     "homeFactoidNumber": "Only 1 in 2",
-    "homeFactoidText": "women are engaged in income generating work",
+    "homeFactoidText": "women are engaged in income-generating work",
     "homeTagline": "Women face persistent barriers to work and are more likely to be in vulnerable jobs, earn lower wages, and shoulder care burden.",
     "translationPrefix": "goal_05.config"
   },

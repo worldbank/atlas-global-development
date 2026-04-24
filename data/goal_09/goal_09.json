@@ -12,7 +12,7 @@
     "homeFactoidPercent": "25",
     "homeFactoidNumber": "1 in 4",
     "homeFactoidText": "people worldwide do not use the Internet",
-    "homeTagline": "Internet access has grown at remarkable speed since the turn of the century, yet millions of people, especially in poorer countries, are still shut out of the digital economy.",
+    "homeTagline": "Internet access has grown at remarkable speed since the turn of the century, yet millions of people are shut out of the digital economy, especially in poorer countries.",
     "translationPrefix": "goal_09.config"
   },
   "content": [
@@ -244,12 +244,12 @@
       "more_mobile": "More mobile broadband",
       "fixed_tooltip": "Fixed:",
       "mobile_tooltip": "Mobile:",
-      "source": "International Telecommunication Union, ITU DataHub. Retrieved from Data360 (<a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_IT_NET_BBND_P2\" target=\"_blank\">WB_WDI_IT_NET_BBND_P2</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/ITU_DH_ACT_MOB_PER_100\" target=\"_blank\">ITU_DH_ACT_MOB_PER_100</a>)",
+      "source": "International Telecommunication Union, ITU DataHub. Retrieved from Data360 (<a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_IT_NET_BBND_P2\" target=\"_blank\">WB_WDI_IT_NET_BBND_P2</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/ACT_MOB_SB\" target=\"_blank\">ACT_MOB_SB</a>)",
       "visdescription": "Scatterplot showing the number of fixed and mobile broadband subscriptions, per 100 people, by country",
       "visSize": "default",
       "data_download": "09.data.mobile_fixed_broadband_subscriptions.zip",
       "data": "1L-yEyxkQMrc5MA5gSNTjxlmQtHCpgfZtG1cddhgW7DE",
-      "indicator_360": "ITU_DH_ACT_MOB_PER_100",
+      "indicator_360": "ACT_MOB_SB",
       "scenes": [
         {
           "type": "scene",
@@ -319,14 +319,14 @@
       "g5": "5G Network",
       "legend_title": "Share of people covered",
       "no_data": "No data",
-      "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a>. Retrieved from Data360 (<a href=\"https://data360.worldbank.org/en/int/indicator/ITU_DH_POP_COV_3G\" target=\"_blank\">ITU_DH_POP_COV_3G</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/ITU_DH_POP_COV_4G\" target=\"_blank\">ITU_DH_POP_COV_4G,</a> <a href=\"https://data360.worldbank.org/en/int/indicator/ITU_DH_POP_COV_5G\" target=\"_blank\">ITU_DH_POP_COV_5G</a>)",
+      "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a>. Retrieved from Data360 (<a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_3G\" target=\"_blank\">MOB_COV_3G</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_4G\" target=\"_blank\">MOB_COV_4G</a>,\u000b<a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_5G\" target=\"_blank\">MOB_COV_5G</a>)",
       "visdescription": "Three choropleth world maps showing levels of country coverage for at least 3G, 4G, and 5G networks",
       "visSize": "fullScreen",
       "data_download": "09.data.network_coverages.csv",
       "data": "1USKTFa0rwEekfOuqWWCmLTBqRJW3qlcbbfkNJimxD5Q",
       "keyFact": "9 in 10",
       "keyFactLabel": "people in Sub-Saharan Africa are not covered by a 5G network",
-      "indicator_360": "ITU_DH_POP_COV_5G",
+      "indicator_360": "MOB_COV_5G",
       "scenes": [
         {
           "type": "scene",
@@ -428,7 +428,7 @@
       "usage": "using the Internet",
       "y_axis_title": "Share of people",
       "y_axis_units": "%",
-      "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a>. Retrieved from Data360 <a href=\"https://data360.worldbank.org/en/int/indicator/ITU_DH_POP_COV_3G\" target=\"_blank\">(ITU_DH_POP_COV_3G</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_IT_NET_USER_ZS\" target=\"_blank\">WB_WDI_IT_NET_USER_ZS</a>). Data for 2024.",
+      "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a>. Retrieved from Data360 <a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_3G\" target=\"_blank\">(MOB_COV_3G</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_IT_NET_USER_ZS\" target=\"_blank\">WB_WDI_IT_NET_USER_ZS</a>). Data for 2024.",
       "visdescription": "A set of four slope charts showing 3G network coverage and Internet access levels for countries, by income group: low, lower-middle, upper-middle, and high-income ",
       "visSize": "default",
       "data_download": "09.data.coverage_access_gaps.csv",

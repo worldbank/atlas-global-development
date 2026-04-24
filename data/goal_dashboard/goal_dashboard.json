@@ -12,7 +12,7 @@
     "homeFactoidPercent": "58",
     "homeFactoidNumber": "15 of 26",
     "homeFactoidTitle": "Progress is the slowest on record in",
-    "homeFactoidText": "of the explored development indicators.",
+    "homeFactoidText": "of the explored development indicators",
     "homeTagline": "Explore progress data on key development areas from poverty reduction and life expectancy to education to understand the global progress slowdown.",
     "translationPrefix": "goal_dashboard.config"
   },
@@ -48,12 +48,12 @@
       "title": "The global speed of progress is falling in many domains",
       "subtitle": "Global average speed of progress, 1950–2024",
       "source": "<a href=\"https://hdl.handle.net/10986/44655\" target=\"_blank\">Mahler et al. 2026</a>",
-      "lifeexpectancy": "life expectancy",
-      "education": "years of schooling",
-      "gender": "women political empowerment index",
-      "ghggdp": "tons CO2 equivalent/$ GDP",
-      "electricity": "electricity supply (mWh/capita)",
-      "poverty300": "extreme poverty rate",
+      "lifeexpectancy": "Life expectancy",
+      "education": "Years of schooling",
+      "gender": "Women political empowerment index",
+      "ghggdp": "Tons CO2 equivalent/$ GDP",
+      "electricity": "Electricity supply (mWh/capita)",
+      "poverty300": "Extreme poverty rate",
       "typical_progress": "Typical progress",
       "fast_progress": "Fast progress",
       "standstill": "Standstill",
@@ -213,7 +213,7 @@
         {
           "type": "scene",
           "id": "explore",
-          "text": "Some countries that were far apart 10 years ago have similar outcomes today because they have progressed at different speeds. See how this carries through in other Atlas of Global Development Indicators by changing the selected indicator in the dropdown in the top left of the screen. ↖️. You can bring up details by hovering over the countries or highlight individual countries in the dropdown in the top right of the screen<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">.</span><span id=\"explore-scene\" />",
+          "text": "Some countries that were far apart 10 years ago have similar outcomes today because they have progressed at different speeds. See how this carries through in other Atlas of Global Development Indicators by changing the selected indicator in the dropdown in the top left of the screen ↖️. You can bring up details by hovering over the countries or highlight individual countries in the dropdown in the top right of the screen<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">.</span><span id=\"explore-scene\" />",
           "translationPrefix": "goal_dashboard.content.#11.scenes.#5"
         }
       ],

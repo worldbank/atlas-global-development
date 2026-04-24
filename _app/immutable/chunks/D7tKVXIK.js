@@ -1,0 +1,1 @@
+import{h as o,c as f,d as v,E as y,r as l,s as m,e as p,f as i,H as T,i as A}from"./B-a-qBs2.js";import{B as E}from"./DOxEOxy7.js";function N(d,_,e){var s;o&&(s=A,f());var r=new E(d);v(()=>{var a=_()??null;if(o){var h=l(s),c=h===T,u=a!==null;if(c!==u){var t=m();p(t),r.anchor=t,i(!1),r.ensure(a,a&&(n=>e(n,a))),i(!0);return}}r.ensure(a,a&&(n=>e(n,a)))},y)}export{N as c};

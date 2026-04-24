@@ -1,0 +1,1 @@
+import{aa as r}from"./B-a-qBs2.js";import{s as t}from"./DKdigLN8.js";const e={get error(){return r.error},get params(){return r.params},get status(){return r.status},get url(){return r.url}};t.updated.check;const o=e;export{o as p};

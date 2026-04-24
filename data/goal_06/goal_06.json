@@ -11,7 +11,7 @@
     "visuals": "Jan Willem Tulp",
     "homeFactoidPercent": "51",
     "homeFactoidNumber": "Around 50%",
-    "homeFactoidText": "of countries with data (48 out of 94) face water quality challenges.",
+    "homeFactoidText": "of countries with data (48 out of 94) face water quality challenges",
     "homeTagline": "Access to safe drinking water is essential for health and development, yet over 2 billion people still lack it. Water quality remains the main barrier to safely managed drinking water.",
     "translationPrefix": "goal_06.config"
   },
@@ -67,7 +67,7 @@
       "source": "WHO/UNICEF JMP for Water Supply, Sanitation and Hygiene. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS\" target=\"_blank\">SH.H2O.SMDW.ZS</a><span style=\"color: rgb(112,111,125);\">)</span>",
       "visdescription": "Line chart showing the distribution of the global population across drinking water service levels from 2000 to 2024. Each line represents a service level—safely managed, basic, limited, unimproved, and surface water—and together they sum to 100 percent in each year. The chart illustrates how the composition of service levels has changed over time.",
       "indicator_360": "WB_WDI_SH_H2O_SMDW_ZS",
-      "visSize": "default",
+      "visSize": "small",
       "data_download": "Safely managed.zip",
       "data": "1JqbaHQXEjhErDipoCf8b3-YZXKFCfIvrzCfyR69d1gE",
       "keyFact": "2.1 billion",
@@ -141,7 +141,7 @@
         {
           "type": "scene",
           "id": "scene3",
-          "text": "[emphasis: <span style=\"color: rgb(4,1,16);\">South Asia</span>]<span style=\"color: rgb(4,1,16);\"> is an </span><span style=\"color: rgb(4,1,16);\">exception:</span> the <span data-color-id=\"urban\" class=\"urban\">urban</span>–<span data-color-id=\"rural\" class=\"rural\">rural </span>gap narrowed sharply between 2000 and 2024 as access expanded in rural areas. [emphasis: <span style=\"color: rgb(4,1,16);\">Sub-Saharan Africa</span>] has also seen gains in <span data-color-id=\"rural\" class=\"rural\">rural</span> access, but coverage remains extremely low, at 17 percent in 2024. Low access to water services is often concentrated in poorer regions, where limited public resources and the high cost of extending infrastructure to dispersed rural populations constrain progress, leaving these populations particularly vulnerable. [reference: water_poverty]",
+          "text": "[emphasis: <span style=\"color: rgb(4,1,16);\">South Asia</span>]<span style=\"color: rgb(4,1,16);\"> is an </span><span style=\"color: rgb(4,1,16);\">exception:</span> the <span data-color-id=\"urban\" class=\"urban\">urban</span>–<span data-color-id=\"rural\" class=\"rural\">rural</span> gap narrowed sharply between 2000 and 2024 as access expanded in rural areas. [emphasis: <span style=\"color: rgb(4,1,16);\">Sub-Saharan Africa</span>] has also seen gains in <span data-color-id=\"rural\" class=\"rural\">rural</span> access, but coverage remains extremely low, at 17 percent in 2024. Low access to water services is often concentrated in poorer regions, where limited public resources and the high cost of extending infrastructure to dispersed rural populations constrain progress, leaving these populations particularly vulnerable. [reference: water_poverty]",
           "translationPrefix": "goal_06.content.#10.scenes.#2"
         }
       ],
@@ -204,7 +204,7 @@
       "subtitle": "People with access to <span data-color-id=\"cat4\" class=\"cat4\">water free from contamination</span>, water <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessible on premises</span>, or <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">water available when needed</span> (% of people using improved water sources)",
       "source": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene, <a href=\"https://washdata.org/data/downloads#WLD\" target=\"_blank\">JMP Global Database</a>. ",
       "visdescription": "Three-column charts show the components of safely managed drinking water among people using improved water sources. The left column represents water that is free from contamination; the middle column, water that is accessible on premises; and the right column, water that is available when needed. The first scene shows data for Mongolia; the second, for Nepal.",
-      "visSize": "default",
+      "visSize": "small",
       "data_download": "Indicator.csv",
       "data": "1bPrWHiqnAIikyhhHREgwnsEqB9uYTbx0FHw5Xew0sV4",
       "determines": "DETERMINES",
@@ -216,7 +216,7 @@
         {
           "type": "scene",
           "id": "scene1",
-          "text": "For example, [emphasis: in Mongolia], 84 percent of individuals with improved water sources have <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">water </span><span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">available when needed</span>, and 82 percent have access to <span data-color-id=\"cat4\" class=\"cat4\">uncontaminated water</span>. But [emphasis: only 43 percent ]have <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">improved water sources at home</span> , resulting in an estimate of [emphasis: 43 percent][emphasis: <span style=\"color: rgb(255,0,0);\"> </span>]of people with  safely managed drinking water access. So, for Mongolia,<span style=\"background-color: rgb(255,255,255);\"> </span><span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessibility</span> is the limiting factor.",
+          "text": "For example, [emphasis: in Mongolia], 84 percent of individuals with improved water sources have <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">water </span><span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">available when needed</span>, and 82 percent have access to <span data-color-id=\"cat4\" class=\"cat4\">uncontaminated water</span>. But [emphasis: only 43 percent ]have <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">improved water sources at home</span>, resulting in an estimate of [emphasis: 43 percent][emphasis: <span style=\"color: rgb(255,0,0);\"> </span>]of people with  safely managed drinking water access. So, for Mongolia,<span style=\"background-color: rgb(255,255,255);\"> </span><span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessibility</span> is the limiting factor.",
           "translationPrefix": "goal_06.content.#15.scenes.#0"
         },
         {
@@ -361,7 +361,7 @@
       "translationPrefix": "goal_06.content.#24"
     },
     {
-      "text": "<span style=\"background-color: rgb(255,255,255);\">Water quality can also be compromised by human activities, at household and large-scale agricultural and industrial levels. Sewage and other wastes are often discharged into rivers, lakes, and wetlands, allowing fecal contamination to spread through interconnected water systems. Untreated wastewater is one of the most significant sources of contamination, closely linked to alack of safely managed sanitation.[reference: link_san][reference: link_bacteria]</span><span style=\"background-color: rgb(255,255,255);\"></span>",
+      "text": "<span style=\"background-color: rgb(255,255,255);\">Water quality can also be compromised by human activities, at household and large-scale agricultural and industrial levels. Sewage and other wastes are often discharged into rivers, lakes, and wetlands, allowing fecal contamination to spread through interconnected water systems. Untreated wastewater is one of the most significant sources of contamination, closely linked to a lack of safely managed sanitation.[reference: link_san][reference: link_bacteria]</span><span style=\"background-color: rgb(255,255,255);\"></span>",
       "type": "text",
       "translationPrefix": "goal_06.content.#25"
     },
@@ -400,10 +400,10 @@
       "graphic": "ecoli_table",
       "title": "Levels of fecal contamination risk",
       "subtitle": "<i>E.coli</i> colony-forming units (CFU)/100mL",
-      "visSize": "default",
       "source": "WHO and UNICEF. 2020.<a href=\"https://washdata.org/reports/jmp-2020-water-quality-testing-household-surveys\" target=\"_blank\"> Integrating Water Quality Testing into Household Surveys: Thematic Report on Drinking Water.</a> New York: World Health Organization and the United Nations Children’s Fund.",
       "note": "CFU measures the number of viable <i>E. coli</i> bacteria in a water sample, expressed as CFU per 100 mL.",
       "visdescription": "Table showing <i>E. coli</i> risk levels based on the number of CFU per 100 mL of water. Risk levels are classified as low (fewer than 1 CFU per 100 mL), moderate (1 to 10), high (11 to 100), and very high (more than 100).",
+      "visSize": "small",
       "data_download": "E-coli Table.csv",
       "data": "13g6UiprsJF83hmkagPcHQdzRRqzym7cWY99bg91vU8Q",
       "riskLevelHeaderLabel": "<i>E. Coli </i> risk level",
@@ -462,7 +462,7 @@
       "translationPrefix": "goal_06.content.#35"
     },
     {
-      "text": "In many countries with available data, households store water beforethey consume it, which can increase the risk of contamination. ",
+      "text": "In many countries with available data, households store water before they consume it, which can increase the risk of contamination. ",
       "type": "text",
       "translationPrefix": "goal_06.content.#36"
     },
@@ -539,7 +539,7 @@
       "subtitle": "Arsenic contamination levels, by residence and selected wealth quintiles (% of population) ",
       "source": "Bangladesh Bureau of Statistics, UNICEF Bangladesh. Bangladesh MICS 2019 Water Quality Thematic Report. Dhaka, Bangladesh: 2021.",
       "visdescription": "Three bar charts showing the share of Bangladesh’s population exposed to arsenic contamination in drinking water, grouped by concentration levels of 10–50 ppb and above 50 ppb. The left column shows rural populations; the middle column, urban populations; and the right column, the total population. In the next scene, the same data are presented by wealth quintiles, with the poorest on the left, the middle in the center, and the richest on the right.",
-      "visSize": "default",
+      "visSize": "small",
       "data_download": "Bangladesh_arsenic_by_group.csv",
       "data": "1xkV7EjXu81i_l6ng7tjSdVHXpkRBet5uTGlemMqtG6E",
       "legendUrban": "Urban",
@@ -582,7 +582,7 @@
       "source": "Bangladesh Bureau of Statistics, UNICEF Bangladesh. Bangladesh MICS 2019 Water Quality Thematic Report. Dhaka, Bangladesh: 2021.",
       "note": "Tubewells are narrow, drilled groundwater wells fitted with a pump to draw water from underground aquifers. All other sources include protected and unprotected springs, rainwater, surface water, bottled water, carts with small tanks, and water kiosks.",
       "visdescription": "Three charts presenting the proportion of people exposed to arsenic-contaminated drinking water by source: water wells at the top, piped water in the middle, and other sources at the bottom. Each chart represents the population using icons (one person = 1 percent), shaded according to their exposure level, with dark green indicating exposure above 10 ppb, and light green, above 50 ppb.",
-      "visSize": "default",
+      "visSize": "small",
       "data_download": "ArsenicBySource.csv",
       "data": "12pkK1snw_3BeO_THJvZnJq50WYdKN2Xth4puWrHWuPw",
       "pipedWater": "Piped water",
@@ -612,7 +612,7 @@
       "translationPrefix": "goal_06.content.#55"
     },
     {
-      "text": "Major challenges remain in ensuring water quality for all. While global access has progressed over the past two decades, deep inequalities persist across regions, countries, and income groups, and between rural and urban areas. A major challenge is that in many low- and middle-income countries, drinking water is still contaminated by <i>E. coli</i> or harmful chemicals, such as arsenic. ",
+      "text": "Major challenges remain in ensuring water quality for all. While global access has progressed over the past two decades, deep inequalities persist across regions, countries, and income groups, and between rural and urban areas. A major challenge is that in many low- and middle-income countries drinking water is still contaminated by <i>E. coli</i> or harmful chemicals, such as arsenic. ",
       "type": "text",
       "translationPrefix": "goal_06.content.#56"
     },

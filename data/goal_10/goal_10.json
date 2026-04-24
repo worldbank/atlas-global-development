@@ -27,7 +27,7 @@
       "translationPrefix": "goal_10.content.#1"
     },
     {
-      "text": "To that end, in line with SGD 10 to reduce inequality within and across countries, the World Bank has started tracking the[emphasis:  number of economies with high inequality], defined as economies with a Gini index over 40.[reference: Haddad2024] You can find a visual explanation of how the Gini index works in the 2023 Atlas.[reference: MahlerBaur2023] In 2024, inequality was high in 43 of the 169 economies with data to calculate the Gini index. Compared to 72 economies with high inequality in 1995, this progress has been substantial.",
+      "text": "To that end, in line with SGD 10 to reduce inequality within and across countries, the World Bank has started tracking the[emphasis:  number of economies with high inequality], defined as economies with a Gini index over 40.[reference: Haddad2024] You can find a visual explanation of how the Gini index works in the 2023 Atlas.[reference: MahlerBaur2023] Of the 169 economies with data to calculate the Gini index, 72 economies had high inequality in 1995 compared to 43 in 2024. This is substantial progress.",
       "type": "text",
       "translationPrefix": "goal_10.content.#2"
     },
@@ -100,12 +100,12 @@
       "translationPrefix": "goal_10.content.#8"
     },
     {
-      "text": "Now, let’s take a look at a measure that focuses on  the bottom end of the income distribution.",
+      "text": "Now, let’s take a look at a measure that focuses on the bottom end of the income distribution. ",
       "type": "text",
       "translationPrefix": "goal_10.content.#9"
     },
     {
-      "text": "Comparing the growth experienced by the poorest 40 percent of the population to the average income growth of the entire population is one way to assess progress of the poor.[reference: WorldBank2025shared] Progress is more equitable when income growth for the poorest 40 percent of the population is faster than the average in the economy. In many cases, an economy’s outcome using this method aligns quite well with the changes in the Gini index. ",
+      "text": "Comparing the growth experienced by the poorest 40 percent of the population in the economy to the average income growth of the entire population of that economy is one way to assess progress of the poor.[reference: WorldBank2025shared] Progress is more equitable when income growth for the poorest 40 percent is faster than the average in the economy. In many cases, an economy’s outcome using this method aligns quite well with the changes in the Gini index. ",
       "type": "text",
       "translationPrefix": "goal_10.content.#10"
     },
