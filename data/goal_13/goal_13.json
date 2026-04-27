@@ -107,7 +107,7 @@
       "translationPrefix": "goal_13.content.#10"
     },
     {
-      "text": "[emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Agricultural drought</span>] is a period when soil moisture and water availability become insufficient to meet the needs of crops and livestock resulting in reduced agricultural production This undermines food security and rural livelihoods. Climate change is intensifying these droughts by increasing their frequency, severity, and duration, placing growing pressure on already vulnerable farming systems.",
+      "text": "[emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Agricultural droughts</span>] occur when soil moisture and water availability become insufficient to meet the needs of crops and livestock resulting in reduced agricultural production. This undermines food security and rural livelihoods. Climate change is intensifying these droughts by increasing their frequency, severity, and duration, placing growing pressure on already vulnerable farming systems.",
       "type": "text",
       "translationPrefix": "goal_13.content.#11"
     },
@@ -365,7 +365,7 @@
       "translationPrefix": "goal_13.content.#28"
     },
     {
-      "type": "scroller",
+      "type": "vis",
       "graphic": "sdg13_regional_exposure_vuln",
       "title": "The number of people at high risk from climate-related hazards differs greatly by region",
       "subtitle": "Population shares defined as being at high-risk from climate-related hazards in 2024",
@@ -378,6 +378,7 @@
       "label__population_exposed": "Population exposed",
       "label__population_exposed_at_risk": "Population exposed and highly vulnerable",
       "label__legend_units": "Millions",
+      "activeScene.id": "map_2024",
       "scenes": [
         {
           "type": "scene",

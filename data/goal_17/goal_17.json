@@ -4,15 +4,15 @@
     "goal": "17",
     "shortTitle": "Data for Development",
     "title": "The State of Development Data",
-    "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remains hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators (SPI) shows, low data availability is not inevitable. Some countries build strong, reliable data systems, even with limited resources.",
-    "citation": "Zander Prinsloo, Brian Stacy and Maarten Lambrechts. 2026. ”Can we measure progress?” In Atlas of Global Development 2026, edited by D Mahler, A F Pirlea, U Serajuddin, A Thudt, D Wadhwa and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+    "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remains hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators (SPI) shows, low data availability is not inevitable. Some economies build strong, reliable data systems, even with limited resources.",
+    "citation": "Prinsloo, Z, Stacy, B and Lambrechts, M. 2026. ”Can we measure progress?” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, A Thudt, and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
     "credits": "Zander Prinsloo and Brian Stacy",
     "inputs": "Maria Eugenia Genoni and Alaka Holla",
     "visuals": "Maarten Lambrechts",
     "homeFactoidPercent": "60",
     "homeFactoidNumber": "In 60 percent",
-    "homeFactoidText": "of low- and middle-income countries, the most recent poverty survey is more than five years old",
-    "homeTagline": "For many countries, the data guiding budgets and regulations are years out of date, leaving millions of people invisible to policy makers.",
+    "homeFactoidText": "of low- and middle-income economies, the most recent poverty survey is more than five years old.",
+    "homeTagline": "For many economies, the data guiding budgets and regulations are years out of date, leaving millions of people invisible to policy makers.",
     "translationPrefix": "goal_17.config"
   },
   "content": [
@@ -41,29 +41,29 @@
       "title": "In nearly",
       "number": "6 out of 10",
       "units": "",
-      "label": "low- and middle-income countries, the most recent poverty survey is more than five years old.",
+      "label": "low- and middle-income economies, the most recent poverty survey is more than five years old.",
       "translationPrefix": "goal_17.content.#4"
     },
     {
-      "text": "Every day, governments make decisions that affect millions of lives, such as setting budgets and regulating the scope and quality of services. Yet for many countries, the data guiding those decisions are years out of date, leaving millions of people invisible to policy makers.",
+      "text": "Every day, governments make decisions that affect millions of lives, such as setting budgets and regulating the scope and quality of services. Yet for many economies, the data guiding those decisions are years out of date, leaving millions of people invisible to policy makers.",
       "type": "text",
       "translationPrefix": "goal_17.content.#5"
     },
     {
-      "text": "Take data on unemployment, for instance. For the average low- and middle-income country, the latest labor force survey is from 2019, the most recent poverty survey, from 2020, and the most recent health survey—measuring everything from child vaccinations to malnourishment and access to health care— is from 2015, more than 10 years ago.[footnote:  The latest labor force survey is calculated as the median year for all low- and middle-income countries. An analogous approach is used for poverty, health, and other surveys.] So, most of the surveys informing our current understanding of labor markets and public health are from before the COVID-19 pandemic.",
+      "text": "Take data on unemployment, for instance. For the average low- and middle-income economy, the latest labor force survey is from 2019, the most recent poverty survey is from 2020, and the most recent health survey—measuring everything from child vaccinations to malnourishment and access to health care— is from 2015, more than 10 years ago.[footnote:  The latest labor force survey is calculated as the median year for all low- and middle-income economies. An analogous approach is used for poverty, health, and other surveys.] So, most of the surveys informing our current understanding of labor markets and public health are from before the COVID-19 pandemic.",
       "type": "text",
       "translationPrefix": "goal_17.content.#6"
     },
     {
-      "text": "In more than 30 low- and middle-income countries, the latest labor force, health, business, agriculture, and[emphasis:  ]poverty surveys [emphasis: are more than five years old]. In another 46 countries, four out five of these surveys are more than five years old. Together, this amounts to around 60 percent of all low- and middle-income countries. So, when these countries try to make data-informed decisions, they are charting their future using an outdated picture.",
+      "text": "In more than 30 low- and middle-income economies, the latest labor force, health, business, agriculture, and[emphasis:  ]poverty surveys [emphasis: are more than five years old]. In another 46 economies, four out five of these surveys are more than five years old. Together, this amounts to around 60 percent of all low- and middle-income economies. So, when these economies try to make data-informed decisions, they are charting their future using an outdated picture.",
       "type": "text",
       "translationPrefix": "goal_17.content.#7"
     },
     {
       "type": "vis",
       "graphic": "survey_age",
-      "title": "Many countries rely on survey data that are more than five years old",
-      "subtitle": "Average age of latest surveys in low-and middle-income countries",
+      "title": "Many economies rely on survey data that are more than five years old",
+      "subtitle": "Average age of latest surveys in low-and middle-income economies",
       "visSize": "small",
       "health": "Health survey",
       "poverty": "Poverty survey",
@@ -74,12 +74,12 @@
       "years": "years",
       "x_axis_title_bottom": "Year of most recent survey",
       "medianLabel": "Median:",
-      "source": "World Bank Statistical Performance Indicators (SPI), [202511]",
-      "visdescription": "",
+      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a>",
+      "visdescription": "This chart shows the average age of latest surveys. Many countries rely on survey data that are more than five years old.",
       "data_download": "17.data.survey_age.csv",
       "data": "1Z-ibGTAUXjF_occNjtbhaVR9Hizsp_bYx6H2DQzzAdE",
       "keyFact": "In 60 percent",
-      "keyFactLabel": "of low- and middle-income countries, the most recent poverty survey that is more than five years old.",
+      "keyFactLabel": "of low- and middle-income economies, the most recent poverty survey that is more than five years old.",
       "translationPrefix": "goal_17.content.#8"
     },
     {
@@ -99,11 +99,12 @@
       "difference_pop": "17 million people",
       "y_axis_title": "Extreme poverty rate",
       "y_axis_units": "%",
-      "source": "Poverty & Inequality Platform, World Bank",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>",
       "visdescription": "Comparison of extrapolated versus actual survey-based poverty estimates for Nigeria (2018–22), showing how national accounts-based projections underestimated the true poverty rate revealed by the 2022 household survey.",
       "visSize": "small",
       "data_download": "17.data.nigeria_poverty.csv",
       "data": "1SP4MvouZobM8FY_9SVL-_n96P-X_7DiMZ4AwDi9mag0",
+      "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
         {
           "type": "scene",
@@ -138,7 +139,7 @@
       "translationPrefix": "goal_17.content.#11"
     },
     {
-      "text": "The timeliness of statistics is not the only issue. In many cases, the methods and data used to calculate statistics are outdated, producing misleading estimates. An example from Ghana illustrates this starkly. When it updated its national accounts framework in 2010, incorporating new industrial census data, value added tax records, and household surveys and modernizing the way it classified the services sector, reported GDP rose by more than 60 percent.[reference: devarajan][reference: jerven_duncan] Three-quarters of that increase came from the services sector alone, which had been systematically undercounted under the old framework. But many countries continue to use old methodologies, with 52 still using a 1993 manual to report GDP statistics today.",
+      "text": "The timeliness of statistics is not the only issue. In many cases, the methods and data used to calculate statistics are outdated, producing misleading estimates. An example from Ghana illustrates this starkly. When it updated its national accounts framework in 2010, incorporating new industrial census data, value added tax records, and household surveys and modernizing the way it classified the services sector, [emphasis: reported GDP rose by more than 60 percent].[reference: devarajan][reference: jerven_duncan] Three-quarters of that increase came from the services sector alone, which had been systematically undercounted under the old framework. But many economies continue to use old methodologies, with 52 still using a 1993 manual to report GDP statistics today.",
       "type": "text",
       "translationPrefix": "goal_17.content.#12"
     },
@@ -156,13 +157,13 @@
       "translationPrefix": "goal_17.content.#14"
     },
     {
-      "text": "The absence of data also severely limits a country's ability to understand the needs of important populations, such as children, leaving policy makers unable to address the most pressing challenges they face.",
+      "text": "The absence of data also severely limits an economy's ability to understand the needs of important populations, such as children, leaving policy makers unable to address the most pressing challenges they face.",
       "type": "text",
       "translationPrefix": "goal_17.content.#15"
     },
     {
       "type": "factoid",
-      "title": "The number of children living in a country with no recent internationally comparable learning assessment is",
+      "title": "The number of children living in an economy with no recent internationally comparable learning assessment is",
       "number": "777",
       "units": "million",
       "label": "Representing roughly half of children in the age group",
@@ -183,11 +184,11 @@
       "with_data": "With data",
       "region_legend_title": "Children without data living in:",
       "note": "Availability of data between 2019 and 2024 for the following indicators: births registered with a civil authority (% of children under five); ",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "Chart showing that key data are missing for children. Many children are living in economies lacking coverage in birth registries, learning assessments, nutrition data, etc.",
       "data_download": "17.data.missing_children_data.zip",
       "data": "16LO3tJWmK2Uwznl1-PxydYvqen5-rgn6zhUY2cygRfs",
       "keyFact": "777 million",
-      "keyFactLabel": "children live in a country with no recent internationally comparable learning assessment.",
+      "keyFactLabel": "children live in an economy with no recent internationally comparable learning assessment.",
       "scenes": [
         {
           "type": "scene",
@@ -204,13 +205,13 @@
         {
           "type": "scene",
           "id": "stunting",
-          "text": "Around [emphasis: 200 million children] live in countries with no recent data on child growth, which are needed to measure malnutrition. In <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, stunting data—the primary measure of whether young children are adequately nourished—are missing for more than half of all children under five.",
+          "text": "Around [emphasis: 200 million children] live in economies with no recent data on child growth, which are needed to measure malnutrition. In <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, stunting data—the primary measure of whether young children are adequately nourished—are missing for more than half of all children under five.",
           "translationPrefix": "goal_17.content.#17.scenes.#2"
         },
         {
           "type": "scene",
           "id": "learn_assess",
-          "text": "Around [emphasis: 777 million children] aged 7 and 14—roughly half of all children that age—live in countries with no comparable learning assessment in the past five years. In <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, there are no comparable data on whether more than half of these children can read or understand basic math at age-appropriate levels.",
+          "text": "Around [emphasis: 777 million children] aged 7 and 14—roughly half of all children that age—live in economies with no comparable learning assessment in the past five years. In <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, there are no comparable data on whether more than half of these children can read or understand basic math at age-appropriate levels.",
           "translationPrefix": "goal_17.content.#17.scenes.#3"
         }
       ],
@@ -236,22 +237,23 @@
       "graphic": "spi_scroller",
       "title": "Statistical performance varies widely across economies",
       "subtitle": "The SPI measures the strength of statistical systems",
-      "fcv_countries": "Fragile and conflict-affected countries",
-      "fcv_median": "Median FCV countries",
-      "non_fcv_median": "Median non-FCV countries",
+      "fcv_countries": "Fragile and conflict-affected economies",
+      "fcv_median": "Median FCV economies",
+      "non_fcv_median": "Median non-FCV economies",
       "spi": "SPI",
       "pillar1": "Data use",
       "pillar2": "Data services",
       "pillar3": "Data products",
       "pillar4": "Data sources",
       "pillar5": "Data infrastructure",
-      "source": "<span style=\"background-color: rgb(255,255,0);\">Source of the data</span>",
-      "visdescription": "Describe what the visualization shows",
+      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
+      "visdescription": "Series of charts analysing statistical performance, showing that higher income economies tend to have better statistical capacity.",
       "visSize": "fullScreen",
       "data_download": "17.data.spi_pillar_scores.csv",
       "data": "1dRBFfgIFVEa4mn6SaaYW_4wxgFKFRYky9hCgppeo_8g",
       "keyFact": "34 points",
-      "keyFactLabel": "High-income countries score 34 points higher than low-income countries on the World Bank’s Statistical Performance Indicators index.",
+      "keyFactLabel": "High-income economies score 34 points higher than low-income economies on the World Bank’s Statistical Performance Indicators index.",
+      "indicator_360": "WB_SPI",
       "scenes": [
         {
           "type": "scene",
@@ -268,7 +270,7 @@
         {
           "type": "scene",
           "id": "fifth_quintile ",
-          "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income, OECD economies</span> dominate the top tier of statistical systems, accounting for more than 90 percent of countries in the top quintile. The top performers include Scandinavian countries such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94.1)</span> and Sweden (92.7). Performance at this level is strong and relatively even across all five pillars.",
+          "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income, OECD economies</span> dominate the top tier of statistical systems, accounting for more than 90 percent of economies in the top quintile. The top performers include Scandinavian economies such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94)</span> and Sweden (93). Performance at this level is strong and relatively even across all five pillars.",
           "translationPrefix": "goal_17.content.#21.scenes.#2"
         },
         {
@@ -280,7 +282,7 @@
         {
           "type": "scene",
           "id": "third_quintile",
-          "text": "The middle quintile shows more unevenness across the five pillars; it is where the highest-performing low-income countries begin to appear. <span data-color-id=\"cat8\" class=\"cat8\">Burkina Faso</span>, for example, stands out as a low-income country performing at levels comparable to many middle-income peers.",
+          "text": "The middle quintile shows more unevenness across the five pillars; it is where the highest-performing low-income economies begin to appear. <span data-color-id=\"cat8\" class=\"cat8\">Burkina Faso</span>, for example, stands out as a low-income economy performing at levels comparable to many middle-income peers.",
           "translationPrefix": "goal_17.content.#21.scenes.#4"
         },
         {
@@ -292,26 +294,26 @@
         {
           "type": "scene",
           "id": "first_quintile",
-          "text": "In the 5th quintile—the bottom 20 percent of economies—a striking pattern is the presence of many Small Island Developing States. These economies can face persistent capacity constraints, even at higher income levels. Examples include <span data-color-id=\"cat8\" class=\"cat8\">St. Kitts and Nevis</span> (42.7), Nauru (47.9), The Bahamas (51.3), and Guyana (54.1). In the bottom quintile overall, Small Island Developing States and fragile and conflict-affected (FCV) countries together account for the vast majority of cases, underscoring that vulnerability and scale can be as important as income.",
+          "text": "In the 5th quintile—the bottom 20 percent of economies—a striking pattern is the presence of many Small Island Developing States. These economies can face persistent capacity constraints, even at higher income levels. Examples include <span data-color-id=\"cat8\" class=\"cat8\">St. Kitts and Nevis</span> (43), Nauru (48), The Bahamas (51), and Guyana (54). In the bottom quintile overall, Small Island Developing States and fragile and conflict-affected (FCV) economies together account for the vast majority of cases, underscoring that vulnerability and scale can be as important as income.",
           "translationPrefix": "goal_17.content.#21.scenes.#6"
         },
         {
           "type": "scene",
           "id": "fcv_pillars",
-          "text": "About 60.5 percent of <span style=\"color: rgb(255,255,255); background-color: rgb(6,41,88);\">FCV countries</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design, making investment in statistical systems especially urgent.",
+          "text": "About 60 percent of <span style=\"color: rgb(255,255,255); background-color: rgb(6,41,88);\">FCV economy</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design, making investment in statistical systems especially urgent.",
           "translationPrefix": "goal_17.content.#21.scenes.#7"
         },
         {
           "type": "scene",
           "id": "fcv_data_sources",
-          "text": "The gap is starkest for Pillar 4 (data sources). FCV countries tend to score extremely low on the ability to produce the building blocks of statistics—surveys, censuses, administrative data, geospatial data, and so on—even relative to other countries in the bottom quintile. Without these foundations, both measurement and policy targeting become much less reliable.",
+          "text": "The gap is starkest for Pillar 4 (data sources). FCV economies tend to score extremely low on the ability to produce the building blocks of statistics—surveys, censuses, administrative data, geospatial data, and so on—even relative to other economies in the bottom quintile. Without these foundations, both measurement and policy targeting become much less reliable.",
           "translationPrefix": "goal_17.content.#21.scenes.#8"
         }
       ],
       "translationPrefix": "goal_17.content.#21"
     },
     {
-      "text": "A country’s income tends to be correlated with the performance and maturity of its statistical system. But this relationship is not deterministic. Many countries perform at the same level as far richer countries, providing valuable insights for how to improve statistical systems in the places where it is most needed. ",
+      "text": "An economy’s income tends to be correlated with the performance and maturity of its statistical system. But this relationship is not deterministic. Many economies perform at the same level as far richer economies, providing valuable insights for how to improve statistical systems in the places where it is most needed. ",
       "type": "text",
       "translationPrefix": "goal_17.content.#22"
     },
@@ -320,8 +322,8 @@
       "graphic": "spi_gdp_scatter",
       "title": "Income matters, but it is not destiny",
       "subtitle": "",
-      "source": "Source of the data",
-      "visdescription": "Describe what the visualization shows",
+      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
+      "visdescription": "Analysis showing that while statistical performance is correlated with income, many economies outperform what would be expected of an economy at their income level.",
       "x_axis_title": "GDP per capita",
       "x_axis_units": "$, log",
       "y_axis_title": "SPI index",
@@ -339,7 +341,7 @@
       "translationPrefix": "goal_17.content.#24"
     },
     {
-      "text": "The information available to guide policy is often incomplete, outdated, or uneven in quality. These constraints are not distributed randomly. They tend to be most binding in low-income and fragile and conflict-affected (FCV) settings, where the demands on the state are greatest and the costs of policy error, highest. It is precisely in such settings that rapid shifts in economic conditions, prices, displacement, and service delivery can quickly render old statistics misleading.",
+      "text": "The information available to guide policy is often incomplete, outdated, or uneven in quality. These constraints are not distributed randomly. They tend to be most binding in low-income and fragile and conflict-affected (FCV) settings where the demands on the state are greatest and the costs of policy error, highest. It is precisely in such settings that rapid shifts in economic conditions, prices, displacement, and service delivery can quickly render old statistics misleading.",
       "type": "text",
       "translationPrefix": "goal_17.content.#25"
     },
@@ -372,7 +374,7 @@
   "references": {
     "type": "references",
     "devarajan": "Devarajan, S. 2013. <a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.12013\" target=\"_blank\">Africa’s Statistical Tragedy</a>. Review of Income and Wealth 59: 9–15.",
-    "jerven_duncan": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Jerven, M and Duncan, M E. 2012. </span><a href=\"https://www.mortenjerven.com/wp-content/uploads/2013/02/ASJ15-Section1-Eng.pdf\" target=\"_blank\">Revising GDP Estimates in Sub-Saharan Africa: Lessons from Ghan</a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">a. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">The African Statistical Journal</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">15</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">(15):13–24.</span>",
+    "jerven_duncan": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Jerven, M and Duncan, M E. 2012. </span><a href=\"https://www.mortenjerven.com/wp-content/uploads/2013/02/ASJ15-Section1-Eng.pdf\" target=\"_blank\">Revising GDP Estimates in Sub-Saharan Africa: Lessons from Ghana</a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">The African Statistical Journal</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">15</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">(15):13–24.</span>",
     "dpss": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Dang, H A H, Pullinger, J, Serajuddin, U and Stacy, B. 2023. </span><a href=\"https://www.nature.com/articles/s41597-023-01971-0\" target=\"_blank\">Statistical Performance Indicators and Index—A New Tool to Measure Country Statistical Capacity</a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Scientific Data</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"> </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">10</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">(1): 146.</span>",
     "translationPrefix": "goal_17.references"
   },

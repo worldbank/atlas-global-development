@@ -1,1 +1,0 @@
-import{w as r,ab as i}from"./B-a-qBs2.js";import{p as e}from"./CN4wJQ8Q.js";const l=r([]),o=r([]),m=r([]),d=r({app:null,particleContainer:null}),a=r({}),u=i(a,s=>{var t;return!s||!s.string?"":((t=e.find(n=>n.id===(s==null?void 0:s.string.substring(5))))==null?void 0:t.theme)||""});export{a,l as b,u as c,o as d,m as i,d as p};

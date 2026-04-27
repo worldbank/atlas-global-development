@@ -22,16 +22,16 @@
             "type": "scene",
             "id": "",
             "text": "The number of economies with  <span style=\"color: rgb(255,255,255); background-color: rgb(190,98,208);\">high inequality</span> (Gini index > 40) has decreased substantially since the 1990s. In 1995, 72 economies had high inequality; by 2024, this had fallen to 43—nearly half the number in 1995.",
-            "translationPrefix": "goal_10.content.#3.scenes.#0"
+            "translationPrefix": "goal_10.content.#5.scenes.#0"
           },
           {
             "type": "scene",
             "id": "",
             "text": "At the same time, the number of economies with <span style=\"color: rgb(255,255,255); background-color: rgb(78,162,172);\">low inequality</span> (Gini index < 30) increased from 22 in 1995 to 33 in 2024, underlining the progress in reducing inequality.",
-            "translationPrefix": "goal_10.content.#3.scenes.#1"
+            "translationPrefix": "goal_10.content.#5.scenes.#1"
           }
         ],
-        "translationPrefix": "goal_10.content.#3"
+        "translationPrefix": "goal_10.content.#5"
       },
       {
         "type": "vis",
@@ -47,7 +47,7 @@
         "visSize": "fullScreen",
         "data_download": "10.data.high_inequality_countries.csv",
         "data": "1EcXKhasvLrhy7IM4mVV2c2DNisBhojrllHZcQv6znrA",
-        "translationPrefix": "goal_10.content.#6"
+        "translationPrefix": "goal_10.content.#8"
       },
       {
         "type": "scroller",
@@ -69,28 +69,28 @@
             "type": "scene",
             "id": "all_countries",
             "text": "Each dot in the chart corresponds to the income growth of a particular economy, colored by region. The 45-degree line, also known as the [emphasis: line of equality], reflects equal growth rates in the incomes of the poorest 40 percent and the entire population. Data points located to the right of this line indicate that income among the poorest 40 percent increased more rapidly than the national average income.",
-            "translationPrefix": "goal_10.content.#12.scenes.#0"
+            "translationPrefix": "goal_10.content.#13.scenes.#0"
           },
           {
             "type": "scene",
             "id": "bol_jam",
             "text": "Between 2016 and 2021, the income of the poorest 40 percent in [emphasis: Bolivia ]increased by more than four percent, whereas the average income grew by less than one percent. In contrast, the poorest 40 percent in [emphasis: Jamaica ]experienced a decline in their income while the average income rose by over two percent. Although both nations saw overall economic growth, income gains in [emphasis: Bolivia ]were more evenly distributed, benefiting lower-income groups, while [emphasis: Jamaica ]observed a relative decrease in prosperity among the poorer segments of its population.",
-            "translationPrefix": "goal_10.content.#12.scenes.#1"
+            "translationPrefix": "goal_10.content.#13.scenes.#1"
           },
           {
             "type": "scene",
             "id": "lcn",
             "text": "However, although measuring income growth within the poorest 40 percent offers a practical means to assess shared prosperity, it does not capture all aspects of inequality and presents certain limitations. For example, although we can compare income growth of the poorest 40 percent across <span style=\"color: rgb(255,255,255); background-color: rgb(12,124,104);\">Latin American & the Caribbean </span>economies, it is hard to see which economy has improved the most given their starting positions.",
-            "translationPrefix": "goal_10.content.#12.scenes.#2"
+            "translationPrefix": "goal_10.content.#13.scenes.#2"
           },
           {
             "type": "scene",
             "id": "mex_per",
             "text": "For example, income growth among Brazil’s poorest 40 percent is lower than Mexico’s, but the average Brazilian is still richer than the average Mexican. The growth of the poorest 40 percent measure does not capture this difference.",
-            "translationPrefix": "goal_10.content.#12.scenes.#3"
+            "translationPrefix": "goal_10.content.#13.scenes.#3"
           }
         ],
-        "translationPrefix": "goal_10.content.#12"
+        "translationPrefix": "goal_10.content.#13"
       },
       {
         "type": "scroller",
@@ -111,52 +111,52 @@
             "type": "scene",
             "id": "prosperity_gap_intro",
             "text": "Suppose that there are 100 people in each economy ranked from poorest on the left to richest on the right. The height of each bar represents the income of each individual in 2026.",
-            "translationPrefix": "goal_10.content.#22.scenes.#0"
+            "translationPrefix": "goal_10.content.#23.scenes.#0"
           },
           {
             "type": "scene",
             "id": "prosperity_gap_threshold",
             "text": "The Prosperity Gap measures the income multiple necessary to reach the global prosperity standard of $28 per day. The smaller the level of income, the larger the increase necessary to close the gap.",
-            "translationPrefix": "goal_10.content.#22.scenes.#1"
+            "translationPrefix": "goal_10.content.#23.scenes.#1"
           },
           {
             "type": "scene",
             "id": "percentiles20",
             "text": "For example, the income of the 10th poorest person in Peru is close to $4 and in Colombia, it is close to $3.50.",
-            "translationPrefix": "goal_10.content.#22.scenes.#2"
+            "translationPrefix": "goal_10.content.#23.scenes.#2"
           },
           {
             "type": "scene",
             "id": "percentiles20",
             "text": "The Peruvian with a $4 income needs to increase their income [emphasis: seven times] to reach the prosperity standard, whereas the Colombian with a $3.50 income needs to increase their income [emphasis: eight times]. ",
-            "translationPrefix": "goal_10.content.#22.scenes.#3"
+            "translationPrefix": "goal_10.content.#23.scenes.#3"
           },
           {
             "type": "scene",
             "id": "all_gaps",
             "text": "Each brick represents the person's level of income. The number of bricks represents how many times their income needs to increase. Individuals with lower incomes require a substantially greater increase in income to reach the prosperity standard. ",
-            "translationPrefix": "goal_10.content.#22.scenes.#4"
+            "translationPrefix": "goal_10.content.#23.scenes.#4"
           },
           {
             "type": "scene",
             "id": "colombia_10_20",
             "text": "For example, the [emphasis: 10th poorest ]Colombian would need to increase their income [emphasis: eight times] while the [emphasis: 20th poorest] would need to increase it just over [emphasis: five times] (both are highlighted in the chart).",
-            "translationPrefix": "goal_10.content.#22.scenes.#5"
+            "translationPrefix": "goal_10.content.#23.scenes.#5"
           },
           {
             "type": "scene",
             "id": "poorest_col_vs_per",
             "text": "It is important to note that individuals with lower income in Colombia face greater challenges in achieving the prosperity standard compared to similar individuals in Peru. The Prosperity Gaps of the poorest 10 people are much higher in Colombia than in Peru.",
-            "translationPrefix": "goal_10.content.#22.scenes.#6"
+            "translationPrefix": "goal_10.content.#23.scenes.#6"
           },
           {
             "type": "scene",
             "id": "prosperity_gap_averages",
             "text": "A nation’s Prosperity Gap is the average gap of all individuals in that nation. The Prosperity Gap is higher in Colombia (4.5) than in Peru (3.5), reflecting the larger gaps among the poor in Colombia.",
-            "translationPrefix": "goal_10.content.#22.scenes.#7"
+            "translationPrefix": "goal_10.content.#23.scenes.#7"
           }
         ],
-        "translationPrefix": "goal_10.content.#22"
+        "translationPrefix": "goal_10.content.#23"
       },
       {
         "type": "scroller",
@@ -175,40 +175,40 @@
             "type": "scene",
             "id": "col_mex",
             "text": "In 2026, the Prosperity Gap for Colombia was 4.5 and for Peru, 3.5.",
-            "translationPrefix": "goal_10.content.#27.scenes.#0"
+            "translationPrefix": "goal_10.content.#28.scenes.#0"
           },
           {
             "type": "scene",
             "id": "country_gaps",
             "text": "Each square represents an economy’s Prosperity Gap in 2026, colored by region and reflecting the population size.",
-            "translationPrefix": "goal_10.content.#27.scenes.#1"
+            "translationPrefix": "goal_10.content.#28.scenes.#1"
           },
           {
             "type": "scene",
             "id": "country_gaps",
             "text": "There is a large difference in prosperity between economies. In some, such as the United States, Japan, and Estonia, incomes are almost high enough to meet the prosperity standard, but in others, such as South Sudan and Mozambique, incomes would have to grow roughly 25 times to reach that level.",
-            "translationPrefix": "goal_10.content.#27.scenes.#2"
+            "translationPrefix": "goal_10.content.#28.scenes.#2"
           },
           {
             "type": "scene",
             "id": "region_gaps",
             "text": "The regional Prosperity Gaps reflect the average gap of all individuals living in the region. This is equivalent to taking the average Prosperity Gap across economies while accounting for the size of their population.",
-            "translationPrefix": "goal_10.content.#27.scenes.#3"
+            "translationPrefix": "goal_10.content.#28.scenes.#3"
           },
           {
             "type": "scene",
             "id": "region_gaps",
             "text": "Today, most people in <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">Europe & Central Asia</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span> have reached the prosperity standard of $28 per day. On average, people in <span data-color-id=\"LCN\" class=\"LCN\">Latin America & the Caribbean</span> need to increase their incomes about [emphasis: three times] to reach that same level of prosperity. In <span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">South Asia</span> and the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan & Pakistan</span>, incomes need to be about [emphasis: five times] higher, and in <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, almost [emphasis: 11 times] higher.",
-            "translationPrefix": "goal_10.content.#27.scenes.#4"
+            "translationPrefix": "goal_10.content.#28.scenes.#4"
           },
           {
             "type": "scene",
             "id": "global_gap",
             "text": "The <span data-color-id=\"WLD\" class=\"WLD\">Global Prosperity Gap</span> combines the Prosperity Gaps of every person in the world. Today, individual incomes worldwide would need to rise nearly [emphasis: five times] on average for everyone to reach the prosperity standard of $28 per day.",
-            "translationPrefix": "goal_10.content.#27.scenes.#5"
+            "translationPrefix": "goal_10.content.#28.scenes.#5"
           }
         ],
-        "translationPrefix": "goal_10.content.#27"
+        "translationPrefix": "goal_10.content.#28"
       },
       {
         "type": "scroller",
@@ -227,40 +227,40 @@
             "type": "scene",
             "id": "world",
             "text": "The Global Prosperity Gap has more than halved from over [emphasis: 13 ]in [emphasis: 1981 ]to  less than [emphasis: five ]in [emphasis: 2026]. This substantial progress reflects the poorer nations and people catching up to the richer nations and people.",
-            "translationPrefix": "goal_10.content.#32.scenes.#0"
+            "translationPrefix": "goal_10.content.#33.scenes.#0"
           },
           {
             "type": "scene",
             "id": "regions_eas",
             "text": "All regions have made significant progress since 1981, with <span data-color-id=\"EAS\" class=\"EAS\">East Asia and Pacific</span> standing out, having the largest (21) to the third lowest gap (2.5).",
-            "translationPrefix": "goal_10.content.#32.scenes.#1"
+            "translationPrefix": "goal_10.content.#33.scenes.#1"
           },
           {
             "type": "scene",
             "id": "regions_ssf",
             "text": "But  the most recent decade has seen stagnation in the Prosperity Gaps in two regions: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan & Pakistan</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, with the latter’s Prosperity Gap today close to the global gap in the 1980s. By this metric, the region is around 40 years behind global progress.",
-            "translationPrefix": "goal_10.content.#32.scenes.#2"
+            "translationPrefix": "goal_10.content.#33.scenes.#2"
           },
           {
             "type": "scene",
             "id": "countries_percol",
             "text": "Colombia’s and Peru’s Prosperity Gaps have experienced similar developments in recent decades, including periods of increasing gaps, most notably during the COVID-19 pandemic.",
-            "translationPrefix": "goal_10.content.#32.scenes.#3"
+            "translationPrefix": "goal_10.content.#33.scenes.#3"
           },
           {
             "type": "scene",
             "id": "countries_eth",
             "text": "In Ethiopia, the level today is half what it was in the 1980s, although this hides faster progress in the 1990s and early 2000s, and a stagnation in recent decades.",
-            "translationPrefix": "goal_10.content.#32.scenes.#4"
+            "translationPrefix": "goal_10.content.#33.scenes.#4"
           },
           {
             "type": "scene",
             "id": "countries_moz",
             "text": "Worryingly, in some <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan African </span>economies, such as Mozambique, improvements in the Prosperity Gap have stalled over the last two decades, and recently worsened.",
-            "translationPrefix": "goal_10.content.#32.scenes.#5"
+            "translationPrefix": "goal_10.content.#33.scenes.#5"
           }
         ],
-        "translationPrefix": "goal_10.content.#32"
+        "translationPrefix": "goal_10.content.#33"
       },
       {
         "type": "vis",
@@ -279,7 +279,7 @@
         "visdescription": "This chart reports the changes in average income and Prosperity Gap for a scenario where everyone’s income is raised by 10 percent.",
         "data_download": "10.data.prosperity_gap.csv",
         "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
-        "translationPrefix": "goal_10.content.#36"
+        "translationPrefix": "goal_10.content.#37"
       },
       {
         "type": "vis",
@@ -298,7 +298,7 @@
         "visdescription": "This chart reports the changes in average income and Prosperity Gap for a scenario where everyone’s income is raised by $10.",
         "data_download": "10.data.prosperity_gap.csv",
         "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
-        "translationPrefix": "goal_10.content.#39"
+        "translationPrefix": "goal_10.content.#40"
       },
       {
         "type": "vis",
@@ -316,7 +316,7 @@
         "visdescription": "This visualization reports the changes in the Prosperity Gap due to income increase, in percent or $, for an economy of choice. ",
         "data_download": "10.data.prosperity_gap_interactive.csv",
         "data": "1L99hy4R6DNW1aCn6GZym-ijXMU7Woim8vhWEaUowtHU",
-        "translationPrefix": "goal_10.content.#42"
+        "translationPrefix": "goal_10.content.#43"
       }
     ]
   },
@@ -1109,7 +1109,7 @@
         "translationPrefix": "goal_13.content.#25"
       },
       {
-        "type": "scroller",
+        "type": "vis",
         "graphic": "sdg13_regional_exposure_vuln",
         "title": "The number of people at high risk from climate-related hazards differs greatly by region",
         "subtitle": "Population shares defined as being at high-risk from climate-related hazards in 2024",
@@ -1122,6 +1122,7 @@
         "label__population_exposed": "Population exposed",
         "label__population_exposed_at_risk": "Population exposed and highly vulnerable",
         "label__legend_units": "Millions",
+        "activeScene.id": "map_2024",
         "scenes": [
           {
             "type": "scene",
@@ -1702,7 +1703,7 @@
         "foodLabelLong": "average expenditure on food",
         "keyFact": "Nearly 50%",
         "keyFactLabel": "of households' budget remaining after food consumption in low-income countries would be taken up by a data-only 5GB mobile package.",
-        "legendLabelCostOfData": "Cost of data-only 5G mobile package",
+        "legendLabelCostOfData": "Cost of data-only 5GB mobile package",
         "legendLabelRemainingBudget": "Remaining household budget,  after food consumption",
         "translationPrefix": "goal_16.content.#14"
       },
@@ -1721,7 +1722,7 @@
         "xAxisLabel": "Speakers per 10,000 people (log)",
         "circleLegendLabel": "Number of speakers",
         "legendMultiple": "Multiple",
-        "popoverLine1": "URLs ber 10,000 URLs",
+        "popoverLine1": "URLs per 10,000 URLs",
         "popoverLine2": "Speakers per 10,000 people",
         "popoverLine3": "Speakers",
         "searchPlaceholder": "Search for a language",
@@ -1745,7 +1746,7 @@
         "legendIntermediate": "Intermediate digital skills",
         "legendAdvanced": "Advanced digital skills",
         "lessThanBasicSkillsTooltipText": "[emphasis: Basic digital skills] refers to the basic use of digital devices, email communication, web search, and online transactions.",
-        "basicSkillsTooltipText": "[emphasis: Basic digital skills] refers to the basic use aof digital devices, email communication, web search, and online transactions.",
+        "basicSkillsTooltipText": "[emphasis: Basic digital skills] refers to the basic use of digital devices, email communication, web search, and online transactions.",
         "intermediateSkillsTooltipText": "[emphasis: Intermediate skills] refers to use of software and data management.",
         "advancedSkillsTooltipText": "[emphasis: Advanced skills] refers to data analysis, software development and high-level computing competences.",
         "translationPrefix": "goal_16.content.#28"
@@ -1775,7 +1776,7 @@
           {
             "type": "scene",
             "id": "scene2_id",
-            "text": "Others, such as <span data-color-id=\"cat1\" class=\"cat1\">subsistence farmers, fishers, hunters and gatherers</span>, are largely not exposed by AI in their work, with an exposure score of 20.[footnote: The tasks associated with an occupation differ in rich and poor countries. The <span style=\"background-color: rgb(255,255,255);\">AIOE Index is based on the tasks associated with occupations in the United States. In poorer countries, similar occupations are likely to have tasks that are less exposed by AI.</span>]",
+            "text": "Others, such as <span data-color-id=\"cat1\" class=\"cat1\">subsistence farmers, fishers, hunters and gatherers</span>, are largely not exposed to AI in their work, with an exposure score of 20.[footnote: The tasks associated with an occupation differ in rich and poor countries. The <span style=\"background-color: rgb(255,255,255);\">AIOE Index is based on the tasks associated with occupations in the United States. In poorer countries, similar occupations are likely to have tasks that are less exposed by AI.</span>]",
             "translationPrefix": "goal_16.content.#39.scenes.#1"
           },
           {
@@ -1787,7 +1788,7 @@
           {
             "type": "scene",
             "id": "scene4_id",
-            "text": "Countries are exposed differently to AI because occupation types differ by country. We can see this by scaling the occupations according to their prominence. Here, this is done for the United States. Defining high exposure as greater than 50, about half of all US workers are highly exposed, because occupations such as <span data-color-id=\"cat1\" class=\"cat1\">business and administration associate professionals</span> and <span data-color-id=\"cat1\" class=\"cat1\">teaching professionals</span><span data-color-id=\"cat1\" class=\"cat1\"> </span>are common.",
+            "text": "Countries are exposed differently to AI because occupation types differ by country. We can see this by scaling the occupations according to their prominence. Here, this is done for the United States. Defining high exposure as greater than 50, the majority of US workers are highly exposed, because occupations such as <span data-color-id=\"cat1\" class=\"cat1\">business and administration associate professionals</span> and <span data-color-id=\"cat1\" class=\"cat1\">teaching professionals</span><span data-color-id=\"cat1\" class=\"cat1\"> </span>are common.",
             "translationPrefix": "goal_16.content.#39.scenes.#3"
           },
           {
@@ -1812,8 +1813,8 @@
       {
         "type": "vis",
         "graphic": "survey_age",
-        "title": "Many countries rely on survey data that are more than five years old",
-        "subtitle": "Average age of latest surveys in low-and middle-income countries",
+        "title": "Many economies rely on survey data that are more than five years old",
+        "subtitle": "Average age of latest surveys in low-and middle-income economies",
         "visSize": "small",
         "health": "Health survey",
         "poverty": "Poverty survey",
@@ -1824,12 +1825,12 @@
         "years": "years",
         "x_axis_title_bottom": "Year of most recent survey",
         "medianLabel": "Median:",
-        "source": "World Bank Statistical Performance Indicators (SPI), [202511]",
-        "visdescription": "",
+        "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a>",
+        "visdescription": "This chart shows the average age of latest surveys. Many countries rely on survey data that are more than five years old.",
         "data_download": "17.data.survey_age.csv",
         "data": "1Z-ibGTAUXjF_occNjtbhaVR9Hizsp_bYx6H2DQzzAdE",
         "keyFact": "In 60 percent",
-        "keyFactLabel": "of low- and middle-income countries, the most recent poverty survey that is more than five years old.",
+        "keyFactLabel": "of low- and middle-income economies, the most recent poverty survey that is more than five years old.",
         "translationPrefix": "goal_17.content.#8"
       },
       {
@@ -1844,11 +1845,12 @@
         "difference_pop": "17 million people",
         "y_axis_title": "Extreme poverty rate",
         "y_axis_units": "%",
-        "source": "Poverty & Inequality Platform, World Bank",
+        "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>",
         "visdescription": "Comparison of extrapolated versus actual survey-based poverty estimates for Nigeria (2018–22), showing how national accounts-based projections underestimated the true poverty rate revealed by the 2022 household survey.",
         "visSize": "small",
         "data_download": "17.data.nigeria_poverty.csv",
         "data": "1SP4MvouZobM8FY_9SVL-_n96P-X_7DiMZ4AwDi9mag0",
+        "indicator_360": "WB_WDI_SI_POV_DDAY",
         "scenes": [
           {
             "type": "scene",
@@ -1892,11 +1894,11 @@
         "with_data": "With data",
         "region_legend_title": "Children without data living in:",
         "note": "Availability of data between 2019 and 2024 for the following indicators: births registered with a civil authority (% of children under five); ",
-        "visdescription": "Describe what the visualization shows",
+        "visdescription": "Chart showing that key data are missing for children. Many children are living in economies lacking coverage in birth registries, learning assessments, nutrition data, etc.",
         "data_download": "17.data.missing_children_data.zip",
         "data": "16LO3tJWmK2Uwznl1-PxydYvqen5-rgn6zhUY2cygRfs",
         "keyFact": "777 million",
-        "keyFactLabel": "children live in a country with no recent internationally comparable learning assessment.",
+        "keyFactLabel": "children live in an economy with no recent internationally comparable learning assessment.",
         "scenes": [
           {
             "type": "scene",
@@ -1913,13 +1915,13 @@
           {
             "type": "scene",
             "id": "stunting",
-            "text": "Around [emphasis: 200 million children] live in countries with no recent data on child growth, which are needed to measure malnutrition. In <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, stunting data—the primary measure of whether young children are adequately nourished—are missing for more than half of all children under five.",
+            "text": "Around [emphasis: 200 million children] live in economies with no recent data on child growth, which are needed to measure malnutrition. In <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, stunting data—the primary measure of whether young children are adequately nourished—are missing for more than half of all children under five.",
             "translationPrefix": "goal_17.content.#17.scenes.#2"
           },
           {
             "type": "scene",
             "id": "learn_assess",
-            "text": "Around [emphasis: 777 million children] aged 7 and 14—roughly half of all children that age—live in countries with no comparable learning assessment in the past five years. In <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, there are no comparable data on whether more than half of these children can read or understand basic math at age-appropriate levels.",
+            "text": "Around [emphasis: 777 million children] aged 7 and 14—roughly half of all children that age—live in economies with no comparable learning assessment in the past five years. In <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, there are no comparable data on whether more than half of these children can read or understand basic math at age-appropriate levels.",
             "translationPrefix": "goal_17.content.#17.scenes.#3"
           }
         ],
@@ -1930,22 +1932,23 @@
         "graphic": "spi_scroller",
         "title": "Statistical performance varies widely across economies",
         "subtitle": "The SPI measures the strength of statistical systems",
-        "fcv_countries": "Fragile and conflict-affected countries",
-        "fcv_median": "Median FCV countries",
-        "non_fcv_median": "Median non-FCV countries",
+        "fcv_countries": "Fragile and conflict-affected economies",
+        "fcv_median": "Median FCV economies",
+        "non_fcv_median": "Median non-FCV economies",
         "spi": "SPI",
         "pillar1": "Data use",
         "pillar2": "Data services",
         "pillar3": "Data products",
         "pillar4": "Data sources",
         "pillar5": "Data infrastructure",
-        "source": "<span style=\"background-color: rgb(255,255,0);\">Source of the data</span>",
-        "visdescription": "Describe what the visualization shows",
+        "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
+        "visdescription": "Series of charts analysing statistical performance, showing that higher income economies tend to have better statistical capacity.",
         "visSize": "fullScreen",
         "data_download": "17.data.spi_pillar_scores.csv",
         "data": "1dRBFfgIFVEa4mn6SaaYW_4wxgFKFRYky9hCgppeo_8g",
         "keyFact": "34 points",
-        "keyFactLabel": "High-income countries score 34 points higher than low-income countries on the World Bank’s Statistical Performance Indicators index.",
+        "keyFactLabel": "High-income economies score 34 points higher than low-income economies on the World Bank’s Statistical Performance Indicators index.",
+        "indicator_360": "WB_SPI",
         "scenes": [
           {
             "type": "scene",
@@ -1962,7 +1965,7 @@
           {
             "type": "scene",
             "id": "fifth_quintile ",
-            "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income, OECD economies</span> dominate the top tier of statistical systems, accounting for more than 90 percent of countries in the top quintile. The top performers include Scandinavian countries such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94.1)</span> and Sweden (92.7). Performance at this level is strong and relatively even across all five pillars.",
+            "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income, OECD economies</span> dominate the top tier of statistical systems, accounting for more than 90 percent of economies in the top quintile. The top performers include Scandinavian economies such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94)</span> and Sweden (93). Performance at this level is strong and relatively even across all five pillars.",
             "translationPrefix": "goal_17.content.#21.scenes.#2"
           },
           {
@@ -1974,7 +1977,7 @@
           {
             "type": "scene",
             "id": "third_quintile",
-            "text": "The middle quintile shows more unevenness across the five pillars; it is where the highest-performing low-income countries begin to appear. <span data-color-id=\"cat8\" class=\"cat8\">Burkina Faso</span>, for example, stands out as a low-income country performing at levels comparable to many middle-income peers.",
+            "text": "The middle quintile shows more unevenness across the five pillars; it is where the highest-performing low-income economies begin to appear. <span data-color-id=\"cat8\" class=\"cat8\">Burkina Faso</span>, for example, stands out as a low-income economy performing at levels comparable to many middle-income peers.",
             "translationPrefix": "goal_17.content.#21.scenes.#4"
           },
           {
@@ -1986,19 +1989,19 @@
           {
             "type": "scene",
             "id": "first_quintile",
-            "text": "In the 5th quintile—the bottom 20 percent of economies—a striking pattern is the presence of many Small Island Developing States. These economies can face persistent capacity constraints, even at higher income levels. Examples include <span data-color-id=\"cat8\" class=\"cat8\">St. Kitts and Nevis</span> (42.7), Nauru (47.9), The Bahamas (51.3), and Guyana (54.1). In the bottom quintile overall, Small Island Developing States and fragile and conflict-affected (FCV) countries together account for the vast majority of cases, underscoring that vulnerability and scale can be as important as income.",
+            "text": "In the 5th quintile—the bottom 20 percent of economies—a striking pattern is the presence of many Small Island Developing States. These economies can face persistent capacity constraints, even at higher income levels. Examples include <span data-color-id=\"cat8\" class=\"cat8\">St. Kitts and Nevis</span> (43), Nauru (48), The Bahamas (51), and Guyana (54). In the bottom quintile overall, Small Island Developing States and fragile and conflict-affected (FCV) economies together account for the vast majority of cases, underscoring that vulnerability and scale can be as important as income.",
             "translationPrefix": "goal_17.content.#21.scenes.#6"
           },
           {
             "type": "scene",
             "id": "fcv_pillars",
-            "text": "About 60.5 percent of <span style=\"color: rgb(255,255,255); background-color: rgb(6,41,88);\">FCV countries</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design, making investment in statistical systems especially urgent.",
+            "text": "About 60 percent of <span style=\"color: rgb(255,255,255); background-color: rgb(6,41,88);\">FCV economy</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design, making investment in statistical systems especially urgent.",
             "translationPrefix": "goal_17.content.#21.scenes.#7"
           },
           {
             "type": "scene",
             "id": "fcv_data_sources",
-            "text": "The gap is starkest for Pillar 4 (data sources). FCV countries tend to score extremely low on the ability to produce the building blocks of statistics—surveys, censuses, administrative data, geospatial data, and so on—even relative to other countries in the bottom quintile. Without these foundations, both measurement and policy targeting become much less reliable.",
+            "text": "The gap is starkest for Pillar 4 (data sources). FCV economies tend to score extremely low on the ability to produce the building blocks of statistics—surveys, censuses, administrative data, geospatial data, and so on—even relative to other economies in the bottom quintile. Without these foundations, both measurement and policy targeting become much less reliable.",
             "translationPrefix": "goal_17.content.#21.scenes.#8"
           }
         ],
@@ -2009,8 +2012,8 @@
         "graphic": "spi_gdp_scatter",
         "title": "Income matters, but it is not destiny",
         "subtitle": "",
-        "source": "Source of the data",
-        "visdescription": "Describe what the visualization shows",
+        "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
+        "visdescription": "Analysis showing that while statistical performance is correlated with income, many economies outperform what would be expected of an economy at their income level.",
         "x_axis_title": "GDP per capita",
         "x_axis_units": "$, log",
         "y_axis_title": "SPI index",
@@ -2412,7 +2415,7 @@
         "alt-text": "Global poverty rate time series",
         "data_download": "01.data.global_poverty.csv",
         "data": "1Wj93Lyhbf1AS0t7A6AlU6WUgItdDEsQA7YlF4VtB3Vg",
-        "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>; <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>; <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>; <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
+        "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
         "indicator_360": "WB_WDI_SI_POV_DDAY",
         "translationPrefix": "goal_01.content.#4"
       },
@@ -2443,7 +2446,7 @@
         "theme": "light (alternatively: dark)",
         "data_download": "01.data.country_poverty.zip",
         "data": "1W-0JLU1wkyV-G2Z0xmSxJVKLFV1dE1mnfiH1Ns4xQ54",
-        "yAxisTitle": "Poverty rate",
+        "yAxisTitle": "Extreme poverty rate",
         "xAxisTitle": "Years since reaching 50%",
         "skip typical_path": "All these countries moved faster than the typical speed of progress, which was around 70 years to go from 50 percent to 10 percent poverty. <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">Korea</span>, which achieved the feat in 11 years,  moved at six times the typical speed.",
         "keyFact": "43 countries",
@@ -2533,19 +2536,19 @@
           {
             "type": "scene",
             "id": "rate4",
-            "text": "If all countries progress at Korea’s pace, global extreme poverty would be reduced to 1.5 percent by 2050.",
+            "text": "If all countries progress at Korea’s historical pace, global extreme poverty would be reduced to 1.2 percent by 2050.",
             "translationPrefix": "goal_01.content.#17.scenes.#0"
           },
           {
             "type": "scene",
             "id": "rate2",
-            "text": "But copying Korea's trajectory will be difficult. If countries progress at the pace of Brazil, Tunisia, or Türkiye, there will be modest declines.",
+            "text": "But copying Korea's trajectory will be difficult. If countries progress at the pace of Brazil or Türkiye, there will be modest declines.",
             "translationPrefix": "goal_01.content.#17.scenes.#1"
           },
           {
             "type": "scene",
             "id": "typical",
-            "text": "If countries manage to progress at the typical speed observed since 1950, global extreme poverty will stand  at around 9 percent poverty by 2050. ",
+            "text": "If countries manage to progress at the typical speed observed since 1950, global extreme poverty will stand  at around 8.5 percent poverty by 2050. ",
             "translationPrefix": "goal_01.content.#17.scenes.#2"
           },
           {
@@ -2562,7 +2565,7 @@
         "graphic": "venn_diagram",
         "title": "Most of the world’s poor live in countries that suffer from conflict, poor economic management, and/or high corruption",
         "subtitle": "Countries not on track to reduce poverty to 10 percent by 2050",
-        "source": "<a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\">Classification of fragile and conflict-affected situations</a>;  and <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\">Country Policy and Institutional Assessment</a>",
+        "source": "<a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\">Classification of fragile and conflict-affected situations</a>  and <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\">Country Policy and Institutional Assessment</a>.",
         "visdescription": "The overlap between acute insecurity, poor economic management, and high corruption and low accountability",
         "theme": "light (alternatively: dark)",
         "data_download": "01.data.causes.csv",
@@ -2581,12 +2584,10 @@
         "graphic": "national_poverty_comparison",
         "title": "Countries with low extreme poverty rates often suffer from other forms of poverty",
         "subtitle": "",
-        "source": "<a href=\"https://data.worldbank.org/indicator/SI.POV.NAHC\" target=\"_blank\">World Development Indicators</a>; <a href=\"https://unstats.un.org/sdgs/dataportal\" target=\"_blank\">United Nations SDG Database</a>.",
+        "source": "<a href=\"https://data.worldbank.org/indicator/SI.POV.NAHC\" target=\"_blank\">World Development Indicators</a> and <a href=\"https://unstats.un.org/sdgs/dataportal\" target=\"_blank\">United Nations SDG Database</a>.",
         "visdescription": "Comparison between multidimensional and monetary poverty rates across selected countries.",
         "international_poverty_rate": "International poverty rate",
         "multidimensional": "National multidimensional poverty rate",
-        "x_axis_title": "Poverty rate",
-        "x_axis_units": "%",
         "gap": "Gap",
         "data_download": "01.data.national_poverty_comparison.csv",
         "data": "1Vwbp7eBIOi_195OteLJ6w5_FTpO2nKAuH4K_MSx37E8",
@@ -4637,7 +4638,7 @@
           {
             "type": "scene",
             "id": "values",
-            "text": "Looking at  extreme poverty rates, where a year’s speed of progress refers to changes over the previous five years, progress in reducing poverty was at its slowest in the 1980s and early 1990s, with countries seeing, on average, an increase in poverty. This was followed by a golden area of poverty reduction in the later 1990s and early 2000s. That has since stalled, and today poverty reduction is at its lowest speed in more than three decades. ",
+            "text": "Looking at  extreme poverty rates, where a year’s speed of progress refers to changes over the previous five years, progress in reducing poverty was at its slowest in the 1980s and early 1990s, with countries seeing, on average, an increase in poverty. This was followed by a golden era of poverty reduction in the later 1990s and early 2000s. That has since stalled, and today poverty reduction is at its lowest speed in more than three decades. ",
             "translationPrefix": "goal_dashboard.content.#5.scenes.#0"
           },
           {
@@ -4649,7 +4650,7 @@
           {
             "type": "scene",
             "id": "2010",
-            "text": "For life expectancy and electricity supply, the pace of progress today is the slowest it has been in 75 years. For schooling, it is the slowest since the 1960s, while in women’s political empowerment, progress is reversing for the first time since the 1950s. The only indicator where  progress is faster today than in past decades is carbon dioxide CO2 emissions per gross domestic product (GDP). ",
+            "text": "For life expectancy and electricity supply, the pace of progress today is the slowest it has been in 75 years. For schooling, it is the slowest since the 1960s, while in women’s political empowerment, progress is reversing for the first time since the 1950s. The only indicator where  progress is faster today than in past decades is CO2 emissions per gross domestic product (GDP). ",
             "translationPrefix": "goal_dashboard.content.#5.scenes.#2"
           },
           {
@@ -4742,7 +4743,7 @@
           {
             "type": "scene",
             "id": "progress_comparison",
-            "text": "Let’s look at a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow-</span>], a [emphasis: <span style=\"background-color: rgb(255,221,146);\">typical-</span>], and a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,161,196);\">fast-</span>][emphasis:  progressing country]. For the country with [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,161,196);\">fast</span>] progress, the dark triangle is ahead of the transparent triangle, so the country is outperforming the typical pattern. For the [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow</span>] country, outcomes are worse than they would have been under the typical pace of progress. ",
+            "text": "Let’s look at a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow-</span>], a [emphasis: <span style=\"background-color: rgb(255,221,146);\">typical-</span>], and a [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,161,196);\">fast-</span>][emphasis: progressing country]. For the country with [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,161,196);\">fast</span>] progress, the dark triangle is ahead of the transparent triangle, so the country is outperforming the typical pattern. For the [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(180,175,154);\">slow</span>] country, outcomes are worse than they would have been under the typical pace of progress. ",
             "translationPrefix": "goal_dashboard.content.#11.scenes.#3"
           },
           {
@@ -4904,13 +4905,13 @@
         "type": "scroller",
         "graphic": "poverty_progress_comparison",
         "title": "Which country made the most progress?",
-        "subtitle": "Poverty rate (%)",
+        "subtitle": "Extreme poverty rate (%)",
         "visSize": "small",
         "country_left": "CIV",
         "country_right": "GEO",
         "percentage_points": "pp",
         "target": "2030 target",
-        "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>.",
+        "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
         "visdescription": "Compares progress in poverty reduction in Côte d’Ivoire and Georgia from 2015 to 2025 using different common metrics of progress.<span style=\"background-color: rgb(255,255,0);\"></span>",
         "data_download": "progress.data.poverty_slopecharts.csv",
         "data": "1U7w6yGILXAxwpQ15FWtQmbxjDdhyAFjhfSyLwyUpyN8",
@@ -4931,7 +4932,7 @@
           {
             "type": "scene",
             "id": "percentages",
-            "text": "Yet Georgia could hardly have matched Côte d’Ivoire’s feat, as only 10.6 percent of the population was in poverty at the start of the period. If we look instead at the decline in [emphasis: percent] (reflecting the share of the poor population that has escaped poverty), then Georgia made the most progress, as 67 percent of its poor population escaped poverty, compared to 39 percent in Côte d’Ivoire.",
+            "text": "Yet Georgia could hardly have matched Côte d’Ivoire’s feat, as only 10.6 percent of the population was in poverty at the start of the period. If we look instead at the decline in [emphasis: percent] (reflecting the share of the poor population that escaped poverty), then Georgia made the most progress, as 67 percent of its poor population escaped poverty, compared to 39 percent in Côte d’Ivoire.",
             "translationPrefix": "goal_progress.content.#7.scenes.#2"
           }
         ],
@@ -4988,7 +4989,7 @@
           {
             "type": "scene",
             "id": "median_explanation2",
-            "text": "A country with a 50 percent poverty rate typically decreases poverty by 0.73 percentage points the following year…",
+            "text": "A country with a 50 percent poverty rate typically decreases poverty by 0.72 percentage points the following year…",
             "translationPrefix": "goal_progress.content.#10.scenes.#3"
           },
           {
@@ -5024,13 +5025,13 @@
           {
             "type": "scene",
             "id": "country1_end",
-            "text": "The progress Côte d’Ivoire achieved between 2015 and 2025 would have typically taken until 2033. In other words, Côte d’Ivoire achieved in 10 years what would typically take 17 years. We denote this a speed of 1.7, reflecting that Côte d’Ivoire developed nearly twice as fast as the typical experience.",
+            "text": "The progress Côte d’Ivoire achieved between 2015 and 2025 would have typically taken until 2033. In other words, Côte d’Ivoire achieved in 10 years what would typically take 18 years. We denote this a speed of 1.8, reflecting that Côte d’Ivoire developed nearly twice as fast as the typical experience.",
             "translationPrefix": "goal_progress.content.#10.scenes.#9"
           },
           {
             "type": "scene",
             "id": "country2",
-            "text": "If we do the same for Georgia, we can see that its progress over 10 years was equivalent to what typically takes 25 years, giving us a speed of 2.5 suggesting that Georgia made faster progress than Côte d’Ivoire.",
+            "text": "If we do the same for Georgia, we can see that its progress over 10 years was equivalent to what typically takes 26 years, giving us a speed of 2.6 suggesting that Georgia made faster progress than Côte d’Ivoire.",
             "translationPrefix": "goal_progress.content.#10.scenes.#10"
           },
           {
@@ -5048,7 +5049,7 @@
           {
             "type": "scene",
             "id": "s_curve_countries",
-            "text": "Let us now compare how far countries moved on this trajectory from 2015 and 2025.",
+            "text": "We can compare how far countries moved on this trajectory from 2015 and 2025.",
             "translationPrefix": "goal_progress.content.#10.scenes.#13"
           },
           {
@@ -5066,7 +5067,7 @@
           {
             "type": "scene",
             "id": "s_curve_country2",
-            "text": "Over the same 10 years, Georgia reduced its poverty rate by 7 percentage points, a reduction typically seen over a period of 25 years. So Georgia moved at a speed of three.",
+            "text": "Over the same 10 years, Georgia reduced its poverty rate by 7.1 percentage points, a reduction typically seen over a period of 26 years. So Georgia moved almost at a speed of three.",
             "translationPrefix": "goal_progress.content.#10.scenes.#16"
           },
           {
@@ -5108,25 +5109,25 @@
           {
             "type": "scene",
             "id": "past_decade",
-            "text": "In 2025, Côte d’Ivoire’s poverty rate was 15.9 percent.",
+            "text": "In 2025, Côte d’Ivoire’s poverty rate was 16.1 percent.",
             "translationPrefix": "goal_progress.content.#15.scenes.#0"
           },
           {
             "type": "scene",
             "id": "speed_double",
-            "text": "At the typical speed of progress, poverty will be driven down to 6.8 percent in 2050. This is one possible 2050 target for Côte d’Ivoire.",
+            "text": "At the typical speed of progress, poverty will be driven down to 6.3 percent in 2050. This is one possible 2050 target for Côte d’Ivoire.",
             "translationPrefix": "goal_progress.content.#15.scenes.#1"
           },
           {
             "type": "scene",
             "id": "speed_typical",
-            "text": "But Côte d’Ivoire moved twice as fast as the typical speed in the past decade. If it continues at this speed, it would reach a poverty rate of 2.6 percent by 2050.",
+            "text": "But Côte d’Ivoire moved almost twice as fast as the typical speed in the past decade. If it continues at a speed of two, it would reach a poverty rate of 2.1 percent by 2050.",
             "translationPrefix": "goal_progress.content.#15.scenes.#2"
           },
           {
             "type": "scene",
             "id": "speed_4x",
-            "text": "It could also choose an even more ambitious target, such as moving at four times the typical speed. This would reflect some of the fastest movers we have seen. Under such a scenario, it should target a 0.5 percent poverty rate by 2050.",
+            "text": "It could also choose an even more ambitious target, such as moving at four times the typical speed. This would reflect some of the fastest movers we have seen. Under such a scenario, it should target a 0.3 percent poverty rate by 2050.",
             "translationPrefix": "goal_progress.content.#15.scenes.#3"
           }
         ],
