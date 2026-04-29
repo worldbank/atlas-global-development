@@ -15,8 +15,8 @@
         "visdescription": "The figure reports the number of economies with a Gini index over 40 for 1995–2024. The number of economies with high inequality has fallen from 72 in 1995 to 43 in 2024. The number of economies with low inequality, defined as those with Gini index under 30, has increased from 22 in 1995 to 33 in 2024. ",
         "data_download": "10_data_high_inequality_trend.csv",
         "data": "11Lw3knTCwFMNRc_bb5E3N52V3M9GhizD9HE1NpJ4g8k",
-        "keyFact": "43",
-        "keyFactLabel": "economies have high inequality today, compared to 72 in 1995.",
+        "keyFact": "43 economies",
+        "keyFactLabel": "have high inequality today, compared to 72 in 1995.",
         "scenes": [
           {
             "type": "scene",
@@ -62,8 +62,8 @@
         "visdescription": "The figure compares the growth rates of average national income and average income of the poorest 40 percent of the population. In three out of four economies, income growth  for the poorest 40 percent was better than the average income.",
         "data_download": "10_data_shared_prosperity.csv",
         "data": "1Xc3ceq3jZck-SqU6nNrKFRgpsu0oirNFDNi4zv2xiJ0",
-        "keyFact": "3 in 4",
-        "keyFactLabel": "economies experienced faster income growth of the poorest 40 percent compared to average income growth.",
+        "keyFact": "3 in 4 economies",
+        "keyFactLabel": "experienced faster income growth of the poorest 40 percent compared to average income growth.",
         "scenes": [
           {
             "type": "scene",
@@ -213,7 +213,7 @@
       {
         "type": "scroller",
         "graphic": "prosperity_gap_trends",
-        "title": "Significant global progress hides regional variations",
+        "title": "Global Prosperity Gap has halved in the last four decades",
         "prosperity_gap": "Prosperity Gap",
         "subtitle": "While the global Prosperity Gap has decreased over the last four decades, regional and national differences are substantial",
         "source": "Authors’ calculation using <a href=\"https://pip.worldbank.org/\" target=\"_blank\">Poverty and Inequality Platform</a> (version March 2026). ",
@@ -256,7 +256,7 @@
           {
             "type": "scene",
             "id": "countries_moz",
-            "text": "Worryingly, in some <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan African </span>economies, such as Mozambique, improvements in the Prosperity Gap have stalled over the last two decades, and recently worsened.",
+            "text": "Worryingly, in some Sub-Saharan African economies, such as <span data-color-id=\"SSF\" class=\"SSF\">Mozambique</span>, improvements in the Prosperity Gap have stalled over the last two decades, and recently worsened.",
             "translationPrefix": "goal_10.content.#33.scenes.#5"
           }
         ],
@@ -3134,7 +3134,7 @@
           {
             "type": "scene",
             "id": "sas_ssf",
-            "text": "Two regions, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan</span><span style=\"color: rgb(4,1,16);\"> Africa</span> lagged noticeably behind in 2000.",
+            "text": "Two regions, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan</span><span style=\"color: rgb(4,1,16);\"> Africa</span> lagged noticeably in 2000.",
             "translationPrefix": "goal_07.content.#6.scenes.#2"
           },
           {
@@ -3478,13 +3478,13 @@
           {
             "type": "scene",
             "id": "scene2",
-            "text": "Despite this, across all regions with available data, <span data-color-id=\"rural\" class=\"rural\">rural</span> access still lags <span data-color-id=\"urban\" class=\"urban\">urban </span>access by about 20 percentage points.",
+            "text": "Despite this progress,  <span data-color-id=\"rural\" class=\"rural\">rural</span> access still lags <span data-color-id=\"urban\" class=\"urban\">urban </span>access in regions with available data, with a global gap of about 20 percentage points.",
             "translationPrefix": "goal_06.content.#10.scenes.#1"
           },
           {
             "type": "scene",
             "id": "scene3",
-            "text": "[emphasis: <span style=\"color: rgb(4,1,16);\">South Asia</span>]<span style=\"color: rgb(4,1,16);\"> is an </span><span style=\"color: rgb(4,1,16);\">exception:</span> the <span data-color-id=\"urban\" class=\"urban\">urban</span>–<span data-color-id=\"rural\" class=\"rural\">rural</span> gap narrowed sharply between 2000 and 2024 as access expanded in rural areas. [emphasis: <span style=\"color: rgb(4,1,16);\">Sub-Saharan Africa</span>] has also seen gains in <span data-color-id=\"rural\" class=\"rural\">rural</span> access, but coverage remains extremely low, at 17 percent in 2024. Low access to water services is often concentrated in poorer regions, where limited public resources and the high cost of extending infrastructure to dispersed rural populations constrain progress, leaving these populations particularly vulnerable. [reference: water_poverty]",
+            "text": "[emphasis: <span style=\"color: rgb(4,1,16);\">South Asia</span>]<span style=\"color: rgb(4,1,16);\"> is an </span><span style=\"color: rgb(4,1,16);\">exception:</span> the <span data-color-id=\"urban\" class=\"urban\">urban</span>–<span data-color-id=\"rural\" class=\"rural\">rural</span> gap narrowed sharply between 2000 and 2024 as access expanded in rural areas. [emphasis: <span style=\"color: rgb(4,1,16);\">Sub-Saharan Africa</span>] has also seen gains in <span data-color-id=\"rural\" class=\"rural\">rural</span> access, but coverage remains extremely low, at 17 percent in 2024. Low access to water services is often concentrated in poorer regions, where limited public resources and the high cost of extending infrastructure to dispersed rural populations constrain progress, leaving these groups particularly vulnerable. [reference: water_poverty]",
             "translationPrefix": "goal_06.content.#10.scenes.#2"
           }
         ],
@@ -3496,7 +3496,7 @@
         "title": "Access to safely managed drinking water is low in Sub-Saharan Africa and small island economies in the Pacific",
         "subtitle": "People using safely managed drinking water services, 2024 (% of population)",
         "source": "WHO/UNICEF JMP for Water Supply, Sanitation and Hygiene. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS\" target=\"_blank\">SH.H2O.SMDW.ZS</a><span style=\"color: rgb(112,111,125); background-color: rgb(255,255,255);\">).</span>",
-        "note": "There are  no available estimates of safely managed drinking water access in 2024 for the 69 countries shaded gray. ",
+        "note": "There are no available estimates of safely managed drinking water access in 2024 for the 69 countries shaded gray. ",
         "visSize": "default",
         "visdescription": "A grid map displays the share of the population using safely managed drinking water services by country, using equally sized tiles.  Countries are shaded according to their level of access, with darker colors indicating higher coverage and lighter colors, lower coverage. Gray shading indicates missing data or no available estimates.",
         "indicator_360": "WB_WDI_SH_H2O_SMDW_ZS",
@@ -3513,13 +3513,13 @@
           {
             "type": "scene",
             "id": "scene2",
-            "text": "Among the countries with data available, only 29 have achieved universal (99 percent or higher) access to safely managed drinking water.  ",
+            "text": "Among the countries with data available, only 29 have achieved universal (99 percent or higher) access to safely managed drinking water.  Values are rounded for display; countries shown as 99% may still fall below the universal access threshold.  ",
             "translationPrefix": "goal_06.content.#12.scenes.#1"
           },
           {
             "type": "scene",
             "id": "scene3",
-            "text": "Low access is concentrated in Sub-Saharan Africa, where less than half of the populations has access to safe drinking water in 23 of the 26 countries with data. At approximately 6 percent, Central African Republic and Chad have the lowest access to safe drinking water.",
+            "text": "Low access is concentrated in Sub-Saharan Africa, where less than half of the populations has access to safe drinking water in 23 of the 26 countries with data. At approximately 6 percent, the Central African Republic and Chad have the lowest levels of access to safe drinking water.",
             "translationPrefix": "goal_06.content.#12.scenes.#2"
           }
         ],
@@ -3577,7 +3577,7 @@
           {
             "type": "scene",
             "id": "scene1",
-            "text": "In several Pacific Island nations, including Tuvalu, Nauru, and Tonga, the share of people with water[emphasis:  ][emphasis: <span data-color-id=\"cat4\" class=\"cat4\">free from contamination</span>] is extremely low while the share of people with water <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">readily available</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessible on premises</span> is less of a concern. As many small atoll islands have no rivers or large lakes, most of their drinking water comes from rainwater harvesting, and these systems are easily contaminated or diluted by saltwater, while water treatment capacity is limited.[reference: waterq1][reference: waterq2] Some Southeast Asian countries also face significant water quality challenges including Cambodia, Indonesia, and Lao PDR where inadequate wastewater treatment contributes to contamination.[reference: UNEP]",
+            "text": "In several Pacific Island nations, including Tuvalu, Nauru, and Tonga, the share of people with water[emphasis:  ][emphasis: <span data-color-id=\"cat4\" class=\"cat4\">free from contamination</span>] is extremely low, while the share of people with water <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">readily available</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessible on premises</span> is less of a concern. As many small atoll islands have no rivers or large lakes, most of their drinking water comes from rainwater harvesting, and these systems are easily contaminated or diluted by saltwater, while water treatment capacity is limited.[reference: waterq1][reference: waterq2] Some Southeast Asian countries also face significant water quality challenges including Cambodia, Indonesia, and Lao PDR where inadequate wastewater treatment contributes to contamination.[reference: UNEP]",
             "translationPrefix": "goal_06.content.#18.scenes.#0"
           },
           {
@@ -3614,7 +3614,7 @@
         "pp": "pp",
         "years": "years",
         "source": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene, <a href=\"https://washdata.org/data/downloads#WLD\" target=\"_blank\">JMP Global Database</a>; World Bank staff calculations. ",
-        "note": "For details on the progress speed, refer to the Explainer and Explore Data sections. ",
+        "note": "For details on the progress speed, refer to “<a href=\"https://data360.worldbank.org/en/atlas/global-progress/\" target=\"_blank\">Global Progress</a>” and “Methodology”[reference: progress2] under the Progress section. ",
         "visdescription": "Three line charts showing the share of population meeting each component of safely managed drinking water—quality, accessibility, and availability—from 2000 to 2024. Each line represents one component, and the slope indicates how quickly it is changing. In the final two scenes, the charts compare progress in Tanzania with the typical trajectory. ",
         "visSize": "default",
         "data_download": "06_data_drinking_water_progress.zip",
@@ -3623,19 +3623,19 @@
           {
             "type": "scene",
             "id": "tanzania_start",
-            "text": "In 2000, while nearly 15 percent of people in Tanzania had access to <span data-color-id=\"cat4\" class=\"cat4\">uncontaminated water</span>, only 1 percent had access to <span data-color-id=\"cat1\" class=\"cat1\">water on premises</span>.",
+            "text": "In 2000, nearly 15 percent of people in Tanzania had access to <span data-color-id=\"cat4\" class=\"cat4\">uncontaminated water</span>, but only 1 percent had access to <span data-color-id=\"cat1\" class=\"cat1\">water on premises</span>.",
             "translationPrefix": "goal_06.content.#21.scenes.#0"
           },
           {
             "type": "scene",
             "id": "tanzania_progress",
-            "text": "Over the next two decades, <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessibility</span> improved dramatically but <span style=\"color: rgb(4,1,16);\">improvements in </span><span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">water quality</span><span style=\"color: rgb(4,1,16);\"> were more limited</span>. Infrastructure expanded rapidly and by 2024, almost half the population had water on premises. Yet only about one-third had access to uncontaminated water.",
+            "text": "Over the next two decades, <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessibility</span> improved dramatically but <span style=\"color: rgb(4,1,16);\">improvements in </span><span style=\"color: rgb(255,255,255); background-color: rgb(78,194,192);\">water quality</span><span style=\"color: rgb(4,1,16);\"> were more limited</span>. Infrastructure expanded rapidly and by 2024, almost half the population had water on premises. Yet only about one-third had access to uncontaminated water.",
             "translationPrefix": "goal_06.content.#21.scenes.#1"
           },
           {
             "type": "scene",
             "id": "scene2_Id",
-            "text": "Is this pattern unique to Tanzania? Let’s take a look at the average path of progress across countries from 2000 to 2024. Using historical country-level data, we estimate a “typical” trajectory of improvement for each component of safely managed drinking water (see [progress-paper] for the methodology).",
+            "text": "Is this pattern unique to Tanzania? Let’s take a look at the average path of progress across countries from 2000 to 2024. Using historical country-level data, we estimate a “typical” trajectory of improvement for each component of safely managed drinking water (see this link[reference: progress-paper] for the methodology).",
             "translationPrefix": "goal_06.content.#21.scenes.#2"
           },
           {
@@ -3682,8 +3682,8 @@
         "visSize": "default",
         "data_download": "Ecoli_PoC_PoU_Scatter (High+Very High).csv",
         "data": "1gbR8q_t54y-HLl8OHW0pqmbbKHrQlWvm0u6V9j6_zS8",
-        "keyFact": "In 26",
-        "keyFactLabel": "countries more than half of the population is exposed to drinking water contaminated with high or very high levels of E. coli.",
+        "keyFact": "In 26 countries",
+        "keyFactLabel": "more than half of the population is exposed to drinking water contaminated with high or very high levels of E. coli.",
         "pointOfCollectionLabel": "Point of collection",
         "pointOfUseLabel": "Point of use",
         "xAxisTitle": "Share of population at risk of contamination (%)",
@@ -3697,7 +3697,7 @@
           {
             "type": "scene",
             "id": "scene2",
-            "text": "Contamination rates are even higher when measured at [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(141,65,23);\">point of use</span>] (the water actually consumed within household). In 26 countries, more than half the population drinks water with high or very high risk of <i>E.coli</i> contamination, as shown by household-level tests.  ",
+            "text": "Contamination rates are even higher when measured at [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(141,65,23);\">point of use</span>] (the water actually consumed within the household). In 26 countries, more than half the population drinks water with high or very high risk of <i>E.coli</i> contamination, as shown by household-level tests.  ",
             "translationPrefix": "goal_06.content.#34.scenes.#1"
           },
           {
@@ -3746,7 +3746,7 @@
           {
             "type": "scene",
             "id": "scene1",
-            "text": "Rural dwellers in Bangladesh are more exposed to arsenic-contaminated water than their urban counterparts. While 12 percent of the people in rural areas are exposed to arsenic levels exceeding 50 ppb, less than5 percent of the urban population face the same challenge.",
+            "text": "Rural dwellers in Bangladesh are more exposed to arsenic-contaminated water than their urban counterparts. While 12 percent of the people in rural areas are exposed to arsenic levels exceeding 50 ppb, less than 5 percent of the urban population face the same challenge.",
             "translationPrefix": "goal_06.content.#47.scenes.#0"
           },
           {

@@ -55,8 +55,8 @@
       "visdescription": "The figure reports the number of economies with a Gini index over 40 for 1995–2024. The number of economies with high inequality has fallen from 72 in 1995 to 43 in 2024. The number of economies with low inequality, defined as those with Gini index under 30, has increased from 22 in 1995 to 33 in 2024. ",
       "data_download": "10_data_high_inequality_trend.csv",
       "data": "11Lw3knTCwFMNRc_bb5E3N52V3M9GhizD9HE1NpJ4g8k",
-      "keyFact": "43",
-      "keyFactLabel": "economies have high inequality today, compared to 72 in 1995.",
+      "keyFact": "43 economies",
+      "keyFactLabel": "have high inequality today, compared to 72 in 1995.",
       "scenes": [
         {
           "type": "scene",
@@ -74,12 +74,12 @@
       "translationPrefix": "goal_10.content.#5"
     },
     {
-      "text": "The map below uses the latest household survey to report the Gini index for each economy. Looking at the regional pattern, we see that high inequality is concentrated in <span data-color-id=\"LCN\" class=\"LCN\">Latin America & the Caribbean</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>. High inequality in Latin American economies is well known[reference: Alvaredo2023], whereas similar disparities in Sub-Saharan African economies are only beginning to receive attention.[reference: David2025]",
+      "text": "The map below uses the latest household survey to report the Gini index for each economy. Looking at the regional pattern, we see that high inequality is concentrated in <span data-color-id=\"LCN\" class=\"LCN\">Latin America & the Caribbean</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>. High inequality in Latin American economies is well known[reference: Alvaredo2023], whereas similar disparities in Sub-Saharan African economies are only beginning to receive attention.[reference: David2025] [reference: Sinha2024]",
       "type": "text",
       "translationPrefix": "goal_10.content.#6"
     },
     {
-      "text": "Sub-Saharan Africa[emphasis:  faces high levels of both poverty and inequality].[emphasis:  ]Despite this, [emphasis: Benin ]is among the economies that have managed to move from high to moderate inequality.[reference: WorldBank2025] Here, a combination of high economic growth and a stronger tax collection system has increased domestic resource mobilization, enabling an expansion of social safety net programs targeting the poorest. ",
+      "text": "Sub-Saharan Africa[emphasis:  faces high levels of both poverty and inequality].[emphasis:  ]Despite this, [emphasis: Benin ]is among the economies that have managed to move from high to moderate inequality. Here, a combination of high economic growth and a stronger tax collection system has increased domestic resource mobilization, enabling an expansion of social safety net programs targeting the poorest. [reference: WorldBank2025] ",
       "type": "text",
       "translationPrefix": "goal_10.content.#7"
     },
@@ -132,8 +132,8 @@
       "visdescription": "The figure compares the growth rates of average national income and average income of the poorest 40 percent of the population. In three out of four economies, income growth  for the poorest 40 percent was better than the average income.",
       "data_download": "10_data_shared_prosperity.csv",
       "data": "1Xc3ceq3jZck-SqU6nNrKFRgpsu0oirNFDNi4zv2xiJ0",
-      "keyFact": "3 in 4",
-      "keyFactLabel": "economies experienced faster income growth of the poorest 40 percent compared to average income growth.",
+      "keyFact": "3 in 4 economies",
+      "keyFactLabel": "experienced faster income growth of the poorest 40 percent compared to average income growth.",
       "scenes": [
         {
           "type": "scene",
@@ -374,7 +374,7 @@
     {
       "type": "scroller",
       "graphic": "prosperity_gap_trends",
-      "title": "Significant global progress hides regional variations",
+      "title": "Global Prosperity Gap has halved in the last four decades",
       "prosperity_gap": "Prosperity Gap",
       "subtitle": "While the global Prosperity Gap has decreased over the last four decades, regional and national differences are substantial",
       "source": "Authors’ calculation using <a href=\"https://pip.worldbank.org/\" target=\"_blank\">Poverty and Inequality Platform</a> (version March 2026). ",
@@ -417,7 +417,7 @@
         {
           "type": "scene",
           "id": "countries_moz",
-          "text": "Worryingly, in some <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan African </span>economies, such as Mozambique, improvements in the Prosperity Gap have stalled over the last two decades, and recently worsened.",
+          "text": "Worryingly, in some Sub-Saharan African economies, such as <span data-color-id=\"SSF\" class=\"SSF\">Mozambique</span>, improvements in the Prosperity Gap have stalled over the last two decades, and recently worsened.",
           "translationPrefix": "goal_10.content.#33.scenes.#5"
         }
       ],
@@ -492,7 +492,7 @@
       "translationPrefix": "goal_10.content.#41"
     },
     {
-      "text": "The graphic below shows how much a change in income can affect an economy’s Prosperity Gap. There are two ways to change income: (a) the dollar amount (absolute change), and (b) a percent amount (relative change). Selecting only the dollar amount (changing absolute income) will not change inequality, but selecting the percent amount (changing relative income) will change both inequality and average income. Type in the name of any economy and adjust the absolute and relative income sliders below to see changes in their Prosperity Gaps.",
+      "text": "The chart below shows how much a change in income can affect an economy’s Prosperity Gap. There are two ways to change income: (a) the dollar amount (absolute change), and (b) a percent amount (relative change). Selecting only the dollar amount (changing absolute income) will not change inequality, but selecting the percent amount (changing relative income) will change both inequality and average income. Type in the name of any economy and adjust the absolute and relative income sliders below to see changes in their Prosperity Gaps.",
       "type": "text",
       "translationPrefix": "goal_10.content.#42"
     },
@@ -549,6 +549,7 @@
     "kraay2023": "Kraay, A ⓡ Lakner, C ⓡ Özler, B ⓡ Decerf, B ⓡ Jolliffe, D ⓡ Sterck, O ⓡ Yonzan, N. 2023. “<a href=\"http://hdl.handle.net/10986/39913\" target=\"_blank\">A New Distribution Sensitive Index for Measuring Welfare, Poverty, and Inequality</a>.” Policy Research Working Paper 10470.  Washington DC: World Bank.",
     "Lakner2022": "Lakner, C, Gerszon Mahler, D, Negre, M and Prydz, E B. 2022. “<a href=\"https://doi.org/10.1007/s10888-021-09510-w\" target=\"_blank\">How Much Does Reducing Inequality Matter for Global Poverty?</a>” The Journal of Economic Inequality 20(3): 559–85. ",
     "MahlerBaur2023": "Mahler, Daniel Gerszon, and Dominikus Baur. 2023. “<a href=\"https://www.doi.org/10.60616/97pn-6m86\" target=\"_blank\">Progress and setbacks in reducing income inequalities</a>” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+    "Sinha2024": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">“Sinha, Nistha; Inchauste, Gabriela; Narayan, Ambar, editors. 2024. </span><a href=\"http://hdl.handle.net/10986/42458 \" target=\"_blank\">Leveling the Playing Field: Addressing Structural Inequalities to Accelerate Poverty Reduction in Africa</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. © World Bank.  License: </span><a href=\"https://creativecommons.org/licenses/by/3.0/igo/\" target=\"_blank\">CC BY 3.0 IGO</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">.”</span> ",
     "WBvision": "<a href=\"https://scorecard.worldbank.org/en/vision?orgCode=ALL&refareatype=REGION&refareacode=ACW&age=_T&disability=_T&sex=_T\" target=\"_blank\">World Bank Group Scorecard</a> (accessed March 11, 2026).",
     "WorldBank2024": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">World Bank. 2024. “</span><a href=\"http://hdl.handle.net/10986/42211\" target=\"_blank\">Poverty, Prosperity, and Planet Report 2024: Pathways Out of the Polycrisis.</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">” Washington DC.: World Bank. </span>",
     "WorldBank2025": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">World Bank. 2025. Perspectives économiques du Bénin: Accroître la mobilisation des recettes intérieures tout en protégeant les pauvres. Washington DC: World Bank.</span>",

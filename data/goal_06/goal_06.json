@@ -5,7 +5,7 @@
     "shortTitle": "Water Access",
     "title": "Water Quality: A Foundation for Health and Development",
     "abstract": "Access to safe drinking water is essential for health and development, yet over 2 billion people, mostly in low- and middle-income countries, still lack it. Many remain exposed to contaminated water, which threatens health, livelihoods, and economic progress, underscoring the urgent need to ensure not only access, but also the safety of drinking water.",
-    "citation": "Kashiwase, H and Fujs, T. 2026. “Water quality: A foundation for health and development”. In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, A Thudt, and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/pp3f-d004.",
+    "citation": "Kashiwase, H, Fujs, T and Tulp, J W. 2026. “Water quality: A foundation for health and development.” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, A Thudt, and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
     "credits": "Haruna Kashiwase and Tony Fujs",
     "inputs": "Christian Borja-Vega, Pavel Luengas Sierra, Fan Zhang",
     "visuals": "Jan Willem Tulp",
@@ -55,7 +55,7 @@
       "translationPrefix": "goal_06.content.#6"
     },
     {
-      "text": "To encapsulate a holistic perspective of safe drinking water, JMP classifies drinking water services into five levels: [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,128,198);\">safely managed</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,184,236);\">basic</span>], [emphasis: <span style=\"background-color: rgb(206,212,222);\">limited</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(227,167,99);\">unimproved</span>], and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(189,97,38);\">surface water</span>].[reference: water_levels]  ",
+      "text": "To provide a holistic perspective of safe drinking water, JMP classifies drinking water services into five levels: [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,128,198);\">safely managed</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(0,184,236);\">basic</span>], [emphasis: <span style=\"background-color: rgb(206,212,222);\">limited</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(227,167,99);\">unimproved</span>], and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(189,97,38);\">surface water</span>].[reference: water_levels]  ",
       "type": "text",
       "translationPrefix": "goal_06.content.#7"
     },
@@ -135,13 +135,13 @@
         {
           "type": "scene",
           "id": "scene2",
-          "text": "Despite this, across all regions with available data, <span data-color-id=\"rural\" class=\"rural\">rural</span> access still lags <span data-color-id=\"urban\" class=\"urban\">urban </span>access by about 20 percentage points.",
+          "text": "Despite this progress,  <span data-color-id=\"rural\" class=\"rural\">rural</span> access still lags <span data-color-id=\"urban\" class=\"urban\">urban </span>access in regions with available data, with a global gap of about 20 percentage points.",
           "translationPrefix": "goal_06.content.#10.scenes.#1"
         },
         {
           "type": "scene",
           "id": "scene3",
-          "text": "[emphasis: <span style=\"color: rgb(4,1,16);\">South Asia</span>]<span style=\"color: rgb(4,1,16);\"> is an </span><span style=\"color: rgb(4,1,16);\">exception:</span> the <span data-color-id=\"urban\" class=\"urban\">urban</span>–<span data-color-id=\"rural\" class=\"rural\">rural</span> gap narrowed sharply between 2000 and 2024 as access expanded in rural areas. [emphasis: <span style=\"color: rgb(4,1,16);\">Sub-Saharan Africa</span>] has also seen gains in <span data-color-id=\"rural\" class=\"rural\">rural</span> access, but coverage remains extremely low, at 17 percent in 2024. Low access to water services is often concentrated in poorer regions, where limited public resources and the high cost of extending infrastructure to dispersed rural populations constrain progress, leaving these populations particularly vulnerable. [reference: water_poverty]",
+          "text": "[emphasis: <span style=\"color: rgb(4,1,16);\">South Asia</span>]<span style=\"color: rgb(4,1,16);\"> is an </span><span style=\"color: rgb(4,1,16);\">exception:</span> the <span data-color-id=\"urban\" class=\"urban\">urban</span>–<span data-color-id=\"rural\" class=\"rural\">rural</span> gap narrowed sharply between 2000 and 2024 as access expanded in rural areas. [emphasis: <span style=\"color: rgb(4,1,16);\">Sub-Saharan Africa</span>] has also seen gains in <span data-color-id=\"rural\" class=\"rural\">rural</span> access, but coverage remains extremely low, at 17 percent in 2024. Low access to water services is often concentrated in poorer regions, where limited public resources and the high cost of extending infrastructure to dispersed rural populations constrain progress, leaving these groups particularly vulnerable. [reference: water_poverty]",
           "translationPrefix": "goal_06.content.#10.scenes.#2"
         }
       ],
@@ -158,7 +158,7 @@
       "title": "Access to safely managed drinking water is low in Sub-Saharan Africa and small island economies in the Pacific",
       "subtitle": "People using safely managed drinking water services, 2024 (% of population)",
       "source": "WHO/UNICEF JMP for Water Supply, Sanitation and Hygiene. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS\" target=\"_blank\">SH.H2O.SMDW.ZS</a><span style=\"color: rgb(112,111,125); background-color: rgb(255,255,255);\">).</span>",
-      "note": "There are  no available estimates of safely managed drinking water access in 2024 for the 69 countries shaded gray. ",
+      "note": "There are no available estimates of safely managed drinking water access in 2024 for the 69 countries shaded gray. ",
       "visSize": "default",
       "visdescription": "A grid map displays the share of the population using safely managed drinking water services by country, using equally sized tiles.  Countries are shaded according to their level of access, with darker colors indicating higher coverage and lighter colors, lower coverage. Gray shading indicates missing data or no available estimates.",
       "indicator_360": "WB_WDI_SH_H2O_SMDW_ZS",
@@ -175,13 +175,13 @@
         {
           "type": "scene",
           "id": "scene2",
-          "text": "Among the countries with data available, only 29 have achieved universal (99 percent or higher) access to safely managed drinking water.  ",
+          "text": "Among the countries with data available, only 29 have achieved universal (99 percent or higher) access to safely managed drinking water.  Values are rounded for display; countries shown as 99% may still fall below the universal access threshold.  ",
           "translationPrefix": "goal_06.content.#12.scenes.#1"
         },
         {
           "type": "scene",
           "id": "scene3",
-          "text": "Low access is concentrated in Sub-Saharan Africa, where less than half of the populations has access to safe drinking water in 23 of the 26 countries with data. At approximately 6 percent, Central African Republic and Chad have the lowest access to safe drinking water.",
+          "text": "Low access is concentrated in Sub-Saharan Africa, where less than half of the populations has access to safe drinking water in 23 of the 26 countries with data. At approximately 6 percent, the Central African Republic and Chad have the lowest levels of access to safe drinking water.",
           "translationPrefix": "goal_06.content.#12.scenes.#2"
         }
       ],
@@ -193,7 +193,7 @@
       "translationPrefix": "goal_06.content.#13"
     },
     {
-      "text": "Because the data for the required components often come from different sources and surveys, they cannot always be measured for the same population. To avoid overstating access, the methodology uses a conservative approach, taking the<span style=\"color: rgb(255,0,0);\"> </span>[emphasis: lowest][emphasis: <span style=\"color: rgb(255,0,0);\"> </span>]value among the three components (<span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">free from contamination</span>, <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessible on premises</span>, or <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">available when needed</span>) as the estimate of safely managed drinking water access. The component with the lowest value is also referred to as the[emphasis:  limiting factor to access.]",
+      "text": "Because the data for the required components often come from different sources and surveys, they cannot always be measured for the same population. To avoid overstating access levels, the methodology uses a conservative approach, taking the<span style=\"color: rgb(255,0,0);\"> </span>[emphasis: lowest][emphasis: <span style=\"color: rgb(255,0,0);\"> </span>]value among the three components (<span style=\"color: rgb(255,255,255); background-color: rgb(78,194,192);\">free from contamination</span>, <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessible on premises</span>, or <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">available when needed</span>) as the estimate of safely managed drinking water access. The component with the lowest value is also referred to as the[emphasis:  limiting factor to access.]",
       "type": "text",
       "translationPrefix": "goal_06.content.#14"
     },
@@ -259,7 +259,7 @@
         {
           "type": "scene",
           "id": "scene1",
-          "text": "In several Pacific Island nations, including Tuvalu, Nauru, and Tonga, the share of people with water[emphasis:  ][emphasis: <span data-color-id=\"cat4\" class=\"cat4\">free from contamination</span>] is extremely low while the share of people with water <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">readily available</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessible on premises</span> is less of a concern. As many small atoll islands have no rivers or large lakes, most of their drinking water comes from rainwater harvesting, and these systems are easily contaminated or diluted by saltwater, while water treatment capacity is limited.[reference: waterq1][reference: waterq2] Some Southeast Asian countries also face significant water quality challenges including Cambodia, Indonesia, and Lao PDR where inadequate wastewater treatment contributes to contamination.[reference: UNEP]",
+          "text": "In several Pacific Island nations, including Tuvalu, Nauru, and Tonga, the share of people with water[emphasis:  ][emphasis: <span data-color-id=\"cat4\" class=\"cat4\">free from contamination</span>] is extremely low, while the share of people with water <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">readily available</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessible on premises</span> is less of a concern. As many small atoll islands have no rivers or large lakes, most of their drinking water comes from rainwater harvesting, and these systems are easily contaminated or diluted by saltwater, while water treatment capacity is limited.[reference: waterq1][reference: waterq2] Some Southeast Asian countries also face significant water quality challenges including Cambodia, Indonesia, and Lao PDR where inadequate wastewater treatment contributes to contamination.[reference: UNEP]",
           "translationPrefix": "goal_06.content.#18.scenes.#0"
         },
         {
@@ -306,7 +306,7 @@
       "pp": "pp",
       "years": "years",
       "source": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene, <a href=\"https://washdata.org/data/downloads#WLD\" target=\"_blank\">JMP Global Database</a>; World Bank staff calculations. ",
-      "note": "For details on the progress speed, refer to the Explainer and Explore Data sections. ",
+      "note": "For details on the progress speed, refer to “<a href=\"https://data360.worldbank.org/en/atlas/global-progress/\" target=\"_blank\">Global Progress</a>” and “Methodology”[reference: progress2] under the Progress section. ",
       "visdescription": "Three line charts showing the share of population meeting each component of safely managed drinking water—quality, accessibility, and availability—from 2000 to 2024. Each line represents one component, and the slope indicates how quickly it is changing. In the final two scenes, the charts compare progress in Tanzania with the typical trajectory. ",
       "visSize": "default",
       "data_download": "06_data_drinking_water_progress.zip",
@@ -315,19 +315,19 @@
         {
           "type": "scene",
           "id": "tanzania_start",
-          "text": "In 2000, while nearly 15 percent of people in Tanzania had access to <span data-color-id=\"cat4\" class=\"cat4\">uncontaminated water</span>, only 1 percent had access to <span data-color-id=\"cat1\" class=\"cat1\">water on premises</span>.",
+          "text": "In 2000, nearly 15 percent of people in Tanzania had access to <span data-color-id=\"cat4\" class=\"cat4\">uncontaminated water</span>, but only 1 percent had access to <span data-color-id=\"cat1\" class=\"cat1\">water on premises</span>.",
           "translationPrefix": "goal_06.content.#21.scenes.#0"
         },
         {
           "type": "scene",
           "id": "tanzania_progress",
-          "text": "Over the next two decades, <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessibility</span> improved dramatically but <span style=\"color: rgb(4,1,16);\">improvements in </span><span style=\"color: rgb(4,1,16); background-color: rgb(78,194,192);\">water quality</span><span style=\"color: rgb(4,1,16);\"> were more limited</span>. Infrastructure expanded rapidly and by 2024, almost half the population had water on premises. Yet only about one-third had access to uncontaminated water.",
+          "text": "Over the next two decades, <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">accessibility</span> improved dramatically but <span style=\"color: rgb(4,1,16);\">improvements in </span><span style=\"color: rgb(255,255,255); background-color: rgb(78,194,192);\">water quality</span><span style=\"color: rgb(4,1,16);\"> were more limited</span>. Infrastructure expanded rapidly and by 2024, almost half the population had water on premises. Yet only about one-third had access to uncontaminated water.",
           "translationPrefix": "goal_06.content.#21.scenes.#1"
         },
         {
           "type": "scene",
           "id": "scene2_Id",
-          "text": "Is this pattern unique to Tanzania? Let’s take a look at the average path of progress across countries from 2000 to 2024. Using historical country-level data, we estimate a “typical” trajectory of improvement for each component of safely managed drinking water (see [progress-paper] for the methodology).",
+          "text": "Is this pattern unique to Tanzania? Let’s take a look at the average path of progress across countries from 2000 to 2024. Using historical country-level data, we estimate a “typical” trajectory of improvement for each component of safely managed drinking water (see this link[reference: progress-paper] for the methodology).",
           "translationPrefix": "goal_06.content.#21.scenes.#2"
         },
         {
@@ -417,7 +417,7 @@
       "translationPrefix": "goal_06.content.#32"
     },
     {
-      "text": "In household surveys such as the Multiple Indicator Cluster Surveys (MICS), water quality testing is conducted both at the point of collection—that is, [emphasis: at the household’s primary drinking water source, ]such as, a tap, well, or protected spring—and at point of use, that is, [emphasis: within the household, ]typically from a drinking glass or container. The water is tested for <i>E. coli</i> at both points to assess the level of contamination. ",
+      "text": "In household surveys such as the Multiple Indicator Cluster Surveys (MICS), water quality testing is conducted both at the point of collection—that is, [emphasis: at the household’s primary drinking water source, ]such as a tap, well, or protected spring—and at point of use, that is, [emphasis: within the household, ]typically from a drinking glass or container. The water is tested for <i>E. coli</i> at both points to assess the level of contamination. ",
       "type": "text",
       "translationPrefix": "goal_06.content.#33"
     },
@@ -431,8 +431,8 @@
       "visSize": "default",
       "data_download": "Ecoli_PoC_PoU_Scatter (High+Very High).csv",
       "data": "1gbR8q_t54y-HLl8OHW0pqmbbKHrQlWvm0u6V9j6_zS8",
-      "keyFact": "In 26",
-      "keyFactLabel": "countries more than half of the population is exposed to drinking water contaminated with high or very high levels of E. coli.",
+      "keyFact": "In 26 countries",
+      "keyFactLabel": "more than half of the population is exposed to drinking water contaminated with high or very high levels of E. coli.",
       "pointOfCollectionLabel": "Point of collection",
       "pointOfUseLabel": "Point of use",
       "xAxisTitle": "Share of population at risk of contamination (%)",
@@ -446,7 +446,7 @@
         {
           "type": "scene",
           "id": "scene2",
-          "text": "Contamination rates are even higher when measured at [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(141,65,23);\">point of use</span>] (the water actually consumed within household). In 26 countries, more than half the population drinks water with high or very high risk of <i>E.coli</i> contamination, as shown by household-level tests.  ",
+          "text": "Contamination rates are even higher when measured at [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(141,65,23);\">point of use</span>] (the water actually consumed within the household). In 26 countries, more than half the population drinks water with high or very high risk of <i>E.coli</i> contamination, as shown by household-level tests.  ",
           "translationPrefix": "goal_06.content.#34.scenes.#1"
         },
         {
@@ -474,7 +474,7 @@
       "translationPrefix": "goal_06.content.#37"
     },
     {
-      "text": "<span style=\"background-color: rgb(255,255,255);\">Urban–rural disparities in water contamination are widespread. In most countries with available survey data, rural populations face substantially higher risks from contaminated drinking water than their urban counterparts. </span>",
+      "text": "<span style=\"background-color: rgb(255,255,255);\">Urban–rural disparities in water contamination are widespread. In most countries with available survey data, rural populations face substantially higher risks of drinking </span><span style=\"background-color: rgb(255,255,255);\">contaminated </span><span style=\"background-color: rgb(255,255,255);\">water than their urban counterparts. </span>",
       "type": "text",
       "translationPrefix": "goal_06.content.#38"
     },
@@ -550,7 +550,7 @@
         {
           "type": "scene",
           "id": "scene1",
-          "text": "Rural dwellers in Bangladesh are more exposed to arsenic-contaminated water than their urban counterparts. While 12 percent of the people in rural areas are exposed to arsenic levels exceeding 50 ppb, less than5 percent of the urban population face the same challenge.",
+          "text": "Rural dwellers in Bangladesh are more exposed to arsenic-contaminated water than their urban counterparts. While 12 percent of the people in rural areas are exposed to arsenic levels exceeding 50 ppb, less than 5 percent of the urban population face the same challenge.",
           "translationPrefix": "goal_06.content.#47.scenes.#0"
         },
         {
@@ -595,7 +595,7 @@
       "translationPrefix": "goal_06.content.#51"
     },
     {
-      "text": "Since the 1990s, the Government of Bangladesh has introduced a range of programs to address arsenic contamination in drinking water. This  includes nationwide tubewell screening, installation of arsenic-safe water sources, such as piped systems drawing on safe surface water or deep groundwater, the use of household and community filtration technologies, public awareness campaigns, and  health sector initiatives to identify and manage arsenic-related illnesses. ",
+      "text": "Since the 1990s, the Government of Bangladesh has introduced a range of programs to address arsenic contamination in drinking water. This  includes nationwide tubewell screening, installation of arsenic-safe water sources, such as piped systems drawing on safe surface water or deep groundwater, the use of household and community filtration technologies, public awareness campaigns, and health sector initiatives to identify and manage arsenic-related illnesses. ",
       "type": "text",
       "translationPrefix": "goal_06.content.#52"
     },
@@ -642,8 +642,9 @@
     "waterav2": "Gcanga, A, Mahadeo, N and Takele, E. 2025. “<a href=\"https://www.wri.org/insights/managing-extremes-how-south-african-cities-are-tackling-water-crises\" target=\"_blank\">Managing Extremes: How South African Cities Are Tackling Water Crises</a><a href=\"https://www.wri.org/insights/managing-extremes-how-south-african-cities-are-tackling-water-crises\" target=\"_blank\">.” </a>World Resources Institute Insights, July 2.",
     "waterav3": "HR Wallingford. 2021. <a href=\"https://www.ttparliament.org/wp-content/uploads/2022/01/Trinidad-and-Tobago-Water-Utility-Adaptation-Plan.pdf\" target=\"_blank\">Vulnerability Assessment and Water Sector Adaptation Planning Project. Trinidad and Tobago - Water Utility Adaptation Plan</a>. ",
     "waterav4": "UNDP Climate Change Adaptation. “<a href=\"https://www.adaptation-undp.org/projects/advancing-climate-resilience-water-sector-bhutan-acrewas#:~:text=Inability%20to%20meet%20the%20demand,of%20rural%20and%20urban%20communities.\" target=\"_blank\">Advancing Climate Resilience of Water Sector in Bhutan (ACREWAS)</a>.”",
-    "progress1": "Mahler, D G. 2026. “<a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer: Measuring Progress</a>.” In <span style=\"color: rgb(33,37,41);\">World Bank Atlas of Global Development 2026, </span>edited by A F Pirlea, U Serajuddin, A Thudt, D Wadhwa and M Welch. Washington DC: World Bank<span style=\"color: rgb(33,37,41);\">. </span>",
-    "progress2": "Mahler, D G and Wadhwa, D. 2026. “<a href=\"https://worldbank.github.io/sdgatlas-preview/explorer\" target=\"_blank\">Global Progress: </a>",
+    "progress1": "Lambrechts, M, Mahler D G, Thudt, A and Wadhwa, D. 2026. “<a href=\"https://data360.worldbank.org/en/atlas/global-progress/\" target=\"_blank\">Global Progress is Grinding to a Halt.</a>” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, A Thudt and M Welch. Washington DC: World Bank.",
+    "progress2": "Mahler, D G and Lambrechts, M. 2026. “Measuring Progress” In Atlas of Sustainable Development Goals 2026, edited by A. F. Pirlea, D. Wadhwa, D. Mahler, U. Serajuddin, A. Thudt, and M. Welch. Washington, DC: World Bank.",
+    "progress-paper": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. “<a href=\"https://openknowledge.worldbank.org/entities/publication/c97258fc-bf8f-4bd7-b56f-347b8349368d\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years.</a>” Policy Research Working Paper; 11350. World Bank.",
     "wateracc1": "World Bank. 2023. “<a href=\"https://www.worldbank.org/en/news/feature/2023/11/15/supporting-drinking-water-access-a-key-to-progress-in-afe-1123-democratic-republic-of-congo-drc\" target=\"_blank\">Supporting Drinking Water Access, a Key to Progress in Democratic Republic of Congo (DRC)</a><a href=\"https://www.worldbank.org/en/news/feature/2023/11/15/supporting-drinking-water-access-a-key-to-progress-in-afe-1123-democratic-republic-of-congo-drc\" target=\"_blank\">.</a>” Feature story, November 15.",
     "wateracc2": "Zeufack, A and Jha, S K. 2024. “<a href=\"https://blogs.worldbank.org/en/africacan/drc-water-sector-taking-stock-challenges-leads-to-new-solutions-afe-0624\" target=\"_blank\">Democratic Republic of Congo: In the Water Sector, Taking Stock of Challenges Leads to New Solutions</a>.” World Bank Blogs, June 10.",
     "wb_water_quality": "World Bank. 2019. “<a href=\"https://www.worldbank.org/en/news/feature/2019/08/20/quality-unknown\" target=\"_blank\">Quality Unknown: The Invisible Water Crisis</a>.” Feature story, August 20. ",

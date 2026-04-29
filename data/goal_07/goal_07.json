@@ -80,7 +80,7 @@
         {
           "type": "scene",
           "id": "sas_ssf",
-          "text": "Two regions, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan</span><span style=\"color: rgb(4,1,16);\"> Africa</span> lagged noticeably behind in 2000.",
+          "text": "Two regions, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span> and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan</span><span style=\"color: rgb(4,1,16);\"> Africa</span> lagged noticeably in 2000.",
           "translationPrefix": "goal_07.content.#6.scenes.#2"
         },
         {

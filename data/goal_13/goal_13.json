@@ -6,7 +6,7 @@
     "title": "Exposure, Vulnerability, and Adaptation to Climate Hazards",
     "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves occur more often and are stronger due to climate change and impact more than half the world’s population. Almost a third of those affected are also in highly vulnerable conditions and must adapt to a changing climate.",
     "citation": "Thijs Benschop, David Groves, Jonas Helth Lønborg and Ændra Rininsland. 2026. “Exposure, vulnerability and adaptation to climate hazards” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/",
-    "credits": "Thijs Benschop, Jonas Helth Lønborg, David Groves, Ændra Rininsland",
+    "credits": "Thijs Benschop, Jonas Helth Lønborg, David Groves",
     "inputs": "Jia Li, Esther Naikal, Minh Cong Nguyen",
     "visuals": "Ændra Rininsland",
     "homeFactoidPercent": "18",
@@ -446,7 +446,7 @@
       "translationPrefix": "goal_13.content.#33"
     },
     {
-      "text": "To reduce the number of people at high risk, governments need to rely both on climate mitigation as well as adaptation. By taking measures to reduce greenhouse gas emissions and limit future warming, governments can slow the growth of climate-related hazards and exposure to them. Governments work to reduce people’s vulnerabilities and increase their resilience towards climate-related hazards. The World Bank has developed the [emphasis: <a href=\"https://climatescreeningtools.worldbank.org/\" target=\"_blank\">Adaptation and Resilience Readiness Assessment Tool</a>] to assess how well countries are positioned to design and implement effective climate change adaptation and resilience strategies by evaluating key policies, institutions, and actions across multiple pillars and indicators.",
+      "text": "To reduce the number of people at high risk, governments need to rely both on climate mitigation as well as adaptation. By taking measures to reduce greenhouse gas emissions and limit future warming, governments can slow the growth of climate-related hazards and exposure to them. Governments work to reduce people’s vulnerabilities and increase their resilience towards climate-related hazards. The World Bank has developed the [emphasis: <a href=\"https://datacatalog.worldbank.org/int/search/dataset/0066854/adaptation_and_resilience_readiness_data\" target=\"_blank\">Adaptation and Resilience Readiness Assessment Tool</a>] to assess how well countries are positioned to design and implement effective climate change adaptation and resilience strategies by evaluating key policies, institutions, and actions across multiple pillars and indicators. [reference: WB1]",
       "type": "text",
       "translationPrefix": "goal_13.content.#34"
     },
