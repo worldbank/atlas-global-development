@@ -57,7 +57,7 @@
       "visdescription": "A scroller with three scenes, each  a line chart, showing the rise in Internet access between 2005 and 2025 for the world, regional groupings, and income groups",
       "y_axis_title": "Individuals using the Internet",
       "y_axis_units": "% of population",
-      "data_download": "09.data.internet_access.csv",
+      "data_download": "09_data_internet_access.csv",
       "data": "1EhTY4fTDlnuVTNwNWXAGQlrE-4AWURvtUDYEWySz8QU",
       "source": "<a href=\"https://www.itu.int/en/ITU-D/Statistics/pages/stat/default.aspx\" target=\"_blank\">International Telecommunications Union</a> (ITU). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/IT.NET.USER.ZS\" target=\"_blank\">IT.NET.USER.ZS</a>) ",
       "note": "",
@@ -106,7 +106,7 @@
       "urban": "Urban",
       "rural": "Rural",
       "visSize": "default",
-      "data_download": "09.data.internet_access_urban_rural.csv",
+      "data_download": "09_data_internet_access_urban_rural.csv",
       "data": "1Ms21MBusSuxea8fb176o-5rfzLt_CodNi8K48I7U0kU",
       "translationPrefix": "goal_09.content.#9"
     },
@@ -143,7 +143,7 @@
       "gap": "Gap",
       "no_internet_access": "No Internet access",
       "theme": "light",
-      "data_download": "09.data.income_gender_gap.csv",
+      "data_download": "09_data_income_gender_gap.csv",
       "data": "1B_ljLFoVYyRYgGgjwESR2tAHUpmxWP-0u6DRAOYBgdI",
       "translationPrefix": "goal_09.content.#14"
     },
@@ -177,7 +177,7 @@
       "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a> and World Bank staff calculations, based on <a href=\"https://openknowledge.worldbank.org/entities/publication/c97258fc-bf8f-4bd7-b56f-347b8349368d\" target=\"_blank\">Mahler et al. 2026</a>",
       "visdescription": "This chart uses arrows to show Internet access levels by country in 2015 and 2024. It also shows where the countries would have been, had they followed the typical pace of progress since 2015.",
       "visSize": "fullScreen",
-      "data_download": "09.data.internet_usage_progress.csv",
+      "data_download": "09_data_internet_usage_progress.csv",
       "data": "1F96uP1Br1y4yel27IpE-YbumBGnTUkmKy5rXnUs4tL0",
       "scenes": [
         {
@@ -247,7 +247,7 @@
       "source": "International Telecommunication Union, ITU DataHub. Retrieved from Data360 (<a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_IT_NET_BBND_P2\" target=\"_blank\">WB_WDI_IT_NET_BBND_P2</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/ACT_MOB_SB\" target=\"_blank\">ACT_MOB_SB</a>)",
       "visdescription": "Scatterplot showing the number of fixed and mobile broadband subscriptions, per 100 people, by country",
       "visSize": "default",
-      "data_download": "09.data.mobile_fixed_broadband_subscriptions.zip",
+      "data_download": "09_data_mobile_fixed_broadband_subscriptions.zip",
       "data": "1L-yEyxkQMrc5MA5gSNTjxlmQtHCpgfZtG1cddhgW7DE",
       "indicator_360": "ACT_MOB_SB",
       "scenes": [
@@ -322,7 +322,7 @@
       "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a>. Retrieved from Data360 (<a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_3G\" target=\"_blank\">MOB_COV_3G</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_4G\" target=\"_blank\">MOB_COV_4G</a>,\u000b<a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_5G\" target=\"_blank\">MOB_COV_5G</a>)",
       "visdescription": "Three choropleth world maps showing levels of country coverage for at least 3G, 4G, and 5G networks",
       "visSize": "fullScreen",
-      "data_download": "09.data.network_coverages.csv",
+      "data_download": "09_data_network_coverages.csv",
       "data": "1USKTFa0rwEekfOuqWWCmLTBqRJW3qlcbbfkNJimxD5Q",
       "keyFact": "9 in 10",
       "keyFactLabel": "people in Sub-Saharan Africa are not covered by a 5G network",
@@ -392,7 +392,7 @@
       "source": "<a href=\"https://www.speedtest.net/global-index\" target=\"_blank\">Speedtest Global Index</a> (February 2026)",
       "visdescription": "Dot chart race illustrating the median download speed by country for fixed and mobile broadband",
       "theme": "light",
-      "data_download": "09.data.speedtest.csv",
+      "data_download": "09_data_speedtest.csv",
       "data": "1tqQOC36Nwv_wtwvqVYsawZwSiIKz31vZ6SWT9-pne4g",
       "translationPrefix": "goal_09.content.#40"
     },
@@ -431,7 +431,7 @@
       "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a>. Retrieved from Data360 <a href=\"https://data360.worldbank.org/en/int/indicator/MOB_COV_3G\" target=\"_blank\">(MOB_COV_3G</a>, <a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_IT_NET_USER_ZS\" target=\"_blank\">WB_WDI_IT_NET_USER_ZS</a>). Data for 2024.",
       "visdescription": "A set of four slope charts showing 3G network coverage and Internet access levels for countries, by income group: low, lower-middle, upper-middle, and high-income ",
       "visSize": "default",
-      "data_download": "09.data.coverage_access_gaps.csv",
+      "data_download": "09_data_coverage_access_gaps.csv",
       "data": "1EtMyxh2NQ1nvQVBjxMEjmRgaWNAFgNTUPsJnRQu-MHY",
       "indicator_360": "WB_WDI_IT_NET_USER_ZS",
       "translationPrefix": "goal_09.content.#45"
@@ -454,7 +454,7 @@
       "source": "<a href=\"https://www.worldbank.org/en/publication/globalfindex/download-data\" target=\"_blank\">The Global Findex Database</a> (2025), indicator: [con16] \"Can send a text message on a mobile phone (%, age 15+)\". ",
       "visdescription": "Horizontal pictogram/heatmap showing the 27 countries where more than 50% of people report to have never sent a text message: Chad, Niger, Guinea, India, Benin, Ethiopia, Bangladesh, Burkina Faso, Mali, Pakistan, Madagascar, Sierra Leone, Republic of Congo, Nepal, Comoros, Liberia, Mozambique, Democratic Republic of Congo, Philippines, Cambodia, Malawi, The Gambia, Togo, Lao PDR, Sri Lanka, Egypt, Tajikistan.",
       "theme": "light",
-      "data_download": "09.data.can_send_text_message.csv",
+      "data_download": "09_data_can_send_text_message.csv",
       "data": "1-l--CcpPxm-NjaZ3qVBTN8776Nr9uOXvgelAKecclWs",
       "translationPrefix": "goal_09.content.#48"
     },
@@ -477,7 +477,7 @@
       "visdescription": "Vertical dot plot showing the share of people who report that their main mobile phone is a smartphone, by country and income group",
       "mobile_not_main": "<span style=\"background-color: rgb(217,217,217);\">Share of people not owning a smartphone </span>",
       "lack_of_money": "<span style=\"background-color: rgb(217,217,217);\">Lack of money as a reason for having no smartphone</span>",
-      "data_download": "09.data.lack_of_money.csv",
+      "data_download": "09_data_lack_of_money.csv",
       "data": "1uvmwqlLOt867y1S_0Hr4ZT46wXg0ilxE2OJS5DTj6V4",
       "publish_progress": "true",
       "keyFact": "22%",

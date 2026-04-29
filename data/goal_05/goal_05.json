@@ -4,11 +4,11 @@
     "goal": "05",
     "shortTitle": "Gender and Jobs",
     "title": "Shaping the Future of Women in the Workplace",
-    "abstract": "Women face persistent barriers when it comes to participating in the labor force. And those who do work are more likely to be in vulnerable employment, earn lower wages, and shoulder the majority of domestic and care responsibilities—highlighting slow and uneven progress toward gender equality at work.",
-    "citation": "",
-    "credits": "Divyanshi Wadhwa, Anna Tabitha Bonfert",
+    "abstract": "Women face persistent barriers when it comes to participating in the labor force. And those who do work are more likely to be in vulnerable employment, earn lower wages, and shoulder the majority of domestic and care responsibilities, highlighting slow and uneven progress toward gender equality at work.",
+    "citation": "Wadhwa, D., Bonfert, A.T., Rininsland, A. and Lambrechts, M. 2026. “Shaping the Future of Women in the Workplace.” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, A Thudt, and M Welch. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
+    "credits": "Divyanshi Wadhwa & Anna Tabitha Bonfert",
     "inputs": "Ana Maria Munoz Boudet, Kathleen Beegle",
-    "visuals": "Ændra Rininsland, Maarten Lambrechts",
+    "visuals": "Ændra Rininsland & Maarten Lambrechts",
     "homeFactoidPercent": "55",
     "homeFactoidNumber": "Only 1 in 2",
     "homeFactoidText": "women are engaged in income-generating work",
@@ -36,13 +36,13 @@
       "graphic": "global_labor_force_participation",
       "title": "How has female labor force participation changed globally since 1990?",
       "subtitle": "The global percentage of men participating in the labor force has declined slightly since the 1990s. What’s the story for women?",
-      "source": "<a href=\"https://ilostat.ilo.org/methods/concepts-and-definitions/ilo-modelled-estimates/\" target=\"_blank\">https://ilostat.ilo.org/data/?cat_mode=subject</a> (ILOEST), Retrieved from World Development Indicators (<a href=\"https://www.google.com/url?q=https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS&sa=D&source=docs&ust=1775492614925921&usg=AOvVaw26-l0FDqp5MePKAqnbcuk3\" target=\"_blank\">SL.TLF.ACTI.FE.ZS,</a> <a href=\"https://www.google.com/url?q=https://data.worldbank.org/indicator/SL.TLF.ACTI.MA.ZS&sa=D&source=docs&ust=1775492614925995&usg=AOvVaw26as1WGBtY4rKOIE7LIr-D\" target=\"_blank\">SL.TLF.ACTI.MA.ZS</a>). ",
+      "source": "<a href=\"https://ilostat.ilo.org/data/?cat_mode=subject\" target=\"_blank\">ILOSTAT</a>. (ILOEST), Retrieved from World Development Indicators (<a href=\"https://www.google.com/url?q=https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS&sa=D&source=docs&ust=1775492614925921&usg=AOvVaw26-l0FDqp5MePKAqnbcuk3\" target=\"_blank\">SL.TLF.ACTI.FE.ZS,</a> <a href=\"https://www.google.com/url?q=https://data.worldbank.org/indicator/SL.TLF.ACTI.MA.ZS&sa=D&source=docs&ust=1775492614925995&usg=AOvVaw26as1WGBtY4rKOIE7LIr-D\" target=\"_blank\">SL.TLF.ACTI.MA.ZS</a>). ",
       "instructions": "[emphasis: Click] or [emphasis: drag to draw a line] with your best guess, starting from the female labor force participation rate in 1990 on the left",
       "male_rate": "Male labor force participation rate",
       "female_rate": "Female labor force participation rate",
       "visSize": "fullScreen",
       "theme": "light (alternatively: dark)",
-      "data_download": "05.data.lfp_gender.csv",
+      "data_download": "05_data_lfp_gender.csv",
       "data": "1H7qxEAaJxGNl2cskA0YJ9pinGLRTmmMGJQseBtLzI14",
       "encouragement": "Keep going! Draw your guess all the way to 2025 on the right",
       "done": "Click the button to see your result. You can still adjust your guess",
@@ -56,6 +56,7 @@
       "y_axis_title": "Labor force participation (% of population ages 15-64) by gender",
       "y_axis_title_mobile": "Labor force participation (%)",
       "y_axis_units": "",
+      "indicator_360": "WB_WDI_SL_TLF_ACTI_FE_ZS",
       "translationPrefix": "goal_05.content.#3"
     },
     {
@@ -83,7 +84,7 @@
       "graphic": "sdg5_350_years",
       "title": "Women’s labor force participation is over 350 years away from equality",
       "subtitle": "<span style=\"background-color: rgb(255,255,0);\"></span>",
-      "source": "World Bank staff calculations, based on XXXX 2026 (to be added when working paper available)",
+      "source": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026.<a href=\"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455004132637249\" target=\"_blank\"> </a><a href=\"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455004132637249\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years</a>. Washington DC: World Bank Group",
       "visdescription": "This is a line chart with the number of years before reaching equality on the x-axis and the rate of female labor force participation on the y-axis. The line shows the typical path and how much progress has been made by individual countries from 2015.",
       "x_axis_title": "Number of years to equality",
       "y_axis_title": "Female labor force participation (% of female population ages 15-64)",
@@ -97,10 +98,11 @@
       "pp": "pp",
       "visSize": "default",
       "publish_progress": "true",
-      "data_download": "05.data.typical_path_speeds.zip",
+      "data_download": "05_data_typical_path_speeds.zip",
       "data": "1o5yF32I0XmxlazXO2NtB3QEvmoQH1RnobwgZLAnAXUg",
       "keyFact": "Over 350 years",
       "keyFactLabel": "away from equality in labor force participation between women and men",
+      "indicator_360": "WB_WDI_SL_TLF_ACTI_FE_ZS",
       "scenes": [
         {
           "type": "scene",
@@ -200,8 +202,9 @@
       "source": "<a href=\"https://ilostat.ilo.org/methods/concepts-and-definitions/ilo-modelled-estimates/\" target=\"_blank\">ILO Modelled Estimates database</a> (ILOEST), International Labour Organization (ILO). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS\" target=\"_blank\">SL.AGR.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.AGR.EMPL.MA.ZS\" target=\"_blank\">SL.AGR.EMPL.MA.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.IND.EMPL.FE.ZS\" target=\"_blank\">SL.IND.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.IND.EMPL.MA.ZS\" target=\"_blank\">SL.AGR.EMPL.MA.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.SRV.EMPL.FE.ZS\" target=\"_blank\">SL.SRV.EMPL.FE.ZS</a>; <a href=\"https://data.worldbank.org/indicator/SL.SRV.EMPL.MA.ZS\" target=\"_blank\">SL.SRV.EMPL.MA.ZS</a>)",
       "visdescription": "This chart has two stacked area charts - one for women and one for men. They range from 1991 to 2023 on the x-axis and from 0 to 100 percent on the y-axis. They show the distribution of workforce by economic sector. In the case of both women and men, the agricultural sector shrunk, but for women this decline was steeper. In turn there was a significant increase in the share of service sector jobs for women.",
       "visSize": "default",
-      "data_download": "05.data.flfp_drivers_sectors.csv",
+      "data_download": "05_data_flfp_drivers_sectors.csv",
       "data": "1vPvS5ZuzaDZvBjnk9mMs_CnB2auLQsE_Ey39rvZ6LYI",
+      "indicator_360": "WB_GS_SL_EMPL_ZS",
       "translationPrefix": "goal_05.content.#16"
     },
     {
@@ -223,8 +226,9 @@
       "source": "<a href=\"https://population.un.org/wpp/\" target=\"_blank\">World Population Prospects</a>, UN Population Division; Statistical databases and publications from national statistical offices, National statistical offices; Demographic Statistics, Eurostat (ESTAT). Retrieved from World Development Indicators (<a href=\"https://www.google.com/url?q=https://data.worldbank.org/indicator/SP.DYN.TFRT.IN&sa=D&source=docs&ust=1775014570014952&usg=AOvVaw0zqleaamDFNRKEVv488l_i\" target=\"_blank\">SP.DYN.TFRT.IN</a>) ",
       "visdescription": "This is a line chart with x-axis ranging from 1960 to 2023 and y-axis showing fertility rate, births per woman ranging from 0 to 7. There are two lines - one is the global average and the other is for Türkiye.",
       "visSize": "default",
-      "data_download": "05.data.flfp_drivers_fertility.csv",
+      "data_download": "05_data_flfp_drivers_fertility.csv",
       "data": "1irC1kkR0IeMj7kI_rXiCOk3G7Qa3txP6YSeUjlf7JeI",
+      "indicator_360": "WB_WDI_SP_DYN_TFRT_IN",
       "translationPrefix": "goal_05.content.#19"
     },
     {
@@ -247,14 +251,14 @@
       "female": "Female",
       "pp": "pp",
       "source": "International Labour Organization (ILO), <a href=\"https://ilostat.ilo.org/data/bulk/\" target=\"_blank\">Education and Mismatch Indicators database (EMI)</a> ",
-      "visdescription": "Describe what the visualization shows",
+      "visdescription": "This chart shows the participation rates of women and men in the labor force in the x-axis categorized by level of education on the y-axis. ",
       "visSize": "default",
-      "data_download": "05.data.flfp_drivers_education.csv",
+      "data_download": "05_data_flfp_drivers_education.csv",
       "data": "1wv1ALjkR9I4wBHn7AiIimyJ7fbxLsM0LFKs1YGCxY2M",
       "labels__Advanced": "Completed tertiary education",
       "labels__Intermediate": "Completed secondary education",
       "labels__Basic": "Completed primary education",
-      "labels__LessThanBasic": "Did not complete primary education",
+      "labels__Lessthanbasic": "Did not complete primary education",
       "labels__Total": "Total",
       "translationPrefix": "goal_05.content.#22"
     },
@@ -315,8 +319,9 @@
       "x_axis_title_mobile": "% of population",
       "x_axis_units": "",
       "visSize": "default",
-      "data_download": "05.data.types_employment_gender.csv",
+      "data_download": "05_data_types_employment_gender.csv",
       "data": "18cDq2Bwm7zmviWFr4YgTuYFIejiRycLv8F65l7M_ez4",
+      "indicator_360": "WB_WDI_SL_EMP_VULN_FE_ZS",
       "scenes": [
         {
           "type": "scene",
@@ -370,10 +375,11 @@
       "visdescription": "This is a range chart with two dots for men and women for every country. The x-axis shows the country’s income and is classified by its income group and the y-axis shows the rate of vulnerable employment for women and men.",
       "visSize": "fullScreen",
       "theme": "light (alternatively: dark)",
-      "data_download": "05.data.vulnerable_employment.csv",
+      "data_download": "05_data_vulnerable_employment.csv",
       "data": "1UGJFyH-_LgLeqOe2XSaZWHwmj2AaVzOKodi0r0fIHWE",
       "keyFact": "In 3 of 4",
       "keyFactLabel": "Low and middle-income countries, vulnerable employment was higher among women than men",
+      "indicator_360": "WB_WDI_SL_EMP_VULN_FE_ZS",
       "translationPrefix": "goal_05.content.#34"
     },
     {
@@ -509,6 +515,7 @@
       "disableScreenshot": "true",
       "data_download": "unpaid-work.zip",
       "data": "1FEkl6WKMlGhZNhWAXT705dWVr_Sdg4bdWmYOtht53h8",
+      "indicator_360": "WB_GS_SG_TIM_UWRK",
       "scenes": [
         {
           "type": "scene",
@@ -563,7 +570,7 @@
       "translationPrefix": "goal_05.content.#54"
     },
     {
-      "text": "And in these countries, AI-induced disruption in the workplace will be greater for women than for men. This is because women are concentrated in clerical and administrative support roles and similar occupations that face high automation risk, raising both the likelihood of job losses and the need for reskilling to transition into new opportunities. In high-income economies, nearly 10 percent of employed women work in jobs that are at the highest risk of AI-driven task automation, compared with about 3.5 percent of men.[reference: genai-jobs]",
+      "text": "And in these countries, AI-induced disruption in the workplace will be greater for women than for men. This is because women are concentrated in clerical and administrative support roles and similar occupations that face high automation risk, raising both the likelihood of job losses and the need for reskilling to transition into new opportunities. In high-income economies, nearly 10 percent of employed women work in jobs that are at the highest risk of AI-driven task automation, compared with about 3.5 percent of men.[reference: genai-jobs][footnote: Each occupation consists of many different tasks. To understand the potential impact of AI, the ILO team assigned each of the tasks within an occupation a potential automation score from 0 to 1, with 0 indicating it is not possible and 1 indicating it was entirely possible to perform the task with generative AI. Exposure measures how much of an occupation’s tasks can be done or assisted by generative AI. Task variability measures how unevenly that exposure is distributed across the tasks within the occupation (whether all tasks are similarly exposed or only some are).[reference: ai-def]]",
       "type": "text",
       "translationPrefix": "goal_05.content.#55"
     },
@@ -611,10 +618,10 @@
   "references": {
     "type": "references",
     "wdi-lfp": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO). Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SL.TLF.ACTI.FE.ZS\" target=\"_blank\">SL.TLF.ACTI.FE.ZS, SL.TLF.ACTI.MA.ZS</a>). Date accessed: January 07, 2025.",
-    "wage-wealth": "Sahay, A. 2023. Closing Gender Gaps In Earnings. World Bank Group Gender Thematic Policy Notes Series: Evidence And Practice Note.",
+    "wage-wealth": "Sahay, A. 2023. <a href=\"https://documents1.worldbank.org/curated/en/099429503232391423/pdf/IDU01ce4677209e7504e49089f90e038fd3b4332.pdf\" target=\"_blank\">Closing Gender Gaps In Earnings</a>. World Bank Group Gender Thematic Policy Notes Series: Evidence And Practice Note.",
     "active-work": "International Labour Organization.2016. <a href=\"https://www.ilo.org/resource/labour-force \" target=\"_blank\">Labour force</a>. April 14. Date accessed: February 12, 2026.",
     "social-norms": "Jayachandran, S. 2021. <a href=\"http://www.researchgate.net/publication/353005285_Social_Norms_as_a_Barrier_to_Women's_Employment_in_Developing_Countries\" target=\"_blank\">Social Norms as a Barrier to Women’s Employment in Developing Countries</a>. IMF Economic Review 69(3): 1–20. ",
-    "progress-paper": "Link will be added when working paper version is made available",
+    "progress-paper": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026.<a href=\"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455004132637249\" target=\"_blank\"> </a><a href=\"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455004132637249\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years</a>. Washington DC: World Bank Group",
     "turkey-driver": "​​Lugo, M A, Muller, M and Wai-Poi, M G. 2020. <a href=\"http://documents.worldbank.org/curated/en/933641600751429640\" target=\"_blank\">Middle East and North Africa - Women’s Economic Participation in Iraq, Jordan, and Lebanon.</a> Washington DC: World Bank Group. ",
     "turkey-scd": "World Bank. 2024. <a href=\"https://documents1.worldbank.org/curated/en/099062624142039251/pdf/BOSIB-268248c4-da65-4365-b4f7-416baa9614c2.pdf\" target=\"_blank\">Streamlined Türkiye Systematic Country Diagnostic: The </a><a href=\"https://documents1.worldbank.org/curated/en/099062624142039251/pdf/BOSIB-268248c4-da65-4365-b4f7-416baa9614c2.pdf\" target=\"_blank\">Path Towards High</a><a href=\"https://documents1.worldbank.org/curated/en/099062624142039251/pdf/BOSIB-268248c4-da65-4365-b4f7-416baa9614c2.pdf\" target=\"_blank\">-income</a>.<a href=\"https://documents1.worldbank.org/curated/en/099062624142039251/pdf/BOSIB-268248c4-da65-4365-b4f7-416baa9614c2.pdf\" target=\"_blank\"> </a>",
     "turkey-transitions": "World Bank. 2014. <a href=\"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/507871468306558336\" target=\"_blank\">Turkey’s Transitions: integration, inclusion, institutions.</a> Report No. 90509, Volume 2 – TR.<span style=\"color: rgb(17,85,204);\"></span>",
@@ -630,7 +637,7 @@
     "occu-seg": "Carranza, A, Das, S, and Kotikula, A. 2019. <a href=\"https://documents1.worldbank.org/curated/en/483621554129720460/pdf/Gender-Based-Employment-Segregation-Understanding-Causes-and-Policy-Interventions.pdf\" target=\"_blank\">Gender-based Employment Segregation: Understanding Causes and Policy Interventions.</a> Jobs Working Paper 26. World Bank.<a href=\"https://documents1.worldbank.org/curated/en/483621554129720460/pdf/Gender-Based-Employment-Segregation-Understanding-Causes-and-Policy-Interventions.pdf?utm_source=chatgpt.com\" target=\"_blank\"> </a>",
     "care-tradeoff": "International Labour Organization. 2024. <a href=\"https://www.ilo.org/sites/default/files/2024-10/GEDI-STAT%20brief_formatted_28.10.24_final.pdf\" target=\"_blank\">The Impact of Care Responsibilities on women’s labour force participation: Statistical brief</a> (GEDI-STAT Brief).<a href=\"https://www.ilo.org/sites/default/files/2024-10/GEDI-STAT%20brief_formatted_28.10.24_final.pdf?utm_source=chatgpt.com\" target=\"_blank\"> </a>",
     "second-shift": "Hochschild, A R and Machung, A. 1989. <a href=\"https://catalogue.nla.gov.au/catalog/2059607\" target=\"_blank\">The Second Shift: Working Parents and the Revolution at Home</a>. New York, NY: Viking. ",
-    "total-work": "UN Statistics Division. Minimum Set of Gender Indicators.",
+    "total-work": "UN Statistics Division. <a href=\"https://unstats.un.org/unsd/demographic-social/gender/minset\" target=\"_blank\">Minimum Set of Gender Indicators</a>.",
     "childcare-laborforce": "<span style=\"color: rgb(42,42,42);\">Halim, D, Perova, E and Reynolds, S. 2023. </span><a href=\"https://doi.org/10.1093/wbro/lkac003\" target=\"_blank\">Childcare and Mothers’ Labor Market Outcomes in Lower- and Middle-Income Countries</a><span style=\"color: rgb(42,42,42);\">. The World Bank Research Observer 38(1): 73–114.</span>.",
     "carework-value": "International Labour Organization<span style=\"color: rgb(42,42,42);\">. 2018. </span><a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_633166.pdf\" target=\"_blank\">Care Work and Care Jobs for the Future of Decent Work. Executive Summary</a><span style=\"color: rgb(42,42,42);\">. Report No. WCMS 633166.</span><a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_633166.pdf\" target=\"_blank\"> </a><span style=\"color: rgb(42,42,42);\"></span>",
     "ai-exposure": "<span style=\"color: rgb(33,37,41);\">Demombynes, G, Langbein, J and Weber, M. 2025. </span><a href=\"https://openknowledge.worldbank.org/entities/publication/4a11a37d-149a-44fb-a941-100065ff5eb8\" target=\"_blank\">The Exposure of Workers to Artificial Intelligence in Low- and Middle-Income Countries</a><span style=\"color: rgb(33,37,41);\">. Washington DC: World Bank. </span>",
@@ -643,6 +650,7 @@
     "goldin-wage": "<span style=\"color: rgb(33,37,41);\">Goldin, C. 2014. </span><a href=\"http://dx.doi.org/10.1257/aer.104.4.1091\" target=\"_blank\">A Grand Gender Convergence: Its Last Chapter</a><span style=\"color: rgb(33,37,41);\">. American Economic Review 2014, 104(4): 1091–1119.</span>",
     "findex": "Klapper, L, Singer, D, Starita, L and Norris, A. 2025. <a href=\"http://www.worldbank.org/en/publication/globalfindex/report\" target=\"_blank\">The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy</a>. Washington, DC: World Bank.",
     "halim": "Halim, D, O’Sullivan, M B and Sahay, A. 2023. <a href=\"https://openknowledge.worldbank.org/server/api/core/bitstreams/6dcecde3-27ec-49a5-acbf-4f81fef32d8a/content\" target=\"_blank\">Increasing Female Labor Force Participation. World Bank Group Gender Thematic Notes Series, Evidence and Practice Note</a>. Washington DC: World Bank.",
+    "ai-def": "<span style=\"color: rgb(2,8,23);\">International Labour Organization. 2025. </span><a href=\"https://www.ilo.org/resource/article/how-might-generative-ai-impact-different-occupations\" target=\"_blank\">How might generative AI impact different occupations?</a><a href=\"https://www.ilo.org/resource/article/how-might-generative-ai-impact-different-occupations\" target=\"_blank\"> </a><span style=\"color: rgb(2,8,23);\">ILO. </span><span style=\"color: rgb(33,37,41);\">Date accessed April 20, 2026.</span>",
     "translationPrefix": "goal_05.references"
   },
   "translationPrefix": "goal_05"

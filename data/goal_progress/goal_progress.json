@@ -63,7 +63,7 @@
       "target": "2030 target",
       "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
       "visdescription": "Compares progress in poverty reduction in Côte d’Ivoire and Georgia from 2015 to 2025 using different common metrics of progress.<span style=\"background-color: rgb(255,255,0);\"></span>",
-      "data_download": "progress.data.poverty_slopecharts.csv",
+      "data_download": "progress_data_poverty_slopecharts.csv",
       "data": "1U7w6yGILXAxwpQ15FWtQmbxjDdhyAFjhfSyLwyUpyN8",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
@@ -124,7 +124,7 @@
       "visSize": "fullScreen",
       "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. (2026)</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025)</a>.",
       "visdescription": "Shows the typical changes in poverty rates as a function of initial changes in poverty rates, and how this predicts typical trajectories of poverty rates.",
-      "data_download": "progress.data.poverty_rate_change.zip",
+      "data_download": "progress_data_poverty_rate_change.zip",
       "data": "1z6pnQuuVZ65e1v_6fa1PcrpktWHD7qdpVa8ekuV6Ku8",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
@@ -282,7 +282,7 @@
       "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. (2026)</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025)</a>.<span style=\"background-color: rgb(255,255,0);\"></span>",
       "visdescription": "The visualization shows poverty rates Côte d'Ivoire could target by 2050. ",
       "visSize": "default",
-      "data_download": "progress.data.poverty_projection_country.zip",
+      "data_download": "progress_data_poverty_projection_country.zip",
       "data": "1RQA8Xku_eDlTuTjllU9Se84_m6VzJ6o_QisB5AXdks8",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [

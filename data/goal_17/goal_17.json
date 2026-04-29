@@ -76,10 +76,10 @@
       "medianLabel": "Median:",
       "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a>",
       "visdescription": "This chart shows the average age of latest surveys. Many countries rely on survey data that are more than five years old.",
-      "data_download": "17.data.survey_age.csv",
+      "data_download": "17_data_survey_age.csv",
       "data": "1Z-ibGTAUXjF_occNjtbhaVR9Hizsp_bYx6H2DQzzAdE",
       "keyFact": "In 60 percent",
-      "keyFactLabel": "of low- and middle-income economies, the most recent poverty survey that is more than five years old.",
+      "keyFactLabel": "of low- and middle-income economies, the most recent poverty survey  is more than five years old.",
       "translationPrefix": "goal_17.content.#8"
     },
     {
@@ -102,7 +102,7 @@
       "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>",
       "visdescription": "Comparison of extrapolated versus actual survey-based poverty estimates for Nigeria (2018–22), showing how national accounts-based projections underestimated the true poverty rate revealed by the 2022 household survey.",
       "visSize": "small",
-      "data_download": "17.data.nigeria_poverty.csv",
+      "data_download": "17_data_nigeria_poverty.csv",
       "data": "1SP4MvouZobM8FY_9SVL-_n96P-X_7DiMZ4AwDi9mag0",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "scenes": [
@@ -163,10 +163,10 @@
     },
     {
       "type": "factoid",
-      "title": "The number of children living in an economy with no recent internationally comparable learning assessment is",
-      "number": "777",
+      "title": "",
+      "number": "778",
       "units": "million",
-      "label": "Representing roughly half of children in the age group",
+      "label": "<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">children aged 7–14</span>",
       "translationPrefix": "goal_17.content.#16"
     },
     {
@@ -185,33 +185,33 @@
       "region_legend_title": "Children without data living in:",
       "note": "Availability of data between 2019 and 2024 for the following indicators: births registered with a civil authority (% of children under five); ",
       "visdescription": "Chart showing that key data are missing for children. Many children are living in economies lacking coverage in birth registries, learning assessments, nutrition data, etc.",
-      "data_download": "17.data.missing_children_data.zip",
+      "data_download": "17_data_missing_children_data.zip",
       "data": "16LO3tJWmK2Uwznl1-PxydYvqen5-rgn6zhUY2cygRfs",
-      "keyFact": "777 million",
+      "keyFact": "778 million",
       "keyFactLabel": "children live in an economy with no recent internationally comparable learning assessment.",
       "scenes": [
         {
           "type": "scene",
           "id": "birth_registration",
-          "text": "Around [emphasis: 162 million children] under five are <span data-color-id=\"cat8\" class=\"cat8\">unaccounted for in birth registries</span>, making up about 30 percent of all children globally.",
+          "text": "Around [emphasis: 195 million children] under five are <span data-color-id=\"cat8\" class=\"cat8\">unaccounted for in birth registries</span>, making up about 30 percent of all children in this age group, globally.",
           "translationPrefix": "goal_17.content.#17.scenes.#0"
         },
         {
           "type": "scene",
           "id": "birth_registration_regions",
-          "text": "These gaps are concentrated in specific regions. In <span data-color-id=\"cat2\" class=\"cat2\">Sub-Saharan Africa</span>, around half of all children under five were never registered at birth.",
+          "text": "These gaps are concentrated in specific regions. In [emphasis: <span data-color-id=\"cat2\" class=\"cat2\">Sub-Saharan Africa</span>], around half of all children under five were never registered at birth.",
           "translationPrefix": "goal_17.content.#17.scenes.#1"
         },
         {
           "type": "scene",
           "id": "stunting",
-          "text": "Around [emphasis: 200 million children] live in economies with no recent data on child growth, which are needed to measure malnutrition. In <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>, stunting data—the primary measure of whether young children are adequately nourished—are missing for more than half of all children under five.",
+          "text": "Around [emphasis: 207 million children] live in economies with no recent data on child growth, which are needed to measure malnutrition. In [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(243,87,142);\">East Asia & Pacific</span>] and in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>], stunting data—the primary measure of whether young children are adequately nourished—are missing for more than half of all children under five.",
           "translationPrefix": "goal_17.content.#17.scenes.#2"
         },
         {
           "type": "scene",
           "id": "learn_assess",
-          "text": "Around [emphasis: 777 million children] aged 7 and 14—roughly half of all children that age—live in economies with no comparable learning assessment in the past five years. In <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>, <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>, and <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, there are no comparable data on whether more than half of these children can read or understand basic math at age-appropriate levels.",
+          "text": "Around [emphasis: 778 million children] aged 5–14—roughly half of all children that age—live in economies with no comparable learning assessment in the past five years. In[emphasis:  ][emphasis: <span data-color-id=\"EAS\" class=\"EAS\">East Asia & Pacific</span>], [emphasis: <span data-color-id=\"SAS\" class=\"SAS\">South Asia</span>], and [emphasis: <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>], there are no comparable data on whether more than half of these children can read or understand basic math at age-appropriate levels.",
           "translationPrefix": "goal_17.content.#17.scenes.#3"
         }
       ],
@@ -228,7 +228,7 @@
       "translationPrefix": "goal_17.content.#19"
     },
     {
-      "text": "The SPI measures statistical systems across five pillars using 51 indicators that cover everything from whether surveys are conducted to whether key data are produced and used, data are accessible online, and the legal foundations and financial resources for statistics are in place.[footnote:  <span style=\"background-color: rgb(255,255,255);\">The five pillars are data use, services, products, sources, and infrastructure. For data to have an impact, they must first be used. The data use pillar also measures whether data meet the needs of key users of a statistical system, such as the Minister of Finance. Pillar 2 measures whether services, such as online accessibility, are available to connect users to data. The data products pillar measures whether the system produces key statistics, including those concerning the well-being of children, to meet the needs of users. Reflecting the challenges that many statistical systems encounter, the data sources pillar tracks the availability of foundational data sources, while the data infrastructure pillar assesses the hard and soft infrastructure, such as statistical legislation, financing, and the methodologies that underpin statistical production.</span>] It includes an overall score that measures statistical performance on a scale from 0–100, where 100 represents the best possible statistical system.[reference: dpss]",
+      "text": "The SPI measures the performance of statistical systems across five pillars using 51 indicators that cover everything from whether surveys are conducted to whether key data are produced and used, data are accessible online, and the legal foundations and financial resources for statistics are in place.[footnote:  <span style=\"background-color: rgb(255,255,255);\">The five pillars are data use, services, products, sources, and infrastructure. For data to have an impact, they must first be used. The </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">data use </span>]<span style=\"background-color: rgb(255,255,255);\">pillar also measures whether data meet the needs of key users of a statistical system, such as the Minister of Finance. The </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">data services</span>]<span style=\"background-color: rgb(255,255,255);\"> pillar  measures whether services, such as online accessibility, are available to connect users to data. The </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">data products</span>]<span style=\"background-color: rgb(255,255,255);\"> pillar measures whether the system produces key statistics, including those concerning the well-being of children, to meet the needs of users. he </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">data source</span>]<span style=\"background-color: rgb(255,255,255);\">s pillar tracks the availability of foundational data sources, while the </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">data infrastructure</span>]<span style=\"background-color: rgb(255,255,255);\"> pillar assesses the hard and soft infrastructure, such as statistical legislation, financing, and the methodologies that underpin statistical production.</span>] It includes an overall score that measures statistical performance on a scale from 0–100, where 100 represents the best possible statistical system.[reference: dpss]",
       "type": "text",
       "translationPrefix": "goal_17.content.#20"
     },
@@ -249,10 +249,10 @@
       "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
       "visdescription": "Series of charts analysing statistical performance, showing that higher income economies tend to have better statistical capacity.",
       "visSize": "fullScreen",
-      "data_download": "17.data.spi_pillar_scores.csv",
+      "data_download": "17_data_spi_pillar_scores.csv",
       "data": "1dRBFfgIFVEa4mn6SaaYW_4wxgFKFRYky9hCgppeo_8g",
       "keyFact": "34 points",
-      "keyFactLabel": "High-income economies score 34 points higher than low-income economies on the World Bank’s Statistical Performance Indicators index.",
+      "keyFactLabel": "High-income economies score 34 points higher than low-income economies on the World Bank’s Statistical Performance Indicators.",
       "indicator_360": "WB_SPI",
       "scenes": [
         {
@@ -264,13 +264,13 @@
         {
           "type": "scene",
           "id": "five_pillars",
-          "text": "The SPI allows you to examine the performance along five key dimensions: data use, data services, data products, data sources, and data infrastructure.",
+          "text": "The SPI allows us to examine statistical systems along five key dimensions: data use, data services, data products, data sources, and data infrastructure.",
           "translationPrefix": "goal_17.content.#21.scenes.#1"
         },
         {
           "type": "scene",
           "id": "fifth_quintile ",
-          "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income, OECD economies</span> dominate the top tier of statistical systems, accounting for more than 90 percent of economies in the top quintile. The top performers include Scandinavian economies such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94)</span> and Sweden (93). Performance at this level is strong and relatively even across all five pillars.",
+          "text": "<span data-color-id=\"HIC\" class=\"HIC\">High-income, OECD economies</span> dominate the top tier of statistical systems, accounting for more than 90 percent of economies in the top SPI quintile. The best performers include Scandinavian economies such as <span data-color-id=\"ECS\" class=\"ECS\">Norway (94)</span> and Sweden (93). Performance at this level is strong and relatively even across all five pillars.",
           "translationPrefix": "goal_17.content.#21.scenes.#2"
         },
         {
@@ -288,25 +288,25 @@
         {
           "type": "scene",
           "id": "second_quintile",
-          "text": "In the third and fourth quintiles, weaknesses in data sources begin to emerge, with performance on Pillar 4 starting to lag noticeably behind the other pillars. This signals gaps in the foundational surveys, censuses, and administrative systems needed to produce reliable statistics.",
+          "text": "In the third and fourth quintiles, weaknesses in data sources begin to emerge, with performance on Pillar 4 (data sources) starting to lag noticeably behind the other pillars. This signals gaps in the foundational surveys, censuses, and administrative systems needed to produce reliable statistics.",
           "translationPrefix": "goal_17.content.#21.scenes.#5"
         },
         {
           "type": "scene",
           "id": "first_quintile",
-          "text": "In the 5th quintile—the bottom 20 percent of economies—a striking pattern is the presence of many Small Island Developing States. These economies can face persistent capacity constraints, even at higher income levels. Examples include <span data-color-id=\"cat8\" class=\"cat8\">St. Kitts and Nevis</span> (43), Nauru (48), The Bahamas (51), and Guyana (54). In the bottom quintile overall, Small Island Developing States and fragile and conflict-affected (FCV) economies together account for the vast majority of cases, underscoring that vulnerability and scale can be as important as income.",
+          "text": "In the 5th quintile—the bottom 20 percent of economies—a striking pattern is the presence of many Small Island Developing States (SIDS). These economies can face persistent capacity constraints, even at higher income levels. Examples include <span data-color-id=\"cat8\" class=\"cat8\">St. Kitts and Nevis</span> (43), Nauru (48), The Bahamas (51), and Guyana (54). In the bottom quintile overall, SIDS and fragile and conflict-affected (FCV) economies together account for the vast majority of cases, underscoring that vulnerability and scale can be as important as income.",
           "translationPrefix": "goal_17.content.#21.scenes.#6"
         },
         {
           "type": "scene",
           "id": "fcv_pillars",
-          "text": "About 60 percent of <span style=\"color: rgb(255,255,255); background-color: rgb(6,41,88);\">FCV economy</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design, making investment in statistical systems especially urgent.",
+          "text": "About 60 percent of <span style=\"color: rgb(255,255,255); background-color: rgb(6,41,88);\">FCV economies</span> fall in the lowest SPI quintile. Yet these are precisely the settings where timely, credible statistics are most essential for crisis response and effective policy design, making investment in statistical systems especially urgent.",
           "translationPrefix": "goal_17.content.#21.scenes.#7"
         },
         {
           "type": "scene",
           "id": "fcv_data_sources",
-          "text": "The gap is starkest for Pillar 4 (data sources). FCV economies tend to score extremely low on the ability to produce the building blocks of statistics—surveys, censuses, administrative data, geospatial data, and so on—even relative to other economies in the bottom quintile. Without these foundations, both measurement and policy targeting become much less reliable.",
+          "text": "The gap is starkest for Pillar 4 (data sources). FCV economies tend to score extremely low on the ability to produce the building blocks of national statistics—surveys, censuses, administrative data, geospatial data, and other types of surveys—even relative to other economies in the bottom quintile. Without these foundations, both measurement and policy targeting become much less reliable.",
           "translationPrefix": "goal_17.content.#21.scenes.#8"
         }
       ],
@@ -330,9 +330,9 @@
       "overperformers": "Overperformers",
       "underperformers": "Underperformers",
       "visSize": "default",
-      "data_download": "17.data.spi_vs_gdp.csv",
+      "data_download": "17_data_spi_vs_gdp.csv",
       "data": "1OyQNKd9JXj6TCQnS3qOGfpGrN0jcugXE-NTLzrqeTss",
-      "textParagraph": "Countries such as Mexico, Burkina Faso, Senegal, Uzbekistan, and the Philippines substantially overperform relative to what would be predicted from their GDP per capita, showing that institutions and sustained investments can build high-performing statistical systems at modest income levels. By contrast, Libya, Equatorial Guinea, Turkmenistan, St. Kitts and Nevis, and Andorra are notable underperformers, with SPI outcomes well below what their income levels would suggest, highlighting that resources alone do not guarantee statistical capacity.",
+      "textParagraph": "Countries such as Mexico, Burkina Faso, Senegal, Uzbekistan, and the Philippines substantially overperform relative to what would be predicted by their GDP per capita, showing that institutions and sustained investments can build high-performing statistical systems even at modest income levels. By contrast, Libya, Equatorial Guinea, Turkmenistan, St. Kitts and Nevis, and Andorra are notable underperformers, with SPI outcomes well below what their income levels would suggest, highlighting that resources alone do not guarantee statistical capacity.",
       "translationPrefix": "goal_17.content.#23"
     },
     {
@@ -341,7 +341,7 @@
       "translationPrefix": "goal_17.content.#24"
     },
     {
-      "text": "The information available to guide policy is often incomplete, outdated, or uneven in quality. These constraints are not distributed randomly. They tend to be most binding in low-income and fragile and conflict-affected (FCV) settings where the demands on the state are greatest and the costs of policy error, highest. It is precisely in such settings that rapid shifts in economic conditions, prices, displacement, and service delivery can quickly render old statistics misleading.",
+      "text": "The information available to guide policy is often incomplete, outdated, or uneven in quality. These constraints are not distributed randomly. They tend to be most binding in low-income and FCV settings where the demands on the state are greatest and the costs of policy error are highest. It is precisely in such settings that rapid shifts in economic conditions, prices, displacement, and service delivery can quickly render old statistics misleading.",
       "type": "text",
       "translationPrefix": "goal_17.content.#25"
     },
@@ -351,7 +351,7 @@
       "translationPrefix": "goal_17.content.#26"
     },
     {
-      "text": "The implication is straightforward but important: while resources matter, income alone does not determine statistical effectiveness. Institutions, incentives, and sustained investments in statistical systems can address deficits.",
+      "text": "The implication is straightforward but important: while resources matter, income alone does not determine statistical effectiveness. Institutions, incentives, and sustained investments in statistical systems are critical for good performance.",
       "type": "text",
       "translationPrefix": "goal_17.content.#27"
     },

@@ -4,7 +4,7 @@
     "goal": "13",
     "shortTitle": "Climate",
     "title": "Exposure, Vulnerability, and Adaptation to Climate Hazards",
-    "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves occur more often and are stronger due to climate change and impact more than half the world’s population. Almost a third of those affected are also highly vulnerable and must adapt to a changing climate.",
+    "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves occur more often and are stronger due to climate change and impact more than half the world’s population. Almost a third of those affected are also in highly vulnerable conditions and must adapt to a changing climate.",
     "citation": "Thijs Benschop, David Groves, Jonas Helth Lønborg and Ændra Rininsland. 2026. “Exposure, vulnerability and adaptation to climate hazards” In Atlas of Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. https://www.doi.org/10.60616/",
     "credits": "Thijs Benschop, Jonas Helth Lønborg, David Groves, Ændra Rininsland",
     "inputs": "Jia Li, Esther Naikal, Minh Cong Nguyen",
@@ -27,7 +27,7 @@
       "translationPrefix": "goal_13.content.#1"
     },
     {
-      "text": "These impacts are not felt equally. People in different areas face different levels of exposures to climate hazards. However, even when faced with the same hazard, some people are more likely to be adversely affected or unable to cope with the impacts, for instance due to living in poverty or lacking access to social protection.[reference: WB3]",
+      "text": "These impacts are not felt equally. People in different locations face different levels of exposures to climate hazards. However, even when faced with the same hazard, some people are more likely to be adversely affected or unable to cope with its impacts, for instance due to living in poverty or lacking access to social protection.[reference: WB3]",
       "type": "text",
       "translationPrefix": "goal_13.content.#2"
     },
@@ -47,7 +47,7 @@
       "translationPrefix": "goal_13.content.#5"
     },
     {
-      "text": "The population exposed is defined as those people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than one percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate the exposure, a 100-year return period is considered, which is the same as a 1 percent probability that the hazard occurs in a given year. The average life expectancy in the World is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52% to occur in a period of 72 years. ] that a person faces the hazard over their life span. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets and livelihoods.[footnote:  To determine whether a climate-related hazard has a significant impact hazard-specific thresholds are used. For instance, for floods a threshold is used for inundation depth and for cyclones a threshold for wind speed is used.]",
+      "text": "The population exposed is defined as those people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than one percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate the exposure, a 100-year return period is considered, which is the same as a 1 percent probability that the hazard occurs in a given year. The average life expectancy in the world is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52% to occur in a period of 72 years. ] that a person faces the hazard over their life span. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets and livelihoods.[footnote:  To determine whether a climate-related hazard has a significant impact hazard-specific thresholds are used. For instance, for floods a threshold is used for inundation depth and for cyclones a threshold for wind speed is used.]",
       "type": "text",
       "translationPrefix": "goal_13.content.#6"
     },
@@ -72,7 +72,7 @@
     {
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
-      "title": "Exposure to floods",
+      "title": "775 million people are exposed to floods globally",
       "subtitle": "Area and share of population exposed to floods with inundation depth over 50 cm[footnote:  An area is defined as being exposed to floods if there is an annual probability of more than 1 percent to experience flooding with inundation depth exceeding 50 centimeters.]",
       "source": "<a href=\"https://planetarycomputer.microsoft.com/dataset/deltares-floods\" target=\"_blank\">Deltares</a>, <a href=\"https://www.fathom.global/product/global-flood-map/\" target=\"_blank\">Fathom</a>, Hill et al. [reference: WB2]",
       "visdescription": "Share of population exposed to floods and location of areas exposed to flood risk",
@@ -114,7 +114,7 @@
     {
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
-      "title": "Exposure to agricultural drought",
+      "title": "Almost 1.4 billion people in rural areas are exposed to agricultural drought globally",
       "subtitle": "Areas and share of population exposed to agricultural drought events.[footnote:  An area is defined as being exposed to agricultural drought if at least once in the last 39 years more than 30 percent of cropland or pasture is lost due to drought.]",
       "source": "<a href=\"https://www.fao.org/giews/earthobservation/asis/index_1.jsp?lang=en\" target=\"_blank\">Food and Agriculture Organization of the United Nations</a>, Hill et al. [reference: WB2]",
       "visdescription": "Share of population exposed to agricultural drought and location of areas exposed to agricultural drought.",
@@ -130,7 +130,7 @@
         {
           "type": "scene",
           "id": "drought__sat__wld",
-          "text": "An [emphasis: area] is considered to be exposed to [emphasis: agricultural drought] if more than 30 percent of the cropland or pasture experienced severe drought in at least one year over the past four decades.[footnote:  This is measured using the Agricultural Stress Index (ASI) developed by FAO.[reference: FAO2] [reference: VanHoolst] ] When this threshold is exceeded, agricultural production losses are expected. [emphasis: Land affected by agricultural droughts has more than doubled in the last 40 years.]",
+          "text": "An [emphasis: <span style=\"color: rgb(4,1,16);\">area</span>] is considered to be exposed to [emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural drought</span>] if more than 30 percent of the cropland or pasture experienced severe drought in at least one year over the past four decades.[footnote:  This is measured using the Agricultural Stress Index (ASI) developed by FAO.[reference: FAO2] [reference: VanHoolst] ] When this threshold is exceeded, agricultural production losses are expected. [emphasis: Land affected by agricultural droughts has more than doubled in the last 40 years.]",
           "translationPrefix": "goal_13.content.#12.scenes.#0"
         },
         {
@@ -162,7 +162,7 @@
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
       "title": "Exposure to cyclones",
-      "subtitle": "Area and share of population exposed to cyclones of category 2 or higher.[footnote:  The strength of a cyclone is assessed on a scale from 1 to 5 using the Saffir-Simpson Hurricane Wind Scale.]",
+      "subtitle": "Area and share of population exposed to cyclones of category 2 or higher[footnote:  The strength of a cyclone is assessed on a scale from 1 to 5 using the Saffir-Simpson Hurricane Wind Scale.[reference: NOAA1]]",
       "source": "STORM [reference: Bloemendaal1], Hill et al. [reference: WB2]",
       "visdescription": "Share of population exposed to cyclones and location of areas exposed to cyclones ",
       "textParagraph": "",
@@ -183,7 +183,7 @@
         {
           "type": "scene",
           "id": "cyclones__vec__bbox1",
-          "text": "The tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] Melissa made landfall in Jamaica on October 28,  2025. It was the third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] in the Atlantic Ocean ever recorded, classified as a category 5 strength cyclone with wind speeds up to 300 km/h.[reference: WMO4] The damage to infrastructure and houses was enormous, but due to early warning systems, the number of casualties was limited at 50.[reference: NOAA1][emphasis: ]",
+          "text": "The tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] Melissa made landfall in Jamaica on October 28,  2025. It was the third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] in the Atlantic Ocean ever recorded, classified as a category 5 strength cyclone with wind speeds up to 300 km/h.[reference: WMO4] The damage to infrastructure and houses was enormous, but due to early warning systems, the number of casualties was limited at 50.[emphasis: ]",
           "translationPrefix": "goal_13.content.#15.scenes.#1"
         },
         {
@@ -203,8 +203,8 @@
     {
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
-      "title": "Exposure to heatwaves",
-      "subtitle": "Areas and share of population exposed to heatwaves[footnote:   A heatwave is defined as having 5-day average maximum Wet-Bulb Globe Temperature exceeding 33 degrees  ]",
+      "title": "40 percent of the global population is exposed to heatwaves",
+      "subtitle": "Areas and share of population exposed to heatwaves[footnote:   A heatwave is defined as having 5-day average maximum Wet-Bulb Globe Temperature exceeding 33 degrees. ]",
       "source": "<a href=\"https://climateknowledgeportal.worldbank.org/\" target=\"_blank\">World Bank Climate Change Portal</a>, Hill et al. [reference: WB2]",
       "visdescription": "Share of population exposed to heatwaves and location of areas exposed to heatwaves[emphasis: ]",
       "textParagraph": "",
@@ -279,39 +279,39 @@
       "translationPrefix": "goal_13.content.#21"
     },
     {
-      "text": "The World Bank has identified seven dimensions to assess a person’s general level of vulnerability.[footnote:  The seven dimensions of vulnerability are defined based on existing literature as well as data availability.] These dimensions are grouped into physical and economic vulnerability. People’s physical vulnerability is measured by their access to [emphasis: clean water, ]to [emphasis: electricity],[emphasis:  ]and to[emphasis:  services and markets]. Their economic vulnerability is measured by their [emphasis: income, ] (add link to SDG 1), their [emphasis: education], their access to [emphasis: social protection ]and access to financial services ([emphasis: financial inclusion]).[reference: WB2] Individuals are considered highly vulnerable to adverse events generally, if they score below set thresholds on at least one of these seven dimensions. For vulnerability due to income, for instance, people are identified as being highly vulnerable if their income falls below the extreme poverty line of $3 a day.[reference: WB2] ",
+      "text": "The World Bank has identified seven dimensions to assess a person’s general level of vulnerability.[footnote:  The seven dimensions of vulnerability are defined based on existing literature as well as data availability.] These dimensions are grouped into physical and economic vulnerability. People’s physical vulnerability is measured by their access to [emphasis: clean water, ]to [emphasis: electricity],[emphasis:  ]and to[emphasis:  services and markets]. Their economic vulnerability is measured by their [emphasis: income, ] (add link to SDG 1), their [emphasis: education], their access to [emphasis: social protection ]and access to financial services ([emphasis: financial inclusion]).[reference: WB2] Individuals are considered to live in highly vulnerable conditions, if they score below set thresholds on at least one of these seven dimensions. For vulnerability due to income, for instance, people are identified as living in highly vulnerable conditions if their income falls below the extreme poverty line of $3 a day.[reference: WB2] ",
       "type": "text",
       "translationPrefix": "goal_13.content.#22"
     },
     {
       "type": "factoid",
-      "title": "People identified as highly vulnerable ",
+      "title": "People identified as living in highly vulnerable conditions",
       "number": "2.8",
       "units": "billion ",
       "label": "globally in 2024[reference: WB1]",
       "translationPrefix": "goal_13.content.#23"
     },
     {
-      "text": "More than 1 in 3 people globally are considered highly vulnerable in at least one dimension. Many people even experience vulnerability across several of these  dimensions. Let’s look at who is vulnerable according to these measures of vulnerability.[footnote:  We restrict ourselves to the six dimensions of the vulnerability that come from household surveys. The seventh dimension is the access to roads and markets, which is measured using spatial data. As it is not possible to combine the spatial data with the survey data, it is not possible to assess the overlap of these dimensions with the six others. However, the spatial vulnerability measure affects only 44 million out of the total number of 2.8 billion vulnerable worldwide.]",
+      "text": "More than 1 in 3 people globally are considered highly vulnerable in at least one dimension. Many people even experience vulnerability across several of these dimensions. Let’s look at how many people are vulnerable in each country and along which dimensions of vulnerability.[footnote:  We restrict ourselves to the six dimensions of the vulnerability that come from household surveys. The seventh dimension is the access to roads and markets, which is measured using spatial data. As it is not possible to combine the spatial data with the survey data, it is not possible to assess the overlap of these dimensions with the six others. However, the spatial vulnerability measure affects only 44 million out of the total number of 2.8 billion vulnerable worldwide.]",
       "type": "text",
       "translationPrefix": "goal_13.content.#24"
     },
     {
       "type": "scroller",
       "graphic": "sdg13_icon_matrix",
-      "title": "Vulnerability to climate hazards",
-      "subtitle": "Number of people vulnerable by dimension, 2024",
-      "source": "Source of the data",
+      "title": "People can be in highly vulnerable conditions due to several different reasons",
+      "subtitle": "Number and share of people vulnerable by dimension, 2024",
+      "source": "World Bank Scorecard Indicator",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
       "disableScreenshot": "true",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
       "keyFact": "2.8 billion",
-      "keyFactLabel": "people are highly vulnerable to shocks",
+      "keyFactLabel": "people are in highly vulnerable conditions",
       "label__x_axis": "Each group is 1000 squares",
-      "label__legend": "1 square equals $x people",
-      "label__vul_atleastone": "Vulnerable in at least 1 way",
+      "label__legend": "1 square represents $x people",
+      "label__vul_atleastone": "Vulnerable population (in at least one dimension)",
       "label__vul_inc": "Income vulnerability",
       "label__vul_educ": "Education vulnerability",
       "label__vul_fin": "Financial inclusion vulnerability",
@@ -322,25 +322,25 @@
         {
           "type": "scene",
           "id": "multi__grid__vuln__wld",
-          "text": "There are 1,000 squares in each column and each individual square represents 8 million people. More than a third of the[emphasis:  ][emphasis: <span data-color-id=\"WLD\" class=\"WLD\">global population</span>], or 2.8 billion people, are vulnerable in at least one dimension. Almost half of them are vulnerable along two or more dimensions. Lack of social protection is the most common source of vulnerability, with 20 percent of the global population facing it. Lack of access to financial services, lack of education, and living in extreme poverty are the next leading causes of vulnerability. ",
+          "text": "There are 1,000 squares in each column and each individual square represents 8 million people of the global population. More than a third of the[emphasis:  ][emphasis: <span data-color-id=\"WLD\" class=\"WLD\">global population</span>], or 2.8 billion people, are vulnerable in at least one dimension. Almost half of them are vulnerable along two or more dimensions. Lack of social protection is the most common source of vulnerability, with 20 percent of the global population facing it. Lack of financial inclusion, lack of education, and living in extreme poverty due to low income are the next leading causes of vulnerability. ",
           "translationPrefix": "goal_13.content.#25.scenes.#0"
         },
         {
           "type": "scene",
           "id": "multi__grid__vuln__nac",
-          "text": "The level of vulnerability ranges from 1.2 to 93 percent across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.7 percent of the population are identified as being vulnerable. These are people living in extreme poverty or lacking basic education.",
+          "text": "The level of vulnerability ranges from 1.7 to 93 percent across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.7 percent of the population are identified as being vulnerable. These are people living in extreme poverty (lack of income) or lacking basic education.",
           "translationPrefix": "goal_13.content.#25.scenes.#1"
         },
         {
           "type": "scene",
           "id": "multi__grid__vuln__ssf",
-          "text": "In [emphasis: <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa,</span>] a staggering 94 percent of the population is vulnerable. Lack of social protection impacts 3 out of 4 people in the region and lack of access to electricity or extreme poverty affects half the population. ",
+          "text": "In [emphasis: <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa,</span>] a staggering 94 percent of the population is vulnerable. Lack of social protection impacts almost 3 out of 4 people in the region and lack of access to electricity or extreme poverty affects almost half the population. ",
           "translationPrefix": "goal_13.content.#25.scenes.#2"
         },
         {
           "type": "scene",
           "id": "multi__explore",
-          "text": "Select a country or region to see the share of population that is vulnerable and which dimensions of vulnerability are driving it.",
+          "text": "Select a country or region to see the share of population and number of people that are vulnerable and which dimensions of vulnerability are driving it.",
           "translationPrefix": "goal_13.content.#25.scenes.#3"
         }
       ],
@@ -361,7 +361,7 @@
       "title": "At high risk of climate-related hazards",
       "number": "1.5",
       "units": "billion",
-      "label": "People globally are both exposed [emphasis: and][emphasis:  ]vulnerable to climate-related hazards.",
+      "label": "People globally are both exposed to climate-related hazards [emphasis: and][emphasis:  ]in highly vulnerable conditions.[footnote:  World Bank Scorecard Indicator.]",
       "translationPrefix": "goal_13.content.#28"
     },
     {
@@ -369,44 +369,37 @@
       "graphic": "sdg13_regional_exposure_vuln",
       "title": "The number of people at high risk from climate-related hazards differs greatly by region",
       "subtitle": "Population shares defined as being at high-risk from climate-related hazards in 2024",
-      "source": "Source of the data",
+      "source": "World Bank Scorecard Indicator",
       "visdescription": "The visualization shows the share of regional populations defined as being at high risk of climate-related hazards in 2024.",
       "visSize": "default",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
+      "textParagraph": "On this map, the size of the grey circles is proportional to the size of the population of the seven World Bank regions. The blue circles show the size of the population exposed to climate-related hazards. The red circle shows the size of the population at high risk (both exposed to climate-related hazards and in vulnerable conditions). In <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span> less than one percent of the population (approximately 0.6 million people) are at high risk. In contrast, more than a third of the people living in the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan and Pakistan</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> regions are at high risk.",
       "label__total_population": "Total population",
       "label__population_exposed": "Population exposed",
       "label__population_exposed_at_risk": "Population exposed and highly vulnerable",
       "label__legend_units": "Millions",
       "activeScene.id": "map_2024",
-      "scenes": [
-        {
-          "type": "scene",
-          "id": "map_2024",
-          "text": "On this map, the size of the grey circles is proportional to the size of the population of the seven World Bank regions. The blue circle shows the size of the population exposed to climate-related hazards. The red circle shows the size of the population both exposed and vulnerable to climate-related hazards. ",
-          "translationPrefix": "goal_13.content.#29.scenes.#0"
-        }
-      ],
       "translationPrefix": "goal_13.content.#29"
     },
     {
-      "text": "A little under a fifth of the global population are considered at high risk from climate-related hazards, that is they are at high risk of being adversely affected or unable to cope with the impacts. But this does not mean that 18 percent of the population of each country are at high risk. In <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span> less than one percent of the population (approximately 0.6 million people) are at high risk. In contrast, more than a third of the people living in the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan and Pakistan</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> regions are at high risk.",
+      "text": "A little under a fifth of the global population are at high risk from climate-related hazards. That is, they are both exposed to climate-related hazards and identified as being highly vulnerable. Across countries, the population at high risk can differ widely due to differences in either exposure or vulnerability.",
       "type": "text",
       "translationPrefix": "goal_13.content.#30"
     },
     {
       "type": "scroller",
       "graphic": "sdg13_icon_matrix",
-      "title": "Population at high risk depends on both vulnerability and exposure",
+      "title": "Population at high risk depends on both exposure and vulnerability",
       "subtitle": "Comparing countries with similar levels of exposure or vulnerability",
-      "source": "Source of the data",
+      "source": "World Bank Scorecard Indicator",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
       "disableScreenshot": "true",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
       "keyFact": "1.5 billion",
-      "keyFactLabel": "people are both exposed and highly vulnerable to climate-related hazards",
+      "keyFactLabel": "people are both exposed to climate-related hazards and in highly vulnerable conditions",
       "label__x_axis": "Each group is 1000 squares",
       "label__legend": "1 square equals $x people",
       "label__highly_vulnerable": "Vulnerable in at least 1 dimension",
@@ -430,7 +423,7 @@
         {
           "type": "scene",
           "id": "mono__grid__exp__phl_vnm",
-          "text": "In the East Asia and Pacific region, the populations of the [emphasis: Philippines ]and [emphasis: Vietnam] are similarly [emphasis: exposed ]to climate hazards. In both countries almost 9 out of 10 people are exposed. ",
+          "text": "In the <span data-color-id=\"EAS\" class=\"EAS\">East Asia and Pacific</span> region, the populations of the [emphasis: Philippines ]and [emphasis: Vietnam] are similarly [emphasis: exposed ]to climate hazards. In both countries almost 9 out of 10 people are exposed. ",
           "translationPrefix": "goal_13.content.#31.scenes.#2"
         },
         {
@@ -443,97 +436,24 @@
       "translationPrefix": "goal_13.content.#31"
     },
     {
-      "text": "Share of people at high risk from climate-related hazards has halved since 2010",
+      "text": "Mitigation, reducing vulnerabilities and building resilience",
       "type": "subhed",
       "translationPrefix": "goal_13.content.#32"
     },
     {
-      "text": "The number of people exposed to climate-related hazards increased from 4.0 billion people to 4.6 billion people between 2010 and 2024. This increase is mainly due to population growth and an increasing number of people living in areas exposed to climate hazards. Yet, during the same time, the number of people identified as being highly vulnerable to unexpected shocks has decreased from 4.4 billion in 2010 to 2.8 billion in 2024.",
+      "text": "Climate-related hazards can threaten people’s health, livelihood, food security, and safety, deepening existing inequalities. People who are at high risk are those who are exposed to climate-related hazards such as floods, agricultural droughts, cyclones and heatwaves, and also live in vulnerable conditions. Individually, 4.5 billion people were exposed to climate-related hazards and 2.8 billion lived in vulnerable conditions. Together, this means that 1.5 billion people were at high risk of climate-related hazards in 2024.",
       "type": "text",
       "translationPrefix": "goal_13.content.#33"
     },
     {
-      "text": "As a result, the global population at high risk from climate hazards has decreased from 2.6 billion to 1.5 billion between 2010 and 2024. ",
-      "type": "text_emphasis",
+      "text": "To reduce the number of people at high risk, governments need to rely both on climate mitigation as well as adaptation. By taking measures to reduce greenhouse gas emissions and limit future warming, governments can slow the growth of climate-related hazards and exposure to them. Governments work to reduce people’s vulnerabilities and increase their resilience towards climate-related hazards. The World Bank has developed the [emphasis: <a href=\"https://climatescreeningtools.worldbank.org/\" target=\"_blank\">Adaptation and Resilience Readiness Assessment Tool</a>] to assess how well countries are positioned to design and implement effective climate change adaptation and resilience strategies by evaluating key policies, institutions, and actions across multiple pillars and indicators.",
+      "type": "text",
       "translationPrefix": "goal_13.content.#34"
     },
     {
-      "text": "In only 14 years, the share of the global population who are at high risk from climate-related hazards has halved, from 36 percent in 2010 to 18 percent in 2024. The substantial decrease in the number of people vulnerable shows that to reduce the population at high risk in the short term, governments must improve people’s ability to adapt to the changing climate and increase their resilience. ",
+      "text": "This tool, first applied in 17 Caribbean countries, has since guided adaptation efforts elsewhere. In [emphasis: Zambia ]and [emphasis: Brazil], for instance, World Bank–supported programs helped shift from reactive to proactive resilience building, contributing to substantial declines in vulnerability and the number of people at high risk from climate-related hazards. Experiences such as the ones from Zambia and Brazil show that reducing climate risk is possible, even as exposure continues to increase. Continued investments in adaptation, resilience, and inclusive development can further reduce vulnerabilities and protect lives and livelihoods from shocks, including climate‑related shocks.",
       "type": "text",
       "translationPrefix": "goal_13.content.#35"
-    },
-    {
-      "text": "While almost all regions have successfully reduced the population at risk by reducing the number of people who are highly vulnerable, differences in progress across countries and regions are still stark. ",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#36"
-    },
-    {
-      "type": "scroller",
-      "graphic": "sdg13_regional_exposure_vuln",
-      "title": "The number of people at high risk from climate-related hazards globally has almost halved since 2010",
-      "subtitle": "Population shares defined as being at high-risk from climate-related hazards in 2010 and 2024",
-      "source": "Source of the data",
-      "visdescription": "The visualization shows the change in the share of global and regional populations defined as being at high risk of climate-related hazards between 2010 and 2023. The map shows that all regions have experienced a decrease in the share at high risk, due to decreasing vulnerability.",
-      "visSize": "default",
-      "data_download": "climate_vulnerability.zip",
-      "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
-      "label__total_population": "Total population",
-      "label__population_exposed": "Population exposed",
-      "label__population_exposed_at_risk": "Population exposed and highly vulnerable",
-      "label__legend_units": "Millions",
-      "scenes": [
-        {
-          "type": "scene",
-          "id": "map_2010",
-          "text": "On this map, the size of the grey circles is proportional to the size of the population of the seven World Bank regions. The blue circle shows the size of the population exposed to climate-related hazards. The red circle shows the size of the population both exposed and vulnerable to climate-related hazards.",
-          "translationPrefix": "goal_13.content.#37.scenes.#0"
-        },
-        {
-          "type": "scene",
-          "id": "map_2024",
-          "text": "By 2024, both total populations and the number of people exposed to climate hazards increased in several regions. However, the [emphasis: share of people at high risk] still declined in most regions because the number of highly vulnerable people significantly reduced. In the East Asia and Pacific region, the highly vulnerable population dropped sharply from 1.3 billion in 2010 to 350 million in 2024. South Asia saw a similar trend, with the number declining from 946 million to 378 million over the same period. In contrast, Sub-Saharan Africa experienced an increase: the number of highly vulnerable people rose from 290 million in 2010 to more than 450 million in 2024.",
-          "translationPrefix": "goal_13.content.#37.scenes.#1"
-        }
-      ],
-      "translationPrefix": "goal_13.content.#37"
-    },
-    {
-      "type": "vis",
-      "graphic": "sdg13_regional_exposure_bars",
-      "title": "The number of people at high risk from climate-related hazards has almost halved since 2010",
-      "subtitle": "Population shares defined as being at high-risk from climate-related hazards in 2010 and 2023",
-      "x_title": "Population",
-      "x_units": "Millions",
-      "source": "Source of the data",
-      "visdescription": "The visualization shows the change in the share of global and regional populations defined as being at high risk of climate-related hazards between 2010 and 2023. The map shows that all regions have experienced a decrease in the share at high risk, due to decreasing vulnerability.",
-      "textParagraph": "In many regions in 2010, most of those exposed to climate hazards were also highly vulnerable. As a result, large shares of the populations were at high risk from climate hazards. By 2024, both total populations and the number of people exposed to climate hazards increased in several regions. However, the [emphasis: share of people at high risk] still declined in most regions because the number of highly vulnerable people significantly reduced. In East Asia and the Pacific, the highly vulnerable population dropped sharply from 1.3 billion in 2010 to 350 million in 2024. South Asia saw a similar trend, with the number declining from 946 million to 378 million over the same period. In contrast, Sub-Saharan Africa experienced an increase: the number of highly vulnerable people rose from 290 million in 2010 to more than 450 million in 2024.",
-      "visSize": "default",
-      "data_download": "climate_vulnerability.zip",
-      "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
-      "label__total_population": "Total population",
-      "label__population_exposed": "Population exposed",
-      "label__population_exposed_at_risk": "Population exposed and at risk",
-      "translationPrefix": "goal_13.content.#38"
-    },
-    {
-      "text": "Reducing vulnerability and building resilience",
-      "type": "subhed",
-      "translationPrefix": "goal_13.content.#39"
-    },
-    {
-      "text": "Shocks caused by climate-related hazards can be a threat to income, food security, health, and safety, deepening existing inequalities. Reducing vulnerabilities across seven diverse dimensions and increasing resilience towards a multitude of climate-related hazards can be a daunting task. To help governments prioritize across climate adaptation initiatives, the World Bank has developed the [emphasis: <a href=\"https://climatescreeningtools.worldbank.org/\" target=\"_blank\">Adaptation and Resilience Readiness Assessment Tool</a>], a whole‑of‑economy diagnostic built around six adaptation principles. Anchored in rapid and inclusive development, the framework focuses on four priority areas: supporting adaptation by firms and people, adapting land use and protecting critical assets, strengthening people’s ability to cope with and recover from shocks, and managing macroeconomic and fiscal risks. Effective governance and continuous monitoring underpin all actions.",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#40"
-    },
-    {
-      "text": "These principles, first applied in 17 Caribbean countries, have since guided adaptation efforts elsewhere. In [emphasis: Zambia ]and [emphasis: Brazil], for instance, World Bank–supported programs helped shift from reactive to proactive resilience building, contributing to substantial declines in vulnerability and the number of people at high risk from climate-related hazards.",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#41"
-    },
-    {
-      "text": "Experiences such as the ones from Zambia and Brazil show that reducing climate risk is possible, even as exposure continues to increase. While almost one in five - or 1.5 billion - people globally remains at high risk in 2024, this is a remarkable improvement from two in five - or 2.6 billion - in 2010. Continued investments in adaptation, resilience, and inclusive development can further reduce vulnerabilities and protect lives and livelihoods from shocks, including climate‑related shocks.",
-      "type": "text",
-      "translationPrefix": "goal_13.content.#42"
     }
   ],
   "references": {

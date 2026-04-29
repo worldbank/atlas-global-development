@@ -65,7 +65,7 @@
       "six_indicators": "six indicators",
       "visdescription": "Line charts showing  the speed of progress across six development indicators from 1950 to 2025 . The y-axes reflect the speed of development and are annotated with values to make the values more comprehensible.",
       "visSize": "fullScreen",
-      "data_download": "dashboard.data.progress_speeds.zip",
+      "data_download": "dashboard_data_progress_speeds.zip",
       "data": "1V4JWANmBNf9VWrsXeahBdfuR1z1wbhnYJhXgFDAVm2s",
       "scenes": [
         {

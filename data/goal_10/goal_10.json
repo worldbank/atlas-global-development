@@ -53,7 +53,7 @@
       "low": "Low inequality",
       "y_axis_title": "Number of economies",
       "visdescription": "The figure reports the number of economies with a Gini index over 40 for 1995–2024. The number of economies with high inequality has fallen from 72 in 1995 to 43 in 2024. The number of economies with low inequality, defined as those with Gini index under 30, has increased from 22 in 1995 to 33 in 2024. ",
-      "data_download": "10.data.high_inequality_trend.csv",
+      "data_download": "10_data_high_inequality_trend.csv",
       "data": "11Lw3knTCwFMNRc_bb5E3N52V3M9GhizD9HE1NpJ4g8k",
       "keyFact": "43",
       "keyFactLabel": "economies have high inequality today, compared to 72 in 1995.",
@@ -95,7 +95,7 @@
       "source": "<a href=\"https://pip.worldbank.org/key-inequality-indicators\" target=\"_blank\">Key Inequality Indicators, Poverty and Inequality Platform</a> (version March 2026).  ",
       "visdescription": "The map shows the levels of inequality across the world.  Today, economies with high inequality (Gini index > 40) are concentrated in Latin America & the Caribbean and Sub-Saharan Africa.",
       "visSize": "fullScreen",
-      "data_download": "10.data.high_inequality_countries.csv",
+      "data_download": "10_data_high_inequality_countries.csv",
       "data": "1EcXKhasvLrhy7IM4mVV2c2DNisBhojrllHZcQv6znrA",
       "translationPrefix": "goal_10.content.#8"
     },
@@ -130,7 +130,7 @@
       "xaxistitle": "Income growth of the poorest 40 percent (%)",
       "yaxistitle": "Growth of national average income (%)",
       "visdescription": "The figure compares the growth rates of average national income and average income of the poorest 40 percent of the population. In three out of four economies, income growth  for the poorest 40 percent was better than the average income.",
-      "data_download": "10.data.shared_prosperity.csv",
+      "data_download": "10_data_shared_prosperity.csv",
       "data": "1Xc3ceq3jZck-SqU6nNrKFRgpsu0oirNFDNi4zv2xiJ0",
       "keyFact": "3 in 4",
       "keyFactLabel": "economies experienced faster income growth of the poorest 40 percent compared to average income growth.",
@@ -222,7 +222,7 @@
       "x_axis_title": "← Poorer | Richer →",
       "prosperity_standard": "Prosperity standard",
       "visdescription": "This chart shows the Prosperity Gap for each percentile of the income distributions in Peru and Colombia. ",
-      "data_download": "10.data.prosperity_gap.csv",
+      "data_download": "10_data_prosperity_gap.csv",
       "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
       "scenes": [
         {
@@ -306,7 +306,7 @@
       "y_axis_title": "Prosperity Gap",
       "visdescription": "This chart shows national Prosperity Gaps aggregated to regional and global Prosperity Gaps. ",
       "disableScreenshot": "true",
-      "data_download": "10.data.prosperity_gaps.zip",
+      "data_download": "10_data_prosperity_gaps.zip",
       "data": "1dMwhGsyOLcQQI7y3WNmSHxSO09ftZGYRUOc5128tY_s",
       "scenes": [
         {
@@ -379,7 +379,7 @@
       "subtitle": "While the global Prosperity Gap has decreased over the last four decades, regional and national differences are substantial",
       "source": "Authors’ calculation using <a href=\"https://pip.worldbank.org/\" target=\"_blank\">Poverty and Inequality Platform</a> (version March 2026). ",
       "visdescription": "This chart reports the trend in Prosperity Gap from 1981 to 2026. It reports the trends for the world, regions, and select countries.",
-      "data_download": "10.data.prosperity_gap_timeseries.csv",
+      "data_download": "10_data_prosperity_gap_timeseries.csv",
       "data": "1ZZvJlpIh4hGGvvrdjPxmvzLt9o9HbYPc0RXeK6Jkq8k",
       "keyFact": "4 decades",
       "keyFactLabel": "behind the rest of the world, Sub-Saharan Africa continues to face a significant gap in prosperity.",
@@ -453,7 +453,7 @@
       "average_prosperity_gap": "Prosperity Gap:",
       "reality": "Initial level of income and Prosperity Gap",
       "visdescription": "This chart reports the changes in average income and Prosperity Gap for a scenario where everyone’s income is raised by 10 percent.",
-      "data_download": "10.data.prosperity_gap.csv",
+      "data_download": "10_data_prosperity_gap.csv",
       "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
       "translationPrefix": "goal_10.content.#37"
     },
@@ -482,7 +482,7 @@
       "average_prosperity_gap": "Prosperity Gap",
       "reality": "Initial level of income and Prosperity Gap",
       "visdescription": "This chart reports the changes in average income and Prosperity Gap for a scenario where everyone’s income is raised by $10.",
-      "data_download": "10.data.prosperity_gap.csv",
+      "data_download": "10_data_prosperity_gap.csv",
       "data": "1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI",
       "translationPrefix": "goal_10.content.#40"
     },
@@ -510,7 +510,7 @@
       "average_prosperity_gap": "Prosperity Gap:",
       "source": "Authors’ calculation, <a href=\"https://pip.worldbank.org/key-inequality-indicators\" target=\"_blank\">Poverty and Inequality Platform</a> (version March 2026). ",
       "visdescription": "This visualization reports the changes in the Prosperity Gap due to income increase, in percent or $, for an economy of choice. ",
-      "data_download": "10.data.prosperity_gap_interactive.csv",
+      "data_download": "10_data_prosperity_gap_interactive.csv",
       "data": "1L99hy4R6DNW1aCn6GZym-ijXMU7Woim8vhWEaUowtHU",
       "translationPrefix": "goal_10.content.#43"
     },
