@@ -397,11 +397,11 @@
       "title": "People living in slum conditions",
       "number": "1.1",
       "units": "Billion people",
-      "label": "In 2024, globally[reference: wdi-slum]",
+      "label": "In 2024, globally",
       "translationPrefix": "goal_11.content.#36"
     },
     {
-      "text": "Today, nearly 1 in 4 urban residents around the world live in slum conditions, many of them in low-income countries. With rising income levels, the share of people living in slums has declined over the past decades.[reference: wdr2009] However, in many places, progress has stalled and even reversed. For example, in <span data-color-id=\"LCN\" class=\"LCN\">Latin America and the Caribbean</span>, the slum population fell steadily in the early 2000s, but has hovered around 18 percent since 2015. And in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, the slum population fell from more than 60 percent to just over 50 percent  over the space of 20 years. But the share of people living in slums has been rising since 2020.",
+      "text": "Today, nearly 1 in 4 urban residents around the world live in slum conditions, many of them in low-income countries.[reference: wdi-slum] With rising income levels, the share of people living in slums has declined over the past decades.[reference: wdr2009] However, in many places, progress has stalled and even reversed. For example, in <span data-color-id=\"LCN\" class=\"LCN\">Latin America and the Caribbean</span>, the slum population fell steadily in the early 2000s, but has hovered around 18 percent since 2015. And in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>, the slum population fell from more than 60 percent to just over 50 percent  over the space of 20 years. But the share of people living in slums has been rising since 2020.",
       "type": "text",
       "translationPrefix": "goal_11.content.#37"
     },
