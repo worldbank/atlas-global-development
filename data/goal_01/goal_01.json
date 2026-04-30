@@ -5,7 +5,7 @@
     "shortTitle": "Extreme Poverty",
     "title": "Past, Present, and Future: 100 Years of  Challenges in Tackling Extreme Poverty",
     "abstract": "Global extreme poverty has fallen drastically since 1950, but progress has slowed to its weakest pace in decades. Over half of the world's poor are in countries where poverty is increasing, often due to conflict and weak governance. This trend threatens to reverse decades of progress and could cause global poverty to rise.",
-    "citation": "Mahler, D G and Lambrechts, M. 2026. “<a href=\"https://doi.org/10.60616/r04r-m955\" target=\"_blank\">Past, present and future: 100 years of challenges in tackling extreme poverty.</a>” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+    "citation": "Mahler, D G and Lambrechts, M. 2026. “<a href=\"https://doi.org/10.60616/r04r-m955\" target=\"_blank\" rel=\"external\">Past, present and future: 100 years of challenges in tackling extreme poverty.</a>” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Daniel Gerszon Mahler",
     "inputs": "Christoph Lakner, Rinku Murgai, Samuel Kofi Tetteh-Baah, Cameron Nadim Haddad, Mario Negre, Rubena Sukaj, Nishant Yonzan",
     "visuals": "Maarten Lambrechts",
@@ -22,12 +22,12 @@
       "translationPrefix": "goal_01.content.#0"
     },
     {
-      "text": "[emphasis: Extreme poverty] is defined as the proportion of people living below the international poverty line, currently set at $3 per person, per day.[reference: foster2025] Having less than $3 per person, per day is associated with not satisfying basic needs, such as  food and shelter. Although $3 may seem low, many households fall below this line, historically and today. Curbing extreme poverty is embedded in the Sustainable Development Goals, with Goal 1 calling for an end to poverty in all its forms everywhere by 2030, and Target 1.1 aiming to eradicate extreme poverty by 2030. It is also embedded in the <a href=\" https://scorecard.worldbank.org/en/vision\" target=\"_blank\">World Bank’s Corporate Scorecard</a>, which calls to end extreme poverty.",
+      "text": "[emphasis: Extreme poverty] is defined as the proportion of people living below the international poverty line, currently set at $3 per person, per day.[reference: foster2025] Having less than $3 per person, per day is associated with not satisfying basic needs, such as  food and shelter. Although $3 may seem low, many households fall below this line, historically and today. Curbing extreme poverty is embedded in the Sustainable Development Goals, with Goal 1 calling for an end to poverty in all its forms everywhere by 2030, and Target 1.1 aiming to eradicate extreme poverty by 2030. It is also embedded in the <a href=\" https://scorecard.worldbank.org/en/vision\" target=\"_blank\" rel=\"external\">World Bank’s Corporate Scorecard</a>, which calls to end extreme poverty.",
       "type": "text",
       "translationPrefix": "goal_01.content.#1"
     },
     {
-      "text": "Extreme poverty is best measured through surveys that capture consumption or income patterns from a representative sample of households. Not all countries undertake such surveys annually, yet under strong assumptions about how national economic growth reaches the poor, it is possible to extrapolate data from the World Bank <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">Poverty and Inequality Platform</a> to estimate poverty in years it does not cover, going back to 1950.[reference: mahler2025][reference: mahler2026] Although these extrapolations carry significant uncertainty, particularly for the earlier decades where survey data are limited,  such modeling provides a useful approximation of long-term trends in global poverty.",
+      "text": "Extreme poverty is best measured through surveys that capture consumption or income patterns from a representative sample of households. Not all countries undertake such surveys annually, yet under strong assumptions about how national economic growth reaches the poor, it is possible to extrapolate data from the World Bank <a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">Poverty and Inequality Platform</a> to estimate poverty in years it does not cover, going back to 1950.[reference: mahler2025][reference: mahler2026] Although these extrapolations carry significant uncertainty, particularly for the earlier decades where survey data are limited,  such modeling provides a useful approximation of long-term trends in global poverty.",
       "type": "text",
       "translationPrefix": "goal_01.content.#2"
     },
@@ -59,7 +59,7 @@
       "alt-text": "Global poverty rate time series",
       "data_download": "01_data_global_poverty.csv",
       "data": "1Wj93Lyhbf1AS0t7A6AlU6WUgItdDEsQA7YlF4VtB3Vg",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\" rel=\"external\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\" rel=\"external\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\" rel=\"external\">Mahler et al. 2025</a>.",
       "indicator_360": "WB_WDI_SI_POV_DDAY",
       "translationPrefix": "goal_01.content.#4"
     },
@@ -78,7 +78,7 @@
       "graphic": "poverty_regions",
       "title": "Extreme poverty has fallen in most regions since 1950",
       "subtitle": "Poverty rate by region (%)",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\" rel=\"external\">Mahler et al. 2026</a>, <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\" rel=\"external\">Mahler et al. 2025</a>.",
       "y_axis_title": "Poverty rate",
       "y_axis_units": "%",
       "visdescription": "Global extreme poverty has fallen from about 60 percent in 1950 to about 10 percent in 2025",
@@ -100,7 +100,7 @@
       "graphic": "poverty_scroller",
       "title": "Several countries have eliminated poverty since 1950",
       "subtitle": "",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>.",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\" rel=\"external\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\" rel=\"external\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\" rel=\"external\">Mahler et al. 2025</a>.",
       "visdescription": "Poverty trends across selected countries from 1950-2025 as well as projections to 2050 for selected countries that still have high poverty rates. ",
       "theme": "light (alternatively: dark)",
       "data_download": "01_data_country_poverty.zip",
@@ -210,8 +210,8 @@
       "title": "Global poverty could increase if current trends continue",
       "subtitle": "",
       "visSize": "small",
-      "skip": "If all countries progress at Korea’s pace, global extreme poverty would be reduced to 1 percent by 2050. But copying Korea's trajectory will be difficult. If countries progress at the pace of Brazil or Türkiye, there will be modest declines, and if they progress at the typical speed observed since 1950, global extreme poverty will stand at 8.5 percent poverty by 2050. Unfortunately, the speed of global poverty reduction has slowed down over the past years, and if countries continue on their current paths, global poverty will start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed]",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. 2025</a>",
+      "skip": "If all countries progress at Korea’s pace, global extreme poverty would be reduced to 1 percent by 2050. But copying Korea's trajectory will be difficult. If countries progress at the pace of Brazil or Türkiye, there will be modest declines, and if they progress at the typical speed observed since 1950, global extreme poverty will stand at 8.5 percent poverty by 2050. Unfortunately, the speed of global poverty reduction has slowed down over the past years, and if countries continue on their current paths, global poverty will start to increase.[footnote: See the <a href=\"https://data360.worldbank.org/en/atlas/measuring-progress\" target=\"_blank\" rel=\"external\">Explainer</a> for how these projections are constructed]",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\" rel=\"external\">World Bank Macro and Poverty Outlook April 2026</a>, <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\" rel=\"external\">Mahler et al. 2026</a>, and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\" rel=\"external\">Mahler et al. 2025</a>",
       "y_axis_title": "Poverty rate",
       "y_axis_units": "%",
       "rate4": "Korea’s path",
@@ -248,7 +248,7 @@
         {
           "type": "scene",
           "id": "rateH",
-          "text": "Unfortunately, the speed of global poverty reduction has slowed down over the past years, and if countries continue on their current paths, global poverty will start to increase.[footnote: See the explainer “<a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Measuring Progress</a>” for details on how these paths are constructed. ",
+          "text": "Unfortunately, the speed of global poverty reduction has slowed down over the past years, and if countries continue on their current paths, global poverty will start to increase.[footnote: See the explainer “<a href=\"https://data360.worldbank.org/en/atlas/measuring-progress\" target=\"_blank\" rel=\"external\">Measuring Progress</a>” for details on how these paths are constructed. ",
           "translationPrefix": "goal_01.content.#17.scenes.#3"
         }
       ],
@@ -313,7 +313,7 @@
       "translationPrefix": "goal_01.content.#28"
     },
     {
-      "text": "Defining countries in conflict, with poor economic management, or facing high levels of corruption as being <a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\">in fragile and conflict-affected situations</a> or having low <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\">Country Policy and Institutional Assessment</a> scores, we can overlay these root causes with a lack of progress on curbing extreme poverty. Of the 43 countries that are not on a path to curb extreme poverty to 10 percent by 2050, all but 10 suffer from conflict, poor economic management, or high levels of corruption. Seven—Afghanistan, Haiti, Mozambique, South Sudan, Sudan, Somalia, and the Republic of Yemen—suffer from all three. ",
+      "text": "Defining countries in conflict, with poor economic management, or facing high levels of corruption as being <a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\" rel=\"external\">in fragile and conflict-affected situations</a> or having low <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\" rel=\"external\">Country Policy and Institutional Assessment</a> scores, we can overlay these root causes with a lack of progress on curbing extreme poverty. Of the 43 countries that are not on a path to curb extreme poverty to 10 percent by 2050, all but 10 suffer from conflict, poor economic management, or high levels of corruption. Seven—Afghanistan, Haiti, Mozambique, South Sudan, Sudan, Somalia, and the Republic of Yemen—suffer from all three. ",
       "type": "text",
       "translationPrefix": "goal_01.content.#29"
     },
@@ -322,7 +322,7 @@
       "graphic": "venn_diagram",
       "title": "Most of the world’s poor live in countries that suffer from conflict, poor economic management, and/or high corruption",
       "subtitle": "Countries not on track to reduce poverty to 10 percent by 2050",
-      "source": "<a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\">Classification of fragile and conflict-affected situations</a>  and <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\">Country Policy and Institutional Assessment</a>.",
+      "source": "<a href=\"https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/classification-of-fragile-and-conflict-affected-situations\" target=\"_blank\" rel=\"external\">Classification of fragile and conflict-affected situations</a>  and <a href=\"https://databank.worldbank.org/source/country-policy-and-institutional-assessment\" target=\"_blank\" rel=\"external\">Country Policy and Institutional Assessment</a>.",
       "visdescription": "The overlap between acute insecurity, poor economic management, and high corruption and low accountability",
       "theme": "light (alternatively: dark)",
       "data_download": "01_data_causes.csv",
@@ -366,7 +366,7 @@
       "graphic": "national_poverty_comparison",
       "title": "Countries with low extreme poverty rates often suffer from other forms of poverty",
       "subtitle": "",
-      "source": "<a href=\"https://data.worldbank.org/indicator/SI.POV.NAHC\" target=\"_blank\">World Development Indicators</a> and <a href=\"https://unstats.un.org/sdgs/dataportal\" target=\"_blank\">United Nations SDG Database</a>.",
+      "source": "<a href=\"https://data.worldbank.org/indicator/SI.POV.NAHC\" target=\"_blank\" rel=\"external\">World Development Indicators</a> and <a href=\"https://unstats.un.org/sdgs/dataportal\" target=\"_blank\" rel=\"external\">United Nations SDG Database</a>.",
       "visdescription": "Comparison between multidimensional and monetary poverty rates across selected countries.",
       "international_poverty_rate": "International poverty rate",
       "multidimensional": "National multidimensional poverty rate",
@@ -389,20 +389,20 @@
   ],
   "references": {
     "type": "references",
-    "foster2025": "Foster, E,  Jolliffe, D, Lara Ibarra, G,  Lakner, C, Tetteh Baah, S. 2025. <a href=\"https://doi.org/10.1596/1813-9450-11137\" target=\"_blank\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a> World Bank.",
-    "mahler2026": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years.</a> World Bank.",
-    "mahler2025": "Mahler, D G, Foster, E, Lakner, C, Prinsloo, Z, Tchouakam Mbouendeu, R and Tetteh-Baah, S K. 2025. <a href=\"https://doi.org/10.1596/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a>. Global Poverty Monitoring Technical Note No. 45. World Bank.",
-    "worldbank2026": "World Bank. 2026. <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">Macro Poverty Outlook April 2026</a>. Washington DC: World Bank Group.",
-    "jolliffe2016": "Jolliffe, D and Prydz, E B. 2016. “<a href=\"https://doi.org/10.1007/s10888-016-9327-5\" target=\"_blank\">Estimating International Poverty Lines from Comparable National Thresholds.</a>“ Journal of Economic Inequality 15: 185–198.",
-    "berg2012": "Berg, A, Ostry, J D and Zettelmeyer, J. 2012. \"<a href=\"https://doi.org/10.1016/j.jdeveco.2011.08.002\" target=\"_blank\">What Makes Growth Sustained?</a>\" Journal of Development Economics 98(2): 149–166.",
-    "hausmann2005": "Hausmann, R, Pritchett, L and Rodrik, D. 2005. \"<a href=\"https://doi.org/10.1007/s10887-005-4712-0\" target=\"_blank\">Growth Accelerations</a>.\" Journal of Economic Growth 10: 303–329.",
-    "cunningham2024": "Cunningham, W, Demirag, D and  Weber, M. 2024. <a href=\"http://documents.worldbank.org/curated/en/099055012062427965\" target=\"_blank\">Human Capital for More Jobs: Connecting People to Work and Creating Entrepreneurs</a>. Washington DC: World Bank Group.",
-    "worldbank2025b": "World Bank 2025. <a href=\"https://doi.org/10.1596/978-1-4648-2156-1\" target=\"_blank\">State of Social Protection Report 2025: The 2-Billion Person Challenge.</a> Washington  DC: World Bank Group.",
-    "corral2020": "Corral, P, Irwin, A, Krishnan, N, Mahler, D G and Vishwanath, T. 2020. <a href=\"https://doi.org/10.1596/978-1-4648-1540-9\" target=\"_blank\">Fragility and Conflict: On the Front Lines of the Fight Against Poverty</a><a href=\"https://doi.org/10.1596/978-1-4648-1540-9\" target=\"_blank\">.</a> World Bank.",
-    "worldbank2017": "World Bank 2017. <a href=\"https://www.worldbank.org/en/publication/wdr2017\" target=\"_blank\">World Development Report 2017: Governance and the Law.</a> Washington DC: World Bank Group.",
-    "hallegatte2016": "Hallegatte, S, Bangalore, M, Bonzanigo, L, Fay, M, Kane, T, Narloch, U, Rozenberg, J, Treguer, D and Vogt-Schilb, A. 2016. <a href=\"https://doi.org/10.1596/978-1-4648-0673-5\" target=\"_blank\">Shock Waves: Managing the Impacts of Climate Change on Poverty</a><a href=\"https://doi.org/10.1596/978-1-4648-0673-5\" target=\"_blank\">.</a> World Bank.",
-    "worldbank2025c": "World Bank. 2025. <a href=\"https://doi.org/10.1596/978-1-4648-2262-9\" target=\"_blank\">International Debt Report 2025. </a>Washington DC: World Bank Group.",
-    "sulla2022": "Sulla, V, Zikahali, P, Cuevas, P F. 2022. <a href=\"http://documents.worldbank.org/curated/en/099125303072236903\" target=\"_blank\">Inequality in Southern Africa: An Assessment of the Southern African Customs Union</a>. Washington, DC: World Bank Group. ",
+    "foster2025": "Foster, E,  Jolliffe, D, Lara Ibarra, G,  Lakner, C, Tetteh Baah, S. 2025. <a href=\"https://doi.org/10.1596/1813-9450-11137\" target=\"_blank\" rel=\"external\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a> World Bank.",
+    "mahler2026": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. <a href=\"https://doi.org/10.1596/1813-9450-11350\" target=\"_blank\" rel=\"external\">The World Is Developing at Its Slowest Pace in 75 Years.</a> World Bank.",
+    "mahler2025": "Mahler, D G, Foster, E, Lakner, C, Prinsloo, Z, Tchouakam Mbouendeu, R and Tetteh-Baah, S K. 2025. <a href=\"https://doi.org/10.1596/43363\" target=\"_blank\" rel=\"external\">Constructing Comparable Global Poverty Trends</a>. Global Poverty Monitoring Technical Note No. 45. World Bank.",
+    "worldbank2026": "World Bank. 2026. <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\" rel=\"external\">Macro Poverty Outlook April 2026</a>. Washington DC: World Bank Group.",
+    "jolliffe2016": "Jolliffe, D and Prydz, E B. 2016. “<a href=\"https://doi.org/10.1007/s10888-016-9327-5\" target=\"_blank\" rel=\"external\">Estimating International Poverty Lines from Comparable National Thresholds.</a>“ Journal of Economic Inequality 15: 185–198.",
+    "berg2012": "Berg, A, Ostry, J D and Zettelmeyer, J. 2012. \"<a href=\"https://doi.org/10.1016/j.jdeveco.2011.08.002\" target=\"_blank\" rel=\"external\">What Makes Growth Sustained?</a>\" Journal of Development Economics 98(2): 149–166.",
+    "hausmann2005": "Hausmann, R, Pritchett, L and Rodrik, D. 2005. \"<a href=\"https://doi.org/10.1007/s10887-005-4712-0\" target=\"_blank\" rel=\"external\">Growth Accelerations</a>.\" Journal of Economic Growth 10: 303–329.",
+    "cunningham2024": "Cunningham, W, Demirag, D and  Weber, M. 2024. <a href=\"http://documents.worldbank.org/curated/en/099055012062427965\" target=\"_blank\" rel=\"external\">Human Capital for More Jobs: Connecting People to Work and Creating Entrepreneurs</a>. Washington DC: World Bank Group.",
+    "worldbank2025b": "World Bank 2025. <a href=\"https://doi.org/10.1596/978-1-4648-2156-1\" target=\"_blank\" rel=\"external\">State of Social Protection Report 2025: The 2-Billion Person Challenge.</a> Washington  DC: World Bank Group.",
+    "corral2020": "Corral, P, Irwin, A, Krishnan, N, Mahler, D G and Vishwanath, T. 2020. <a href=\"https://doi.org/10.1596/978-1-4648-1540-9\" target=\"_blank\" rel=\"external\">Fragility and Conflict: On the Front Lines of the Fight Against Poverty</a><a href=\"https://doi.org/10.1596/978-1-4648-1540-9\" target=\"_blank\" rel=\"external\">.</a> World Bank.",
+    "worldbank2017": "World Bank 2017. <a href=\"https://www.worldbank.org/en/publication/wdr2017\" target=\"_blank\" rel=\"external\">World Development Report 2017: Governance and the Law.</a> Washington DC: World Bank Group.",
+    "hallegatte2016": "Hallegatte, S, Bangalore, M, Bonzanigo, L, Fay, M, Kane, T, Narloch, U, Rozenberg, J, Treguer, D and Vogt-Schilb, A. 2016. <a href=\"https://doi.org/10.1596/978-1-4648-0673-5\" target=\"_blank\" rel=\"external\">Shock Waves: Managing the Impacts of Climate Change on Poverty</a><a href=\"https://doi.org/10.1596/978-1-4648-0673-5\" target=\"_blank\" rel=\"external\">.</a> World Bank.",
+    "worldbank2025c": "World Bank. 2025. <a href=\"https://doi.org/10.1596/978-1-4648-2262-9\" target=\"_blank\" rel=\"external\">International Debt Report 2025. </a>Washington DC: World Bank Group.",
+    "sulla2022": "Sulla, V, Zikahali, P, Cuevas, P F. 2022. <a href=\"http://documents.worldbank.org/curated/en/099125303072236903\" target=\"_blank\" rel=\"external\">Inequality in Southern Africa: An Assessment of the Southern African Customs Union</a>. Washington, DC: World Bank Group. ",
     "translationPrefix": "goal_01.references"
   },
   "translationPrefix": "goal_01"

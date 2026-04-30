@@ -5,7 +5,7 @@
     "shortTitle": "Global Progress",
     "title": "Tracking Progress in Global Development",
     "abstract": "After decades of progress, global development has reached a critical phase. Today, progress is taking place at its slowest pace in 75 years. The slowdown spans several areas of development including life expectancy, poverty reduction, education, and women’s empowerment. Explore the data to see how progress is unfolding across countries worldwide.",
-    "citation": "Lambrechts, M, Mahler D G, Thudt, A and Wadhwa, D. 2026. “<a href=\"https://doi.org/10.60616/hy02-4e74\" target=\"_blank\">Global Progress is Grinding to a Halt.</a>” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
+    "citation": "Lambrechts, M, Mahler D G, Thudt, A and Wadhwa, D. 2026. “<a href=\"https://doi.org/10.60616/hy02-4e74\" target=\"_blank\" rel=\"external\">Global Progress is Grinding to a Halt.</a>” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
     "credits": "Daniel Gerszon Mahler & Divyanshi Wadhwa ",
     "inputs": "Nishant Yonzan, Rossana Tatulli",
     "visuals": "Alice Thudt & Maarten Lambrechts",
@@ -33,7 +33,7 @@
       "translationPrefix": "goal_dashboard.content.#2"
     },
     {
-      "text": "It is difficult to compare progress across this diverse set of development indicators over time. It can be done by comparing a country’s progress against the typical progress observed over the past 75 years for countries that were at the same stage of development. For example, if it typically takes 10 years to decrease poverty rates from 20 to 15 percent and a country did this in five years, it can be said to have moved twice as fast as the typical experience. If it achieved the feat in 10 years, it moved at typical speed—a speed of one— and if it took 20 years, it moved at a speed of a half.[footnote: See an interactive visual explanation of how these speed scores are constructed <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">here</a>.]",
+      "text": "It is difficult to compare progress across this diverse set of development indicators over time. It can be done by comparing a country’s progress against the typical progress observed over the past 75 years for countries that were at the same stage of development. For example, if it typically takes 10 years to decrease poverty rates from 20 to 15 percent and a country did this in five years, it can be said to have moved twice as fast as the typical experience. If it achieved the feat in 10 years, it moved at typical speed—a speed of one— and if it took 20 years, it moved at a speed of a half.[footnote: See an interactive visual explanation of how these speed scores are constructed <a href=\"https://data360.worldbank.org/en/atlas/measuring-progress\" target=\"_blank\" rel=\"external\">here</a>.]",
       "type": "text",
       "translationPrefix": "goal_dashboard.content.#3"
     },
@@ -47,7 +47,7 @@
       "graphic": "indicators_progress",
       "title": "The global speed of progress is falling in many domains",
       "subtitle": "Global average speed of progress, 1950–2024",
-      "source": "<a href=\"https://hdl.handle.net/10986/44655\" target=\"_blank\">Mahler et al. 2026</a>",
+      "source": "<a href=\"https://hdl.handle.net/10986/44655\" target=\"_blank\" rel=\"external\">Mahler et al. 2026</a>",
       "lifeexpectancy": "Life expectancy",
       "education": "Years of schooling",
       "gender": "Women political empowerment index",
@@ -222,7 +222,7 @@
   ],
   "references": {
     "type": "references",
-    "mahler2026": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. <a href=\"https://hdl.handle.net/10986/44655\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years</a>. World Bank Policy Research Working Paper 11350",
+    "mahler2026": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026. <a href=\"https://hdl.handle.net/10986/44655\" target=\"_blank\" rel=\"external\">The World Is Developing at Its Slowest Pace in 75 Years</a>. World Bank Policy Research Working Paper 11350",
     "translationPrefix": "goal_dashboard.references"
   },
   "translationPrefix": "goal_dashboard"
