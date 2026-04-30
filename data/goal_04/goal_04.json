@@ -195,12 +195,13 @@
       "y_units": "",
       "decreasing": "Decreasing",
       "increasing": "Increasing",
-      "source": "World Bank. 2026. Human Capital Index Plus. <a href=\"https://humancapital.worldbank.org/hciplus/\" target=\"_blank\" rel=\"external\">https://humancapital.worldbank.org/hciplus/</a>. <a href=\"https://data360.worldbank.org/en/int/indicator/HD_HCIP_LAYS\" target=\"_blank\" rel=\"external\">https://data360.worldbank.org/en/int/indicator/HD_HCIP_LAYS</a> ",
+      "source": "World Bank. 2026. Human Capital Index Plus. <a href=\"https://humancapital.worldbank.org/hciplus/\" target=\"_blank\" rel=\"external\">https://humancapital.worldbank.org/hciplus/</a>. ",
       "visdescription": "The graphic shows a scatterplot of Learning-adjusted years of schooling in 2010 versus 2025",
       "data_download": "04_data_lays_scatter.csv",
       "data": "1esEqT9Zx2CTlF788bpNp6lyMYEuRoSP4lELpb9LJyGU",
       "keyFact": "In 1 in 3",
       "keyFactLabel": "low- and lower-middle-income economies, learning-adjusted years of schooling fell between 2010 and 2025.",
+      "indicator_360": "HD_HCIP_LAYS",
       "translationPrefix": "goal_04.content.#19"
     },
     {

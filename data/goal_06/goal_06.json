@@ -314,7 +314,7 @@
         {
           "type": "scene",
           "id": "tanzania_start",
-          "text": "In 2000, nearly 15 percent of people in Tanzania had access to <span style=\"color: rgb(255,255,255); background-color: rgb(78,194,192);\">uncontaminated water</span>, but only 1 percent had access to <span data-color-id=\"cat1\" class=\"cat1\">water on premises</span>.",
+          "text": "In 2000, nearly 15 percent of people in [emphasis: Tanzania ]had access to <span style=\"color: rgb(255,255,255); background-color: rgb(78,194,192);\">uncontaminated water</span>, but only 1 percent had access to <span data-color-id=\"cat1\" class=\"cat1\">water on premises</span>.",
           "translationPrefix": "goal_06.content.#21.scenes.#0"
         },
         {
@@ -375,21 +375,26 @@
       "translationPrefix": "goal_06.content.#27"
     },
     {
-      "text": "<span style=\"background-color: rgb(255,255,255);\">Water contaminated by human feces can lead to acute diseases and pose life-threatening risks, particularly to infants and young children who are most vulnerable as their immune systems are still developing. </span>",
+      "text": "<span style=\"background-color: rgb(255,255,255);\">Water contaminated by human feces can lead to acute diseases and pose life-threatening risks, particularly to infants and young children who are most vulnerable as their immune systems are still developing. The scale of the impact is dramatic. In 2019 alone, 270,000 children under five died from diarrheal diseases attributable to unsafe water, sanitation, and hygiene [reference: burden_disease]</span>",
       "type": "text",
       "translationPrefix": "goal_06.content.#28"
+    },
+    {
+      "text": "<span style=\"background-color: rgb(255,255,255);\"></span>",
+      "type": "text",
+      "translationPrefix": "goal_06.content.#29"
     },
     {
       "type": "factoid",
       "title": "In 2019",
       "number": "270,000",
-      "label": "children under five died from diarrheal diseases attributable to unsafe water, sanitation, and hygiene [reference: burden_disease]",
-      "translationPrefix": "goal_06.content.#29"
+      "label": "children under five died from diarrheal diseases attributable to unsafe water, sanitation, and hygiene",
+      "translationPrefix": "goal_06.content.#30"
     },
     {
       "text": "To assess fecal contamination through household surveys, the presence of <span style=\"background-color: rgb(255,255,255);\"><i></span>E. coli<span style=\"background-color: rgb(255,255,255);\"></i></span> is measured in a 100 milliliter (mL) water sample. According to the WHO risk levels,  water is classified as low risk if it contains fewer than 1 CFU[footnote:  CFU measures the number of viable E. coli bacteria in a water sample, expressed as colony-forming units per 100 mL.]<span style=\"background-color: rgb(255,255,255);\"><i></span> E. coli </i>per 100 mL, moderate risk if it contains 1–10 CFU, high risk if it contains 11–100 CFU, and very high risk if it exceeds 100 CFU<span style=\"background-color: rgb(255,255,255);\"><i></span>E. coli <span style=\"background-color: rgb(255,255,255);\"></i></span>per 100 mL.[reference: jmp_test]",
       "type": "text",
-      "translationPrefix": "goal_06.content.#30"
+      "translationPrefix": "goal_06.content.#31"
     },
     {
       "type": "vis",
@@ -408,17 +413,17 @@
       "mediumRiskLabel": "Medium risk",
       "highRiskLabel": "High risk",
       "veryHighRiskLabel": "Very high risk",
-      "translationPrefix": "goal_06.content.#31"
-    },
-    {
-      "text": "Although water can be contaminated when collected, it can also get further contaminated during transport, storage, or handling—for example through unhygienic or uncovered containers, dirty ladles or cups, or contaminated hands.[reference: ecoli_storage]",
-      "type": "text_emphasis",
       "translationPrefix": "goal_06.content.#32"
     },
     {
-      "text": "In household surveys such as the Multiple Indicator Cluster Surveys (MICS), water quality testing is conducted both at the point of collection—that is, [emphasis: at the household’s primary drinking water source, ]such as a tap, well, or protected spring—and at point of use, that is, [emphasis: within the household, ]typically from a drinking glass or container. The water is tested for <i>E. coli</i> at both points to assess the level of contamination. ",
-      "type": "text",
+      "text": "Although water can be contaminated when collected, it can also get further contaminated during transport, storage, or handling—for example through unhygienic or uncovered containers, dirty ladles or cups, or contaminated hands.",
+      "type": "text_emphasis",
       "translationPrefix": "goal_06.content.#33"
+    },
+    {
+      "text": "In household surveys such as the Multiple Indicator Cluster Surveys (MICS), water quality testing is conducted both at the [emphasis: <span style=\"background-color: rgb(236,182,59);\">point of collection</span>]—that is, [emphasis: at the household’s primary drinking water source, ]such as a tap, well, or protected spring—and at [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(141,65,23);\">point of use</span>], that is, [emphasis: within the household, ]typically from a drinking glass or container. The water is tested for <i>E. coli</i> at both points to assess the level of contamination. The scale of the impact is dramatic. In 2019 alone, 270,000 children under five died from diarrheal diseases attributable to unsafe water, sanitation, and hygiene [reference: burden_disease]",
+      "type": "text",
+      "translationPrefix": "goal_06.content.#34"
     },
     {
       "type": "scroller",
@@ -440,52 +445,52 @@
           "type": "scene",
           "id": "scene1",
           "text": "Let’s look at the shares of people who use water with high and very high <i>E. coli </i> risk levels at[emphasis:  ][emphasis: <span style=\"background-color: rgb(236,182,59);\">point of collection</span>] (the household’s primary drinking water source, such as a tap or well).  In 15 countries, at least half the population collects drinking water that already has high or very high levels of <i>E. coli</i> contamination.  ",
-          "translationPrefix": "goal_06.content.#34.scenes.#0"
+          "translationPrefix": "goal_06.content.#35.scenes.#0"
         },
         {
           "type": "scene",
           "id": "scene2",
           "text": "Contamination rates are even higher when measured at [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(141,65,23);\">point of use</span>] (the water actually consumed within the household). In 26 countries, more than half the population drinks water with high or very high risk of <i>E.coli</i> contamination, as shown by household-level tests.  ",
-          "translationPrefix": "goal_06.content.#34.scenes.#1"
+          "translationPrefix": "goal_06.content.#35.scenes.#1"
         },
         {
           "type": "scene",
           "id": "scene3",
           "text": "In 28 countries, contamination levels [emphasis: at ][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(141,65,23);\">point of use</span>] were higher than at [emphasis: <span style=\"background-color: rgb(236,182,59);\">point of collection</span>]. For example, in [emphasis: Malawi], 36 percent of the population are exposed to high or very high levels of contamination at point of collection, rising to 81 percent at point of use.  ",
-          "translationPrefix": "goal_06.content.#34.scenes.#2"
+          "translationPrefix": "goal_06.content.#35.scenes.#2"
         }
       ],
-      "translationPrefix": "goal_06.content.#34"
+      "translationPrefix": "goal_06.content.#35"
     },
     {
       "text": "In countries with available data, households commonly store water before they consume it, which can increase the risk of contamination. ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#35"
+      "translationPrefix": "goal_06.content.#36"
     },
     {
       "text": "Household water treatment—such as boiling, chlorination, filtration, or solar disinfection—is therefore an important public health intervention, reducing bacterial and other microbial contamination. But treatment practices are often uncommon, and when reported, are not always effective due to incorrect or inconsistent application.[reference: ecoli_research]",
       "type": "text",
-      "translationPrefix": "goal_06.content.#36"
+      "translationPrefix": "goal_06.content.#37"
     },
     {
       "text": "<span style=\"background-color: rgb(255,255,255);\"><i></span>E.coli<span style=\"background-color: rgb(255,255,255);\"></i></span> contamination: urban-rural gap ",
       "type": "subhed2",
-      "translationPrefix": "goal_06.content.#37"
+      "translationPrefix": "goal_06.content.#38"
     },
     {
       "text": "<span style=\"background-color: rgb(255,255,255);\">Urban–rural disparities in water contamination are widespread. In most countries with available survey data, rural populations face substantially higher risks of drinking </span><span style=\"background-color: rgb(255,255,255);\">contaminated </span><span style=\"background-color: rgb(255,255,255);\">water than their urban counterparts. </span>",
       "type": "text",
-      "translationPrefix": "goal_06.content.#38"
+      "translationPrefix": "goal_06.content.#39"
     },
     {
       "text": "<span style=\"background-color: rgb(255,255,255);\"></span>",
       "type": "text",
-      "translationPrefix": "goal_06.content.#39"
+      "translationPrefix": "goal_06.content.#40"
     },
     {
       "text": "<span style=\"background-color: rgb(255,255,255);\">For example, </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">in Fiji, 56 percent of rural residents use water sources classified as high or very high risk,</span>]<span style=\"background-color: rgb(255,255,255);\"> compared to 4 percent of urban residents. Many rural communities are geographically isolated and depend on untreated sources, such as surface water, rainwater, wells, and boreholes. Climate change and increasingly severe extreme weather events intensify the risk of microbial contamination.</span>[reference: fiji1] <span style=\"background-color: rgb(255,255,255);\">The picture</span>[emphasis: <span style=\"background-color: rgb(255,255,255);\"> </span>]<span style=\"background-color: rgb(255,255,255);\">is similar</span>[emphasis: <span style=\"background-color: rgb(255,255,255);\"> </span>]<span style=\"background-color: rgb(255,255,255);\">in </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">Togo </span>]<span style=\"background-color: rgb(255,255,255);\">and the</span>[emphasis: <span style=\"background-color: rgb(255,255,255);\"> Congo, Rep.,</span>]<span style=\"background-color: rgb(255,255,255);\"> where 72 and 56 percent of rural residents use high-risk water sources, compared to 26 and 10 percent </span><span style=\"background-color: rgb(255,255,255);\">of urban residents, </span><span style=\"background-color: rgb(255,255,255);\">respectively.</span>",
       "type": "text",
-      "translationPrefix": "goal_06.content.#40"
+      "translationPrefix": "goal_06.content.#41"
     },
     {
       "type": "vis",
@@ -501,32 +506,32 @@
       "legendUrban": "Urban",
       "legendRural": "Rural",
       "gapLabel": "gap",
-      "translationPrefix": "goal_06.content.#41"
+      "translationPrefix": "goal_06.content.#42"
     },
     {
       "text": "Chemical contaminants in water",
       "type": "subhed",
-      "translationPrefix": "goal_06.content.#42"
+      "translationPrefix": "goal_06.content.#43"
     },
     {
-      "text": "<span style=\"background-color: rgb(255,255,255);\">Beyond risks from fecal contamination, </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">chemical contaminants such as arsenic, fluoride, nitrates, and heavy metals also pose serious long-term health threats</span>]<span style=\"background-color: rgb(255,255,255);\">. Among these, arsenic and fluoride are considered priority concerns for drinking water.[reference: </span>who_priority]<span style=\"background-color: rgb(255,255,255);\"> At low concentrations, fluoride strengthens teeth; but excessive exposure can have adverse effects on skeletal tissues, including dental and skeletal fluorosis,</span>[reference: who_guideline] <span style=\"background-color: rgb(255,255,255);\">characterized by changes in bone and tooth structure. Arsenic contamination is also harmful, and </span><span style=\"background-color: rgb(255,255,255);\">prolonged exposure is </span>a<span style=\"background-color: rgb(255,255,255);\">ssociated with skin lesions, cancers, cardiovascular disease, and cognitive impairment.</span>[reference: arsenic_exposure] <span style=\"background-color: rgb(255,255,255);\"> </span>",
+      "text": "<span style=\"background-color: rgb(255,255,255);\">Beyond risks from fecal contamination, </span>[emphasis: <span style=\"background-color: rgb(255,255,255);\">chemical contaminants such as arsenic, fluoride, nitrates, and heavy metals also pose serious long-term health threats</span>]<span style=\"background-color: rgb(255,255,255);\">. Among these, arsenic and fluoride are considered priority concerns for drinking water.</span>[reference: sdg_priority]<span style=\"background-color: rgb(255,255,255);\"> At low concentrations, fluoride strengthens teeth; but excessive exposure can have adverse effects on skeletal tissues, including dental and skeletal fluorosis,</span>[reference: who_guideline] <span style=\"background-color: rgb(255,255,255);\">characterized by changes in bone and tooth structure. Arsenic contamination is also harmful, and </span><span style=\"background-color: rgb(255,255,255);\">prolonged exposure is </span>a<span style=\"background-color: rgb(255,255,255);\">ssociated with skin lesions, cancers, cardiovascular disease, and cognitive impairment.</span>[reference: arsenic_exposure] <span style=\"background-color: rgb(255,255,255);\"> </span>",
       "type": "text",
-      "translationPrefix": "goal_06.content.#43"
+      "translationPrefix": "goal_06.content.#44"
     },
     {
       "text": "Drinking water contaminated with arsenic in Bangladesh ",
       "type": "subhed2",
-      "translationPrefix": "goal_06.content.#44"
+      "translationPrefix": "goal_06.content.#45"
     },
     {
       "text": "Arsenic is a naturally occurring element found in the Earth’s crust. About 140 million people across at least 70 countries consume water containing arsenic at levels above WHO’s guideline value of 10 parts per billion (ppb).[reference: who_guideline] [emphasis: The largest numbers of people exposed to arsenic in drinking water are in][emphasis:  Bangladesh and India].[reference: arsenic_exposure][reference: arsenic_bgd] ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#45"
+      "translationPrefix": "goal_06.content.#46"
     },
     {
       "text": "Bangladesh faces the world’s most severe arsenic crisis: since the 1990s, millions of people have been exposed, leading to cancers, skin disease, and adverse pregnancy outcomes. Around 17 percent of the population drinks water with arsenic concentrations above the WHO guideline. ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#46"
+      "translationPrefix": "goal_06.content.#47"
     },
     {
       "type": "scroller",
@@ -550,26 +555,26 @@
           "type": "scene",
           "id": "scene1",
           "text": "Rural dwellers in Bangladesh are more exposed to arsenic-contaminated water than their urban counterparts. While 12 percent of the people in rural areas are exposed to arsenic levels exceeding 50 ppb, less than 5 percent of the urban population face the same challenge.",
-          "translationPrefix": "goal_06.content.#47.scenes.#0"
+          "translationPrefix": "goal_06.content.#48.scenes.#0"
         },
         {
           "type": "scene",
           "id": "scene2",
           "text": "Looking at arsenic contamination by wealth quintiles, people in the poorer and middle wealth quintiles face greater exposure than those in the wealthiest. ",
-          "translationPrefix": "goal_06.content.#47.scenes.#1"
+          "translationPrefix": "goal_06.content.#48.scenes.#1"
         }
       ],
-      "translationPrefix": "goal_06.content.#47"
+      "translationPrefix": "goal_06.content.#48"
     },
     {
       "text": "[emphasis: Arsenic exposure is particularly high among users of wells, including tubewells, which are the most common source of drinking water in Bangladesh. ]Tubewells are a relatively low-cost way to access shallow groundwater, which is generally less prone to bacterial contamination than surface water. But in Bangladesh, due to geological conditions, many of these water sources are contaminated with arsenic.[reference: arsenic_bgd]",
       "type": "text",
-      "translationPrefix": "goal_06.content.#48"
+      "translationPrefix": "goal_06.content.#49"
     },
     {
       "text": "Among people who rely on wells, roughly one in five (about 20 percent) are exposed to arsenic concentrations above the WHO guideline of 10 ppb. This risk is substantially lower for other water sources: only about 5 percent of those with piped water and 1.5 percent of those using alternative sources exceed this level. At higher concentrations, above the national standard of 50 ppb, the same pattern holds. About 12 percent of well users are exposed at these levels, compared with 3 percent of piped-water users and just 0.5 percent of those relying on other sources.",
       "type": "text",
-      "translationPrefix": "goal_06.content.#49"
+      "translationPrefix": "goal_06.content.#50"
     },
     {
       "type": "vis",
@@ -586,42 +591,42 @@
       "waterWells": "Water wells",
       "allOtherSources": "All other sources",
       "exposedTo": "exposed to",
-      "translationPrefix": "goal_06.content.#50"
+      "translationPrefix": "goal_06.content.#51"
     },
     {
       "text": "Bangladesh government initiatives and programs for solving arsenic issues ",
       "type": "subhed2",
-      "translationPrefix": "goal_06.content.#51"
+      "translationPrefix": "goal_06.content.#52"
     },
     {
       "text": "Since the 1990s, the Government of Bangladesh has introduced a range of programs to address arsenic contamination in drinking water. This  includes nationwide tubewell screening, installation of arsenic-safe water sources, such as piped systems drawing on safe surface water or deep groundwater, the use of household and community filtration technologies, public awareness campaigns, and health sector initiatives to identify and manage arsenic-related illnesses. ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#52"
+      "translationPrefix": "goal_06.content.#53"
     },
     {
       "text": "Yet arsenic contamination remains a pressing challenge. Millions of people continue to rely on unsafe water because arsenic-free options—such as deep wells, piped systems, and rainwater harvesting—are often unavailable, unaffordable, or too distant.[reference: arsenic_bgd] Research indicates that limited resources, gaps in local information, and the sheer number of people and wells affected further complicate mitigation efforts.[reference: arsenic_research] Countries like Bangladesh face the dual burden of microbial risks and arsenic contamination, a problem that is particularly difficult for low- and middle-income countries with constrained resources. ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#53"
+      "translationPrefix": "goal_06.content.#54"
     },
     {
       "text": "Why water quality matters: challenges and the way forward",
       "type": "subhed",
-      "translationPrefix": "goal_06.content.#54"
+      "translationPrefix": "goal_06.content.#55"
     },
     {
       "text": "Major challenges remain in ensuring water quality for all. While global access has progressed over the past two decades, deep inequalities persist across regions, countries, and income groups, and between rural and urban areas. A major challenge is that in many low- and middle-income countries drinking water is still contaminated by <i>E. coli</i> or harmful chemicals, such as arsenic. ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#55"
+      "translationPrefix": "goal_06.content.#56"
     },
     {
       "text": "At the same time, strengthening sanitation and hygiene systems is crucial, but sanitation programs, in particular, remain chronically underfunded in many countries.[reference: SWS] Without adequate sanitation and hand hygiene, investments in water supply are undermined by contamination, perpetuating cycles of disease. ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#56"
+      "translationPrefix": "goal_06.content.#57"
     },
     {
       "text": "As Nobel laureate Michael Kremer emphasizes, the link between water quality, access to safe drinking water, and child survival is especially strong in low- and middle-income countries. Evidence shows that improved water treatment can reduce child mortality by 25 percent, with the greatest benefits for infants and young children.[reference: Kremer] ",
       "type": "text",
-      "translationPrefix": "goal_06.content.#57"
+      "translationPrefix": "goal_06.content.#58"
     }
   ],
   "references": {
@@ -670,7 +675,7 @@
     "fiji1": "International Water Centre and The University of the South Pacific. 2024. <a href=\"https://watercentre.org/wp-content/uploads/2025/05/CWM-Fiji-InfoKit_IWC-USP-FINAL.pdf\" target=\"_blank\" rel=\"external\">Community Water Management: Fiji Information Paper</a>. Griffith University, Nathan, Australia; University of the South Pacific: Suva, Solomon Fiji. ",
     "MICS_survey": "The Multiple Indicator Cluster Survey (MICS) program. <a href=\"https://mics.unicef.org/surveys\" target=\"_blank\" rel=\"external\">“</a><a href=\"https://mics.unicef.org/surveys\" target=\"_blank\" rel=\"external\">Surveys</a><a href=\"https://mics.unicef.org/surveys\" target=\"_blank\" rel=\"external\">.</a>” UNICEF.",
     "Ethiopia_survey": "Central Statistical Agency of Ethiopia. 2017. <a href=\"https://washdata.org/reports/drinking-water-quality-ethiopia-ess-2016\" target=\"_blank\" rel=\"external\">Drinking Water Quality in Ethiopia Results from the 2016 Ethiopia Socioeconomic Survey</a>. ",
-    "who_priority": "WHO. 2018. “<a href=\"https://www.who.int/publications/m/item/arsenic-primer\" target=\"_blank\" rel=\"external\">Arsenic Primer</a>”.  ",
+    "sdg_priority": "United Nations Statistics Division. 2024. “<a href=\"https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf\" target=\"_blank\" rel=\"external\">SDG indicator 6.1.1 metadata: Proportion of population using safely managed drinking water services.</a>” New York: United Nations.",
     "who_guideline": "WHO. 2022. <a href=\"https://www.who.int/publications/i/item/9789240045064\" target=\"_blank\" rel=\"external\">Guidelines for Drinking-water Quality: Fourth Edition Incorporating the First and Second Addenda</a>. Geneva: World Health Organization.",
     "arsenic_exposure": "WHO. 2022. “<a href=\"https://www.who.int/news-room/fact-sheets/detail/arsenic\" target=\"_blank\" rel=\"external\">Arsenic</a>.” Fact sheets, December 7. ",
     "arsenic_bgd": "Ahmad, S A, Khan, M H and Haque, M. 2018. “<a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC6281155/\" target=\"_blank\" rel=\"external\">Arsenic Contamination in Groundwater in Bangladesh: Implications and Challenges for Healthcare Policy</a>.” Risk Management and Healthcare Policy 11: 251–261. ",

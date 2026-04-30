@@ -1,0 +1,1 @@
+import{W as r}from"./MkGVkuHL.js";import{s as t}from"./R0522vgP.js";const e={get error(){return r.error},get params(){return r.params},get status(){return r.status},get url(){return r.url}};t.updated.check;const o=e;export{o as p};

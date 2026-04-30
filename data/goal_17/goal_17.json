@@ -253,7 +253,7 @@
       "data": "1dRBFfgIFVEa4mn6SaaYW_4wxgFKFRYky9hCgppeo_8g",
       "keyFact": "34 points",
       "keyFactLabel": "High-income economies score 34 points higher than low-income economies on the World Bank’s Statistical Performance Indicators.",
-      "indicator_360": "WB_SPI",
+      "indicator_360": "<span style=\"background-color: rgb(255,255,255);\">WB_WDI_IQ_SPI_OVRL</span>",
       "scenes": [
         {
           "type": "scene",
@@ -333,6 +333,7 @@
       "data_download": "17_data_spi_vs_gdp.csv",
       "data": "1OyQNKd9JXj6TCQnS3qOGfpGrN0jcugXE-NTLzrqeTss",
       "textParagraph": "Countries such as <span data-color-id=\"UMC\" class=\"UMC\">Mexico</span>, <span data-color-id=\"LIC\" class=\"LIC\">Burkina Faso</span>, <span data-color-id=\"LMC\" class=\"LMC\">Senegal</span>, <span data-color-id=\"LMC\" class=\"LMC\">Uzbekistan</span>, and the <span data-color-id=\"LMC\" class=\"LMC\">Philippines</span> substantially overperform relative to what would be predicted by their GDP per capita, showing that institutions and sustained investments can build high-performing statistical systems even at modest income levels. ",
+      "indicator_360": "<span style=\"background-color: rgb(255,255,255);\">WB_WDI_IQ_SPI_OVRL</span>",
       "translationPrefix": "goal_17.content.#23"
     },
     {

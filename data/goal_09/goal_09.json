@@ -111,7 +111,7 @@
       "translationPrefix": "goal_09.content.#9"
     },
     {
-      "text": "Another critical divide when it comes to Internet access is the [emphasis: gender gap]. Women and girls are less likely to use the Internet regularly, especially in low-income economies, where around 30 percent of men but less than 20 percent of women are online.[reference: gnd2] ",
+      "text": "Another critical divide when it comes to Internet access is the [emphasis: gender gap]. Worldwide, 280 million more men than women were using the Internet in 2025.[reference: gnd1] Women and girls are less likely to use the Internet regularly, especially in low-income economies, where around 30 percent of men but less than 20 percent of women are online.[reference: gnd2] ",
       "type": "text",
       "translationPrefix": "goal_09.content.#10"
     },
@@ -121,7 +121,7 @@
       "translationPrefix": "goal_09.content.#11"
     },
     {
-      "text": "[emphasis: 280 million more men than women were using the Internet ]in 2025.[reference: gnd1] ",
+      "text": "[emphasis: 280 million more men than women were using the Internet ]in 2025.",
       "type": "text_emphasis",
       "translationPrefix": "goal_09.content.#12"
     },

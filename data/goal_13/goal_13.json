@@ -47,7 +47,7 @@
       "translationPrefix": "goal_13.content.#5"
     },
     {
-      "text": "The population exposed is defined as those people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than one percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate the exposure, a 100-year return period is considered, which is the same as a 1 percent probability that the hazard occurs in a given year. The average life expectancy in the world is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52% to occur in a period of 72 years. ] that a person faces the hazard over their life span. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets and livelihoods.[footnote:  To determine whether a climate-related hazard has a significant impact hazard-specific thresholds are used. For instance, for floods a threshold is used for inundation depth and for cyclones a threshold for wind speed is used.]",
+      "text": "It is estimated that 4.5 billion people were exposed to certain climate-related hazards in 2024. [reference: WB1] The population exposed is defined as those people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than one percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate the exposure, a 100-year return period is considered, which is the same as a 1 percent probability that the hazard occurs in a given year. The average life expectancy in the world is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52% to occur in a period of 72 years. ] that a person faces the hazard over their life span. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets and livelihoods.[footnote:  To determine whether a climate-related hazard has a significant impact hazard-specific thresholds are used. For instance, for floods a threshold is used for inundation depth and for cyclones a threshold for wind speed is used.]",
       "type": "text",
       "translationPrefix": "goal_13.content.#6"
     },
@@ -55,7 +55,7 @@
       "type": "factoid",
       "title": "Population exposed to selected climate-related hazards",
       "number": "4.5",
-      "label": "globally in 2024[reference: WB1]",
+      "label": "globally in 2024",
       "units": "billion people",
       "translationPrefix": "goal_13.content.#7"
     },
