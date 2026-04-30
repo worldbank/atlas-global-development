@@ -5,7 +5,7 @@
     "shortTitle": "Learning and Work",
     "title": "Skills Are Used and Built on the Job",
     "abstract": "Education is one of the most powerful drivers of growth and poverty reduction. Each year of schooling that a worker attains improves productivity and wages. But learning does not end at school; workers acquire a significant share of their skills through on-the-job learning.",
-    "citation": "Stacy, Brian and Christian Lasser. 2026. ”Using and building skills  on the job”. In Atlas of  Global Development 2026, edited by D. Mahler, A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+    "citation": "Stacy, B & Laesser, C. 2026. “<a href=\"https://doi.org/10.60616/jqrt-wa75\" target=\"_blank\">Skills Are Used and Built on the Job</a>.” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
     "credits": "Brian Stacy",
     "inputs": "Norbert Schady, Joana Silva, Alaka Holla",
     "visuals": "Christian Laesser",
@@ -110,7 +110,7 @@
         {
           "type": "scene",
           "id": "4",
-          "text": "Between 1960 and 2025, the average in the <span data-color-id=\"EAS\" class=\"EAS\">Republic of Korea</span> it jumped from around 3.5 to more than 14 years. <span data-color-id=\"MEA\" class=\"MEA\">Egypt</span> improved from less than one year to more than eight years of schooling. In <span data-color-id=\"SAS\" class=\"SAS\">India</span>, it went from around one to nearly eight years, and in <span data-color-id=\"LCN\" class=\"LCN\">Mexico</span> from 2.3 to more than 10 years over the same period. ",
+          "text": "Between 1960 and 2025, the average in the <span data-color-id=\"EAS\" class=\"EAS\">Republic of Korea</span> jumped from around 3.5 to more than 14 years. <span data-color-id=\"MEA\" class=\"MEA\">Egypt</span> improved from less than one year to more than eight years of schooling. In <span data-color-id=\"SAS\" class=\"SAS\">India</span>, it went from around one to nearly eight years, and in <span data-color-id=\"LCN\" class=\"LCN\">Mexico</span> from 2.3 to more than 10 years over the same period. ",
           "translationPrefix": "goal_04.content.#9.scenes.#3"
         },
         {
@@ -179,7 +179,7 @@
       "translationPrefix": "goal_04.content.#17"
     },
     {
-      "text": "A concerning trend is that learning has been declining in many low- and lower-middle-income countries, especially in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>.[reference: holla_silva_schady2026] In some cases, this declining trend in learning is cancelling out the increase in years of schooling that have taken place in recent years, with learning-adjusted years of schooling falling. Out of 37 <span data-color-id=\"LIC\" class=\"LIC\">low</span>- or <span data-color-id=\"LMC\" class=\"LMC\">lower-middle-income</span> countries with internationally comparable data in both 2010 and 2025, 13 of these countries saw declines in learning-adjusted years of school, despite an overall trend of rising enrollment. ",
+      "text": "A concerning trend is that learning has been declining in many low- and lower-middle-income countries, especially in <span data-color-id=\"SSF\" class=\"SSF\">Sub-Saharan Africa</span>.[reference: holla_silva_schady2026] In some cases, this declining trend in learning is cancelling out the increase in years of schooling that have taken place in recent years, with learning-adjusted years of schooling falling. Out of 37 low- or lower-middle-income countries with internationally comparable data in both 2010 and 2025, 13 of these countries saw declines in learning-adjusted years of school, despite an overall trend of rising enrollment. ",
       "type": "text",
       "translationPrefix": "goal_04.content.#18"
     },
@@ -200,7 +200,7 @@
       "data_download": "04_data_lays_scatter.csv",
       "data": "1esEqT9Zx2CTlF788bpNp6lyMYEuRoSP4lELpb9LJyGU",
       "keyFact": "In 1 in 3",
-      "keyFactLabel": "low and lower-middle income countries, learning-adjusted years of schooling fell between 2010 and 2025.",
+      "keyFactLabel": "low- and lower-middle-income economies, learning-adjusted years of schooling fell between 2010 and 2025.",
       "translationPrefix": "goal_04.content.#19"
     },
     {
@@ -209,7 +209,7 @@
       "translationPrefix": "goal_04.content.#20"
     },
     {
-      "text": "Few economic policies consistently yield double-digit returns at scale. But education is one that can, with  each year of schooling improving earnings by around 10 percent.[reference: patrinos] Each year of education also increases the likelihood of employment and improves the quality of job that an individual is likely to have. ",
+      "text": "Few economic policies consistently yield double-digit returns at scale. But education is one that can, with each year of schooling improving earnings by around 10 percent.[reference: patrinos] Each year of education also increases the likelihood of employment and improves the quality of job that an individual is likely to have. ",
       "type": "text",
       "translationPrefix": "goal_04.content.#21"
     },
@@ -309,7 +309,7 @@
       "translationPrefix": "goal_04.content.#34"
     },
     {
-      "text": "Each year of work experience increases productivity by around 2.5 percent per year, and individuals tend to spend more time working than in schooling. Globally, the average person has around nine years of education, while careers often span 40 years or more. Because of differences in workplace learning,  workers in high-income countries earn another 1/3rd more, on average, than those in  low- and middle-income countries.[reference: jedwab2023][reference: holla_silva_schady2026]",
+      "text": "Each year of work experience increases productivity by around 2.5 percent per year, and individuals tend to spend more time working than in schooling. Globally, the average person has around nine years of education, while careers often span 40 years or more. Because of differences in workplace learning, workers in high-income countries earn another 1/3rd more, on average, than those in low- and middle-income countries.[reference: jedwab2023][reference: holla_silva_schady2026]",
       "type": "text",
       "translationPrefix": "goal_04.content.#35"
     },
@@ -370,7 +370,7 @@
         {
           "type": "scene",
           "id": "brazil",
-          "text": "[emphasis: Brazil ]shows a similar, but even more pronounced, divergence. Entry hourly wages for those who <span data-color-id=\"cat2\" class=\"cat2\">did not complete </span><span data-color-id=\"cat2\" class=\"cat2\">primary education</span><span style=\"color: rgb(255,255,255);\"> </span>are $2.43, while those with a <span data-color-id=\"cat8\" class=\"cat8\">tertiary degree</span> start at $6.03. After a 35-year career, tertiary graduate workers earn about $24.32 per hour, which is around six times  the $4 earned by those who did not complete primary education.",
+          "text": "[emphasis: Brazil ]shows a similar, but even more pronounced, divergence. Entry hourly wages for those who <span data-color-id=\"cat2\" class=\"cat2\">did not complete </span><span data-color-id=\"cat2\" class=\"cat2\">primary education</span><span style=\"color: rgb(255,255,255);\"> </span>are $2.43, while those with a <span data-color-id=\"cat8\" class=\"cat8\">tertiary degree</span> start at $6.03. After a 35-year career, tertiary graduate workers earn about $24.32 per hour, which is around six times the $4 earned by those who did not complete primary education.",
           "translationPrefix": "goal_04.content.#39.scenes.#3"
         }
       ],
@@ -382,7 +382,7 @@
       "translationPrefix": "goal_04.content.#40"
     },
     {
-      "text": "Why does this happen? In many cases, people with lower levels of education work in jobs where little to no learning takes place. In low- and lower-middle-income countries, around 69 percent of workers are self-employed.  And these workers tend to accumulate around half as much human capital as workers in wage employment.[reference: holla_silva_schady2026] At the same time, <span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">workers in sectors with lower exposure to technology</span>, such as agriculture, and those employed in domestic or manual occupations or micro firms also accumulate less human capital. This is because there is less opportunity to learn from peers or managers and less access to  explicit workplace training. Occupational choice is closely tied to education levels, and as a result, gaps in earnings between highly and lesser educated workers tend to expand over time.",
+      "text": "Why does this happen? In many cases, people with lower levels of education work in jobs where little to no learning takes place. In low- and lower-middle-income countries, around 69 percent of workers are self-employed. And these workers tend to accumulate around half as much human capital as workers in wage employment.[reference: holla_silva_schady2026] At the same time, <span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">workers in sectors with lower exposure to technology</span>, such as agriculture, and those employed in domestic or manual occupations or micro firms also accumulate less human capital. This is because there is less opportunity to learn from peers or managers and less access to explicit workplace training. Occupational choice is closely tied to education levels, and as a result, gaps in earnings between highly and lesser educated workers tend to expand over time.",
       "type": "text",
       "translationPrefix": "goal_04.content.#41"
     },
@@ -423,18 +423,18 @@
   "references": {
     "type": "references",
     "efw2024": "Tanaka, Nobuyuki; Angel-Urdinola, Diego; Bend, May; Hu, Yitong; Rivera-Olvera, Angelica; Antoninis, Manos; Murakami, Yuki; Montoya, Silvia. <a href=\"http://documents.worldbank.org/curated/en/099102824144527868\" target=\"_blank\">Education Finance Watch 2024</a> (English). Washington, D.C. : World Bank Group. ",
-    "gethin2025": "<span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">Amory Gethin, </span><a href=\"https://doi.org/10.1093/qje/qjaf033\" target=\"_blank\">Distributional Growth Accounting: Education and the Reduction of Global Poverty</a><span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">, 1980–2019, </span><span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">The Quarterly Journal of Economics</span><span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">, Volume 140, Issue 4, November 2025, Pages 2571–2618, </span>",
-    "hendricks2018": "<span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">Lutz Hendricks, Todd Schoellman, </span><a href=\"https://doi.org/10.1093/qje/qjx047\" target=\"_blank\">Human Capital and Development Accounting: New Evidence from Wage Gains at Migration</a><span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">, </span><span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">The Quarterly Journal of Economics</span><span style=\"color: rgb(42,42,42); background-color: rgb(255,255,255);\">, Volume 133, Issue 2, May 2018, Pages 665–700, </span>",
-    "hendricks2023": "<span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">Hendricks, Lutz, and Todd Schoellman. 2023. \"</span><a href=\"https://www.aeaweb.org/articles?id=10.1257/mac.20200256\" target=\"_blank\">Skilled Labor Productivity and Cross-Country Income Differences</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">.\" </span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">American Economic Journal: Macroeconomics</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> 15 (1): 240–68</span><span style=\"color: rgb(102,142,158); background-color: rgb(255,255,255);\">.</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
-    "jedwab2023": "<span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">Jedwab, Remi, Paul Romer, Asif M. Islam, and Roberto Samaniego. 2023. \"</span><a href=\"https://www.aeaweb.org/articles?id=10.1257/mac.20210002\" target=\"_blank\">Human Capital Accumulation at Work: Estimates for the World and Implications for Development</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">.\" </span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\">American Economic Journal: Macroeconomics</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> 15 (3): 191–223</span><span style=\"color: rgb(102,142,158); background-color: rgb(255,255,255);\">.</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
-    "kraay2019": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Kraay, Aart. 2019. </span><a href=\"http://hdl.handle.net/10986/34343\" target=\"_blank\">The World Bank Human Capital Index</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">: A Guide. World Bank Research Observer. © World Bank. </span>",
-    "decerf2026": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Decerf, Benoît; D’Souza, Ritika; Schady, Norbert; Silva, Joana; Stacy, Brian. 2026. </span><a href=\"https://hdl.handle.net/10986/34343\" target=\"_blank\">The Human Capital Index Plus 2026: Methodology Note</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(0,113,188); background-color: rgb(255,255,255);\"></span>",
-    "holla_silva_schady2026": "<span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">Holla, Alaka, Norbert Schady, and Joana Silva, eds. 2026. </span><a href=\"https://hdl.handle.net/10986/44282\" target=\"_blank\">Building Human Capital Where It Matters: Homes, Neighborhoods, and Workplaces</a><span style=\"color: rgb(33,37,41); background-color: rgb(255,255,255);\">. World Bank. doi: </span>",
-    "barro_lee": "<span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">Barro, Robert and Jong-Wha Lee, 2013, </span><a href=\"http://www.sciencedirect.com/science/article/pii/S0304387812000855\" target=\"_blank\">“A New Data Set of Educational Attainment in the World, 1950-2010.”</a><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\"> </span><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">Journal of Development Economics</span><span style=\"color: rgb(68,68,68); background-color: rgb(255,255,255);\">, vol 104, pp.184-198.</span>",
-    "patrinos": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Montenegro, C.E. and Patrinos, H.A., 2023. A data set of comparable estimates of the private rate of return to schooling in the world, 1970–2014. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">International Journal of Manpower</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">44</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">(6), pp.1248-1268.</span>",
+    "gethin2025": "Amory Gethin, <a href=\"https://doi.org/10.1093/qje/qjaf033\" target=\"_blank\">Distributional Growth Accounting: Education and the Reduction of Global Poverty</a>, 1980–2019, The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 2571–2618, ",
+    "hendricks2018": "Lutz Hendricks, Todd Schoellman, <a href=\"https://doi.org/10.1093/qje/qjx047\" target=\"_blank\">Human Capital and Development Accounting: New Evidence from Wage Gains at Migration</a>, The Quarterly Journal of Economics, Volume 133, Issue 2, May 2018, Pages 665–700, ",
+    "hendricks2023": "Hendricks, Lutz, and Todd Schoellman. 2023. \"<a href=\"https://www.aeaweb.org/articles?id=10.1257/mac.20200256\" target=\"_blank\">Skilled Labor Productivity and Cross-Country Income Differences</a>.\" American Economic Journal: Macroeconomics 15 (1): 240–68.",
+    "jedwab2023": "Jedwab, Remi, Paul Romer, Asif M. Islam, and Roberto Samaniego. 2023. \"<a href=\"https://www.aeaweb.org/articles?id=10.1257/mac.20210002\" target=\"_blank\">Human Capital Accumulation at Work: Estimates for the World and Implications for Development</a>.\" American Economic Journal: Macroeconomics 15 (3): 191–223.",
+    "kraay2019": "Kraay, Aart. 2019. <a href=\"http://hdl.handle.net/10986/34343\" target=\"_blank\">The World Bank Human Capital Index</a>: A Guide. World Bank Research Observer. © World Bank. ",
+    "decerf2026": "Decerf, Benoît; D’Souza, Ritika; Schady, Norbert; Silva, Joana; Stacy, Brian. 2026. <a href=\"https://hdl.handle.net/10986/34343\" target=\"_blank\">The Human Capital Index Plus 2026: Methodology Note</a>. ",
+    "holla_silva_schady2026": "Holla, Alaka, Norbert Schady, and Joana Silva, eds. 2026. <a href=\"https://hdl.handle.net/10986/44282\" target=\"_blank\">Building Human Capital Where It Matters: Homes, Neighborhoods, and Workplaces</a>. World Bank. doi: ",
+    "barro_lee": "Barro, Robert and Jong-Wha Lee, 2013, <a href=\"http://www.sciencedirect.com/science/article/pii/S0304387812000855\" target=\"_blank\">“A New Data Set of Educational Attainment in the World, 1950-2010.”</a> Journal of Development Economics, vol 104, pp.184-198.",
+    "patrinos": "Montenegro, C.E. and Patrinos, H.A., 2023. A data set of comparable estimates of the private rate of return to schooling in the world, 1970–2014. International Journal of Manpower, 44(6), pp.1248-1268.",
     "worldbank-pip": "World Bank PIP. Series: Survey mean/average consumption or income per capita, total population (2021 PPP $ per day)",
-    "ginding": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Gindling, T.H. and Newhouse, D., 2014. </span><a href=\"http://dx.doi.org/10.1016/j.worlddev.2013.03.003\" target=\"_blank\">Self-employment in the developing world</a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">World development</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">56</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">, pp.313-331.</span>",
-    "hendren_sprung_keyser2020": "<span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">Hendren, Nathaniel, and Ben Sprung-Keyser. 2020. </span><a href=\"https://doi.org/10.1093/qje/qjaa006\" target=\"_blank\">A Unified Welfare Analysis of Government Policies</a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\">The Quarterly Journal of Economics</span><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"> 135 (3): 1209–1318.</span><a href=\"https://doi.org/10.1093/qje/qjaa006\" target=\"_blank\"> </a><span style=\"color: rgb(34,34,34); background-color: rgb(255,255,255);\"></span>",
+    "ginding": "Gindling, T.H. and Newhouse, D., 2014. <a href=\"http://dx.doi.org/10.1016/j.worlddev.2013.03.003\" target=\"_blank\">Self-employment in the developing world</a>. World development, 56, pp.313-331.",
+    "hendren_sprung_keyser2020": "Hendren, Nathaniel, and Ben Sprung-Keyser. 2020. <a href=\"https://doi.org/10.1093/qje/qjaa006\" target=\"_blank\">A Unified Welfare Analysis of Government Policies</a>. The Quarterly Journal of Economics 135 (3): 1209–1318.<a href=\"https://doi.org/10.1093/qje/qjaa006\" target=\"_blank\"> </a>",
     "translationPrefix": "goal_04.references"
   },
   "translationPrefix": "goal_04"

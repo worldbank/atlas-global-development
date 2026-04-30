@@ -5,10 +5,10 @@
     "shortTitle": "Internet Access",
     "title": "The Unfinished Digital Revolution: Expanding Internet Access",
     "abstract": "Internet access has grown at remarkable speed, yet digital opportunity remains deeply unequal. While networks now reach much of the world, millions of people, especially in poorer countries, are still shut out of the digital economy. The reasons go beyond infrastructure, and reflect gaps in affordability, skills, and inclusive policy design.",
-    "citation": "",
-    "credits": "Ana Florina Pirlea, Lorena Corso",
+    "citation": "Pirlea, A F, Corso, L, Tulp, J W and Lambrechts, M. 2026. “<a href=\"https://doi.org/10.60616/s037-8t79\" target=\"_blank\">The Unfinished Digital Revolution: Expanding Internet Access.</a>” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. ",
+    "credits": "Ana Florina Pirlea & Lorena Corso",
     "inputs": "Sharada Srinivasan, Daniel Boller",
-    "visuals": "Jan Willem Tulp, Maarten Lambrechts, Illustrations: Drew Bardana",
+    "visuals": "Jan Willem Tulp & Maarten Lambrechts, Illustrations: Drew Bardana",
     "homeFactoidPercent": "25",
     "homeFactoidNumber": "1 in 4",
     "homeFactoidText": "people worldwide do not use the Internet",
@@ -45,7 +45,7 @@
       "translationPrefix": "goal_09.content.#4"
     },
     {
-      "text": "The share of people using the Internet is measured primarily through household surveys, with  individuals asked whether they have used the Internet in the previous three months, from any device (computer, phone, TV, and so on) and any location (home, work, school, café).[footnote:  If no recent survey exists, statistical modeling is used to estimate values based on correlates such as mobile-subscriptions, gross domestic product per capita, education, and regional patterns.] [reference: intm1] ",
+      "text": "The share of people using the Internet is measured primarily through household surveys, with individuals asked whether they have used the Internet in the previous three months, from any device (computer, phone, TV, and so on) and any location (home, work, school, café).[footnote:  If no recent survey exists, statistical modeling is used to estimate values based on correlates such as mobile-subscriptions, gross domestic product per capita, education, and regional patterns.] [reference: intm1] ",
       "type": "text",
       "translationPrefix": "goal_09.content.#5"
     },
@@ -80,7 +80,7 @@
         {
           "type": "scene",
           "id": "regions_groups",
-          "text": "Basic Internet access is lowest in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>], where only around  one-third  of the population (36 percent) is online.",
+          "text": "Basic Internet access is lowest in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span>], where only around  one-third  of the population is online.",
           "translationPrefix": "goal_09.content.#6.scenes.#2"
         }
       ],
@@ -92,7 +92,7 @@
       "translationPrefix": "goal_09.content.#7"
     },
     {
-      "text": "Rural areas, in both high and low income-economies, often lag urban centers when it comes to Internet access, reflecting gaps in infrastructure and income.[emphasis:  In rural settings, limited][emphasis:  Internet access constrains the use of digital services], such as market information (including prices), agricultural support (weather data for farmers), digital payments, remote health services, and access to government programs.[reference: rur1] This disparity is especially pronounced in rural areas of the poorest countries, where only 14 percent of people use the Internet; even in lower-middle-income countries,where around half the people in rural areas do not have Internet access.",
+      "text": "Rural areas, in both high- and low-income-economies, often lag urban centers when it comes to Internet access, reflecting gaps in infrastructure and income.[emphasis:  In rural settings, limited][emphasis:  Internet access constrains the use of digital services], such as market information (including prices), agricultural support (weather data for farmers), digital payments, remote health services, and access to government programs.[reference: rur1] This disparity is especially pronounced in rural areas of the poorest countries, where only 14 percent of people use the Internet; even in lower-middle-income economies, where around half the people in rural areas do not have Internet access.",
       "type": "text",
       "translationPrefix": "goal_09.content.#8"
     },
@@ -133,7 +133,7 @@
     {
       "type": "vis",
       "graphic": "income_gender_gap",
-      "title": "Gender gaps in Internet access are wide in low- and lower-middle income economies",
+      "title": "Gender gaps in Internet access are wide in low- and lower-middle-income economies",
       "subtitle": "Individuals using the Internet (% of population), by gender and income level, 2025",
       "visSize": "small",
       "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a>. Retrieved from World Development Indicators (<a href=\"https://data.worldbank.org/indicator/IT.NET.USER.MA.ZS\" target=\"_blank\">IT.NET.USER.MA.ZS</a>, <a href=\"https://data.worldbank.org/indicator/IT.NET.USER.FE.ZS\" target=\"_blank\">IT.NET.USER.FE.ZS</a>)",
@@ -163,19 +163,19 @@
       "translationPrefix": "goal_09.content.#17"
     },
     {
-      "text": "The chart below shows the change in Internet access levels, by country, between 2015 and 2023. The transparent arrows show where countries would have been, had they followed the typical pace of progress since 2015[reference: progress] (see more details about how this is calculated <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">here</a>). This allows us to see which countries have progressed faster than expected, considering their access levels in 2015.  You can explore further in the section on <a href=\"https://worldbank.github.io/sdgatlas-preview/explorer\" target=\"_blank\">tracking progress</a>. ",
+      "text": "The chart below shows the change in Internet access levels, by country, between 2015 and 2023. The transparent arrows show where countries would have been, had they followed the typical pace of progress since 2015 (see more details about how this is calculated <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">here</a>).[reference: progress] This allows us to see which countries have progressed faster than expected, considering their access levels in 2015.  You can explore further in the section on <a href=\"https://worldbank.github.io/sdgatlas-preview/explorer\" target=\"_blank\">tracking progress</a>. ",
       "type": "text",
       "translationPrefix": "goal_09.content.#18"
     },
     {
       "type": "scroller",
       "graphic": "internet_progress",
-      "title": "Almost all countries have increased their Internet access since 2015",
+      "title": "Almost all economies have increased their Internet access since 2015",
       "subtitle": "Individuals using the Internet (% of population)",
-      "select_country": "Select countries to highlight",
+      "select_country": "Select economies to highlight",
       "typical_progress": "Typical progress",
       "source": "International Telecommunication Union, <a href=\"https://datahub.itu.int/\" target=\"_blank\">ITU DataHub</a> and World Bank staff calculations, based on <a href=\"https://openknowledge.worldbank.org/entities/publication/c97258fc-bf8f-4bd7-b56f-347b8349368d\" target=\"_blank\">Mahler et al. 2026</a>",
-      "visdescription": "This chart uses arrows to show Internet access levels by country in 2015 and 2024. It also shows where the countries would have been, had they followed the typical pace of progress since 2015.",
+      "visdescription": "This chart uses arrows to show Internet access levels by economy in 2015 and 2024. It also shows where the economies would have been, had they followed the typical pace of progress since 2015.",
       "visSize": "fullScreen",
       "data_download": "09_data_internet_usage_progress.csv",
       "data": "1F96uP1Br1y4yel27IpE-YbumBGnTUkmKy5rXnUs4tL0",
@@ -227,7 +227,7 @@
       "translationPrefix": "goal_09.content.#25"
     },
     {
-      "text": "[emphasis: Fixed broadband connections are common in many high-income countries], [emphasis: but rare in low-income economies]. Extending fixed broadband to rural, remote, or low-income areas is often commercially unviable: infrastructure works, such as laying fiber-optic cables underground, are expensive, while revenues are low due to sparse populations and limited purchasing power. This mismatch between high upfront investment and low returns discourages private operators without public support or cost-sharing.[reference: brdb1] [emphasis: Most][emphasis:  people who use the Internet do so using mobile broadband, ]especially in lower-income economies, as it is cheaper and faster to deploy. ",
+      "text": "[emphasis: Fixed broadband connections are common in many high-income economies], [emphasis: but rare in low-income economies]. Extending fixed broadband to rural, remote, or low-income areas is often commercially unviable: infrastructure works, such as laying fiber-optic cables underground, are expensive, while revenues are low due to sparse populations and limited purchasing power. This mismatch between high upfront investment and low returns discourages private operators without public support or cost-sharing.[reference: brdb1] [emphasis: Most][emphasis:  people who use the Internet do so using mobile broadband, ]especially in lower-income economies, as it is cheaper and faster to deploy. ",
       "type": "text",
       "translationPrefix": "goal_09.content.#26"
     },
@@ -272,7 +272,7 @@
         {
           "type": "scene",
           "id": "civ_sen",
-          "text": "Across much of the world, people connect to the Internet through mobile phones. In [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Morocco</span>] and in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Eswatini</span>][emphasis: , ]there are 98 and 116 active [emphasis: mobile broadband] subscriptions, respectively, per 100 people. (In many countries, there are more than 100 mobile broadband subscriptions per 100 people due to  multiple connections—for example, through  smartphones, tablets, work devices, or other connected equipment.)[reference: mrbs1]",
+          "text": "Across much of the world, people connect to the Internet through mobile phones. In [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Morocco</span>] and in [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(219,149,215);\">Eswatini</span>][emphasis: , ]there are 98 and 116 active [emphasis: mobile broadband] subscriptions, respectively, per 100 people. (In many countries, there are more than 100 mobile broadband subscriptions per 100 people due to  multiple connections—for example, through smartphones, tablets, work devices, or other connected equipment.)[reference: mrbs1]",
           "translationPrefix": "goal_09.content.#27.scenes.#3"
         }
       ],
@@ -324,8 +324,8 @@
       "visSize": "fullScreen",
       "data_download": "09_data_network_coverages.csv",
       "data": "1USKTFa0rwEekfOuqWWCmLTBqRJW3qlcbbfkNJimxD5Q",
-      "keyFact": "9 in 10",
-      "keyFactLabel": "people in Sub-Saharan Africa are not covered by a 5G network",
+      "keyFact": "9 in 10 people",
+      "keyFactLabel": "in Sub-Saharan Africa are not covered by a 5G network",
       "indicator_360": "MOB_COV_5G",
       "scenes": [
         {
@@ -337,7 +337,7 @@
         {
           "type": "scene",
           "id": "coverage_4G",
-          "text": "Although 4G networks cover over 93 percent of the people in the world, [emphasis: there are large gaps in] [emphasis: low-income countries, mostly in Sub-Saharan Africa, ]particularly in rural areas. ",
+          "text": "Although 4G networks cover over 93 percent of the people in the world, [emphasis: there are large gaps in] [emphasis: low-income economies, mostly in Sub-Saharan Africa, ]particularly in rural areas. ",
           "translationPrefix": "goal_09.content.#34.scenes.#1"
         },
         {
@@ -356,7 +356,7 @@
       "translationPrefix": "goal_09.content.#34"
     },
     {
-      "text": "Expanding mobile network coverage in low-income countries is challenging due to high infrastructure costs and weak supporting systems. Although less expensive than introducing fixed broadband, mobile broadband still requires significant investment. ",
+      "text": "Expanding mobile network coverage in low-income economies is challenging due to high infrastructure costs and weak supporting systems. Although less expensive than introducing fixed broadband, mobile broadband still requires significant investment. ",
       "type": "text",
       "translationPrefix": "goal_09.content.#35"
     },
@@ -383,7 +383,7 @@
     {
       "type": "vis",
       "graphic": "speed_test",
-      "title": "High-income countries enjoy high-speed Internet",
+      "title": "High-income economies enjoy high-speed Internet",
       "subtitle": "Median country download speeds (mbps)",
       "fixed": "Fixed broadband",
       "mobile": "Mobile broadband",
@@ -464,7 +464,7 @@
       "translationPrefix": "goal_09.content.#49"
     },
     {
-      "text": "Globally, nearly all Internet users access it via smartphones.[reference: fndx1] One of the biggest reasons many communities remain offline is simply the cost of smartphones, computers, and other devices. The World Bank’s 2025 Findex report shows that not having enough money to buy a smartphone is the leading barrier to owning one, and without a smartphone, people cannot use the Internet.[footnote:  [emphasis: Smartphones] are defined as mobile devices capable of running applications and supporting full web browsing. Smartphone ownership dominates in most economies. [emphasis: Basic phones ]allow calls, texts, and limited services such as mobile money. Basic phones remain more common in only 18 countries (17 of them in Sub-Saharan Africa, plus Bangladesh). South Asian countries like India, Pakistan, and Sri Lanka also still have relatively high shares of basic phone users. A subset of basic phones known as [emphasis: feature phones] may include simple apps like WhatsApp or support text-only web browsing. However, feature phones make up only a very small fraction of devices overall. (source:<a href=\"https://openknowledge.worldbank.org/bitstreams/9288bdc5-7a9b-42de-a47c-3746fd68f22a/download\" target=\"_blank\"> </a><a href=\"https://openknowledge.worldbank.org/bitstreams/9288bdc5-7a9b-42de-a47c-3746fd68f22a/download\" target=\"_blank\">The Global  Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy</a>)][reference: fndx1] [emphasis: The device cost barrier is even more acute for adults in the poorest 40 percent of the population.] In some countries in  Sub-Saharan Africa, the average cost of a smartphone  can represent almost 45 percent of an adult’s monthly income[footnote:  Average price smartphone, internet access enabled.], and about 40 percent of the monthly income in South Asia.[reference: devaf2] Improving access to affordable devices is not just helpful; it is essential for real digital inclusion.",
+      "text": "Globally, nearly all Internet users access it via smartphones.[reference: fndx1] One of the biggest reasons many communities remain offline is simply the cost of smartphones, computers, and other devices. The World Bank’s 2025 Findex report shows that not having enough money to buy a smartphone is the leading barrier to owning one, and without a smartphone, people cannot use the Internet.[footnote:  [emphasis: Smartphones] are defined as mobile devices capable of running applications and supporting full web browsing. Smartphone ownership dominates in most economies. [emphasis: Basic phones ]allow calls, texts, and limited services such as mobile money. Basic phones remain more common in only 18 countries (17 of them in Sub-Saharan Africa, plus Bangladesh). South Asian countries like India, Pakistan, and Sri Lanka also still have relatively high shares of basic phone users. A subset of basic phones known as [emphasis: feature phones] may include simple apps like WhatsApp or support text-only web browsing. However, feature phones make up only a very small fraction of devices overall. (source:<a href=\"https://openknowledge.worldbank.org/bitstreams/9288bdc5-7a9b-42de-a47c-3746fd68f22a/download\" target=\"_blank\"> </a><a href=\"https://openknowledge.worldbank.org/bitstreams/9288bdc5-7a9b-42de-a47c-3746fd68f22a/download\" target=\"_blank\">The Global  Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy</a>)][reference: fndx1] [emphasis: The device cost barrier is even more acute for adults in the poorest 40 percent of the population.] In some countries in Sub-Saharan Africa, the average cost of a smartphone  can represent almost 45 percent of an adult’s monthly income[footnote:  Average price smartphone, internet access enabled.], and about 40 percent of the monthly income in South Asia.[reference: devaf2] Improving access to affordable devices is not just helpful; it is essential for real digital inclusion.",
       "type": "text",
       "translationPrefix": "goal_09.content.#50"
     },
@@ -533,10 +533,10 @@
     "gnd2": "Singh, S, Rahul, K, Paliwal, M, Wani, I A and Suri, S. 2025. <a href=\"https://doi.org/10.1108/DTS-04-2025-0083\" target=\"_blank\">Gendering the Digital Divide: A Systematic Review of Women’s Digital Inclusion Challenges and Emerging Research Directions</a>. Digital Technology & Society 4 (4): 503.",
     "gnd3": "GSMA. 2025. <a href=\"https://www.gsma.com/wp-content/uploads/2025/12/The-Mobile-Gender-Gap-Report-2025.pdf\" target=\"_blank\">The Mobile Gender Gap Report 2025</a>",
     "gnd4": "Donati, D, Durante, R, Sobbrio, F and Zejcirovic, D. 2022.<a href=\"https://doi.org/10.2139/ssrn.3949645\" target=\"_blank\"> Lost in the Net? Broadband Internet and Youth Mental Health</a>. SSRN Electronic Journal, March 1. ",
-    "gnd5": "<span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\">Golin, M. 2022. </span><a href=\"https://doi.org/10.1002/hec.4570\" target=\"_blank\">The Effect of Broadband Internet on the Gender Gap in Mental Health: Evidence from Germany</a><span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\">. </span><span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\">Health Economics</span><span style=\"color: rgb(28,29,30); background-color: rgb(255,255,255);\"> 31(S2): 6–21. </span>",
+    "gnd5": "Golin, M. 2022. <a href=\"https://doi.org/10.1002/hec.4570\" target=\"_blank\">The Effect of Broadband Internet on the Gender Gap in Mental Health: Evidence from Germany</a>. Health Economics 31(S2): 6–21. ",
     "gnd6": "Arenas-Arroyo, E, Fernandez-Kranz, D, Nollenberger, N. 2025. <a href=\"https://doi.org/10.1016/j.jhealeco.2025.103014\" target=\"_blank\">High Speed Internet and the Widening Gender Gap in Adolescent Mental Health: Evidence from Spanish Hospital Records</a>. Journal of Health Economics 102: 103014.",
     "mrbs1": "ITU. <a href=\"https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-subscriptions/\" target=\"_blank\">5G Subscriptions Already Represent More than One-third of All Mobile Broadband Subscriptions</a>.",
-    "progress": "Mahler, Daniel Gerszon; Serajuddin, Umar; Wadhwa, Divyanshi; Yonzan, Nishant. 2026. <a href=\"http://hdl.handle.net/10986/44655\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years</a>. Policy Research Working Paper; 11350. World Bank.",
+    "progress": "Mahler, D G, Serajuddin, U, Wadhwa, D and Yonzan, N. 2026.<a href=\"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455004132637249\" target=\"_blank\"> </a><a href=\"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455004132637249\" target=\"_blank\">The World Is Developing at Its Slowest Pace in 75 Years</a>. Washington DC: World Bank Group ",
     "translationPrefix": "goal_09.references"
   },
   "translationPrefix": "goal_09"
