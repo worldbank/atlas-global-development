@@ -5,7 +5,7 @@
     "shortTitle": "Data for Development",
     "title": "The State of Development Data",
     "abstract": "Without reliable data, the true extent of extreme poverty or gaps in children's health and learning outcomes remains hidden from the people tasked with fixing them. But as the World Bank's Statistical Performance Indicators (SPI) shows, low data availability is not inevitable. Some economies build strong, reliable data systems, even with limited resources.",
-    "citation": "Prinsloo, Z, Stacy, B & Lambrechts, M. 2026. ”<a href=\"https://doi.org/10.60616/ttes-8t11\" target=\"_blank\">The State of Development Data</a>.” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
+    "citation": "Prinsloo, Z, Stacy, B & Lambrechts, M. 2026. ”<a href=\"https://doi.org/10.60616/ttes-8t11\" target=\"_blank\" rel=\"external\">The State of Development Data</a>.” In Atlas of Global Development 2026, edited by A F Pirlea, D Wadhwa, D Mahler, U Serajuddin, M Welch, A Thudt, and M Lambrechts. Washington DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.",
     "credits": "Zander Prinsloo & Brian Stacy",
     "inputs": "Maria Eugenia Genoni, Alaka Holla",
     "visuals": "Maarten Lambrechts",
@@ -74,7 +74,7 @@
       "years": "years",
       "x_axis_title_bottom": "Year of most recent survey",
       "medianLabel": "Median:",
-      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a>",
+      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\" rel=\"external\">World Bank Statistical Performance Indicators</a>",
       "visdescription": "This chart shows the average age of latest surveys. Many countries rely on survey data that are more than five years old.",
       "data_download": "17_data_survey_age.csv",
       "data": "1Z-ibGTAUXjF_occNjtbhaVR9Hizsp_bYx6H2DQzzAdE",
@@ -99,7 +99,7 @@
       "difference_pop": "17 million people",
       "y_axis_title": "Extreme poverty rate",
       "y_axis_units": "%",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">World Bank Poverty and Inequality Platform</a>",
       "visdescription": "Comparison of extrapolated versus actual survey-based poverty estimates for Nigeria (2018–22), showing how national accounts-based projections underestimated the true poverty rate revealed by the 2022 household survey.",
       "visSize": "small",
       "data_download": "17_data_nigeria_poverty.csv",
@@ -218,7 +218,7 @@
       "translationPrefix": "goal_17.content.#17"
     },
     {
-      "text": "Without these data, it is impossible to know how many children live in a country and whether they are healthy and learning. And without such basic information, how can a government plan where to build schools and clinics, how many teachers and health care staff to hire, or what kind of programs are needed to address nutrition or skill deficits before they become permanent?[footnote:  Birth registration data measure the share of children under five whose births have been officially recorded with a civil authority. Stunting (low height-for-age) is the primary indicator of chronic undernutrition in children under five. Learning assessment figures refer to internationally comparable assessments conducted since 2019..]",
+      "text": "Without these data, it is impossible to know how many children live in a country and whether they are healthy and learning. And without such basic information, how can a government plan where to build schools and clinics, how many teachers and health care staff to hire, or what kind of programs are needed to address nutrition or skill deficits before they become permanent?[footnote:  Birth registration data measure the share of children under five whose births have been officially recorded with a civil authority. Stunting (low height-for-age) is the primary indicator of chronic undernutrition in children under five. Learning assessment figures refer to internationally comparable assessments conducted since 2019.]",
       "type": "text",
       "translationPrefix": "goal_17.content.#18"
     },
@@ -246,7 +246,7 @@
       "pillar3": "Data products",
       "pillar4": "Data sources",
       "pillar5": "Data infrastructure",
-      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
+      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\" rel=\"external\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
       "visdescription": "Series of charts analysing statistical performance, showing that higher income economies tend to have better statistical capacity.",
       "visSize": "fullScreen",
       "data_download": "17_data_spi_pillar_scores.csv",
@@ -322,7 +322,7 @@
       "graphic": "spi_gdp_scatter",
       "title": "Income matters, but it is not destiny",
       "subtitle": "",
-      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
+      "source": "<a href=\"https://www.worldbank.org/en/programs/statistical-performance-indicators\" target=\"_blank\" rel=\"external\">World Bank Statistical Performance Indicators</a><span style=\"background-color: rgb(255,255,0);\"></span>",
       "visdescription": "Analysis showing that while statistical performance is correlated with income, many economies outperform what would be expected of an economy at their income level.",
       "x_axis_title": "GDP per capita",
       "x_axis_units": "$, log",
@@ -373,9 +373,9 @@
   ],
   "references": {
     "type": "references",
-    "devarajan": "Devarajan, S. 2013. <a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.12013\" target=\"_blank\">Africa’s Statistical Tragedy</a>. Review of Income and Wealth 59: 9–15.",
-    "jerven_duncan": "Jerven, M and Duncan, M E. 2012. <a href=\"https://www.mortenjerven.com/wp-content/uploads/2013/02/ASJ15-Section1-Eng.pdf\" target=\"_blank\">Revising GDP Estimates in Sub-Saharan Africa: Lessons from Ghana</a>. The African Statistical Journal, 15(15):13–24.",
-    "dpss": "Dang, H A H, Pullinger, J, Serajuddin, U and Stacy, B. 2023. <a href=\"https://www.nature.com/articles/s41597-023-01971-0\" target=\"_blank\">Statistical Performance Indicators and Index—A New Tool to Measure Country Statistical Capacity</a>. Scientific Data 10(1): 146.",
+    "devarajan": "Devarajan, S. 2013. <a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.12013\" target=\"_blank\" rel=\"external\">Africa’s Statistical Tragedy</a>. Review of Income and Wealth 59: 9–15.",
+    "jerven_duncan": "Jerven, M and Duncan, M E. 2012. <a href=\"https://www.mortenjerven.com/wp-content/uploads/2013/02/ASJ15-Section1-Eng.pdf\" target=\"_blank\" rel=\"external\">Revising GDP Estimates in Sub-Saharan Africa: Lessons from Ghana</a>. The African Statistical Journal, 15(15):13–24.",
+    "dpss": "Dang, H A H, Pullinger, J, Serajuddin, U and Stacy, B. 2023. <a href=\"https://www.nature.com/articles/s41597-023-01971-0\" target=\"_blank\" rel=\"external\">Statistical Performance Indicators and Index—A New Tool to Measure Country Statistical Capacity</a>. Scientific Data 10(1): 146.",
     "translationPrefix": "goal_17.references"
   },
   "translationPrefix": "goal_17"
