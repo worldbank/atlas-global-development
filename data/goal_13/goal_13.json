@@ -47,7 +47,7 @@
       "translationPrefix": "goal_13.content.#5"
     },
     {
-      "text": "Around 4.5 billion people were exposed to certain climate-related hazards in 2024. [reference: WB1] Exposed population means the people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than 1percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate exposure, we consider a 100-year return period, which is the same as a 1 percent probability that the hazard occurs in a given year. Average global life expectancy is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52 percent of occurring in a 72-year period. ] that a person faces the hazard over their lifespan. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets, and livelihoods.[footnote:   We use hazard-specific thresholds to determine whether a climate-related hazard has a significant impact. For instance, for floods, we use a threshold for inundation depth, and for cyclones, a threshold for wind speed.]",
+      "text": "Around 4.5 billion people were exposed to certain climate-related hazards in 2024. [reference: WB1] Exposed population means the people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than 1 percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate exposure, we consider a 100-year return period, which is the same as a 1 percent probability that the hazard occurs in a given year. Average global life expectancy is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52 percent of occurring in a 72-year period. ] that a person faces the hazard over their lifespan. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets, and livelihoods.[footnote:   We use hazard-specific thresholds to determine whether a climate-related hazard has a significant impact. For instance, for floods, we use a threshold for inundation depth, and for cyclones, a threshold for wind speed.]",
       "type": "text",
       "translationPrefix": "goal_13.content.#6"
     },
@@ -60,7 +60,7 @@
       "translationPrefix": "goal_13.content.#7"
     },
     {
-      "text": "While there are a number of climate-related hazards, we focus on [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>],[emphasis:  ][emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural droughts</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>][emphasis:  ]and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>]. Let’s explore the number of people exposed to each of these climate-related hazards.",
+      "text": "While there are many climate-related hazards, we focus on [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>],[emphasis:  ][emphasis: <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">agricultural droughts</span>], [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclones</span>][emphasis:  ]and [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(170,0,0);\">heatwaves</span>]. Let’s explore the number of people exposed to each of these climate-related hazards.",
       "type": "text",
       "translationPrefix": "goal_13.content.#8"
     },
@@ -94,13 +94,13 @@
         {
           "type": "scene",
           "id": "floods__sat__bbox1",
-          "text": "The [emphasis: population exposed to ] [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] live near rivers, in areas with low elevation, and near the coast. In The Netherlands, more than one-third of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] due to its many rivers and the low elevation.",
+          "text": "The [emphasis: population exposed to ][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] live near rivers, in areas with low elevation, and near the coast. In The Netherlands, more than one-third of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>] due to the country’s  many rivers and low elevation.",
           "translationPrefix": "goal_13.content.#10.scenes.#1"
         },
         {
           "type": "scene",
           "id": "floods__vec__wld",
-          "text": "Globally, [emphasis: 775 million people are exposed to] [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods.</span>] Half of them live in three populous countries: China, India and Bangladesh. In Bangladesh, one-third of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>].",
+          "text": "Globally, [emphasis: 775 million people are exposed to] [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods.</span>] Half of them live in three populous countries: China, India, and Bangladesh. In Bangladesh, one-third of the population is exposed to [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">floods</span>].",
           "translationPrefix": "goal_13.content.#10.scenes.#2"
         }
       ],
@@ -161,7 +161,7 @@
     {
       "type": "scroller",
       "graphic": "sdg13_effects_of_climate_change_scroller",
-      "title": "Globally, less than 8 percent of the population is exposed to cyclones",
+      "title": "Globally, almost 8 percent of the population is exposed to cyclones",
       "subtitle": "Area and share of population exposed to cyclones of category 2 or higher[footnote:  The strength of a cyclone is assessed on a scale of 1–5 using the Saffir-Simpson Hurricane Wind Scale.[reference: NOAA1]. Cyclones with wind speeds over 154 km/h are Category 2+.]",
       "source": "STORM [reference: Bloemendaal1], <a href=\"https://www.researchsquare.com/article/rs-5302969/v2\" target=\"_blank\" rel=\"external\">Hill et al.</a>",
       "visdescription": "Share of population exposed to cyclones and location of areas exposed to cyclones ",
@@ -183,7 +183,7 @@
         {
           "type": "scene",
           "id": "cyclones__vec__bbox1",
-          "text": "Tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">C</span>][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">yclone</span>] Melissa made landfall in Jamaica on October 28,  2025. The third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] ever recorded in the Atlantic Ocean, it was classified as a category 5 and had wind speeds of up to 300 km/h.[reference: WMO4] Although it wreaked enormous  damage on infrastructure and houses, due to early warning systems, the number of casualties was limited at 50.[emphasis: ]",
+          "text": "Tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">c</span>][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">yclone</span>] Melissa made landfall in Jamaica on October 28,  2025. The third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] ever recorded in the Atlantic Ocean, it was classified as a category 5 and had wind speeds of up to 300 km/h.[reference: WMO4] Although it wreaked enormous  damage on infrastructure and houses, due to early warning systems, the number of casualties was limited at 50.[emphasis: ]",
           "translationPrefix": "goal_13.content.#15.scenes.#1"
         },
         {
@@ -279,7 +279,7 @@
       "translationPrefix": "goal_13.content.#21"
     },
     {
-      "text": "The World Bank has identified seven dimensions to assess a person’s general level of vulnerability, grouped into physical and economic vulnerability: physical vulnerability is measured by people’s access to [emphasis: clean water],[emphasis:  electricity],[emphasis:  services and markets];[emphasis:  ]economic vulnerability is measured by [emphasis: income],[footnote:  See also the <a href=\"https://data360.worldbank.org/en/atlas/extreme-poverty\" target=\"_blank\" rel=\"external\">chapter on extreme poverty</a>.] [emphasis: education level], and access to [emphasis: social protection ]and financial services ([emphasis: financial inclusion]).[reference: WB2] Individuals are considered to live in highly vulnerable conditions if they score below set thresholds on at least one of these seven dimensions—for example, if their income falls below the extreme poverty line of $3 a day.[reference: WB2] ",
+      "text": "The World Bank has identified seven dimensions to assess a person’s general level of vulnerability, grouped into physical and economic vulnerability: physical vulnerability is measured by people’s access to [emphasis: clean water],[emphasis:  electricity],[emphasis:  services and markets];[emphasis:  ]economic vulnerability is measured by [emphasis: income],[footnote:  See also the <a href=\"https://data360.worldbank.org/en/atlas/extreme-poverty\" target=\"_blank\" rel=\"external\">chapter on extreme poverty</a>.] [emphasis: education level], and access to [emphasis: social protection ]and financial services ([emphasis: financial inclusion]).[reference: WB2] Individuals are considered to live in highly vulnerable conditions if they score below specific thresholds on at least one of these seven dimensions—for example, if their income falls below the extreme poverty line of $3 a day.[reference: WB2] ",
       "type": "text",
       "translationPrefix": "goal_13.content.#22"
     },
@@ -307,8 +307,8 @@
       "disableScreenshot": "true",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
-      "keyFact": "2.8 billion people",
-      "keyFactLabel": "live in highly vulnerable conditions globally",
+      "keyFact": "2.8 billion",
+      "keyFactLabel": "people live in highly vulnerable conditions globally",
       "label__x_axis": "Each group is 1000 squares",
       "label__legend": "1 square =$x people",
       "label__vul_atleastone": "Vulnerable population (in at least one dimension)",
@@ -340,7 +340,7 @@
         {
           "type": "scene",
           "id": "multi__explore",
-          "text": "Select a country or region to see the share of population and number of people that are vulnerable and the dimensions of vulnerability that are driving it.",
+          "text": "Select an economy or region to see the share of population and number of people that are vulnerable and the dimensions of vulnerability that are driving it.",
           "translationPrefix": "goal_13.content.#25.scenes.#3"
         }
       ],
@@ -374,7 +374,7 @@
       "visSize": "default",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
-      "textParagraph": "On this map, the size of the grey circles is proportional to the size of the population of the seven World Bank regions. The blue circles show the size of the population exposed to climate-related hazards. The red circle shows the size of the population at high risk (both exposed to climate-related hazards and in vulnerable conditions). In <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span> less than one percent of the population (approximately 0.6 million people) are at high risk. In contrast, more than a third of the people living in the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan and Pakistan</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> regions are at high risk.",
+      "textParagraph": "On this map, the size of the grey circles is proportional to the size of the population of the seven World Bank regions. The blue circles show the size of the population exposed to climate-related hazards. The red circle shows the size of the population at high risk (both exposed to climate-related hazards and in vulnerable conditions). In <span style=\"color: rgb(255,255,255); background-color: rgb(52,167,242);\">North America</span> less than 1 percent of the population (approximately 0.6 million people) are at high risk. In contrast, more than a third of the people living in the <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">Middle East, North Africa, Afghanistan and Pakistan</span> and <span style=\"color: rgb(4,1,16); background-color: rgb(255,152,0);\">Sub-Saharan Africa</span> regions are at high risk.",
       "label__total_population": "Total population",
       "label__population_exposed": "Population exposed",
       "label__population_exposed_at_risk": "Population exposed and highly vulnerable",
@@ -383,7 +383,7 @@
       "translationPrefix": "goal_13.content.#29"
     },
     {
-      "text": "A little under one-fifth of the global population is at high risk from climate-related hazards. Across countries, the population at high risk can differ widely due to differences in either exposure or vulnerability.",
+      "text": "Almost 20 percent of the global population is at high risk from climate-related hazards. Across countries, the population at high risk can differ widely due to differences in either exposure or vulnerability.",
       "type": "text",
       "translationPrefix": "goal_13.content.#30"
     },
@@ -446,7 +446,7 @@
       "translationPrefix": "goal_13.content.#33"
     },
     {
-      "text": "To reduce the number of people at high risk, governments need to pursue both climate mitigation and adaptation. Taking measures to reduce greenhouse gas emissions and limit future warming can help slow the growth of climate-related hazards and exposure to them. Governments are working to reduce people’s vulnerabilities and increase their resilience towards climate-related hazards. The World Bank’s [emphasis: <a href=\"https://datacatalog.worldbank.org/int/search/dataset/0066854/adaptation_and_resilience_readiness_data\" target=\"_blank\" rel=\"external\">Adaptation and Resilience Readiness Assessment Tool</a>] assesses how well countries are positioned to design and implement effective climate change adaptation and resilience strategies by evaluating key policies, institutions, and actions across multiple pillars and indicators. [reference: WB1]",
+      "text": "To reduce the number of people at high risk, governments need to pursue both climate mitigation and adaptation. Taking measures to reduce greenhouse gas emissions and limit future warming can help slow the growth of climate-related hazards and exposure to them. Governments are also working to reduce people’s vulnerabilities and increase their resilience towards climate-related hazards. The World Bank’s [emphasis: <a href=\"https://datacatalog.worldbank.org/int/search/dataset/0066854/adaptation_and_resilience_readiness_data\" target=\"_blank\" rel=\"external\">Adaptation and Resilience Readiness Assessment Tool</a>] assesses how well countries are positioned to design and implement effective climate change adaptation and resilience strategies by evaluating key policies, institutions, and actions across multiple pillars and indicators. [reference: WB1]",
       "type": "text",
       "translationPrefix": "goal_13.content.#34"
     },
