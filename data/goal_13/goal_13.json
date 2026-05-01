@@ -183,7 +183,7 @@
         {
           "type": "scene",
           "id": "cyclones__vec__bbox1",
-          "text": "Tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">c</span>][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">yclone</span>] Melissa made landfall in Jamaica on October 28,  2025. The third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] ever recorded in the Atlantic Ocean, it was classified as a category 5 and had wind speeds of up to 300 km/h.[reference: WMO4] Although it wreaked enormous  damage on infrastructure and houses, due to early warning systems, the number of casualties was limited at 50.[emphasis: ]",
+          "text": "Tropical [emphasis: <span data-color-id=\"cat3\" class=\"cat3\">cyclone</span>] Melissa made landfall in Jamaica on October 28,  2025. The third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] ever recorded in the Atlantic Ocean, it was classified as a category 5 and had wind speeds of up to 300 km/h.[reference: WMO4] Although it wreaked enormous  damage on infrastructure and houses, due to early warning systems, the number of casualties was limited at 50.[emphasis: ]",
           "translationPrefix": "goal_13.content.#15.scenes.#1"
         },
         {
