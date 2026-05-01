@@ -966,7 +966,7 @@
         "graphic": "sdg13_effects_of_climate_change_scroller",
         "title": "Globally, almost 8 percent of the population is exposed to cyclones",
         "subtitle": "Area and share of population exposed to cyclones of category 2 or higher[footnote:  The strength of a cyclone is assessed on a scale of 1–5 using the Saffir-Simpson Hurricane Wind Scale.[reference: NOAA1]. Cyclones with wind speeds over 154 km/h are Category 2+.]",
-        "source": "STORM [reference: Bloemendaal1], <a href=\"https://www.researchsquare.com/article/rs-5302969/v2\" target=\"_blank\" rel=\"external\">Hill et al.</a>",
+        "source": "STORM[reference: Bloemendaal1], <a href=\"https://www.researchsquare.com/article/rs-5302969/v2\" target=\"_blank\" rel=\"external\">Hill et al.</a>",
         "visdescription": "Share of population exposed to cyclones and location of areas exposed to cyclones ",
         "textParagraph": "",
         "visSize": "fullScreen",
@@ -1093,7 +1093,7 @@
           {
             "type": "scene",
             "id": "multi__grid__vuln__nac",
-            "text": "Levels of vulnerability range from 1.7–93 percent across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.7 percent of the population is vulnerable. These are people living in extreme poverty ([emphasis: lack of income]) or those who [emphasis: lack basic education].",
+            "text": "Levels of vulnerability range from 1.7–94 percent across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.7 percent of the population is vulnerable. These are people living in extreme poverty ([emphasis: lack of income]) or those who [emphasis: lack basic education].",
             "translationPrefix": "goal_13.content.#25.scenes.#1"
           },
           {
@@ -1141,7 +1141,7 @@
         "data_download": "climate_vulnerability.zip",
         "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
         "keyFact": "1.5 billion",
-        "keyFactLabel": "people are exposed to climate-related hazards [emphasis: and ]living in highly vulnerable conditions",
+        "keyFactLabel": "people are exposed to climate-related hazards and[emphasis:  ]living in highly vulnerable conditions",
         "label__x_axis": "Each group is 1,000 squares",
         "label__legend": "1 square =$x people",
         "label__highly_vulnerable": "Vulnerable in at least 1 dimension",

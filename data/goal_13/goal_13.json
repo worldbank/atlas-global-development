@@ -47,7 +47,7 @@
       "translationPrefix": "goal_13.content.#5"
     },
     {
-      "text": "Around 4.5 billion people were exposed to certain climate-related hazards in 2024. [reference: WB1] Exposed population means the people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than 1 percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate exposure, we consider a 100-year return period, which is the same as a 1 percent probability that the hazard occurs in a given year. Average global life expectancy is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52 percent of occurring in a 72-year period. ] that a person faces the hazard over their lifespan. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets, and livelihoods.[footnote:   We use hazard-specific thresholds to determine whether a climate-related hazard has a significant impact. For instance, for floods, we use a threshold for inundation depth, and for cyclones, a threshold for wind speed.]",
+      "text": "Around 4.5 billion people were exposed to certain climate-related hazards in 2024.[reference: WB1] Exposed population means the people living in an area affected by a given climate-related hazard. An area is considered exposed if the probability that a hazard strikes in a given year is more than 1 percent. This translates into a[emphasis:  ]probability of slightly over 50 percent[footnote: To estimate exposure, we consider a 100-year return period, which is the same as a 1 percent probability that the hazard occurs in a given year. Average global life expectancy is 72 years. An event with a probability of annual occurrence of 0.01 has a probability of 1-(1-0.01)^72=0.515 or 52 percent of occurring in a 72-year period. ] that a person faces the hazard over their lifespan. Weather events are considered hazards when their intensity is high enough to significantly impact lives, assets, and livelihoods.[footnote:   We use hazard-specific thresholds to determine whether a climate-related hazard has a significant impact. For instance, for floods, we use a threshold for inundation depth, and for cyclones, a threshold for wind speed.]",
       "type": "text",
       "translationPrefix": "goal_13.content.#6"
     },
@@ -163,7 +163,7 @@
       "graphic": "sdg13_effects_of_climate_change_scroller",
       "title": "Globally, almost 8 percent of the population is exposed to cyclones",
       "subtitle": "Area and share of population exposed to cyclones of category 2 or higher[footnote:  The strength of a cyclone is assessed on a scale of 1–5 using the Saffir-Simpson Hurricane Wind Scale.[reference: NOAA1]. Cyclones with wind speeds over 154 km/h are Category 2+.]",
-      "source": "STORM [reference: Bloemendaal1], <a href=\"https://www.researchsquare.com/article/rs-5302969/v2\" target=\"_blank\" rel=\"external\">Hill et al.</a>",
+      "source": "STORM[reference: Bloemendaal1], <a href=\"https://www.researchsquare.com/article/rs-5302969/v2\" target=\"_blank\" rel=\"external\">Hill et al.</a>",
       "visdescription": "Share of population exposed to cyclones and location of areas exposed to cyclones ",
       "textParagraph": "",
       "visSize": "fullScreen",
@@ -328,7 +328,7 @@
         {
           "type": "scene",
           "id": "multi__grid__vuln__nac",
-          "text": "Levels of vulnerability range from 1.7–93 percent across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.7 percent of the population is vulnerable. These are people living in extreme poverty ([emphasis: lack of income]) or those who [emphasis: lack basic education].",
+          "text": "Levels of vulnerability range from 1.7–94 percent across regions. In [emphasis: <span data-color-id=\"NAC\" class=\"NAC\">North America</span>], only 1.7 percent of the population is vulnerable. These are people living in extreme poverty ([emphasis: lack of income]) or those who [emphasis: lack basic education].",
           "translationPrefix": "goal_13.content.#25.scenes.#1"
         },
         {
@@ -399,7 +399,7 @@
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
       "keyFact": "1.5 billion",
-      "keyFactLabel": "people are exposed to climate-related hazards [emphasis: and ]living in highly vulnerable conditions",
+      "keyFactLabel": "people are exposed to climate-related hazards and[emphasis:  ]living in highly vulnerable conditions",
       "label__x_axis": "Each group is 1,000 squares",
       "label__legend": "1 square =$x people",
       "label__highly_vulnerable": "Vulnerable in at least 1 dimension",
@@ -446,7 +446,7 @@
       "translationPrefix": "goal_13.content.#33"
     },
     {
-      "text": "To reduce the number of people at high risk, governments need to pursue both climate mitigation and adaptation. Taking measures to reduce greenhouse gas emissions and limit future warming can help slow the growth of climate-related hazards and exposure to them. Governments are also working to reduce people’s vulnerabilities and increase their resilience towards climate-related hazards. The World Bank’s [emphasis: <a href=\"https://datacatalog.worldbank.org/int/search/dataset/0066854/adaptation_and_resilience_readiness_data\" target=\"_blank\" rel=\"external\">Adaptation and Resilience Readiness Assessment Tool</a>] assesses how well countries are positioned to design and implement effective climate change adaptation and resilience strategies by evaluating key policies, institutions, and actions across multiple pillars and indicators. [reference: WB1]",
+      "text": "To reduce the number of people at high risk, governments need to pursue both climate mitigation and adaptation. Taking measures to reduce greenhouse gas emissions and limit future warming can help slow the growth of climate-related hazards and exposure to them. Governments are also working to reduce people’s vulnerabilities and increase their resilience towards climate-related hazards. The World Bank’s [emphasis: <a href=\"https://datacatalog.worldbank.org/int/search/dataset/0066854/adaptation_and_resilience_readiness_data\" target=\"_blank\" rel=\"external\">Adaptation and Resilience Readiness Assessment Tool</a>] assesses how well countries are positioned to design and implement effective climate change adaptation and resilience strategies by evaluating key policies, institutions, and actions across multiple pillars and indicators.[reference: WB1]",
       "type": "text",
       "translationPrefix": "goal_13.content.#34"
     },
