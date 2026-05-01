@@ -30,7 +30,8 @@
       "homeFactoidPercent": "23",
       "homeFactoidNumber": "1 in 4",
       "homeFactoidText": "urban residents live in slums globally",
-      "homeTagline": "Cities are the engine of global economic growth, but strategic investment in urban planning is essential to ensure cities deliver opportunity for all."
+      "homeTagline": "Cities are the engine of global economic growth, but strategic investment in urban planning is essential to ensure cities deliver opportunity for all.",
+      "indicator_360": "WB_WDI_SP_URB_TOTL"
     }
   },
   "12": {
@@ -56,7 +57,7 @@
       "goal": "13",
       "shortTitle": "Climate",
       "title": "Exposure, Vulnerability, and Adaptation to Climate Hazards",
-      "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves occur more often and are stronger due to climate change and impact more than half the world’s population. Almost a third of those affected are also in highly vulnerable conditions and must adapt to a changing climate.",
+      "abstract": "Extreme weather events, such as floods, droughts, storms, and heatwaves are more frequent and stronger due to climate change. They impact more than half the world’s population, almost one-third of whom  are in highly vulnerable conditions and must adapt to a changing climate.",
       "citation": "Benschop, T, Groves, D, Lønborg, J H and Rininsland, Æ. 2026. “",
       "credits": "Thijs Benschop, Jonas Helth Lønborg & David Groves",
       "inputs": "Jia Li, Esther Naikal, Minh Cong Nguyen",
