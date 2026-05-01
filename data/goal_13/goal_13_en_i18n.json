@@ -161,7 +161,7 @@
   "goal_13.content.#31.disableScreenshot": "true",
   "goal_13.content.#31.data_download": "climate_vulnerability.zip",
   "goal_13.content.#31.keyFact": "1.5 billion",
-  "goal_13.content.#31.keyFactLabel": "people are exposed to climate-related hazards and[emphasis:  ]living in highly vulnerable conditions",
+  "goal_13.content.#31.keyFactLabel": "people are exposed to climate-related hazards and living in highly vulnerable conditions",
   "goal_13.content.#31.label__x_axis": "Each group is 1,000 squares",
   "goal_13.content.#31.label__legend": "1 square =$x people",
   "goal_13.content.#31.label__highly_vulnerable": "Vulnerable in at least 1 dimension",

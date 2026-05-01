@@ -399,7 +399,7 @@
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
       "keyFact": "1.5 billion",
-      "keyFactLabel": "people are exposed to climate-related hazards and[emphasis:  ]living in highly vulnerable conditions",
+      "keyFactLabel": "people are exposed to climate-related hazards and living in highly vulnerable conditions",
       "label__x_axis": "Each group is 1,000 squares",
       "label__legend": "1 square =$x people",
       "label__highly_vulnerable": "Vulnerable in at least 1 dimension",
