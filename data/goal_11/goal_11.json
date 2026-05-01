@@ -13,6 +13,7 @@
     "homeFactoidNumber": "1 in 4",
     "homeFactoidText": "urban residents live in slums globally",
     "homeTagline": "Cities are the engine of global economic growth, but strategic investment in urban planning is essential to ensure cities deliver opportunity for all.",
+    "indicator_360": "WB_WDI_SP_URB_TOTL",
     "translationPrefix": "goal_11.config"
   },
   "content": [
@@ -96,6 +97,7 @@
       "source": "United Nations, Department of Economic and Social Affairs, Population Division (2025). <a href=\"https://population.un.org/wup/\" target=\"_blank\" rel=\"external\">World Urbanization Prospects</a>.",
       "visdescription": "This is a waffle chart. Each dot represents a city in the world and the cities are colored by their size category: very small (50,000 to 250,000 residents), small (250,000 to 1 million residents), medium (1 million to 5 million residents), large (5 million to 10 million residents), very large (over 10 million residents) cities. ",
       "visSize": "fullScreen",
+      "disableScreenshot": "true",
       "theme": "light",
       "y_title": "City grow",
       "y_units": "%",
@@ -156,6 +158,7 @@
       "x_units": "current US$",
       "y_title": "Urban population, 2024",
       "y_units": "% of total population",
+      "indicator_360": "WB_WDI_SP_URB_TOTL_IN_ZS",
       "translationPrefix": "goal_11.content.#9"
     },
     {
@@ -419,6 +422,7 @@
       "x_unit": "",
       "y_title": "Population living in slums (% of urban population), 2000–22",
       "y_unit": "",
+      "indicator_360": "WB_WDI_EN_POP_SLUM_UR_ZS",
       "translationPrefix": "goal_11.content.#38"
     },
     {
@@ -440,6 +444,7 @@
       "data": "1EtgWA9Bb_PnYwNGkGNkL2fgBJXmfQ70oHJbVYHluZYo",
       "keyFact": "Over 1 billion",
       "keyFactLabel": "people live in slums today.",
+      "indicator_360": "WB_WDI_EN_POP_SLUM_UR_ZS",
       "translationPrefix": "goal_11.content.#40"
     },
     {

@@ -1,21 +1,21 @@
 country,survey,survey_year,urban_rural,very_high_risk
-Fiji,MICS,2021,Urban,3.7
-Fiji,MICS,2021,Rural,55.8
-Togo,MICS,2017,Urban,25.8
-Togo,MICS,2017,Rural,72.3
-"Congo, Rep.",MICS,Invalid Date,Urban,9.8
-"Congo, Rep.",MICS,Invalid Date,Rural,55.5
-Côte d'Ivoire,MICS,2016,Urban,21.2
-Côte d'Ivoire,MICS,2016,Rural,57.6
-Honduras,MICS,2019,Urban,12.6
-Honduras,MICS,2019,Rural,48.2
-Zimbabwe,MICS,2019,Urban,16.1
-Zimbabwe,MICS,2019,Rural,51.3
-Madagascar,MICS,2018,Urban,43.6
-Madagascar,MICS,2018,Rural,78.4
-Ethiopia,ESS-WQ,2016,Urban,35.2
-Ethiopia,ESS-WQ,2016,Rural,69.4
-Azerbaijan,MICS,2023,Urban,11.4
-Azerbaijan,MICS,2023,Rural,44.5
-Vanuatu,MICS,2023,Urban,32.6
-Vanuatu,MICS,2023,Rural,62.8
+Fiji,MICS,2021,Urban,4
+Fiji,MICS,2021,Rural,56
+Togo,MICS,2017,Urban,26
+Togo,MICS,2017,Rural,72
+"Congo, Rep.",MICS,Invalid Date,Urban,10
+"Congo, Rep.",MICS,Invalid Date,Rural,56
+Côte d'Ivoire,MICS,2016,Urban,21
+Côte d'Ivoire,MICS,2016,Rural,58
+Honduras,MICS,2019,Urban,13
+Honduras,MICS,2019,Rural,48
+Zimbabwe,MICS,2019,Urban,16
+Zimbabwe,MICS,2019,Rural,51
+Madagascar,MICS,2018,Urban,44
+Madagascar,MICS,2018,Rural,78
+Ethiopia,ESS-WQ,2016,Urban,35
+Ethiopia,ESS-WQ,2016,Rural,69
+Azerbaijan,MICS,2023,Urban,11
+Azerbaijan,MICS,2023,Rural,45
+Vanuatu,MICS,2023,Urban,33
+Vanuatu,MICS,2023,Rural,63

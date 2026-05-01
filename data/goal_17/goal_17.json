@@ -166,7 +166,7 @@
       "title": "",
       "number": "778",
       "units": "million",
-      "label": "<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">children aged 7–14</span>",
+      "label": "<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">children aged 5–14, or nearly half of the world's children in that age range, live in a country with no recent internationally comparable learning assessment.</span>",
       "translationPrefix": "goal_17.content.#16"
     },
     {
@@ -175,7 +175,7 @@
       "title": "Key data are missing for millions of children ",
       "subtitle": "",
       "visSize": "small",
-      "source": "World Bank’s Learning Poverty and Country Learning Outcomes database (learning assessment); UNICEF/WHO/The World Bank: Joint child malnutrition estimates (JME) database (stunting); UNSD Population and Vital Statistics Report (birth registration)",
+      "source": "<a href=\"https://datacatalog.worldbank.org/int/search/dataset/0064204/global-dataset-of-country-learning-outcome\" target=\"_blank\" rel=\"external\">World Bank’s Learning Poverty and Country Learning Outcomes database (learning assessment)</a>; <a href=\"https://data.unicef.org/resources/jme/\" target=\"_blank\" rel=\"external\">UNICEF/WHO/The World Bank: Joint child malnutrition estimates (JME) database (stunting)</a>; <a href=\"https://unstats.un.org/unsd/demographic-social/products/vitstats/#overview\" target=\"_blank\" rel=\"external\">UNSD Population and Vital Statistics Report (birth registration)</a>",
       "square_represents": "1 million children",
       "birth_reg": "Birth registration, children under five",
       "stunting": "Stunting, children under five",
