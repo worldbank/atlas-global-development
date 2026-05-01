@@ -257,29 +257,24 @@
       "translationPrefix": "goal_16.content.#34"
     },
     {
-      "text": "<span style=\"background-color: rgb(255,255,255);\">One approach to measuring workers’ exposure is the AI Occupational Exposure (AIOE) index, which links human job tasks to various AI capabilities.[reference: felten2021] It uses a detailed database of occupations to determine how much of a person's daily work duties overlap with current AI capabilities. By analyzing these connections, the index identifies which jobs are most likely to be affected or assisted by AI. The scale ranges from 0 to 100, where 0 represents an occupation with no tasks suitable for AI and 100 indicates a role where every task is fully exposed to AI capabilities. Although the capabilities of AI have expanded significantly since this index was built, recent usage data are broadly consistent with the index, showing that AI use is closely aligned with the occupations most exposed to AI according to the index.[reference: dem2026]</span>",
+      "text": "<span style=\"background-color: rgb(255,255,255);\">One approach to measuring workers’ exposure is the AI Occupational Exposure (AIOE) index, which links human job tasks to various AI capabilities.[reference: felten2021] It uses a detailed database of occupations to determine how much of a person's daily work duties overlap with current AI capabilities. By analyzing these connections, the index identifies which jobs are most likely to be affected or assisted by AI. The scale ranges from 0 to 100, where 0 represents an occupation with no tasks suitable for AI and 100 indicates a role where every task is fully exposed to AI capabilities. Although the capabilities of AI have expanded significantly since this index was built, recent usage data are broadly consistent with the index, showing that AI use is closely aligned with the occupations most exposed to AI according to the index.[reference: dem2026] </span>[footnote: Yet the link between use and exposure is not perfect. Managers, for example, show high theoretical exposure to AI but relatively low usage. Since the AIOE index was created, newer frameworks for evaluation occupational exposure to AI have been constructed.[reference: eloundou2024][reference: gmyrek2025]]",
       "type": "text",
       "translationPrefix": "goal_16.content.#35"
     },
     {
-      "text": "Yet the link between use and exposure is not perfect. Managers, for example, show high theoretical exposure to AI but relatively low usage. Since the AIOE index was created, newer frameworks for evaluation occupational exposure to AI have been constructed.[reference: eloundou2024][reference: gmyrek2025]",
+      "text": "<span style=\"background-color: rgb(255,255,255);\"></span>",
       "type": "text",
       "translationPrefix": "goal_16.content.#36"
     },
     {
-      "text": "<span style=\"background-color: rgb(255,255,255);\"></span>",
+      "text": "<span style=\"background-color: rgb(255,255,255);\"> </span><span style=\"background-color: rgb(255,255,255);\"></span>",
       "type": "text",
       "translationPrefix": "goal_16.content.#37"
     },
     {
-      "text": "<span style=\"background-color: rgb(255,255,255);\"> </span><span style=\"background-color: rgb(255,255,255);\"></span>",
-      "type": "text",
-      "translationPrefix": "goal_16.content.#38"
-    },
-    {
       "text": "<span style=\"background-color: rgb(255,255,255);\"></span>",
       "type": "text",
-      "translationPrefix": "goal_16.content.#39"
+      "translationPrefix": "goal_16.content.#38"
     },
     {
       "type": "scroller",
@@ -301,70 +296,70 @@
           "type": "scene",
           "id": "scene1_id",
           "text": "Some occupations, such as <span data-color-id=\"LCN\" class=\"LCN\">information and communications technology (ICT) professionals</span>, are exposed to AI in most facets of their work, with an exposure score of 93.",
-          "translationPrefix": "goal_16.content.#40.scenes.#0"
+          "translationPrefix": "goal_16.content.#39.scenes.#0"
         },
         {
           "type": "scene",
           "id": "scene2_id",
           "text": "Others, such as <span data-color-id=\"cat1\" class=\"cat1\">subsistence farmers, fishers, hunters and gatherers</span>, are largely not exposed to AI in their work, with an exposure score of 20.[footnote: The tasks associated with an occupation differ in rich and poor countries. The <span style=\"background-color: rgb(255,255,255);\">AIOE Index is based on the tasks associated with occupations in the United States. In poorer countries, similar occupations are likely to have tasks that are less exposed by AI.</span>]",
-          "translationPrefix": "goal_16.content.#40.scenes.#1"
+          "translationPrefix": "goal_16.content.#39.scenes.#1"
         },
         {
           "type": "scene",
           "id": "scene3_id",
           "text": "Most occupations fall somewhere in between.",
-          "translationPrefix": "goal_16.content.#40.scenes.#2"
+          "translationPrefix": "goal_16.content.#39.scenes.#2"
         },
         {
           "type": "scene",
           "id": "scene4_id",
           "text": "Countries are exposed differently to AI because occupation types differ by country. We can see this by scaling the occupations according to their prominence. Here, this is done for the United States. Defining high exposure as greater than 50, the majority of US workers are highly exposed, because occupations such as <span data-color-id=\"cat1\" class=\"cat1\">business and administration associate professionals</span> and <span data-color-id=\"cat1\" class=\"cat1\">teaching professionals</span><span data-color-id=\"cat1\" class=\"cat1\"> </span>are common.",
-          "translationPrefix": "goal_16.content.#40.scenes.#3"
+          "translationPrefix": "goal_16.content.#39.scenes.#3"
         },
         {
           "type": "scene",
           "id": "scene5_id",
           "text": "In middle-income countries, occupations such as <span style=\"background-color: rgb(150,168,172);\">market-oriented skilled agricultural workers</span> and <span style=\"background-color: rgb(131,167,205);\">sales workers</span> are common. These occupations are notably less exposed to AI than many of the occupations common in the US.  ",
-          "translationPrefix": "goal_16.content.#40.scenes.#4"
+          "translationPrefix": "goal_16.content.#39.scenes.#4"
         },
         {
           "type": "scene",
           "id": "scene6_id",
           "text": "In low-income countries, large populations of workers are engaged in <span style=\"color: rgb(255,255,255); background-color: rgb(160,168,156);\">subsistence farming</span>, and less than 20 percent of workers are highly exposed to AI.[footnote: These statistics depend on where the threshold for high exposure is set. Regardless of how it is defined, workers in low-income countries are notably less exposed to AI than their high-income country counterparts.]",
-          "translationPrefix": "goal_16.content.#40.scenes.#5"
+          "translationPrefix": "goal_16.content.#39.scenes.#5"
         }
       ],
-      "translationPrefix": "goal_16.content.#40"
+      "translationPrefix": "goal_16.content.#39"
     },
     {
       "text": "The difference between exposure in poor and rich countries is likely underestimated for two reasons. First,  many people in poorer countries do not have access to the internet or computers at home or work. Even if their occupational tasks could be exposed to AI, in practice, they are not.[reference: gmyrek2024] Second, the tasks associated with an occupation differ in rich and poor countries. The <span style=\"background-color: rgb(255,255,255);\">AIOE Index is based on the tasks associated with occupations in the United States. In poorer countries, similar occupations are likely to involve tasks with less AI exposure.</span> ",
       "type": "text",
-      "translationPrefix": "goal_16.content.#41"
+      "translationPrefix": "goal_16.content.#40"
     },
     {
       "text": "AI exposure also varies notably within countries, and is heavily concentrated among urban populations, with city dwellers facing much higher exposure than those in rural areas due to the nature of urban employment. Education is the strongest predictor of exposure, as individuals with post-secondary degrees occupy roles with high cognitive task intensity that are most susceptible to AI integration. A notable gender gap exists, with women generally experiencing higher exposure than men, largely because they are more concentrated in clerical, professional, and service roles.[reference: dem2025][reference: wadhwa2026] Understanding these differences in exposure is vital to anticipate how AI will transform the labor market, and the socioeconomic consequences of this  transformation.",
       "type": "text",
-      "translationPrefix": "goal_16.content.#42"
+      "translationPrefix": "goal_16.content.#41"
     },
     {
       "text": "In middle-income countries, AI usage is highly concentrated among a few professions. Here, ICT workers and teachers account for nearly three-quarters of all AI usage, whereas in high-income countries, there is a much broader spread. This concentration reinforces the impact of foundational barriers, as adoption remains restricted to workers with the strongest digital access and text-heavy tasks.[reference: dem2026]",
       "type": "text",
-      "translationPrefix": "goal_16.content.#43"
+      "translationPrefix": "goal_16.content.#42"
     },
     {
       "text": "Navigating the path forward",
       "type": "subhed",
-      "translationPrefix": "goal_16.content.#44"
+      "translationPrefix": "goal_16.content.#43"
     },
     {
       "text": "Although the rise of AI offers a powerful engine for productivity and human development, it also threatens to deepen inequalities between and within countries. The impact of AI on jobs remains a subject of intense debate, with the future likely to involve a complex mix of both augmentation, where AI enhances human capabilities, and automation, where AI replaces certain tasks. Until now, the direct impact on the poorest countries has been limited by structural barriers and predominant occupations. As AI adoption follows a predictable diffusion pattern—starting with ICT professionals and spreading outward to other sectors—it offers a window for proactive policy. ",
       "type": "text",
-      "translationPrefix": "goal_16.content.#45"
+      "translationPrefix": "goal_16.content.#44"
     },
     {
       "text": "For low- and middle-income countries, the path forward involves a dual strategy. First, governments can strengthen foundational pillars by investing in the essentials, such as affordable internet, data infrastructure, and digital skills. And second, they can build the bedrock for Small AI, which does not require massive infrastructure or cutting-edge servers but flourishes instead on smaller, local datasets and is fine-tuned to address immediate challenges. By focusing on solutions that can run on everyday smartphones using minimal resources, poorer countries can harness AI to create tangible impact in key sectors, such as public health, agriculture, and education.",
       "type": "text",
-      "translationPrefix": "goal_16.content.#46"
+      "translationPrefix": "goal_16.content.#45"
     }
   ],
   "references": {
