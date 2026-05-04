@@ -455,31 +455,31 @@
           {
             "type": "scene",
             "id": "1",
-            "text": "Each [emphasis: dot represents a country or an economy]. If a job is more specialized than employment overall, the indicator is above 1 for that area. When the value is closer to 1, the job is distributed much like other jobs. Values below 1 suggest that jobs are relatively less specialized. This is reported for <span data-color-id=\"cat1\" class=\"cat1\">urban</span> and <span data-color-id=\"rural\" class=\"rural\">rural areas</span> and for three skill levels in each country. ",
+            "text": "Each [emphasis: dot represents a country or an economy]. If a job is more specialized than employment overall, the indicator is above 1 for that area. When the value is closer to 1, the job is distributed much like other jobs. Values below 1 suggest that jobs are relatively less specialized. This is reported for <span style=\"color: rgb(255,255,255); background-color: rgb(109,136,209);\">urban</span> and <span data-color-id=\"rural\" class=\"rural\">rural areas</span> and for three skill levels in each country. ",
             "translationPrefix": "goal_11.content.#16.scenes.#0"
           },
           {
             "type": "scene",
             "id": "1",
-            "text": "Let’s take [emphasis: Indonesia] as an example, where the specialization value for low-skill jobs in <span data-color-id=\"cat4\" class=\"cat4\">rural areas is 1.07</span> and in <span data-color-id=\"cat1\" class=\"cat1\">urban areas is 0.95</span>. This means low-skill jobs, compared to all jobs, are 7 percent more common in rural areas and 5 percent less common in urban areas.",
+            "text": "Let’s take [emphasis: Indonesia] as an example, where the specialization value for low-skill jobs in <span style=\"color: rgb(255,255,255); background-color: rgb(84,174,137);\">rural areas is 1.07</span> and in <span style=\"color: rgb(255,255,255); background-color: rgb(109,136,209);\">urban areas is 0.95</span>. This means low-skill jobs, compared to all jobs, are 7 percent more common in rural areas and 5 percent less common in urban areas.",
             "translationPrefix": "goal_11.content.#16.scenes.#1"
           },
           {
             "type": "scene",
             "id": "1",
-            "text": "Similarly, medium-skill jobs are only <span data-color-id=\"rural\" class=\"rural\">5 percent more common</span> in <span style=\"color: rgb(4,1,16);\">rural areas</span> and <span data-color-id=\"cat1\" class=\"cat1\">4 percent less common</span> in urban areas.",
+            "text": "Similarly, medium-skill jobs are only <span data-color-id=\"rural\" class=\"rural\">5 percent more common</span> in <span style=\"color: rgb(4,1,16);\">rural areas</span> and <span style=\"color: rgb(255,255,255); background-color: rgb(109,136,209);\">4 percent less common</span> in urban areas.",
             "translationPrefix": "goal_11.content.#16.scenes.#2"
           },
           {
             "type": "scene",
             "id": "1",
-            "text": "High-skill jobs have the starkest contrast: they are <span data-color-id=\"cat1\" class=\"cat1\">30 percent more common</span> in urban areas and <span data-color-id=\"cat4\" class=\"cat4\">40 percent less common</span> in rural areas.",
+            "text": "High-skill jobs have the starkest contrast: they are <span style=\"color: rgb(255,255,255); background-color: rgb(109,136,209);\">30 percent more common</span> in urban areas and <span data-color-id=\"rural\" class=\"rural\">40 percent less common</span> in rural areas.",
             "translationPrefix": "goal_11.content.#16.scenes.#3"
           },
           {
             "type": "scene",
             "id": "2",
-            "text": "More generally, low- and medium-skill jobs are roughly in proportion to overall employment in <span style=\"color: rgb(255,255,255); background-color: rgb(84,174,137);\">rural areas</span> (with specialization rates around 1.08) and urban areas (with specialization rates around 0.94). By contrast, high-skill jobs are strongly represented in <span data-color-id=\"cat1\" class=\"cat1\">urban areas</span>, where specialization rates are far higher (around 1.3) than in rural areas (around 0.6). This highlights the role of cities as hubs for high-skill work.",
+            "text": "More generally, low- and medium-skill jobs are roughly in proportion to overall employment in <span style=\"color: rgb(255,255,255); background-color: rgb(84,174,137);\">rural areas</span> (with specialization rates around 1.08) and urban areas (with specialization rates around 0.94). By contrast, high-skill jobs are strongly represented in <span style=\"color: rgb(255,255,255); background-color: rgb(109,136,209);\">urban areas</span>, where specialization rates are far higher (around 1.3) than in rural areas (around 0.6). This highlights the role of cities as hubs for high-skill work.",
             "translationPrefix": "goal_11.content.#16.scenes.#4"
           }
         ],
@@ -986,7 +986,7 @@
           {
             "type": "scene",
             "id": "cyclones__vec__bbox1",
-            "text": "Tropical [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">c</span>][emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">yclone</span>] Melissa made landfall in Jamaica on October 28,  2025. The third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] ever recorded in the Atlantic Ocean, it was classified as a category 5 and had wind speeds of up to 300 km/h.[reference: WMO4] Although it wreaked enormous  damage on infrastructure and houses, due to early warning systems, the number of casualties was limited at 50.[emphasis: ]",
+            "text": "Tropical [emphasis: <span data-color-id=\"cat3\" class=\"cat3\">cyclone</span>] Melissa made landfall in Jamaica on October 28,  2025. The third most intense [emphasis: <span style=\"color: rgb(255,255,255); background-color: rgb(102,74,182);\">cyclone</span>] ever recorded in the Atlantic Ocean, it was classified as a category 5 and had wind speeds of up to 300 km/h.[reference: WMO4] Although it wreaked enormous  damage on infrastructure and houses, due to early warning systems, the number of casualties was limited at 50.[emphasis: ]",
             "translationPrefix": "goal_13.content.#15.scenes.#1"
           },
           {
@@ -1141,7 +1141,7 @@
         "data_download": "climate_vulnerability.zip",
         "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
         "keyFact": "1.5 billion",
-        "keyFactLabel": "people are exposed to climate-related hazards and[emphasis:  ]living in highly vulnerable conditions",
+        "keyFactLabel": "people are exposed to climate-related hazards and living in highly vulnerable conditions",
         "label__x_axis": "Each group is 1,000 squares",
         "label__legend": "1 square =$x people",
         "label__highly_vulnerable": "Vulnerable in at least 1 dimension",
@@ -1803,7 +1803,7 @@
           {
             "type": "scene",
             "id": "initial_survey",
-            "text": "In 2018, <span data-color-id=\"cat1\" class=\"cat1\">survey estimates </span>revealed that around 34 percent of Nigerians (71 million people) were living in extreme poverty.",
+            "text": "In 2018, <span style=\"color: rgb(255,255,255); background-color: rgb(0,113,188);\">survey estimates</span> revealed that around 34 percent of Nigerians (71 million people) were living in extreme poverty.",
             "translationPrefix": "goal_17.content.#10.scenes.#0"
           },
           {
@@ -1815,7 +1815,7 @@
           {
             "type": "scene",
             "id": "new_survey",
-            "text": "The 2022 survey data revealed that the poverty rate was actually <span data-color-id=\"cat1\" class=\"cat1\">41.8 percent,</span> substantially higher than the projected <span data-color-id=\"cat8\" class=\"cat8\">34.8 percent</span>.",
+            "text": "The 2022 survey data revealed that the poverty rate was actually <span style=\"color: rgb(255,255,255); background-color: rgb(0,113,188);\">41.8 percent</span>, substantially higher than the projected <span data-color-id=\"cat8\" class=\"cat8\">34.8 percent</span>.",
             "translationPrefix": "goal_17.content.#10.scenes.#2"
           },
           {
@@ -3225,7 +3225,7 @@
         "graphic": "access_electricity_urban_rural",
         "title": "Access to electricity is lower in rural areas ",
         "subtitle": "People with access to electricity, by place of residence (% of population)",
-        "source": "World Bank Group. “<a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_EG_ELC_ACCS_RU_ZS\" target=\"_blank\" rel=\"external\">Access to electricity, rural (% of rural population)</a>,” “<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS\" target=\"_blank\" rel=\"external\">Access to electricity, urban (% of urban population</a>).” SDG 7.1.1 Electrification Dataset.",
+        "source": "World Bank Group. “<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS\" target=\"_blank\" rel=\"external\">Access to electricity, rural (% of rural population)</a>,” “<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS\" target=\"_blank\" rel=\"external\">Access to electricity, urban (% of urban population</a>).” SDG 7.1.1 Electrification Dataset.",
         "urban": "Urban areas",
         "rural": "Rural areas",
         "visdescription": "Line charts showing the difference in access to electricity between urban and rural areas in different regions and the world.",
@@ -3286,7 +3286,7 @@
         "graphic": "access_electricity_urban_rural_countries",
         "title": "Rapid rural progress in Ethiopia has reduced the urban–rural gap, while the Democratic Republic of Congo and Nigeria have made limited progress",
         "subtitle": "People with access to electricity, by place of residence (% of population)",
-        "source": "World Bank Group. “<a href=\"https://data360.worldbank.org/en/int/indicator/WB_WDI_EG_ELC_ACCS_RU_ZS\" target=\"_blank\" rel=\"external\">Access to electricity, rural (% of rural population)</a>,” “<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS\" target=\"_blank\" rel=\"external\">Access to electricity, urban (% of urban population</a>).” SDG 7.1.1 Electrification Dataset. ",
+        "source": "World Bank Group. “<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS\" target=\"_blank\" rel=\"external\">Access to electricity, rural (% of rural population)</a>,” “<a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS\" target=\"_blank\" rel=\"external\">Access to electricity, urban (% of urban population</a>).” SDG 7.1.1 Electrification Dataset. ",
         "urban": "Urban areas",
         "rural": "Rural areas",
         "y_axis_units": "%",

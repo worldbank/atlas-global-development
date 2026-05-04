@@ -109,7 +109,7 @@
         {
           "type": "scene",
           "id": "initial_survey",
-          "text": "In 2018, <span data-color-id=\"cat1\" class=\"cat1\">survey estimates </span>revealed that around 34 percent of Nigerians (71 million people) were living in extreme poverty.",
+          "text": "In 2018, <span style=\"color: rgb(255,255,255); background-color: rgb(0,113,188);\">survey estimates</span> revealed that around 34 percent of Nigerians (71 million people) were living in extreme poverty.",
           "translationPrefix": "goal_17.content.#10.scenes.#0"
         },
         {
@@ -121,7 +121,7 @@
         {
           "type": "scene",
           "id": "new_survey",
-          "text": "The 2022 survey data revealed that the poverty rate was actually <span data-color-id=\"cat1\" class=\"cat1\">41.8 percent,</span> substantially higher than the projected <span data-color-id=\"cat8\" class=\"cat8\">34.8 percent</span>.",
+          "text": "The 2022 survey data revealed that the poverty rate was actually <span style=\"color: rgb(255,255,255); background-color: rgb(0,113,188);\">41.8 percent</span>, substantially higher than the projected <span data-color-id=\"cat8\" class=\"cat8\">34.8 percent</span>.",
           "translationPrefix": "goal_17.content.#10.scenes.#2"
         },
         {
@@ -166,7 +166,7 @@
       "title": "",
       "number": "778",
       "units": "million",
-      "label": "<span style=\"color: rgb(68,71,70); background-color: rgb(255,255,255);\">children aged 5–14, or nearly half of the world's children in that age range, live in a country with no recent internationally comparable learning assessment.</span>",
+      "label": "<span style=\"color: rgb(68,71,70);\">children aged 5–14, or nearly half of the world's children in that age range, live in a country with no recent internationally comparable learning assessment.</span>",
       "translationPrefix": "goal_17.content.#16"
     },
     {
