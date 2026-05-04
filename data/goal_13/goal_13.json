@@ -347,7 +347,7 @@
       "translationPrefix": "goal_13.content.#25"
     },
     {
-      "text": "1.5 billion people are at high risk of climate-related hazards",
+      "text": "1.5 billion people are at high risk from climate-related hazards",
       "type": "subhed",
       "translationPrefix": "goal_13.content.#26"
     },
@@ -358,7 +358,7 @@
     },
     {
       "type": "factoid",
-      "title": "At high risk of climate-related hazards",
+      "title": "At high risk from climate-related hazards",
       "number": "1.5",
       "units": "billion",
       "label": "People globally are both exposed to climate-related hazards [emphasis: and][emphasis:  ]living in highly vulnerable conditions",
@@ -370,7 +370,7 @@
       "title": "The number of people at high risk from climate-related hazards varies by region",
       "subtitle": "Share of population at high risk from climate-related hazards in 2024",
       "source": "<a href=\"https://scorecard.worldbank.org/en/data/indicator-detail/EN_CLM_VULN?orgCode=ALL&refareatype=REGION&refareacode=ACW&age=_T&disability=_T&sex=_T\" target=\"_blank\" rel=\"external\">World Bank Scorecard Indicator</a>, <a href=\"https://www.researchsquare.com/article/rs-5302969/v2\" target=\"_blank\" rel=\"external\">Hill et al.</a>",
-      "visdescription": "Map showing the share of regional populations defined as being at high risk of climate-related hazards in 2024.",
+      "visdescription": "Map showing the share of regional populations defined as being at high risk from climate-related hazards in 2024.",
       "visSize": "default",
       "data_download": "climate_vulnerability.zip",
       "data": "1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ",
@@ -441,7 +441,7 @@
       "translationPrefix": "goal_13.content.#32"
     },
     {
-      "text": "Climate-related hazards can threaten people’s health, livelihoods, food security, and safety, deepening existing inequalities. People at high risk are those who are exposed to climate-related hazards—such as floods, agricultural droughts, cyclones and heatwaves—and also live in vulnerable conditions. In 2024, 4.5 billion people were exposed to climate-related hazards and 2.8 billion lived in highly vulnerable conditions. Looking at the overlap between these two groups, 1.5 billion people were at high risk of climate-related hazards.",
+      "text": "Climate-related hazards can threaten people’s health, livelihoods, food security, and safety, deepening existing inequalities. People at high risk are those who are exposed to climate-related hazards—such as floods, agricultural droughts, cyclones and heatwaves—and also live in vulnerable conditions. In 2024, 4.5 billion people were exposed to climate-related hazards and 2.8 billion lived in highly vulnerable conditions. Looking at the overlap between these two groups, 1.5 billion people were at high risk from climate-related hazards.",
       "type": "text",
       "translationPrefix": "goal_13.content.#33"
     },
