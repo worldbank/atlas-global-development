@@ -1,0 +1,1 @@
+import{i as a}from"./DuXBng4X.js";function c(r,i){i===void 0&&(i=r,r=a);for(var t=0,n=i.length-1,f=i[0],o=new Array(n<0?0:n);t<n;)o[t]=r(f,f=i[++t]);return function(e){var h=Math.max(0,Math.min(n-1,Math.floor(e*=n)));return o[h](e-h)}}export{c as p};

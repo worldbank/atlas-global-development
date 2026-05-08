@@ -6,7 +6,7 @@
     "shortTitle": "Story Topic",
     "title": "A catchy title for your story",
     "abstract": "The abstract of the chapter. In this part, please provide a brief summary of your chapter (about 50 words). Lorem ipsum odor amet, consectetuer adipiscing elit. Facilisi convallis fringilla elit dapibus mauris risus curae. Facilisis porta eros mus penatibus, tincidunt a. Cras vehicula quis viverra ridiculus convallis volutpat nam molestie ligula. Phasellus venenatis euismod in cras id porttitor; bibendum dignissim.",
-    "citation": "Mahler, Daniel Gerszon, and Maarten Lambrechts. 2023. “Progress, challenges in ending extreme poverty” In Atlas of  Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. <a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\">https://doi.org/10.60616/f7gk-me57</a>",
+    "citation": "Mahler, Daniel Gerszon, and Maarten Lambrechts. 2023. “Progress, challenges in ending extreme poverty” In Atlas of  Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. <a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\" rel=\"external\">https://doi.org/10.60616/f7gk-me57</a>",
     "credits": "Daniel Gerszon Mahler",
     "inputs": "Andrés Castañeda, Carolina Diaz-Bonilla, Christoph Lakner, Dean Jolliffe, Gabriel Lara Ibara, Marta Schoch, Martha Viveros, Nishant Yonzan, Philip Wollburg, Samuel Kofi Tetteh Baah, Stephane Hallegatte",
     "visuals": "Maarten Lambrechts",
@@ -53,7 +53,7 @@
       "translationPrefix": "goal_99.content.#6"
     },
     {
-      "text": "You can add links anywhere in the text (in references, footnotes, scene texts etc.). Simply select the text you want to <a href=\"https://data.worldbank.org/\" target=\"_blank\">turn into a link</a> and select Insert Link from the context Menu or the top menu.",
+      "text": "You can add links anywhere in the text (in references, footnotes, scene texts etc.). Simply select the text you want to <a href=\"https://data.worldbank.org/\" target=\"_blank\" rel=\"external\">turn into a link</a> and select Insert Link from the context Menu or the top menu.",
       "type": "text",
       "translationPrefix": "goal_99.content.#7"
     },
@@ -209,8 +209,8 @@
       "graphic": "basic_scatterplot",
       "title": "Global poverty could increase if current trends continue",
       "subtitle": "Past values and projections",
-      "textParagraph": "If all countries make progress at Korea’s pace, global extreme poverty would be reduced to 1.5% by 2050. Yet copying Korea's trajectory will be difficult. If countries manage to make progress at the pace of Brazil, Tunisia, or Turkey, there will still be modest declines, while if they make progress at the speed typically observed since 1950, there will still be around 8% poverty by 2050. Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\">Explainer</a> for how these projections are constructed.]",
-      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025b)</a>. ",
+      "textParagraph": "If all countries make progress at Korea’s pace, global extreme poverty would be reduced to 1.5% by 2050. Yet copying Korea's trajectory will be difficult. If countries manage to make progress at the pace of Brazil, Tunisia, or Turkey, there will still be modest declines, while if they make progress at the speed typically observed since 1950, there will still be around 8% poverty by 2050. Unfortunately, over the past years the speed of global poverty reduction has slowed down. If countries follow their current speed of progress, global poverty will soon start to increase.[footnote: See the <a href=\"https://worldbank.github.io/sdgatlas-preview/measuring-progress\" target=\"_blank\" rel=\"external\">Explainer</a> for how these projections are constructed.]",
+      "source": "<a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\" rel=\"external\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\" rel=\"external\">Mahler et al. (2025b)</a>. ",
       "note": "This is for small notes or disclaimers",
       "visdescription": "Describe what the visualization shows",
       "y_axis_title": "Poverty rate",
@@ -220,7 +220,7 @@
       "rate1": "Typical path",
       "rateH": "Current path",
       "global_poverty_rate": "Global poverty rate",
-      "data_download": "01.data.global_projections.zip",
+      "data_download": "01_data_global_projections.zip",
       "data": "1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg",
       "translationPrefix": "goal_99.content.#36"
     },
@@ -240,7 +240,7 @@
       "title": "Global poverty projections",
       "subtitle": "A fullScreen Scroller",
       "visSize": "fullScreen",
-      "source": "Fullscreen scroller without particles (theme: light (alternatively: dark) <a href=\"https://pip.worldbank.org/home\" target=\"_blank\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Mahler et al. (2025b)</a>. ",
+      "source": "Fullscreen scroller without particles (theme: light (alternatively: dark) <a href=\"https://pip.worldbank.org/home\" target=\"_blank\" rel=\"external\">World Bank Poverty and Inequality Platform</a>, <a href=\"https://www.worldbank.org/en/publication/macro-poverty-outlook\" target=\"_blank\" rel=\"external\">World Bank Macro and Poverty Outlook October 2025</a>, Mahler et al. (2025a), and <a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\" rel=\"external\">Mahler et al. (2025b)</a>. ",
       "y_axis_title": "Poverty rate",
       "y_axis_units": "%",
       "rate4": "Korea’s path of development",
@@ -249,7 +249,7 @@
       "global_poverty_rate": "Global poverty rate",
       "visdescription": "Describe what the visualization shows",
       "theme": "light (alternatively: dark)",
-      "data_download": "01.data.global_projections.zip",
+      "data_download": "01_data_global_projections.zip",
       "data": "1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg",
       "scenes": [
         {
@@ -297,7 +297,7 @@
         {
           "type": "scene",
           "id": "firstID",
-          "text": "In 1990, nearly [emphasis: 2 billion people] <a href=\"https://www.worldbank.org\" target=\"_blank\">worldwide</a> lived in extreme poverty – in other words, on less than $2.15 per day.",
+          "text": "In 1990, nearly [emphasis: 2 billion people] <a href=\"https://www.worldbank.org\" target=\"_blank\" rel=\"external\">worldwide</a> lived in extreme poverty – in other words, on less than $2.15 per day.",
           "translationPrefix": "goal_99.content.#42.scenes.#0"
         },
         {
@@ -328,18 +328,18 @@
   ],
   "references": {
     "type": "references",
-    "foster2025": "Foster, Elizabeth <span style=\"color: rgb(53,60,63);\">ⓡ Dean Jolliffe ⓡ Gabriel Lara Ibarra ⓡ Christoph Lakner ⓡ Samuel Tetteh Baah. 2025. “</span><a href=\"https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf\" target=\"_blank\">Global Poverty Revisted Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63);\">” World Bank Policy Research Working Paper no. 11137. </span>",
+    "foster2025": "Foster, Elizabeth <span style=\"color: rgb(53,60,63);\">ⓡ Dean Jolliffe ⓡ Gabriel Lara Ibarra ⓡ Christoph Lakner ⓡ Samuel Tetteh Baah. 2025. “</span><a href=\"https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf\" target=\"_blank\" rel=\"external\">Global Poverty Revisted Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63);\">” World Bank Policy Research Working Paper no. 11137. </span>",
     "mahler2025a": "Mahler, Daniel Gerszon, Umar Serajuddin, Dviyanshi Wadhwa, Nishant Yonzan. 2025. “The World Is Developing at Its Slowest Pace in 75 Years.”",
-    "mahler2025b": "M<span style=\"color: rgb(33,37,41);\">ahler, Daniel Gerszon; Foster, Elizabeth; Lakner, Christoph; Prinsloo, Zander; Tchouakam Mbouendeu, Rostand; Tetteh-Baah, Samuel K.. 2025. </span><a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41);\">. Global Poverty Monitoring Technical Note; No. 45. © World Bank. </span>",
+    "mahler2025b": "M<span style=\"color: rgb(33,37,41);\">ahler, Daniel Gerszon; Foster, Elizabeth; Lakner, Christoph; Prinsloo, Zander; Tchouakam Mbouendeu, Rostand; Tetteh-Baah, Samuel K.. 2025. </span><a href=\"https://hdl.handle.net/10986/43363\" target=\"_blank\" rel=\"external\">Constructing Comparable Global Poverty Trends</a><span style=\"color: rgb(33,37,41);\">. Global Poverty Monitoring Technical Note; No. 45. © World Bank. </span>",
     "worldbank2025a": "World Bank. 2025. “Macro Poverty Outlook October 2025”.",
-    "jolliffe2016": "Jolliffe, Dean, and Espen Beer Prydz. 2016. “<a href=\"https://link.springer.com/article/10.1007/s10888-016-9327-5\" target=\"_blank\">Estimating International Poverty Lines from Comparable National Thresholds</a>.“ Journal of Economic Inequality 15: 185-198.",
-    "berg2012": "Berg, Andrew, Jonathan D. Ostry, and Jeromin Zettelmeyer. 2012. \"<a href=\"https://doi.org/10.1016/j.jdeveco.2011.08.002\" target=\"_blank\">What Makes Growth Sustained?</a>.\" Journal of Development Economics 98 (2): 149-166.",
-    "hausmann2005": "Hausmann, Ricardo, Lant Pritchett, and Dani Rodrik. 2005. \"<a href=\"https://link.springer.com/article/10.1007/s10887-005-4712-0\" target=\"_blank\">Growth Accelerations</a>.\" Journal of Economic Growth 10: 303-329.",
-    "cunningham2024": "Cunningham, Wendy; Demirag, Daisy; Weber, Michael. “<a href=\"http://documents.worldbank.org/curated/en/099055012062427965\" target=\"_blank\">Human Capital for More Jobs: Connecting People to Work and Creating Entrepreneurs</a>.” Washington, D.C. : World Bank Group<span style=\"color: rgb(24,31,37);\">.</span>",
-    "worldbank2025b": "World Bank 2025. “<a href=\"https://hdl.handle.net/10986/42842\" target=\"_blank\">State of Social Protection Report 2025: The 2-Billion Person Challenge.</a>” Washington, D.C.: World Bank Group.",
-    "corral2020": "Corral, Paul, Alexander Irwin, Nandini Krishnan, Daniel Gerszon Mahler, and Tara Vishwanath. “<a href=\"https://hdl.handle.net/10986/33324\" target=\"_blank\">Fragility and Conflict: On the Front Lines of the Fight Against Poverty.</a>” World Bank Publications, 2020.",
-    "worldbank2017": "World Bank 2017. “<a href=\"https://www.worldbank.org/en/publication/wdr2017\" target=\"_blank\">World Development Report 2017: Governance and the Law.</a>” Washington, D.C.: World Bank Group.",
-    "hallegatte2016": "Hallegatte, Stephane, Mook Bangalore, Laura Bonzanigo, Marianne Fay, Tamaro Kane, Ulf Narloch, Julie Rozenberg, David Treguer, and Adrien Vogt-Schilb. “<a href=\"https://hdl.handle.net/10986/22787\" target=\"_blank\">Shock Waves: Managing the Impacts of Climate Change on Poverty.</a>” World Bank Publications, 2016.",
+    "jolliffe2016": "Jolliffe, Dean, and Espen Beer Prydz. 2016. “<a href=\"https://link.springer.com/article/10.1007/s10888-016-9327-5\" target=\"_blank\" rel=\"external\">Estimating International Poverty Lines from Comparable National Thresholds</a>.“ Journal of Economic Inequality 15: 185-198.",
+    "berg2012": "Berg, Andrew, Jonathan D. Ostry, and Jeromin Zettelmeyer. 2012. \"<a href=\"https://doi.org/10.1016/j.jdeveco.2011.08.002\" target=\"_blank\" rel=\"external\">What Makes Growth Sustained?</a>.\" Journal of Development Economics 98 (2): 149-166.",
+    "hausmann2005": "Hausmann, Ricardo, Lant Pritchett, and Dani Rodrik. 2005. \"<a href=\"https://link.springer.com/article/10.1007/s10887-005-4712-0\" target=\"_blank\" rel=\"external\">Growth Accelerations</a>.\" Journal of Economic Growth 10: 303-329.",
+    "cunningham2024": "Cunningham, Wendy; Demirag, Daisy; Weber, Michael. “<a href=\"http://documents.worldbank.org/curated/en/099055012062427965\" target=\"_blank\" rel=\"external\">Human Capital for More Jobs: Connecting People to Work and Creating Entrepreneurs</a>.” Washington, D.C. : World Bank Group<span style=\"color: rgb(24,31,37);\">.</span>",
+    "worldbank2025b": "World Bank 2025. “<a href=\"https://hdl.handle.net/10986/42842\" target=\"_blank\" rel=\"external\">State of Social Protection Report 2025: The 2-Billion Person Challenge.</a>” Washington, D.C.: World Bank Group.",
+    "corral2020": "Corral, Paul, Alexander Irwin, Nandini Krishnan, Daniel Gerszon Mahler, and Tara Vishwanath. “<a href=\"https://hdl.handle.net/10986/33324\" target=\"_blank\" rel=\"external\">Fragility and Conflict: On the Front Lines of the Fight Against Poverty.</a>” World Bank Publications, 2020.",
+    "worldbank2017": "World Bank 2017. “<a href=\"https://www.worldbank.org/en/publication/wdr2017\" target=\"_blank\" rel=\"external\">World Development Report 2017: Governance and the Law.</a>” Washington, D.C.: World Bank Group.",
+    "hallegatte2016": "Hallegatte, Stephane, Mook Bangalore, Laura Bonzanigo, Marianne Fay, Tamaro Kane, Ulf Narloch, Julie Rozenberg, David Treguer, and Adrien Vogt-Schilb. “<a href=\"https://hdl.handle.net/10986/22787\" target=\"_blank\" rel=\"external\">Shock Waves: Managing the Impacts of Climate Change on Poverty.</a>” World Bank Publications, 2016.",
     "annexchapter": "[Eventually link to the technical annex chapter here]",
     "translationPrefix": "goal_99.references"
   },

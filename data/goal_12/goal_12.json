@@ -55,7 +55,7 @@
       "visdescription": "Describe what the visualization shows",
       "theme": "light (alternatively: dark)",
       "visSize": "fullScreen",
-      "data_download": "12.1_global.zip",
+      "data_download": "12_1_global.zip",
       "data": "1pMPXVMzsZfnsMZFRk2m76TRDI5xBb_vhVe0pUTmi27g",
       "scenes": [
         {
@@ -313,7 +313,7 @@
       "visdescription": "Describe what the visualization shows",
       "visSize": "fullScreen",
       "theme": "light (alternatively: dark)",
-      "data_download": "12.1_global.zip",
+      "data_download": "12_1_global.zip",
       "data": "1pMPXVMzsZfnsMZFRk2m76TRDI5xBb_vhVe0pUTmi27g",
       "scenes": [
         {
@@ -380,7 +380,7 @@
       "source": "ACLED [reference: acled1]",
       "visdescription": "",
       "theme": "light (alternatively: dark)",
-      "data_download": "12.20_fueldemonstrations_simpler.csv",
+      "data_download": "12_20_fueldemonstrations_simpler.csv",
       "data": "1fDSzrpi3toqe3O4yCuJrq6A0yFE5_DypTAXUGx1s6sw",
       "translationPrefix": "goal_12.content.#32"
     },
@@ -485,7 +485,7 @@
   ],
   "references": {
     "type": "references",
-    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
+    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\" rel=\"external\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
     "coady1": "Coady, D., Parry, I., Le, N. P., & Shang, B. (2019). Global fossil fuel subsidies remain large: An update based on country-level estimates (IMF Working Paper No. 19/89). International Monetary Fund. https://doi.org/10.5089/9781498316984.001",
     "coady2": "Coady, D., Parry, I., Sears, L., & Shang, B. (2017). How large are global fossil fuel subsidies? World Development, 91, 11–27. https://doi.org/10.1016/j.worlddev.2016.10.004",
     "couharde1": "Couharde, C., & Mouhoud, S. (2020). Fossil fuel subsidies, income inequality and poverty: Evidence from developing countries. Journal of Economic Surveys, 34(4), 924–956. https://doi.org/10.1111/joes.12384",
@@ -494,15 +494,15 @@
     "musa1": "Musa, A., & Abubakar, S. (2025). Fuel subsidy removal and smuggling dynamics in Nigeria’s border states. African Development Review, 37(1), 45–62. https://doi.org/10.1111/1467-8268.12700",
     "undp1": "UNDP 2021. Fossil Fuel Subsidy Reform: Lessons and Opportunities. New York.",
     "worldbank2022": "World Bank. 2022. The Political Economy of Energy Subsidy Reform. Washington, DC.",
-    "imf2023": "International Monetary Fund (2023). Ecuador: Ex-Post Evaluation of Exceptional Access under the 2020 Extended Fund Facility – Staff Report (IMF Country Report No. 23/381). Retrieved from<a href=\"https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx\" target=\"_blank\"> </a><a href=\"https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx\" target=\"_blank\">https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx</a>",
+    "imf2023": "International Monetary Fund (2023). Ecuador: Ex-Post Evaluation of Exceptional Access under the 2020 Extended Fund Facility – Staff Report (IMF Country Report No. 23/381). Retrieved from<a href=\"https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx\" target=\"_blank\" rel=\"external\"> </a><a href=\"https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx\" target=\"_blank\" rel=\"external\">https://www.imf.org/-/media/Files/Publications/CR/2023/English/1ECUEA2023002.ashx</a>",
     "black1": "Black, S., Liu, A., Parry, I., & Vernon, N. (2023). IMF fossil fuel subsidies data: 2023 update (IMF Working Paper No. 2023/169). International Monetary Fund. https://www.imf.org/en/Publications/WP/Issues/2023/08/22/IMF-Fossil-Fuel-Subsidies-Data-2023-Update-537281",
     "arze1": "Arze del Granado, F. J., Coady, D., & Gillingham, R. (2012). The unequal benefits of fuel subsidies: A review of evidence for developing countries. World Development, 40(11), 2234–2248. https://doi.org/10.1016/j.worlddev.2012.05.005",
     "mit1": "MIT Energy Initiative. 2024. The Multi-Faceted Challenge of Powering AI. Cambridge, MA.",
-    "reuters1": "Reuters. (2023, February 7). ‘Move away from hypocrisy’: Global South demands energy justice. Reuters.<a href=\"https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/\" target=\"_blank\"> </a><a href=\"https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/\" target=\"_blank\">https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/</a>",
-    "cushman1": "Cushman & Wakefield. (2023, January 19). Global data center market comparison report [Press release]. Cushman & Wakefield. Retrieved from<a href=\"https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison\" target=\"_blank\"> </a><a href=\"https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison\" target=\"_blank\">https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison</a>",
-    "acled1": "Armed Conflict Location & Event Data Project (ACLED). 2025. Conflict data. Retrieved August 25, 2025, from<a href=\"https://acleddata.com/conflict-data\" target=\"_blank\"> </a><a href=\"https://acleddata.com/conflict-data\" target=\"_blank\">https://acleddata.com/conflict-data</a>",
+    "reuters1": "Reuters. (2023, February 7). ‘Move away from hypocrisy’: Global South demands energy justice. Reuters.<a href=\"https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/\" target=\"_blank\" rel=\"external\"> </a><a href=\"https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/\" target=\"_blank\" rel=\"external\">https://www.reuters.com/business/energy/move-away-hypocrisy-global-south-demands-energy-justice-2023-02-07/</a>",
+    "cushman1": "Cushman & Wakefield. (2023, January 19). Global data center market comparison report [Press release]. Cushman & Wakefield. Retrieved from<a href=\"https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison\" target=\"_blank\" rel=\"external\"> </a><a href=\"https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison\" target=\"_blank\" rel=\"external\">https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison</a>",
+    "acled1": "Armed Conflict Location & Event Data Project (ACLED). 2025. Conflict data. Retrieved August 25, 2025, from<a href=\"https://acleddata.com/conflict-data\" target=\"_blank\" rel=\"external\"> </a><a href=\"https://acleddata.com/conflict-data\" target=\"_blank\" rel=\"external\">https://acleddata.com/conflict-data</a>",
     "hoy": "Hoy, C., Kim, Y. S., Nguyen, M. C., Sosa, M., & Tiwari, S. (2026). Attitudes towards reducing fossil fuel subsidies: Evidence across 12 middle-income countries. Journal of Development Economics, 178, 103612. https://doi.org/10.1016/j.jdeveco.2025.103612",
-    "un2": "United Nations, Department of Economic and Social Affairs. (2024). The Sustainable Development Goals Report 2024. United Nations.<a href=\"https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf?utm_source=chatgpt.com\" target=\"_blank\"> </a><a href=\"https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf?utm_source=chatgpt.com\" target=\"_blank\">https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf</a>",
+    "un2": "United Nations, Department of Economic and Social Affairs. (2024). The Sustainable Development Goals Report 2024. United Nations.<a href=\"https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf?utm_source=chatgpt.com\" target=\"_blank\" rel=\"external\"> </a><a href=\"https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf?utm_source=chatgpt.com\" target=\"_blank\" rel=\"external\">https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf</a>",
     "translationPrefix": "goal_12.references"
   },
   "translationPrefix": "goal_12"

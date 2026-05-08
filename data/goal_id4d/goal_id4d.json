@@ -5,7 +5,7 @@
     "shortTitle": "ID4D",
     "title": "Why identification matters for global development",
     "abstract": "TK",
-    "citation": "Mahler, D G and Lambrechts, M. 2026. “Past, present and future: 100 years of  challenges in tackling extreme poverty”  In Atlas of  Global Development 2026, edited by A F Pirlea, U Serajuddin, A Thudt, D Wadhwa and M Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. <a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\">https://doi.org/10.60616/f7gk-me57</a>",
+    "citation": "Mahler, D G and Lambrechts, M. 2026. “Past, present and future: 100 years of  challenges in tackling extreme poverty”  In Atlas of  Global Development 2026, edited by A F Pirlea, U Serajuddin, A Thudt, D Wadhwa and M Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. <a href=\"https://doi.org/10.60616/f7gk-me57\" target=\"_blank\" rel=\"external\">https://doi.org/10.60616/f7gk-me57</a>",
     "credits": "TK",
     "inputs": "TK",
     "visuals": "Maarten Lambrechts",
@@ -252,7 +252,7 @@
   ],
   "references": {
     "type": "references",
-    "foster2025": "Foster, Elizabeth ⓡ Jolliffe, D ⓡ Lara Ibarra, G ⓡ  Lakner, C ⓡ Tetteh Baah, S. 2025. <a href=\"https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf\" target=\"_blank\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> World Bank .</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
+    "foster2025": "Foster, Elizabeth ⓡ Jolliffe, D ⓡ Lara Ibarra, G ⓡ  Lakner, C ⓡ Tetteh Baah, S. 2025. <a href=\"https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf\" target=\"_blank\" rel=\"external\">Global Poverty Revisited Using 2021 PPPs and New Data on Consumption.</a><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"> World Bank .</span><span style=\"color: rgb(53,60,63); background-color: rgb(255,255,255);\"></span>",
     "translationPrefix": "goal_id4d.references"
   },
   "translationPrefix": "goal_id4d"

@@ -46,12 +46,12 @@
       "y_axis_units": "annual %",
       "source": "WB, World Development Indicators (NY.GDP.PCAP.KD.ZG)",
       "visdescription": "",
-      "data_download": "08.data.gdp_growth.zip",
+      "data_download": "08_data_gdp_growth.zip",
       "data": "1qzVDPMLYFEucHzDtf8h1dTtEb9LKmKeNfRGbkO_irSE",
       "translationPrefix": "goal_08.content.#4"
     },
     {
-      "text": "A global growth in GDP per capita of [2.7] percent in 2025 says little about progress as it is felt across countries. To monitor and analyse global development, the <a href=\"https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups\" target=\"_blank\">World Bank has classified countries by their income level</a> since 1980. Specifically, countries are divided into four groups; low income, lower-middle income, upper-middle income and high income. When looking across these four groups of countries, as they were defined in 1990, the average per capita GDP growth experienced in the following three decades seems fairly similar at first glance. ",
+      "text": "A global growth in GDP per capita of [2.7] percent in 2025 says little about progress as it is felt across countries. To monitor and analyse global development, the <a href=\"https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups\" target=\"_blank\" rel=\"external\">World Bank has classified countries by their income level</a> since 1980. Specifically, countries are divided into four groups; low income, lower-middle income, upper-middle income and high income. When looking across these four groups of countries, as they were defined in 1990, the average per capita GDP growth experienced in the following three decades seems fairly similar at first glance. ",
       "type": "text",
       "translationPrefix": "goal_08.content.#5"
     },
@@ -64,7 +64,7 @@
       "mode": "income_levels",
       "source": "WB, World Development Indicators (<span style=\"background-color: rgb(255,255,255);\">NY.GDP.PCAP.KD.ZG</span>)",
       "visdescription": "",
-      "data_download": "08.data.gdp_growth.zip",
+      "data_download": "08_data_gdp_growth.zip",
       "data": "1qzVDPMLYFEucHzDtf8h1dTtEb9LKmKeNfRGbkO_irSE",
       "translationPrefix": "goal_08.content.#6"
     },
@@ -98,7 +98,7 @@
       "source": "WB, World Development Indicators (<span style=\"background-color: rgb(255,255,255);\">NY.GDP.PCAP.KD.ZG</span>)",
       "visdescription": "Describe what the visualization shows",
       "visSize": "default",
-      "data_download": "08.data.lic_growth_rates.csv",
+      "data_download": "08_data_lic_growth_rates.csv",
       "data": "1JgVm6y5olvIBowRHLD3yP5kHkgEuQodjDahIsx4yyeY",
       "scenes": [
         {
@@ -143,7 +143,7 @@
       "x_axis_title": "GDP/capita",
       "x_axis_units": "$/day (constant 2015 US$)",
       "visSize": "fullScreen",
-      "data_download": "08.data.gdp_progress.csv",
+      "data_download": "08_data_gdp_progress.csv",
       "data": "1dCzWKF01HIAd4bONuo0u_UOz9LEVM_1ag7ISStWIoLk",
       "scenes": [
         {
@@ -191,7 +191,7 @@
       "subtitle": "Income classification in 1990",
       "source": "WB Country and Lending Groups",
       "visdescription": "Describe what the visualization shows",
-      "data_download": "08.data.income_levels.csv",
+      "data_download": "08_data_income_levels.csv",
       "data": "1ud7kIIHA8R-QIU0WCPHDXT0izj4yor0dYi7D2ZXR0Oc",
       "scenes": [
         {
@@ -231,7 +231,7 @@
       "lmc_90": "Lower middle income in 1990",
       "umc_24": "Upper middle income 2024",
       "visdescription": "Describe what the visualization shows",
-      "data_download": "08.data.income_levels.csv",
+      "data_download": "08_data_income_levels.csv",
       "data": "1ud7kIIHA8R-QIU0WCPHDXT0izj4yor0dYi7D2ZXR0Oc",
       "skip ssf": ".",
       "skip income_left_behind": ".",
@@ -306,7 +306,7 @@
       "unemployment_rate": "Unemployment rate",
       "visdescription": "Describe what the visualization shows",
       "theme": "dark",
-      "data_download": "08.data.unemployment_global.csv",
+      "data_download": "08_data_unemployment_global.csv",
       "data": "1WS_25sPCM1tDWgSATVDeprv-_CAWpVF6Nu1Py1MA-8Q",
       "scenes": [
         {
@@ -339,7 +339,7 @@
       "graphic": "neet_gdp",
       "title": "The wealthier the country, the lower the NEET",
       "subtitle": "Comparing NEET rates with GDP per capita",
-      "source": "WB, World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SL.UEM.NEET.ZS\" target=\"_blank\">SL.UEM.NEET.ZS</a>)",
+      "source": "WB, World Development Indicators (<a href=\"https://data.worldbank.org/indicator/SL.UEM.NEET.ZS\" target=\"_blank\" rel=\"external\">SL.UEM.NEET.ZS</a>)",
       "x_title": "GDP/capita",
       "x_units": "$/year",
       "y_title": "Share of youth not in education, employment or training",
@@ -348,7 +348,7 @@
       "male_neet_rate": "Male NEET rate",
       "total_neet_rate": "Total NEET rate",
       "visdescription": "Describe what the visualization shows",
-      "data_download": "08.data.neet_gdp.csv",
+      "data_download": "08_data_neet_gdp.csv",
       "data": "1Ae7caE6nwzn2poda6CbglNTv1fp53N6x-80_SxWGoeM",
       "scenes": [
         {
@@ -427,8 +427,8 @@
   "references": {
     "type": "references",
     "WB25a": "World Bank. 2025. Global Economic Prospects, January 2025. World Bank, Washington DC:",
-    "WB25b": "World Bank. 2025. Global Economic Prospects, June 2025. World Bank, Washington DC: http://hdl.handle.net/10986/43168 License: <a href=\"http://creativecommons.org/licenses/by/3.0/igo\" target=\"_blank\">CC BY 3.0 IGO</a>.",
-    "WB25c": "Understanding country income: World Bank Group income classifications for FY26 (July 1, 2025–June, 2026), <a href=\"https://blogs.worldbank.org/en/opendata/understanding-country-income--world-bank-group-income-classifica\" target=\"_blank\">https://blogs.worldbank.org/en/opendata/understanding-country-income--world-bank-group-income-classifica</a>",
+    "WB25b": "World Bank. 2025. Global Economic Prospects, June 2025. World Bank, Washington DC: http://hdl.handle.net/10986/43168 License: <a href=\"http://creativecommons.org/licenses/by/3.0/igo\" target=\"_blank\" rel=\"external\">CC BY 3.0 IGO</a>.",
+    "WB25c": "Understanding country income: World Bank Group income classifications for FY26 (July 1, 2025–June, 2026), <a href=\"https://blogs.worldbank.org/en/opendata/understanding-country-income--world-bank-group-income-classifica\" target=\"_blank\" rel=\"external\">https://blogs.worldbank.org/en/opendata/understanding-country-income--world-bank-group-income-classifica</a>",
     "WB26": "World Bank. 2026. Global Economic Prospects, January 2026. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO",
     "translationPrefix": "goal_08.references"
   },

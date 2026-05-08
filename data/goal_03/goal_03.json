@@ -22,7 +22,7 @@
       "translationPrefix": "goal_03.content.#0"
     },
     {
-      "text": "UHC is central to the <a href=\"https://www.worldbank.org/en/who-we-are#:~:text=a%20livable%20planet.-,Mission,prosperity%2C%20and%20promoting%20sustainable%20development\" target=\"_blank\">World Bank Group’s mission</a> to end extreme poverty and boost shared prosperity on a livable planet, and progress toward UHC is also tracked under Sustainable Development Goal (SDGs) in Goal 3.",
+      "text": "UHC is central to the <a href=\"https://www.worldbank.org/en/who-we-are#:~:text=a%20livable%20planet.-,Mission,prosperity%2C%20and%20promoting%20sustainable%20development\" target=\"_blank\" rel=\"external\">World Bank Group’s mission</a> to end extreme poverty and boost shared prosperity on a livable planet, and progress toward UHC is also tracked under Sustainable Development Goal (SDGs) in Goal 3.",
       "type": "text",
       "translationPrefix": "goal_03.content.#1"
     },
@@ -61,7 +61,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.uhc_chart.csv",
+      "data_download": "03_data_uhc_chart.csv",
       "data": "1TF7nwhhbF5Bo3Yk6WmZYav611Gv-Bmjq7lAuF25zSy4",
       "x_title": "",
       "x_unit": "",
@@ -81,7 +81,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.uhc_small_multiple.csv",
+      "data_download": "03_data_uhc_small_multiple.csv",
       "data": "1t5DmOFCUgveLaSk4ustdj-HDhyjb_EfiNaCl0jj9Fuk",
       "x_title": "",
       "x_unit": "",
@@ -101,7 +101,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.uhc_countries.csv",
+      "data_download": "03_data_uhc_countries.csv",
       "data": "1-a89ebZR0jYf5UHSdJ5_ycZwrpN8ksNBWjo5v7RMxl4",
       "scenes": [
         {
@@ -156,7 +156,7 @@
       "x_unit": "",
       "y_title": "Maternal Mortality Ratio (per 100,000 live births)",
       "y_unit": "",
-      "data_download": "03.data.mortality_plot.csv",
+      "data_download": "03_data_mortality_plot.csv",
       "data": "1-TZbOllJkAX7Z_iNvx9IJVJfvuEbDv-LVUDZp4aPnfY",
       "translationPrefix": "goal_03.content.#16"
     },
@@ -177,7 +177,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.mortality_region_scroller.zip",
+      "data_download": "03_data_mortality_region_scroller.zip",
       "data": "1p7e61R9f_HoAQN8G4jC8vPgjyRQ62dgWZXzIhmO6Rjw",
       "x_title": "",
       "x_unit": "",
@@ -226,7 +226,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.speed_scores_scroller.zip",
+      "data_download": "03_data_speed_scores_scroller.zip",
       "data": "1jNNLrejvMRWJooxlTh-GB6qQ8AiI8GnJDXfoGRyWVCw",
       "speed_score_label": "Speed score",
       "title_scene_1": "Maternal Mortality​ ",
@@ -276,7 +276,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.uhc_outcomes_scroller.zip",
+      "data_download": "03_data_uhc_outcomes_scroller.zip",
       "data": "1YwwHj2p4H3XtiZSI5K0v56DOfuEvD8pWQLLdbKQojvk",
       "x_title": "Universal Health Coverage Index (0-100)",
       "x_unit": "",
@@ -326,7 +326,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.rmnch_progress_scroller.zip",
+      "data_download": "03_data_rmnch_progress_scroller.zip",
       "data": "1Z48ap9utYIR6P45cgxV0l1bhyF25vZboMptPSBz8uYg",
       "title_scene_1": "Countries with the Largest Declines in Maternal Mortality (RMNCH Service Index, 2000 and 2023)",
       "title_scene_2": "Countries with the Largest Declines in Under-Five Mortality (RMNCH Service Index, 2000 and 2023)",
@@ -388,7 +388,7 @@
       "subtitle": "",
       "source": "",
       "visdescription": "",
-      "data_download": "03.data.financial_hardship_chart.csv",
+      "data_download": "03_data_financial_hardship_chart.csv",
       "data": "1daP_FhCix0RmD8GFxsnOD1nEZVD3pHCHhT92gbHkKtQ",
       "translationPrefix": "goal_03.content.#35"
     },
@@ -406,7 +406,7 @@
       "visdescription": "",
       "fin22d_title": "Most worrying financial issue: paying for medical costs in case of a serious illness or accident (% age 15+), by income, 2024",
       "fin45c_title": "Borrowed for health or medical purposes (% age 15+), by income, 2024",
-      "data_download": "03.data.medical_cost_chart.csv",
+      "data_download": "03_data_medical_cost_chart.csv",
       "data": "1XSEldfi-NKJjAE4nXpr_BlSNsCZ3Bo_GJY4qSS0H4AA",
       "translationPrefix": "goal_03.content.#37"
     },
@@ -443,7 +443,7 @@
   ],
   "references": {
     "type": "references",
-    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
+    "keyOfReference": "Here goes the content of the reference, which can include <a href=\"https://datatopics.worldbank.org/sdgatlas?lang=en\" target=\"_blank\" rel=\"external\">links like this</a>. Add a reference in the text with [reference: keyOfReference]",
     "translationPrefix": "goal_03.references"
   },
   "translationPrefix": "goal_03"
