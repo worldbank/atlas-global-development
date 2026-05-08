@@ -1,0 +1,4423 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.5.2",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "index.html",
+    "content_category": "site",
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    ".nojekyll": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "__data.json": {
+      "checksum": "51d7cfb6f823b63505d1a4dfa13fc033"
+    },
+    "_app/env.js": {
+      "checksum": "1a8e6f7f094e397490430113ade7500b"
+    },
+    "_app/immutable/assets/0.B_iiMl2G.css": {
+      "checksum": "795ab539f1ec670e4d19911a2822b412"
+    },
+    "_app/immutable/assets/1.Bxcv0WWs.css": {
+      "checksum": "0fad36ab578d5df8611c8a75f624f4de"
+    },
+    "_app/immutable/assets/13_effects_of_climate_change.DLjAfvYR.css": {
+      "checksum": "6746d66e3f72a374c6d33c601d969c59"
+    },
+    "_app/immutable/assets/13_effects_of_climate_change_scroller.COYp7wms.css": {
+      "checksum": "1652dc1d7c78a16e5601629b35d2db7a"
+    },
+    "_app/immutable/assets/13_regional_exposure_bars.DgeRN8R6.css": {
+      "checksum": "910821a6c6ecfe48aa0e95e5b0518f39"
+    },
+    "_app/immutable/assets/13_regional_exposure_scroll.Dlw_hVuA.css": {
+      "checksum": "fe43f08cb64124fd08bc8e91916817e1"
+    },
+    "_app/immutable/assets/2.aAtZxHeb.css": {
+      "checksum": "aa535d819ac703f392da1964ee5b3a30"
+    },
+    "_app/immutable/assets/3.DXzJR8dQ.css": {
+      "checksum": "346a2f5b2a7205f8d00cd37bf036631b"
+    },
+    "_app/immutable/assets/350Years.CHFe35b5.css": {
+      "checksum": "947c815122e0930851a56ffeb29c4354"
+    },
+    "_app/immutable/assets/AccessElectricityPopulation.Deu-ub7U.css": {
+      "checksum": "43c5dc6d55c7fd342264a665d9199f6d"
+    },
+    "_app/immutable/assets/AccessElectricityProgressScroller.DVNMGbcQ.css": {
+      "checksum": "f0bcbad7d2b2a7330a883bfb8d8d2e0c"
+    },
+    "_app/immutable/assets/AccessElectricityRegions.D8sNcrsm.css": {
+      "checksum": "329a2fd3110894b3d3dc4f951455c051"
+    },
+    "_app/immutable/assets/AccessElectricityUrbanRural.DByRSGQJ.css": {
+      "checksum": "c088e73fa0e93fb130f9b76f2b9f1a5e"
+    },
+    "_app/immutable/assets/AccessElectricityUrbanRuralCountries.B9LSlE9c.css": {
+      "checksum": "812faf593010a014f81a13802dcfbce9"
+    },
+    "_app/immutable/assets/AIOccupationalExposureByGender.CcWWBDWJ.css": {
+      "checksum": "f3b0d1ee8756cbe28c6bfe97c3bd1788"
+    },
+    "_app/immutable/assets/AlgalBlooms.Bav4Y31V.css": {
+      "checksum": "7aace3d3fd6a14a0ad0e8dd92e0cb5dd"
+    },
+    "_app/immutable/assets/ArableLandDegradation.Bm5c6kFK.css": {
+      "checksum": "03c5560fe56858ab1b587b7d9d441f4b"
+    },
+    "_app/immutable/assets/ArsenicBySource.BePXgGdz.css": {
+      "checksum": "5b2d3879e96755c91d1ed4e10af411ba"
+    },
+    "_app/immutable/assets/BangladeshMap.CHzKAWPT.css": {
+      "checksum": "34812c89f9c6334e2ec21213286985a5"
+    },
+    "_app/immutable/assets/BasicScatterplot.wTmk1Flp.css": {
+      "checksum": "328d5ddc8679672a4db63c9a1ff16d50"
+    },
+    "_app/immutable/assets/BasicScatterplotParticles.Bqdt90Ao.css": {
+      "checksum": "26ca7da3e16ce0485372ed65d080ecd3"
+    },
+    "_app/immutable/assets/BetterJobsForWomen.u0P2dPvN.css": {
+      "checksum": "02d1e114edfd4969e6e33879fd30a3bf"
+    },
+    "_app/immutable/assets/BuildupAreaOvertime.CX6q8UfV.css": {
+      "checksum": "8cb6de93a34189158a75f1ad47671128"
+    },
+    "_app/immutable/assets/CategoricalLegend.BtMYDGPy.css": {
+      "checksum": "c091c7caccbcd73aef6c06a22e6addd4"
+    },
+    "_app/immutable/assets/Challenges.29cIdZyU.css": {
+      "checksum": "c2dc3e27e521498b97525aa3a80da8e9"
+    },
+    "_app/immutable/assets/ChartGrid.C14b_fat.css": {
+      "checksum": "a6fb2ef61b7729180627489fc57435e3"
+    },
+    "_app/immutable/assets/ChlorophyllATrend.DZEZwxhg.css": {
+      "checksum": "6e1378ca592db3f192070e92a203e3cf"
+    },
+    "_app/immutable/assets/CityComparison.v9XyV4gg.css": {
+      "checksum": "647309c5f9e2aa8e58613d4e0e0586a1"
+    },
+    "_app/immutable/assets/CountryMultiselect.Dtobjtyx.css": {
+      "checksum": "d3819051a68bf7f38a238573a982d269"
+    },
+    "_app/immutable/assets/CoverageAccessSlopes.Dm5jiCwj.css": {
+      "checksum": "b5272e4f76c7f192df6ee8897570e98a"
+    },
+    "_app/immutable/assets/CoverageMap.ClT5qX7u.css": {
+      "checksum": "7577ea78046c9385b6ac8bd0576b40c4"
+    },
+    "_app/immutable/assets/DashboardScroller.2efUqx_R.css": {
+      "checksum": "fa87616136e6828039ddeccfc91290b8"
+    },
+    "_app/immutable/assets/DrawYourChart.Bf5j1eq5.css": {
+      "checksum": "e1e8bbcc8f9522d8011f1fd42442fb7b"
+    },
+    "_app/immutable/assets/DrawYourChart.DAEzRi5Y.css": {
+      "checksum": "24feed781f5826eeaf783e726fa16367"
+    },
+    "_app/immutable/assets/EcoliTable.B-M3GjS1.css": {
+      "checksum": "1f1ebc779ea67593a22c4809a1bc8a21"
+    },
+    "_app/immutable/assets/EfficientPriceDotPlot.E5gXiKhe.css": {
+      "checksum": "2d42289e880ad27428e066ec0bc67213"
+    },
+    "_app/immutable/assets/EfficientPriceExplanation.L6vGaSrw.css": {
+      "checksum": "17db131a8cd34daff13b7886d8438472"
+    },
+    "_app/immutable/assets/Exposure.CqBvBGaa.css": {
+      "checksum": "7b1a1837b67542763beea26d83a4ed35"
+    },
+    "_app/immutable/assets/FakeAIWrapper.cQVfahlt.css": {
+      "checksum": "77175f9dfdd96c43a0678a127f93d809"
+    },
+    "_app/immutable/assets/FoodInsecurityHotspots.CBRlNFK9.css": {
+      "checksum": "c9d4a30911d124bdb5ea328361974fb6"
+    },
+    "_app/immutable/assets/GdpProgressScroller.BEzR1kAh.css": {
+      "checksum": "1fb7c7aaae05cf0c988ed31260c298c5"
+    },
+    "_app/immutable/assets/GenderGapInformalGDP.DEcc-cwX.css": {
+      "checksum": "82c56294f1301accaf7af9ca4af0cc52"
+    },
+    "_app/immutable/assets/Globe.DA8YnMCC.css": {
+      "checksum": "a007b060cb19ebebab39ded3c701a378"
+    },
+    "_app/immutable/assets/GrowthSince90.DqVLmL-c.css": {
+      "checksum": "d1c5d974494aa75ce919bc79129e73be"
+    },
+    "_app/immutable/assets/HexMap.0x_nEyzH.css": {
+      "checksum": "aa28ab905315e15d473936b55d7e923f"
+    },
+    "_app/immutable/assets/HexMapEthiopia.CR3XzULl.css": {
+      "checksum": "14d9c4f06e368e14f5be164a72a27e30"
+    },
+    "_app/immutable/assets/HexMapNigeria.BpkX9rfG.css": {
+      "checksum": "c3743c45ff586961b5c55466ee25534b"
+    },
+    "_app/immutable/assets/HighInequalityMap.DWTdr40K.css": {
+      "checksum": "e3ea54be20c0685cb5300534abcc6b9e"
+    },
+    "_app/immutable/assets/IncomeClassificationScroller.CVNaCDza.css": {
+      "checksum": "3324625c4a5030a9423bcd00c4b5d2f5"
+    },
+    "_app/immutable/assets/index.BBRksSv0.css": {
+      "checksum": "9faf95a066aea8e666067bc013fd5047"
+    },
+    "_app/immutable/assets/IndicatorsProgress.ZDXc9_O_.css": {
+      "checksum": "2198e100bde4c4473aec138ce3475d94"
+    },
+    "_app/immutable/assets/InternetAccessScroller.DaoMYmhQ.css": {
+      "checksum": "7bd38bf08cb3d5811353b5eb9e964632"
+    },
+    "_app/immutable/assets/InternetAccessUrbanRural.CPclCX5U.css": {
+      "checksum": "96ddc93553e85a3d923d92aa49c105c8"
+    },
+    "_app/immutable/assets/InternetProgress.DdTcLeQ8.css": {
+      "checksum": "8207e3563af8d56d0c773a53383bc0ab"
+    },
+    "_app/immutable/assets/IntroScroller.Cw_tgmzh.css": {
+      "checksum": "f66f512397fcce3933dfd86bc333dec8"
+    },
+    "_app/immutable/assets/Legend.BNe6Jhx4.css": {
+      "checksum": "abe16ba5aef249db184d637fbfd72da0"
+    },
+    "_app/immutable/assets/mapbox-gl.CoX_AcFD.css": {
+      "checksum": "cbcd3990c2e73932a176e47fab10d2a1"
+    },
+    "_app/immutable/assets/MapExplicitImplicit.B2ERST4i.css": {
+      "checksum": "9862a50a067fbfe3a61646f14765f0a9"
+    },
+    "_app/immutable/assets/MincerCoefficients.CEPnt7Vm.css": {
+      "checksum": "1670d158b7eb5d54454548e786bb2332"
+    },
+    "_app/immutable/assets/MissingChildrenDataWaffles.CKyNeXS_.css": {
+      "checksum": "e3d6f79f31475188be861f30d9c36aee"
+    },
+    "_app/immutable/assets/MobileFixedBroadband.CfsxjNNR.css": {
+      "checksum": "94d203a07b5b1028025652e1f2ca7182"
+    },
+    "_app/immutable/assets/MyanmarFoodpricesConflict.D1sVN8ep.css": {
+      "checksum": "e12007704f8fb1aeb5acf51065e0a5c4"
+    },
+    "_app/immutable/assets/NationalPovertyComparison.h5ZUXGxO.css": {
+      "checksum": "d4091138a34b59b3fc9324d3ae7c9438"
+    },
+    "_app/immutable/assets/NdviMapScroller.BFGWRIXP.css": {
+      "checksum": "0c74067da0e5fb21f759e09cbdb9ddbd"
+    },
+    "_app/immutable/assets/NeetGdp.CGkrBzcv.css": {
+      "checksum": "a02636b67ed09702ac04810094bb259c"
+    },
+    "_app/immutable/assets/NitrogenIncrease.DaV9Rebo.css": {
+      "checksum": "cc7723b3c0c64b9e6a9c765a1a72e698"
+    },
+    "_app/immutable/assets/PhosphorusIncrease.C4oDJssC.css": {
+      "checksum": "bb822701444ae82e7239104cc001c48a"
+    },
+    "_app/immutable/assets/PhytoplanktonBlooms.CG3jEQ7a.css": {
+      "checksum": "8c7a08830962c654b0cf33da445bb73c"
+    },
+    "_app/immutable/assets/PlasticConcentration.CdvqFpGf.css": {
+      "checksum": "e0a6e56926adc9b8c0df57daba17c8df"
+    },
+    "_app/immutable/assets/PlasticDischarge.CQIpagMb.css": {
+      "checksum": "edd14aab001550c6f235e9b9b918a7c6"
+    },
+    "_app/immutable/assets/PovertyProjectionCountry.BqM_FIO8.css": {
+      "checksum": "6c79939cf14f949e1ffcaed191c34d5f"
+    },
+    "_app/immutable/assets/PovertyProjections.tn0RQdqM.css": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "_app/immutable/assets/PovertyRateChangeScroller.BFpWqZ5Z.css": {
+      "checksum": "9166942fcb9356ed0df95cf71f57aad9"
+    },
+    "_app/immutable/assets/PovertyRegions.D0kLgr3G.css": {
+      "checksum": "39c5dbe61e4b9a68b937558782cb6e6f"
+    },
+    "_app/immutable/assets/PovertyScroller.BSNel3NN.css": {
+      "checksum": "b0d900de0b6fd94ce3eea84c732229a0"
+    },
+    "_app/immutable/assets/PrevalenceUndernourishmentGridMap.3JV2iV-c.css": {
+      "checksum": "61661628952b9b5bac77302f1ad0a9b8"
+    },
+    "_app/immutable/assets/PrevalenceUndernourishmentRegions.C4usYwHL.css": {
+      "checksum": "6160838e18a5c477d156093b5aa096f3"
+    },
+    "_app/immutable/assets/Progress.CpLWNTEg.css": {
+      "checksum": "eb5919b69474f53a25286666d7dd9201"
+    },
+    "_app/immutable/assets/ProsperityGapPlayground.B1iBfXKr.css": {
+      "checksum": "7c518822c32c338402cb118ace524a98"
+    },
+    "_app/immutable/assets/ProsperityGaps.WHX6N4yt.css": {
+      "checksum": "a84cb60045ad150e2a149d74e8a7c175"
+    },
+    "_app/immutable/assets/ProsperityGapScroller.CKEXN0ZT.css": {
+      "checksum": "e9f3eeeb9408ce282160224ffa15badc"
+    },
+    "_app/immutable/assets/ProsperityGapTrends.B7yOQjhx.css": {
+      "checksum": "df12ec176ab9f6dffbc7e7c429e67d8d"
+    },
+    "_app/immutable/assets/ReformsScroller.DG6x1YHA.css": {
+      "checksum": "dfc621c8ca308dc2c5bdab7f3a590a6f"
+    },
+    "_app/immutable/assets/SafelyManagedGrouped.CwGCi8dW.css": {
+      "checksum": "79d6f45d6b7da54aab313af03a3cf177"
+    },
+    "_app/immutable/assets/SchoolingRegions.DKKNSuHN.css": {
+      "checksum": "63656941b7b719ab64b20a887e475bc8"
+    },
+    "_app/immutable/assets/SchoolingScroller.BmED8of4.css": {
+      "checksum": "01ca036650aa94504b8ab5f23a8fae4e"
+    },
+    "_app/immutable/assets/SharedProsperityScatter.CvJUSc-W.css": {
+      "checksum": "965e7df71d1f82043463bba125444eb4"
+    },
+    "_app/immutable/assets/SizeLegend.DIJ8GPit.css": {
+      "checksum": "35114b538ed95c08ae86229a5f92a7cb"
+    },
+    "_app/immutable/assets/Slider.CpC28trG.css": {
+      "checksum": "68d70751ad8336a09ec0d8bc16ecda73"
+    },
+    "_app/immutable/assets/SlippyMap.D7eHdUXM.css": {
+      "checksum": "2c3f3dce6b8caf1d296367ced411c816"
+    },
+    "_app/immutable/assets/slippymap.Da3enT9e.css": {
+      "checksum": "42f245da728ff1374a18918eb22079e5"
+    },
+    "_app/immutable/assets/SlumWaffle.cPeB0JsZ.css": {
+      "checksum": "c5d3aa7ab6734698dbc979980cdab5a2"
+    },
+    "_app/immutable/assets/SmartphoneOwnership.CA15JOhR.css": {
+      "checksum": "8bbc5b9269650703c14922ebd6646dc3"
+    },
+    "_app/immutable/assets/SpiGdpScatter.D93Wr3e6.css": {
+      "checksum": "49f1175933eebc874804c3e944609adb"
+    },
+    "_app/immutable/assets/SpiScroller.DKsTAu2v.css": {
+      "checksum": "3fdc839ea561bbfa2a58c3eca713c889"
+    },
+    "_app/immutable/assets/SquareSizeLegend.Bf13OVnC.css": {
+      "checksum": "7e654acf8651abb6989e50d90c1f6b2d"
+    },
+    "_app/immutable/assets/SurveyAge.BknUPWyz.css": {
+      "checksum": "3bce73a15521ee45b6d00138c70669a8"
+    },
+    "_app/immutable/assets/Switch.DW2zBJmD.css": {
+      "checksum": "9ffe547de0ab1fb199e0d6a17c5d8d6b"
+    },
+    "_app/immutable/assets/TanzaniaTypicalProgress.BeSCkc23.css": {
+      "checksum": "605ecd86c0afdd937d02149ba91ee570"
+    },
+    "_app/immutable/assets/Tooltip.0iACeeqo.css": {
+      "checksum": "d639add7fad405f38104ea3c16fe3bd6"
+    },
+    "_app/immutable/assets/triggerAnalytics.CUVTqnD1.css": {
+      "checksum": "b42e652dff3df2e3d2b12bf1d0e2592b"
+    },
+    "_app/immutable/assets/UnpaidTimeAnimation.B6_wrNKQ.css": {
+      "checksum": "8dba76ea70aef5d80e4abc7179c3e4da"
+    },
+    "_app/immutable/assets/VennDiagram.D0Wz0v4y.css": {
+      "checksum": "456a7161bfc64e4307ad3180152cb773"
+    },
+    "_app/immutable/assets/WageGapBeeswarm.C3KVWBcL.css": {
+      "checksum": "7fc3f55b897b874d4d2aea9afc34b1c4"
+    },
+    "_app/immutable/chunks/-v6RoImo.js": {
+      "checksum": "662a19baee6e69d3b25e4e828b85248a"
+    },
+    "_app/immutable/chunks/_doEQLKC.js": {
+      "checksum": "ac1b7b7b33c33e0fdf99e8a552679e17"
+    },
+    "_app/immutable/chunks/_JiS8ATw.js": {
+      "checksum": "298c770c2841c0c27d82b0f1699c8031"
+    },
+    "_app/immutable/chunks/_uFucCDI.js": {
+      "checksum": "5ab68eb3d5bf1899616e4c0c513d281a"
+    },
+    "_app/immutable/chunks/0ZhDZamb.js": {
+      "checksum": "4827e253390f4867100f7091d62edcce"
+    },
+    "_app/immutable/chunks/1jzjeYkb.js": {
+      "checksum": "117f606c1eece99c546bf1cd318a2d8e"
+    },
+    "_app/immutable/chunks/1M5HXxMX.js": {
+      "checksum": "d63321d5c0b96c736a7333e595975232"
+    },
+    "_app/immutable/chunks/2GBN5xbU.js": {
+      "checksum": "89139068d5bcfd433e2fe35d143447db"
+    },
+    "_app/immutable/chunks/3tZ7eaAF.js": {
+      "checksum": "0df45b3b9b093cae6b02ed3004b5956e"
+    },
+    "_app/immutable/chunks/3Z5fKqXx.js": {
+      "checksum": "61781af346b1943628b34f845d029172"
+    },
+    "_app/immutable/chunks/4bB9qCVP.js": {
+      "checksum": "5c29b56bb8b189ac033479f24435c7ef"
+    },
+    "_app/immutable/chunks/4Or7Ujsb.js": {
+      "checksum": "b89c2e0639b9041f1df9378dfcc42149"
+    },
+    "_app/immutable/chunks/7BZiLMEX.js": {
+      "checksum": "9812d82ffd7c1575eb366eea14f3cd18"
+    },
+    "_app/immutable/chunks/819EhDTb.js": {
+      "checksum": "7f5294247de2a96d8cd90fa1c9746d73"
+    },
+    "_app/immutable/chunks/9Uw0-UtX.js": {
+      "checksum": "ebe139608a5b8f9580c789ffe78a96b8"
+    },
+    "_app/immutable/chunks/Aidl0C9s.js": {
+      "checksum": "b430e46e15f945946b8111c808ec9911"
+    },
+    "_app/immutable/chunks/AlVaMw1c.js": {
+      "checksum": "93b1973b3a153a08c83f35ca1dcb48c5"
+    },
+    "_app/immutable/chunks/aOAoxpda.js": {
+      "checksum": "590a83bb8344e4ff02a2fb7228341ed4"
+    },
+    "_app/immutable/chunks/aRcH8VR2.js": {
+      "checksum": "7e4b3fa89ad41d8926c36f905395917a"
+    },
+    "_app/immutable/chunks/AtiS3VI6.js": {
+      "checksum": "141a5d47ff766cf08ac552754e2b66bc"
+    },
+    "_app/immutable/chunks/B-fWW_zF.js": {
+      "checksum": "9f18838faf3e8e122233109e70b3bd5b"
+    },
+    "_app/immutable/chunks/B-kvowjP.js": {
+      "checksum": "3d979069fa6bf36a6fa2e3a241301e49"
+    },
+    "_app/immutable/chunks/B07MZG2U.js": {
+      "checksum": "10a5c9da405604344ec3f8cc53bd8397"
+    },
+    "_app/immutable/chunks/B0M_MZBI.js": {
+      "checksum": "d7143c8ce620538eb9997b0900129131"
+    },
+    "_app/immutable/chunks/B310rQ-G.js": {
+      "checksum": "c0f978b903b92e23a3a8ced14776270f"
+    },
+    "_app/immutable/chunks/B4UeYgC1.js": {
+      "checksum": "040a70b391b1ee59cc9254ab309d3d11"
+    },
+    "_app/immutable/chunks/B5A8ao-Y.js": {
+      "checksum": "3716c3748288f7e990ecb1d8748a957a"
+    },
+    "_app/immutable/chunks/B5qLXaYj.js": {
+      "checksum": "d80f787154ee61bc883bf63b78039926"
+    },
+    "_app/immutable/chunks/B61HOlqD.js": {
+      "checksum": "2b1b15c829899c9dc973f8c4aedff9d8"
+    },
+    "_app/immutable/chunks/B66RamcK.js": {
+      "checksum": "1cbe7cf7dcacd66d6e78816cfcc0b95f"
+    },
+    "_app/immutable/chunks/B6Lurfsb.js": {
+      "checksum": "429d3c31875cc74286b46ebf0304f89c"
+    },
+    "_app/immutable/chunks/B70OnIEF.js": {
+      "checksum": "ac80312ab210958389b73c272bfb91d6"
+    },
+    "_app/immutable/chunks/B7Z61WWO.js": {
+      "checksum": "a4b8f7941d77040370649b1f112ccbb9"
+    },
+    "_app/immutable/chunks/B8Jj62_B.js": {
+      "checksum": "8f81ea714dbb59af25b6ac89a0663eda"
+    },
+    "_app/immutable/chunks/b8lsKnzM.js": {
+      "checksum": "d0b380cad17f0479ea77607acf1a3cc5"
+    },
+    "_app/immutable/chunks/B8rVERHB.js": {
+      "checksum": "8d84c4c49b40bb681a27794e33668e72"
+    },
+    "_app/immutable/chunks/B9z43cZy.js": {
+      "checksum": "8eb1f85176d76e950b06dcf7a061cf54"
+    },
+    "_app/immutable/chunks/BajYaufL.js": {
+      "checksum": "885fe4835dec0eee70d6a99a212c8aa5"
+    },
+    "_app/immutable/chunks/BarWGIjo.js": {
+      "checksum": "53528618a8e39953ddefa650a4ede2df"
+    },
+    "_app/immutable/chunks/BasqgcFg.js": {
+      "checksum": "86c16a1ee2fe3032a460093d334e74c5"
+    },
+    "_app/immutable/chunks/BATc38kB.js": {
+      "checksum": "9750c8fff92ec40d7c5bab618b42a102"
+    },
+    "_app/immutable/chunks/BBExB1b3.js": {
+      "checksum": "53b3b718b730e4929b869416e6d9838d"
+    },
+    "_app/immutable/chunks/BbktNYEW.js": {
+      "checksum": "01b882ed113c8afb1a71ec37ba79fdb6"
+    },
+    "_app/immutable/chunks/BbthAwfm.js": {
+      "checksum": "649dfd866e6ee9a0623eb324d507b198"
+    },
+    "_app/immutable/chunks/Bc5Ox8Ay.js": {
+      "checksum": "ff57c4c67243fcdf65c1da20964c45ea"
+    },
+    "_app/immutable/chunks/BdJJOF2F.js": {
+      "checksum": "ee3e870c319ec95ececd1b92a7399079"
+    },
+    "_app/immutable/chunks/BeDjuc1d.js": {
+      "checksum": "a111eb15fbf28193ff6d3bbd4ec5ba76"
+    },
+    "_app/immutable/chunks/BejXExf1.js": {
+      "checksum": "d9a86d6a387334cd3cffca92f7f02aa2"
+    },
+    "_app/immutable/chunks/BErhAvH7.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/Bf13yEXu.js": {
+      "checksum": "084c6a6d0905e6e4e3916b76bcf3f788"
+    },
+    "_app/immutable/chunks/BfvxZv4z.js": {
+      "checksum": "f6dc40d86b48208997c0e3ee5b3b597a"
+    },
+    "_app/immutable/chunks/Bg3rdnLQ.js": {
+      "checksum": "5b715d790ee36326699121226589dcf3"
+    },
+    "_app/immutable/chunks/BG9X978b.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/BgjdqIAG.js": {
+      "checksum": "1f53a777c462b6d7d5960bdf3f13556a"
+    },
+    "_app/immutable/chunks/BGNZd10P.js": {
+      "checksum": "298da923cb0ebafab9ae5f1c6cd82450"
+    },
+    "_app/immutable/chunks/BGq0X_H0.js": {
+      "checksum": "0c9eb49743b43e84554372af4fa8b294"
+    },
+    "_app/immutable/chunks/BGsnfGcb.js": {
+      "checksum": "95ccc0a1ce03cc727a8822d2c43a1477"
+    },
+    "_app/immutable/chunks/BiCyBEej.js": {
+      "checksum": "a3f90aff3185a89761b9a82da03a5aeb"
+    },
+    "_app/immutable/chunks/BIDb-BdZ.js": {
+      "checksum": "e0318214d8c33c1c2cf3a0cd92119234"
+    },
+    "_app/immutable/chunks/BIDUL5zb.js": {
+      "checksum": "fcd99832cf781fcb9756c914b889a72d"
+    },
+    "_app/immutable/chunks/BIHI7g3E.js": {
+      "checksum": "ef78f45d99ccfef6c744d3e562bcb679"
+    },
+    "_app/immutable/chunks/BIhOXqWX.js": {
+      "checksum": "0866f8daaf9a34145d0c8e98635919e6"
+    },
+    "_app/immutable/chunks/BiW0e9Up.js": {
+      "checksum": "559bcd9cf990868c43fca7cd78bfa9c1"
+    },
+    "_app/immutable/chunks/Bj2GC-e7.js": {
+      "checksum": "498523536e949d0f5aec80a548b6e885"
+    },
+    "_app/immutable/chunks/BJD7tS-w.js": {
+      "checksum": "cd78f443188a7b7984b984e47dc73242"
+    },
+    "_app/immutable/chunks/Bji7yjhW.js": {
+      "checksum": "ef18e7efd7646e996bc7f829ba2ad2f1"
+    },
+    "_app/immutable/chunks/Bjz7orfs.js": {
+      "checksum": "70db824303a129f4b7efe5cf44697a80"
+    },
+    "_app/immutable/chunks/Bk9loyCT.js": {
+      "checksum": "7deed39dcc7b5052fec8308e4ac9b37a"
+    },
+    "_app/immutable/chunks/BkiAkXrA.js": {
+      "checksum": "8d5799bc4dc10dac17b390dde0579f23"
+    },
+    "_app/immutable/chunks/BKoC989k.js": {
+      "checksum": "b1b6152bb4504ff502313488da034f15"
+    },
+    "_app/immutable/chunks/Blo0m3h-.js": {
+      "checksum": "7f6cf00203cc76372d22541ad6e1062e"
+    },
+    "_app/immutable/chunks/BMFi6g6C.js": {
+      "checksum": "5a0bde6b8e3bb315bc80310476ddb833"
+    },
+    "_app/immutable/chunks/BMLiOJW6.js": {
+      "checksum": "2859de495b7d160d28053a6ed2f336e8"
+    },
+    "_app/immutable/chunks/BmT9MYE5.js": {
+      "checksum": "9261afc60948d83393bef08213bb5a04"
+    },
+    "_app/immutable/chunks/BnFW2PJN.js": {
+      "checksum": "ab75afea7f0fd23d5d3ebb97e5b27671"
+    },
+    "_app/immutable/chunks/BNtOAy_A.js": {
+      "checksum": "b86e741fb92e8b24d1a484834a151f34"
+    },
+    "_app/immutable/chunks/BO463GdG.js": {
+      "checksum": "7809e68f3e3baf7bdeb8e3f86d77def6"
+    },
+    "_app/immutable/chunks/Bo6l-urP.js": {
+      "checksum": "263cc1d69fb61beff594632665f73225"
+    },
+    "_app/immutable/chunks/BobrkIJp.js": {
+      "checksum": "cce908811d8f93e771bca06aeadadcd4"
+    },
+    "_app/immutable/chunks/BoCwOLUl.js": {
+      "checksum": "a6f1e0a74b0e1bf97829937e53e819ad"
+    },
+    "_app/immutable/chunks/BPBfySKT.js": {
+      "checksum": "8b4aad12255b94880e2b6aa374c2203c"
+    },
+    "_app/immutable/chunks/BPdA3TTP.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/BPiN4Tt0.js": {
+      "checksum": "dfce85b0f31b73ad5983ebda2f5e486b"
+    },
+    "_app/immutable/chunks/BpRy5OMr.js": {
+      "checksum": "0b89a6a44734603d8493ca70ab8cd2a3"
+    },
+    "_app/immutable/chunks/Bpy6ylIq.js": {
+      "checksum": "e850c95085ec7368c7d4d51215c4f336"
+    },
+    "_app/immutable/chunks/Bq-w2olV.js": {
+      "checksum": "328b54527a856b8a61f9860130db78b9"
+    },
+    "_app/immutable/chunks/BqVcIu3Z.js": {
+      "checksum": "637c2995ff34061fb4f675c1c123c8fe"
+    },
+    "_app/immutable/chunks/BQXLrGtg.js": {
+      "checksum": "4d67fe48f188bed91cb345bf0990d0ab"
+    },
+    "_app/immutable/chunks/BRC3oZ_8.js": {
+      "checksum": "b2b6930d42f568f602d75bb507c27f0f"
+    },
+    "_app/immutable/chunks/BRMg99jM.js": {
+      "checksum": "34001a3983da24c1bac767ca7d25f186"
+    },
+    "_app/immutable/chunks/BRnc_LRH.js": {
+      "checksum": "760cd058e9f8fa9d9ec4239afc988e3b"
+    },
+    "_app/immutable/chunks/BRRSTvVo.js": {
+      "checksum": "49f5e8281071a6293f8c930b2fbcd8b5"
+    },
+    "_app/immutable/chunks/BsBmJX_x.js": {
+      "checksum": "2d095e92503d7f63835d9e1e1911664b"
+    },
+    "_app/immutable/chunks/BsOtk16k.js": {
+      "checksum": "6767d00a4f9a6038a79e844b467ce916"
+    },
+    "_app/immutable/chunks/BSsBdms7.js": {
+      "checksum": "57b7e32d36a8dc29d75e0f460e718bd5"
+    },
+    "_app/immutable/chunks/BtMA3ZiZ.js": {
+      "checksum": "0aff14161c1037c2ed08dd0e29170477"
+    },
+    "_app/immutable/chunks/BTX5eq4k.js": {
+      "checksum": "12084e8b734c89e884f822f3f933b88c"
+    },
+    "_app/immutable/chunks/BUBs0ek4.js": {
+      "checksum": "5b4a03d33e0f8b620babdedab45ba048"
+    },
+    "_app/immutable/chunks/BuPcV8iP.js": {
+      "checksum": "8322b353f995cd294f74d0a479858fd4"
+    },
+    "_app/immutable/chunks/BuQR31NQ.js": {
+      "checksum": "a2ac72bb8cdbe0dd8d7563522b89d0da"
+    },
+    "_app/immutable/chunks/BuQstTvh.js": {
+      "checksum": "879566e0dd851a2f5db9f84d6dd228e7"
+    },
+    "_app/immutable/chunks/BuXy5jjW.js": {
+      "checksum": "d52bae3fdcd0175e78c033e554f73c0d"
+    },
+    "_app/immutable/chunks/BVUxa207.js": {
+      "checksum": "303f32ab92bf2d654de7b43e414dcc89"
+    },
+    "_app/immutable/chunks/BvyRst_U.js": {
+      "checksum": "e4ffe212f83ddcfbd973c16dab8131fd"
+    },
+    "_app/immutable/chunks/BwAZKPQ7.js": {
+      "checksum": "83f5c9fc763b21a147281774127b8f29"
+    },
+    "_app/immutable/chunks/BwwcF-xh.js": {
+      "checksum": "6ceda9425e99bea4a1d71c2217010bf9"
+    },
+    "_app/immutable/chunks/BWZoRYsQ.js": {
+      "checksum": "d5a559b80984ba79cea5fd77951e74db"
+    },
+    "_app/immutable/chunks/BXtkGGy5.js": {
+      "checksum": "90949e77bdc925a89c78c75ef598b558"
+    },
+    "_app/immutable/chunks/BYCM2xXR.js": {
+      "checksum": "6c6bd8e39bed21bab3e64cd8819a3ff7"
+    },
+    "_app/immutable/chunks/BYUt5Oin.js": {
+      "checksum": "21bbd5532ec9e6b9a04ef8edec976c5c"
+    },
+    "_app/immutable/chunks/BYwVLFXh.js": {
+      "checksum": "a485f92f72ac8bcaeb81d4dbd40908e3"
+    },
+    "_app/immutable/chunks/Bz4jWYBE.js": {
+      "checksum": "0a10b8fc89c2ebcafd16e3acf9c4a8c5"
+    },
+    "_app/immutable/chunks/Bz4Ss8ne.js": {
+      "checksum": "a30397c39e499b36649f5f7c702fd2eb"
+    },
+    "_app/immutable/chunks/BZp-W9lB.js": {
+      "checksum": "a577716664fbc731d46ec4415543c56a"
+    },
+    "_app/immutable/chunks/BZY1Jlo9.js": {
+      "checksum": "030c8ad458e46ca89fa5c103f9be9805"
+    },
+    "_app/immutable/chunks/C-3sBAM4.js": {
+      "checksum": "8069e8cfac90c979fd7f5cfaa918fc97"
+    },
+    "_app/immutable/chunks/C_DHIg27.js": {
+      "checksum": "457701f0940eed11721a9b3fc43b2c2a"
+    },
+    "_app/immutable/chunks/C_hPZqCL.js": {
+      "checksum": "3a48e2ad63b7883237c929ff65b18c86"
+    },
+    "_app/immutable/chunks/C0nfWXuD.js": {
+      "checksum": "2491f4ff2757457749747f529f105e76"
+    },
+    "_app/immutable/chunks/C0ppbnGj.js": {
+      "checksum": "f344e4aee5f3265c0a0c7014391ca173"
+    },
+    "_app/immutable/chunks/C1_zENlf.js": {
+      "checksum": "72be9c3b7a56159791b753be36c357a4"
+    },
+    "_app/immutable/chunks/C1RbrPSJ.js": {
+      "checksum": "6d3c3773c3ffa1481b51edfaa10953be"
+    },
+    "_app/immutable/chunks/C2GzTLFQ.js": {
+      "checksum": "6375f928e734c37c7bd40468e74aadf6"
+    },
+    "_app/immutable/chunks/C2h3wkij.js": {
+      "checksum": "4654bcc6eb13c41ca4f0ace420f67621"
+    },
+    "_app/immutable/chunks/c3Lao47m.js": {
+      "checksum": "09f651705ec7a46245e05fac10198274"
+    },
+    "_app/immutable/chunks/C4_IgXuO.js": {
+      "checksum": "1d3d33784d66bb48012685b0fd7858f0"
+    },
+    "_app/immutable/chunks/C4IQ6XMt.js": {
+      "checksum": "79519055090a322a75ce7c02911498c3"
+    },
+    "_app/immutable/chunks/C5GYG5DG.js": {
+      "checksum": "9d446e94eaa65264c1669c7881a4100a"
+    },
+    "_app/immutable/chunks/C5SfR0-X.js": {
+      "checksum": "f057f73b15b8a72cb96afc959e0a7739"
+    },
+    "_app/immutable/chunks/C6x10y3I.js": {
+      "checksum": "5afd8ce60e749ba050b5615fdc48beb4"
+    },
+    "_app/immutable/chunks/C7nrg5M4.js": {
+      "checksum": "8f0656a9fd17d31202d7965c624632ac"
+    },
+    "_app/immutable/chunks/C7R7_i4r.js": {
+      "checksum": "3a1836a433c52f59dacd5deb2d6a737e"
+    },
+    "_app/immutable/chunks/C8dEFs0C.js": {
+      "checksum": "705471871a8ecf86e6b5ce45bcacb914"
+    },
+    "_app/immutable/chunks/C9N9_qbo.js": {
+      "checksum": "ae293b11d5bb48ea2d0a2d9c39a71652"
+    },
+    "_app/immutable/chunks/C9PJQayD.js": {
+      "checksum": "9881f60e015251d5c8423ebd3b931a7c"
+    },
+    "_app/immutable/chunks/ca_5F4kW.js": {
+      "checksum": "077d1bfaab8872159abe7ae441fc77bf"
+    },
+    "_app/immutable/chunks/CA1h45sA.js": {
+      "checksum": "9fe15aaaef92930978c550833429c495"
+    },
+    "_app/immutable/chunks/CAdloHSp.js": {
+      "checksum": "2430f26de3659ae01caace03d4620a8e"
+    },
+    "_app/immutable/chunks/CB6Jb08u.js": {
+      "checksum": "63e2f0aad82773d4f6fa0c0e53f0cefe"
+    },
+    "_app/immutable/chunks/CBbeGbim.js": {
+      "checksum": "f3dd57f06a0a12ba02b6c636df74d8d0"
+    },
+    "_app/immutable/chunks/CBoOaywz.js": {
+      "checksum": "6bb2928b9cacb196aac44367d851f4d2"
+    },
+    "_app/immutable/chunks/CBq8cx5L.js": {
+      "checksum": "a2c3a33e08ba8bd0dc54f22ccdf03724"
+    },
+    "_app/immutable/chunks/CBrSDip1.js": {
+      "checksum": "6c3bb24159e5b9e4e6dc8e2ca15373f8"
+    },
+    "_app/immutable/chunks/CbzNn605.js": {
+      "checksum": "0b95d3e6cc7a5656ccd3065cb8ca08a2"
+    },
+    "_app/immutable/chunks/CCCfzGGM.js": {
+      "checksum": "f48e5635932064bbc4d356df9878085d"
+    },
+    "_app/immutable/chunks/CCWu9AgM.js": {
+      "checksum": "4349c0c8b1b1ae2fdeb99b1ae83784fa"
+    },
+    "_app/immutable/chunks/Ccx1MofX.js": {
+      "checksum": "b084d084598aa586b31fe07d4688088b"
+    },
+    "_app/immutable/chunks/CD_6LEyC.js": {
+      "checksum": "1cad3050723ee5984950d50d68089d80"
+    },
+    "_app/immutable/chunks/CeizSgkR.js": {
+      "checksum": "a55f6d7987db290a5f9ad07519a60084"
+    },
+    "_app/immutable/chunks/CfJ_FY4V.js": {
+      "checksum": "3ff761320b0423f5d9afcd9590b19eb3"
+    },
+    "_app/immutable/chunks/CFR2Gbev.js": {
+      "checksum": "1b34fdc1828e36cf5e0cc7ca909d7335"
+    },
+    "_app/immutable/chunks/CfUWirqI.js": {
+      "checksum": "5ca3d8cf55a7c53a940f9469d7930026"
+    },
+    "_app/immutable/chunks/Cg6nKT_x.js": {
+      "checksum": "33696d708f7a7564da7461ddfec90780"
+    },
+    "_app/immutable/chunks/CgEWv2_i.js": {
+      "checksum": "153813230b13785ea5b10beb436fb69a"
+    },
+    "_app/immutable/chunks/CGRTtkZt.js": {
+      "checksum": "a90df75c7224cc82914bb019133521bc"
+    },
+    "_app/immutable/chunks/ChiIBlr0.js": {
+      "checksum": "c13235cb6c4a9cc382fc013f3221d626"
+    },
+    "_app/immutable/chunks/ChMgqi-V.js": {
+      "checksum": "727358e1d2c070e282bcc1b883c0b9b9"
+    },
+    "_app/immutable/chunks/CIv8ggG2.js": {
+      "checksum": "226467fc13a2f0df370960c450e2be4e"
+    },
+    "_app/immutable/chunks/Cixl24EK.js": {
+      "checksum": "c8e66a40308a2766c27e72d6100078f6"
+    },
+    "_app/immutable/chunks/CjFqInr-.js": {
+      "checksum": "d3f64286d88cd5771fea42dc5b2b2243"
+    },
+    "_app/immutable/chunks/CJPoLdBL.js": {
+      "checksum": "44c0aebc288dbfaa9aa2acf68eac7395"
+    },
+    "_app/immutable/chunks/CjtvtjXe.js": {
+      "checksum": "54ab972dfb7453859f56bf5560700853"
+    },
+    "_app/immutable/chunks/CJui3SgT.js": {
+      "checksum": "bee2c719242ce3c1e23381131af7fbcf"
+    },
+    "_app/immutable/chunks/CJY1-jF5.js": {
+      "checksum": "8a2d1be6cb68c6e97a2fedc3ff4948ce"
+    },
+    "_app/immutable/chunks/CK_P3lAc.js": {
+      "checksum": "8397633da22295e9e3e5ac180d00234c"
+    },
+    "_app/immutable/chunks/CKdNMXrW.js": {
+      "checksum": "1aec2d65144f014557e1d0e7c59d4d6c"
+    },
+    "_app/immutable/chunks/CkHH5rrO.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/CKqE7kdV.js": {
+      "checksum": "31081eac7505dbf811d85b8b1e27124c"
+    },
+    "_app/immutable/chunks/Cld2tcSB.js": {
+      "checksum": "89b0b39aff4b8199ef249166292dd3d5"
+    },
+    "_app/immutable/chunks/ClgMpuME.js": {
+      "checksum": "c72e2eac7b3f47e997e74bf7a0f11901"
+    },
+    "_app/immutable/chunks/ClU6y7CQ.js": {
+      "checksum": "a319c9c743d22fd35744722195258cac"
+    },
+    "_app/immutable/chunks/Cm0NLVRp.js": {
+      "checksum": "8e50b4e6d421b5ec7aede420818c75e5"
+    },
+    "_app/immutable/chunks/CMaoxXHu.js": {
+      "checksum": "2ad4b663a0ab7dbe56511696bbb6f651"
+    },
+    "_app/immutable/chunks/CmCLt-SV.js": {
+      "checksum": "48abea7ebf51b6ff94b0c14a1e377845"
+    },
+    "_app/immutable/chunks/CMida4Wx.js": {
+      "checksum": "d63b759fd8f2e8db647f27fce1a8df6b"
+    },
+    "_app/immutable/chunks/Cmu-NaOQ.js": {
+      "checksum": "430cb8dbcdaa64ec4888d51ed818e54d"
+    },
+    "_app/immutable/chunks/Coe8wudA.js": {
+      "checksum": "bcbbaba6a8adc3b0f8e9be77a88a8a89"
+    },
+    "_app/immutable/chunks/COROWgrq.js": {
+      "checksum": "58ed75a17f1a31f9426030fd9be88d2f"
+    },
+    "_app/immutable/chunks/CP2oznkM.js": {
+      "checksum": "45374f8825aa53f029cf494c697634aa"
+    },
+    "_app/immutable/chunks/Cp7uBDDt.js": {
+      "checksum": "0e45006df8c6dad5179267307f40d09e"
+    },
+    "_app/immutable/chunks/CPbTY2s1.js": {
+      "checksum": "6500fe3bc518d5b597d31bcf27ddfff1"
+    },
+    "_app/immutable/chunks/Cpg8MCxX.js": {
+      "checksum": "8485b5551bf84591447a6a366d6d1818"
+    },
+    "_app/immutable/chunks/Cq-uUxLh.js": {
+      "checksum": "82aa78b01612b05f9741bb89dda59240"
+    },
+    "_app/immutable/chunks/CQ3KRGyF.js": {
+      "checksum": "d41722cbfceab4b9edf44f56d75bed10"
+    },
+    "_app/immutable/chunks/Cqgi-61r.js": {
+      "checksum": "42ff76f0f5099566c32b58c6ba4f8be1"
+    },
+    "_app/immutable/chunks/Cr4pWsNw.js": {
+      "checksum": "4f0a0bd9ceac893d4571fefedb0e78f5"
+    },
+    "_app/immutable/chunks/CrSJAo5k.js": {
+      "checksum": "646ce9a79db1fd8e14782bde80c6cd4d"
+    },
+    "_app/immutable/chunks/CrxHt3zY.js": {
+      "checksum": "f7fbf6a7b5466ed11d6cb7809191c8d3"
+    },
+    "_app/immutable/chunks/CS_SpLos.js": {
+      "checksum": "10d4e2b06506538626bf482458dfa09b"
+    },
+    "_app/immutable/chunks/CSKmbyme.js": {
+      "checksum": "a34f1a06cb8111fc855a028be53216ab"
+    },
+    "_app/immutable/chunks/CsNGVLhY.js": {
+      "checksum": "b16491504ac012f7756ff4ed9d1809b6"
+    },
+    "_app/immutable/chunks/CSRQ9P9v.js": {
+      "checksum": "e32a03fcb38dee72b7d5d7ccde15f839"
+    },
+    "_app/immutable/chunks/Ct-J6PDb.js": {
+      "checksum": "d1a0aa59b0666b3de10ca6447055d195"
+    },
+    "_app/immutable/chunks/CTw3_OSD.js": {
+      "checksum": "4349d0fc5255336fa8ef4014293b8bdc"
+    },
+    "_app/immutable/chunks/CUBFls83.js": {
+      "checksum": "a6e210f88bc55478543254bd8991c520"
+    },
+    "_app/immutable/chunks/CuxC24fc.js": {
+      "checksum": "07247d6e3667bab54c93dcf85a6a02e8"
+    },
+    "_app/immutable/chunks/CVjvYIiF.js": {
+      "checksum": "1d53583c632595cae17b45a92ba8a681"
+    },
+    "_app/immutable/chunks/CVKS28kz.js": {
+      "checksum": "1dc7bcb34aca8090d5d6bd58e3468149"
+    },
+    "_app/immutable/chunks/CvvmuP6u.js": {
+      "checksum": "14d8276d22e9d0c74049bfbdda329418"
+    },
+    "_app/immutable/chunks/CVWf6G_S.js": {
+      "checksum": "9a812362f9c9f40aeecb8474207d3ca3"
+    },
+    "_app/immutable/chunks/CWeMrc8r.js": {
+      "checksum": "51399cf725b72fb877cd28b985bac062"
+    },
+    "_app/immutable/chunks/CwKaygX4.js": {
+      "checksum": "ac71f826d697203842484d8f60d61209"
+    },
+    "_app/immutable/chunks/CWQlxMIT.js": {
+      "checksum": "3f273dddf7501e6a805c89767a430efa"
+    },
+    "_app/immutable/chunks/CWQnXtBC.js": {
+      "checksum": "fa37b1e739d419950ddf147f39783454"
+    },
+    "_app/immutable/chunks/CXCRaan9.js": {
+      "checksum": "4a86f86c01be4c9ef541fb89a8f74eb5"
+    },
+    "_app/immutable/chunks/CyAQRjgn.js": {
+      "checksum": "52dc760eb6013d2d1110d10f1602e9ce"
+    },
+    "_app/immutable/chunks/CYLC_UmC.js": {
+      "checksum": "498be66b6db0369a71968bc45c0c71f0"
+    },
+    "_app/immutable/chunks/CYrpUA5w.js": {
+      "checksum": "02927a1efa5801cd599d7f469aa175b2"
+    },
+    "_app/immutable/chunks/CYs7Iqdt.js": {
+      "checksum": "43b28c3b3a5e1e89470afc00c7c9d732"
+    },
+    "_app/immutable/chunks/CYtTucZ-.js": {
+      "checksum": "5410efcff64fea10b5831995879a06cb"
+    },
+    "_app/immutable/chunks/Cz_XuP85.js": {
+      "checksum": "6b506352b766959e95d36ebaa7a277c3"
+    },
+    "_app/immutable/chunks/CzdSfIW5.js": {
+      "checksum": "edb59de3d0771afcf1105bb9f3c034dd"
+    },
+    "_app/immutable/chunks/CzPR2_bd.js": {
+      "checksum": "1b88f746c2de67cd618917d1e86c8195"
+    },
+    "_app/immutable/chunks/CzzEuozv.js": {
+      "checksum": "a545dfb212d9d1e42ecccbe23e961e88"
+    },
+    "_app/immutable/chunks/D_uI679u.js": {
+      "checksum": "ebca501cc2c15f0303107ced787d3000"
+    },
+    "_app/immutable/chunks/D0hs2NJH.js": {
+      "checksum": "c9f4894bb74e08e8a1ed7387c4a82f7c"
+    },
+    "_app/immutable/chunks/D1slsF82.js": {
+      "checksum": "4f4bcfc67aff9618fae45d861b902a73"
+    },
+    "_app/immutable/chunks/D1ucSCYS.js": {
+      "checksum": "f000b2bbf4ee41971a519545d47e162f"
+    },
+    "_app/immutable/chunks/D2geOrBl.js": {
+      "checksum": "7fe9aaef13b8e1095cff463b048870f7"
+    },
+    "_app/immutable/chunks/D3-etPUc.js": {
+      "checksum": "9970fcb6b14b08cc469e361017c9a98a"
+    },
+    "_app/immutable/chunks/D4Tlxsv7.js": {
+      "checksum": "fab5cad9ce7149f26b639e97ed0fa578"
+    },
+    "_app/immutable/chunks/D56HP4xm.js": {
+      "checksum": "10497cdc545f9f457e79954340a12898"
+    },
+    "_app/immutable/chunks/D5fs2c7O.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/D734iKEH.js": {
+      "checksum": "a2c3d6d8927b831d2e1e697f1527a20e"
+    },
+    "_app/immutable/chunks/D7CNUi0f.js": {
+      "checksum": "1a2108c24fbfbcb85d7c2abcccae8ba0"
+    },
+    "_app/immutable/chunks/D7Q4e5sJ.js": {
+      "checksum": "66d342d52e652ad8e73f246c20b69c58"
+    },
+    "_app/immutable/chunks/D7sdr68J.js": {
+      "checksum": "e261dbcbe1730006fdd8e5cdd880e970"
+    },
+    "_app/immutable/chunks/D8agHJW8.js": {
+      "checksum": "1bbca87bf93253d29163a7ed87b653b7"
+    },
+    "_app/immutable/chunks/D8qK05cE.js": {
+      "checksum": "77ce297f57658bfcb62cde358143ce83"
+    },
+    "_app/immutable/chunks/D9ODUaX8.js": {
+      "checksum": "c7aba46a97777164f3b0567960346362"
+    },
+    "_app/immutable/chunks/D9qIlL-3.js": {
+      "checksum": "b5fd97878dd8300e0f9d928b36847cd3"
+    },
+    "_app/immutable/chunks/DB7Vi1k-.js": {
+      "checksum": "2589749353edaa8695e944f722933a30"
+    },
+    "_app/immutable/chunks/DBcbUWv3.js": {
+      "checksum": "61abf2f9ab3d1c8e6cc3c9bd5d7fed25"
+    },
+    "_app/immutable/chunks/DBeXZoyG.js": {
+      "checksum": "760c42e2189131c2957b31885d0f3c9f"
+    },
+    "_app/immutable/chunks/DBNqgLHu.js": {
+      "checksum": "faf87e8d3924b1709c68179199dd37b5"
+    },
+    "_app/immutable/chunks/DcI0KcR5.js": {
+      "checksum": "be750e52cbd77a5854736685ba32d4eb"
+    },
+    "_app/immutable/chunks/DCLmYeWD.js": {
+      "checksum": "c85283aa94f1491d190bc728b5456473"
+    },
+    "_app/immutable/chunks/Dcy09jhh.js": {
+      "checksum": "1b058c5df0d6b2fb1da21da518b15b06"
+    },
+    "_app/immutable/chunks/DcZGONqR.js": {
+      "checksum": "2ddd55427557c064c35574177aa40a33"
+    },
+    "_app/immutable/chunks/Dd2rojrV.js": {
+      "checksum": "05d9bf7d22485da695a69964f054bf15"
+    },
+    "_app/immutable/chunks/DDuyVEQw.js": {
+      "checksum": "97f3a6f8449165b6031e12b6af2187b2"
+    },
+    "_app/immutable/chunks/DdZk1PrI.js": {
+      "checksum": "9c361f7005ccd733ae764c6eac59033f"
+    },
+    "_app/immutable/chunks/DE3SC8ds.js": {
+      "checksum": "84ed10237cf5ad117218dd98e4e24b81"
+    },
+    "_app/immutable/chunks/DEPcuqK6.js": {
+      "checksum": "3ea34ac41aa582da654b8e7cc6f9e38e"
+    },
+    "_app/immutable/chunks/DfbMzhLh.js": {
+      "checksum": "4284a97e5e07a7a2b5f4c488012f6e2b"
+    },
+    "_app/immutable/chunks/DFhyoQEg.js": {
+      "checksum": "f3673920617c0c1c039d37d11ad42aad"
+    },
+    "_app/immutable/chunks/DGmH4Bq7.js": {
+      "checksum": "80e90b65853269ef1996009597f2641b"
+    },
+    "_app/immutable/chunks/DGMsTPC1.js": {
+      "checksum": "1fd435f1ea4d1a32b3eea915449c8cee"
+    },
+    "_app/immutable/chunks/DGwqfKxv.js": {
+      "checksum": "5c9a9d4d8f44632dfec112fe4dd12253"
+    },
+    "_app/immutable/chunks/Dhkr8mte.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/DiDqEmll.js": {
+      "checksum": "0a29c5b8295da611a0ebcc7e5450b0a2"
+    },
+    "_app/immutable/chunks/DIt49qtz.js": {
+      "checksum": "ff0a82d388175c71bc16202c0f2b32e6"
+    },
+    "_app/immutable/chunks/DixIiFeg.js": {
+      "checksum": "a6ca8303ac01e870b85f07dbd01a2554"
+    },
+    "_app/immutable/chunks/DiXxao4F.js": {
+      "checksum": "23f2704f781bbabebe793ff7514f4080"
+    },
+    "_app/immutable/chunks/Dj6hhMgd.js": {
+      "checksum": "723f41d4d1d851511b88fc855dabd869"
+    },
+    "_app/immutable/chunks/DjNnIswk.js": {
+      "checksum": "278408ea109ac8fca6d930af6e294ca9"
+    },
+    "_app/immutable/chunks/DJO5VGQ-.js": {
+      "checksum": "614c88c8c611099bfa8dc92828c0e9db"
+    },
+    "_app/immutable/chunks/DKHoEjbi.js": {
+      "checksum": "a75b87a928f40bb2e1b0c07ecc397ddb"
+    },
+    "_app/immutable/chunks/DKk9JQAu.js": {
+      "checksum": "5fa0f4f4fe330f5a54e66f2986aa2d35"
+    },
+    "_app/immutable/chunks/Dl4wx8Yy.js": {
+      "checksum": "ee0f05d4627e755f2e5a548e1a8ab509"
+    },
+    "_app/immutable/chunks/Dlc_fCc2.js": {
+      "checksum": "b037600ef55f8c93292179d3dbaf31bd"
+    },
+    "_app/immutable/chunks/DLfNiqY0.js": {
+      "checksum": "8e3200ae717519daaac3263e5f2e8760"
+    },
+    "_app/immutable/chunks/DlwIKmaj.js": {
+      "checksum": "3f67c68f1fe1934c31d4d10dcf82b376"
+    },
+    "_app/immutable/chunks/DM5QLcg4.js": {
+      "checksum": "321c33c495e0b939fbbdce20e3a58af6"
+    },
+    "_app/immutable/chunks/DmtlYCM5.js": {
+      "checksum": "7a95be795b9057d1d5dd065fdc876cdf"
+    },
+    "_app/immutable/chunks/Dn8Xi7mQ.js": {
+      "checksum": "eeb386b69db3242e1ed7c27953cff23b"
+    },
+    "_app/immutable/chunks/DNg5JxWR.js": {
+      "checksum": "6a49b8883dd3adba00d4fb3a7f900fe7"
+    },
+    "_app/immutable/chunks/DNqvg6tM.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/DnvaU7wE.js": {
+      "checksum": "eb1f603672d461d47f8754df920d9084"
+    },
+    "_app/immutable/chunks/DnvFM9Hm.js": {
+      "checksum": "c46b39330808f24399828bd510328918"
+    },
+    "_app/immutable/chunks/Do0Bj347.js": {
+      "checksum": "184b9fc9ce20b94d78931728cfafde03"
+    },
+    "_app/immutable/chunks/DoGMzUp-.js": {
+      "checksum": "cb82db6cc24f5b9bab5755fb059d7e58"
+    },
+    "_app/immutable/chunks/DOJTK9S4.js": {
+      "checksum": "f7f14d66202220317d54657af0aecbbe"
+    },
+    "_app/immutable/chunks/DpT-sReN.js": {
+      "checksum": "32eecfdbda4724256e99fa36f523b367"
+    },
+    "_app/immutable/chunks/dQOuAoQT.js": {
+      "checksum": "3b36ef71562e706919ba1e625dbcae55"
+    },
+    "_app/immutable/chunks/DQS9N-YV.js": {
+      "checksum": "b17db07ee82d59bddd2ba9dda44ed1b2"
+    },
+    "_app/immutable/chunks/Dr77MNUq.js": {
+      "checksum": "cadcd5da62f6ede349500347cf32219c"
+    },
+    "_app/immutable/chunks/DsY-CdTB.js": {
+      "checksum": "7b1456472a080c9f531cc4d7644eb500"
+    },
+    "_app/immutable/chunks/DTsC6d55.js": {
+      "checksum": "dfce85b0f31b73ad5983ebda2f5e486b"
+    },
+    "_app/immutable/chunks/DtT4Wv20.js": {
+      "checksum": "b07378dc4f1fb095c566caf0034b27c2"
+    },
+    "_app/immutable/chunks/DTYGImf_.js": {
+      "checksum": "16ca119cbaa2e66f6d20576e231d2f9e"
+    },
+    "_app/immutable/chunks/DtzxAE5G.js": {
+      "checksum": "62dd0d6ba376b8254392d8b7ed6fbc29"
+    },
+    "_app/immutable/chunks/DunlRL1Q.js": {
+      "checksum": "dfce85b0f31b73ad5983ebda2f5e486b"
+    },
+    "_app/immutable/chunks/Duq9193I.js": {
+      "checksum": "6013c72657d74dc5bcb88c8918de747a"
+    },
+    "_app/immutable/chunks/DuXBng4X.js": {
+      "checksum": "2af95aa5b4b1ea1694faa08dc6f68d68"
+    },
+    "_app/immutable/chunks/DvJcjKHU.js": {
+      "checksum": "94d9f52ff8fbc17092b72b78d40fab6d"
+    },
+    "_app/immutable/chunks/Dwnvcx1X.js": {
+      "checksum": "14bb2d062760d471923d7689491e64e5"
+    },
+    "_app/immutable/chunks/DWRXKYEu.js": {
+      "checksum": "b402884b9f7e6eea9403d9374b993f28"
+    },
+    "_app/immutable/chunks/DxhF1Ktm.js": {
+      "checksum": "0dcc8e0756c1fbc7dd8457ebd43a87d1"
+    },
+    "_app/immutable/chunks/DxRVw1E0.js": {
+      "checksum": "1b957e8bb9d84cad308eb291c5db5937"
+    },
+    "_app/immutable/chunks/DY8IR9It.js": {
+      "checksum": "f2079929a42aedcd3424f4dd98ff40d5"
+    },
+    "_app/immutable/chunks/DyAuvbxe.js": {
+      "checksum": "3dd88601de299a422edad87d0d207193"
+    },
+    "_app/immutable/chunks/DyVhHtw_.js": {
+      "checksum": "7a16fe820636d11b293cb1bcf8e0b263"
+    },
+    "_app/immutable/chunks/DzE4B1Af.js": {
+      "checksum": "717baaa4d7dfa708dc1ea9aa54906e79"
+    },
+    "_app/immutable/chunks/DzWSY_RA.js": {
+      "checksum": "59df5a8b95ab6910ef237cbe5f486874"
+    },
+    "_app/immutable/chunks/eDwGkFUK.js": {
+      "checksum": "194ec6626c812c947ec8846e3854710a"
+    },
+    "_app/immutable/chunks/eEO0ShYS.js": {
+      "checksum": "7d1308d07e7ed5c0d16cff8492c29157"
+    },
+    "_app/immutable/chunks/eEyD8D67.js": {
+      "checksum": "8cf9ed466e8bd0d964131aa4d4ece769"
+    },
+    "_app/immutable/chunks/Emz0lnzc.js": {
+      "checksum": "ab6d6e569eaf8b24a39fc7ed3ed72983"
+    },
+    "_app/immutable/chunks/ePkbF_-1.js": {
+      "checksum": "dccd6e180dcfe30187f3cec121dd7d09"
+    },
+    "_app/immutable/chunks/EpmIi4O1.js": {
+      "checksum": "aef6760e17620ba88bd585db1c2bcbb8"
+    },
+    "_app/immutable/chunks/EsbCP2xM.js": {
+      "checksum": "fb456026df2c327b4ff67ba3ec29d9c9"
+    },
+    "_app/immutable/chunks/F4b_3TM6.js": {
+      "checksum": "c95248d06bb4fb410f87c0125da79275"
+    },
+    "_app/immutable/chunks/f8L2cFsh.js": {
+      "checksum": "3dacb08fc93f24cd81196a80a65c0442"
+    },
+    "_app/immutable/chunks/fGvVjmmV.js": {
+      "checksum": "8583cca0aa29d6c5b8f5452f5f85bd91"
+    },
+    "_app/immutable/chunks/FmFgRqLi.js": {
+      "checksum": "fb456026df2c327b4ff67ba3ec29d9c9"
+    },
+    "_app/immutable/chunks/G_9iWjfM.js": {
+      "checksum": "6fa1ee74b466880e55972262a6036e2c"
+    },
+    "_app/immutable/chunks/GOW88AU3.js": {
+      "checksum": "7503c78cede6dc1903b781a56e0bde8d"
+    },
+    "_app/immutable/chunks/gtX4OaKd.js": {
+      "checksum": "a473662ba5f4afd45b46924266497ff2"
+    },
+    "_app/immutable/chunks/he100e8D.js": {
+      "checksum": "87ba58a55d6d7c68ea640ca7cded32d5"
+    },
+    "_app/immutable/chunks/hY4bbVNq.js": {
+      "checksum": "730e2536a5ecb3e0764df5b4e1280176"
+    },
+    "_app/immutable/chunks/J_uVNuOq.js": {
+      "checksum": "ed3a067054f59e87255767a828db454e"
+    },
+    "_app/immutable/chunks/jF04782Y.js": {
+      "checksum": "c89e643a9a7285cb3aa466065da06e79"
+    },
+    "_app/immutable/chunks/jJCixYor.js": {
+      "checksum": "cf449d7fe9fc42256163aacf8998469e"
+    },
+    "_app/immutable/chunks/JLlWh6qP.js": {
+      "checksum": "2dcf1f64b32e8c607bdf037e4a670d1d"
+    },
+    "_app/immutable/chunks/JqQESarn.js": {
+      "checksum": "08a83e42e804b49130122d656246e19f"
+    },
+    "_app/immutable/chunks/K6WAv53-.js": {
+      "checksum": "3892bb8a599b08b1d37c742e1045f3af"
+    },
+    "_app/immutable/chunks/KYzd_jVW.js": {
+      "checksum": "13fbbd53354281065335056bc17e779e"
+    },
+    "_app/immutable/chunks/L3NBboM-.js": {
+      "checksum": "8c74810643f53b79242608b91bb5aabf"
+    },
+    "_app/immutable/chunks/lqWyRnXv.js": {
+      "checksum": "886b17480068ab233123998b2115b9bc"
+    },
+    "_app/immutable/chunks/mcIOae6w.js": {
+      "checksum": "1f28d98fdd68cf44cc7b98cacdd60552"
+    },
+    "_app/immutable/chunks/meEMTERG.js": {
+      "checksum": "2a73ea6f3b83fd86b978f51b4b483e40"
+    },
+    "_app/immutable/chunks/Ml6UNIzW.js": {
+      "checksum": "59493f2c5b9f5e3562411134b6c8a788"
+    },
+    "_app/immutable/chunks/mXb62Iam.js": {
+      "checksum": "8d5799bc4dc10dac17b390dde0579f23"
+    },
+    "_app/immutable/chunks/OtVwhkKS.js": {
+      "checksum": "712595c3df5ed19a67b744d48b62948d"
+    },
+    "_app/immutable/chunks/p9Jn0Ewu.js": {
+      "checksum": "ac8616fb0b7e8f516c7c687e7c63616a"
+    },
+    "_app/immutable/chunks/pfAHstoX.js": {
+      "checksum": "4a25c2780cb03cc0492fa357929382cc"
+    },
+    "_app/immutable/chunks/pqDl3Mhp.js": {
+      "checksum": "c00329351ee68b1f0bb8588c2c1d2c92"
+    },
+    "_app/immutable/chunks/Q7coO7PK.js": {
+      "checksum": "6956a54768b47518ad17998d8893aed3"
+    },
+    "_app/immutable/chunks/qWNCuWej.js": {
+      "checksum": "39828ba2b5b881cfc28be03662002ee3"
+    },
+    "_app/immutable/chunks/r7aQTYLd.js": {
+      "checksum": "3185046e357b5266aa3daf843e0c7bb6"
+    },
+    "_app/immutable/chunks/rh6mSSNJ.js": {
+      "checksum": "6789b1b1837914cc4b3c0d7373f47368"
+    },
+    "_app/immutable/chunks/Rp4xYZIi.js": {
+      "checksum": "3b3805f39c311205f1927af7133cd101"
+    },
+    "_app/immutable/chunks/rSrImELl.js": {
+      "checksum": "dc09419ec83b4567bcb23c6ab43cc62e"
+    },
+    "_app/immutable/chunks/s4aFeu_P.js": {
+      "checksum": "cdb924e0bbff96e11c499b429d1124e6"
+    },
+    "_app/immutable/chunks/sFQlRSuf.js": {
+      "checksum": "323dd37dc87a62153c4ff71cf04d9e96"
+    },
+    "_app/immutable/chunks/skDFV8n9.js": {
+      "checksum": "3ecaaddb41378c9b34c91c42b37e644a"
+    },
+    "_app/immutable/chunks/stowNVNI.js": {
+      "checksum": "e485170816fcec0c2ebcc4aa5ee04f46"
+    },
+    "_app/immutable/chunks/T7gSaZe8.js": {
+      "checksum": "8217657788cc886f6d0a1dbd15eb8ea4"
+    },
+    "_app/immutable/chunks/tUNEiBL3.js": {
+      "checksum": "9b2dce7893de1de93ea37d9f3c513037"
+    },
+    "_app/immutable/chunks/tvoKlQH7.js": {
+      "checksum": "fb8119ae40830eb554162c14bc05fa89"
+    },
+    "_app/immutable/chunks/UAFRlFgY.js": {
+      "checksum": "9b920fc8c93657f42de31cbc312e4bae"
+    },
+    "_app/immutable/chunks/uFRFjlEA.js": {
+      "checksum": "47ee91d51a1c614ce0bc2c8ddc95fb80"
+    },
+    "_app/immutable/chunks/uqte9bBn.js": {
+      "checksum": "ee41c21bb580d3ab5e6eb7bf1988e1d6"
+    },
+    "_app/immutable/chunks/Us6po7Ag.js": {
+      "checksum": "7f865a564e5dc4e97e939bf58a49d9e3"
+    },
+    "_app/immutable/chunks/vK_o3JBb.js": {
+      "checksum": "117bd50738f17122e379ed17953aeb92"
+    },
+    "_app/immutable/chunks/vlzH9MLc.js": {
+      "checksum": "d017f4a67e2ba16c1eab86f9b2491012"
+    },
+    "_app/immutable/chunks/Vr7Mm0_a.js": {
+      "checksum": "8aeacfd491a7eba32024be81c2331b5a"
+    },
+    "_app/immutable/chunks/VtFrT7sU.js": {
+      "checksum": "00298b28100a340e36c24cf96ddbb1a0"
+    },
+    "_app/immutable/chunks/vUj55luV.js": {
+      "checksum": "b8fcc14f6eb995619d820c58f21c4a30"
+    },
+    "_app/immutable/chunks/VYVqI1OJ.js": {
+      "checksum": "161e394e366e4bf4bb18db67a978863c"
+    },
+    "_app/immutable/chunks/WCfK2fL-.js": {
+      "checksum": "57a63ed31a1fd153320f0892abdc3f31"
+    },
+    "_app/immutable/chunks/Wn7LVP4o.js": {
+      "checksum": "93b144c7dcf053e867a3cb15c6188eaa"
+    },
+    "_app/immutable/chunks/WWxb2FOY.js": {
+      "checksum": "1f331169fb771f626884e983cc3e2a83"
+    },
+    "_app/immutable/chunks/WzHMwjOe.js": {
+      "checksum": "8884e7d095c27f2e403d09079f297d3c"
+    },
+    "_app/immutable/chunks/XC2uhEvM.js": {
+      "checksum": "269d16d4bc21f91654c7716dc77529e5"
+    },
+    "_app/immutable/chunks/XfbvdVCW.js": {
+      "checksum": "0b5abb8a8f9139657a8b862c40ee12b2"
+    },
+    "_app/immutable/chunks/xPfrZ4Mi.js": {
+      "checksum": "4266d885c42d894b7bec0cef5c6c3408"
+    },
+    "_app/immutable/chunks/y0xSlVPu.js": {
+      "checksum": "290bb82e862ead786ccd0a3c4daa0215"
+    },
+    "_app/immutable/chunks/Y6sgfx_2.js": {
+      "checksum": "c673f88510b79bffd86bd22508e56d31"
+    },
+    "_app/immutable/chunks/yoD6TSFD.js": {
+      "checksum": "544ea902e980cde98aa6831056018fcc"
+    },
+    "_app/immutable/chunks/z6-jJ_I_.js": {
+      "checksum": "12a402c6c19d0302c3e367000b6f1640"
+    },
+    "_app/immutable/chunks/ZirLRMDq.js": {
+      "checksum": "aac9d1c5de5ffd81f65c683f5c9a06db"
+    },
+    "_app/immutable/chunks/ZKCit4Yo.js": {
+      "checksum": "c3d589045759c8870371d83bb9f65ec4"
+    },
+    "_app/immutable/chunks/Zu8s0PQX.js": {
+      "checksum": "83abd579822f96c4cc2e75a48c6e322f"
+    },
+    "_app/immutable/entry/app.-ETmv3vR.js": {
+      "checksum": "17720353a7c0ecfac3fba984413b7d44"
+    },
+    "_app/immutable/entry/start.DnSwMH3G.js": {
+      "checksum": "75a0623cb7a8e683adf73ba4f30dad3d"
+    },
+    "_app/immutable/nodes/0.C5WLJ7wA.js": {
+      "checksum": "956d040d78b6428c16baa1d71a9280a1"
+    },
+    "_app/immutable/nodes/1.BDx0FzY9.js": {
+      "checksum": "7973650d2aa8df3386260a28f805d305"
+    },
+    "_app/immutable/nodes/2.DE6PFRDQ.js": {
+      "checksum": "8bd27ef211d316bfc525d6d2420fa381"
+    },
+    "_app/immutable/nodes/3.BGT_LqC5.js": {
+      "checksum": "5c70ad8678d0cd2d464fa86b2ba2272d"
+    },
+    "_app/immutable/nodes/4.Disb8D5r.js": {
+      "checksum": "f3786dbaf93c9389711b8ab9837f0e41"
+    },
+    "_app/version.json": {
+      "checksum": "376c9eeaaa492db633cd86cde50b8238"
+    },
+    "404.html": {
+      "checksum": "523cdd6d321e294978ca23390b19e046"
+    },
+    "artificial-intelligence.html": {
+      "checksum": "1d507d745bcf01a5ce48f1ca24d53edb"
+    },
+    "artificial-intelligence/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "assets/external/data360-header/header.en.html": {
+      "checksum": "63dbd55ae8d45c03237d468d8ede208e"
+    },
+    "assets/external/data360-header/site.css": {
+      "checksum": "9e8b3cff98b0d142578db8393b3c92c7"
+    },
+    "assets/external/loop-header-footer/img/logo-wb-header-en.svg": {
+      "checksum": "a3b2e1746e237bd894088cf882e61115"
+    },
+    "assets/external/loop-header-footer/img/logo-wbg-footer-ar.svg": {
+      "checksum": "c418d75e25ed87c596619b123f431686"
+    },
+    "assets/external/loop-header-footer/img/logo-wbg-footer-de.svg": {
+      "checksum": "d96e4417bcd5676e081592bcc4700d4e"
+    },
+    "assets/external/loop-header-footer/img/logo-wbg-footer-en.svg": {
+      "checksum": "d96e4417bcd5676e081592bcc4700d4e"
+    },
+    "assets/external/loop-header-footer/img/logo-wbg-footer-es.svg": {
+      "checksum": "d7120db2e250ce5d1c7ea0f11d0a4cbf"
+    },
+    "assets/external/loop-header-footer/img/logo-wbg-footer-fr.svg": {
+      "checksum": "e98a4e1b4adde662840d999435fcce9b"
+    },
+    "assets/external/loop-header-footer/img/SDG-Fund-Logo-dark.svg": {
+      "checksum": "8f939a9fbbed948a294d58dd3e512e3d"
+    },
+    "assets/external/loop-header-footer/img/SDG-Fund-Logo.svg": {
+      "checksum": "be2ec120d9d4844fc72f7564b5556f76"
+    },
+    "assets/external/loop-header-footer/img/WDI-Logo-dark.svg": {
+      "checksum": "bf5aab12259926e3b3141cb44f6fedea"
+    },
+    "assets/external/loop-header-footer/img/WDI-Logo.svg": {
+      "checksum": "17d1f61679597d5d64401854c21ab4c8"
+    },
+    "assets/fonts/304244_0_0.eot": {
+      "checksum": "1e341580670c7ef1a45386bba2b131bb"
+    },
+    "assets/fonts/304244_0_0.ttf": {
+      "checksum": "8b5484b8c2d6fd0e1b448c547522921d"
+    },
+    "assets/fonts/304244_0_0.woff": {
+      "checksum": "d9934efde8e6c1561cddafdce4d39693"
+    },
+    "assets/fonts/304244_0_0.woff2": {
+      "checksum": "5d61db6a594636217be8cf7254dc0f59"
+    },
+    "assets/fonts/304244_1_0.eot": {
+      "checksum": "138385b4e9879bbe4b8096f959493027"
+    },
+    "assets/fonts/304244_1_0.ttf": {
+      "checksum": "41338b2ad7e0ca31c6888a4e9ad8fdaa"
+    },
+    "assets/fonts/304244_1_0.woff": {
+      "checksum": "cfa78f3fbdb54eb3f84de3fa58e4ceab"
+    },
+    "assets/fonts/304244_1_0.woff2": {
+      "checksum": "fea89dd32476887d9abee400beb001c5"
+    },
+    "assets/fonts/font-icon.eot": {
+      "checksum": "75b0b89ab8b77b38c9caf223ad85fd8d"
+    },
+    "assets/fonts/font-icon.svg": {
+      "checksum": "d5091b9b217e74056cb35ac6244304b0"
+    },
+    "assets/fonts/font-icon.ttf": {
+      "checksum": "1124304d2891806a16f50dd062119cba"
+    },
+    "assets/fonts/font-icon.woff": {
+      "checksum": "c4c4c4ff99805ca2f727f0ebf9654b59"
+    },
+    "assets/fonts/loopicon.eot": {
+      "checksum": "044d4fa1ead2c0cbc68dcfff4269967e"
+    },
+    "assets/fonts/loopicon.svg": {
+      "checksum": "44a0ef80f65b6c216c469eaeff43011b"
+    },
+    "assets/fonts/loopicon.ttf": {
+      "checksum": "3d6ff1a82267cc2a107eadd07b87a7ad"
+    },
+    "assets/fonts/loopicon.woff": {
+      "checksum": "3bf74f7e241fe6c5aa23de74926bf957"
+    },
+    "assets/icons/data360_lg.svg": {
+      "checksum": "73e3c68080195c3b37b105f357c868e8"
+    },
+    "assets/icons/data360_sm.svg": {
+      "checksum": "6b9ec91e0cdfcbb6a63a15b68cf66abf"
+    },
+    "assets/icons/fontawesome/magnifying-glass-solid.svg": {
+      "checksum": "c7d948be14888c6eaf812112a4495cbf"
+    },
+    "assets/icons/fontawesome/pencil-solid-cat7.svg": {
+      "checksum": "53207c328347a13e39e6bab2782bb2ef"
+    },
+    "assets/icons/fontawesome/pencil-solid.svg": {
+      "checksum": "9aee93f0cd3eba0c25838ad919c78c54"
+    },
+    "assets/icons/sdg16/icon_1.svg": {
+      "checksum": "fe12cde2423646815ba7daa6e9d6e20a"
+    },
+    "assets/icons/sdg16/icon_10.svg": {
+      "checksum": "120c077fd6fda0dc389968290b4ba2b1"
+    },
+    "assets/icons/sdg16/icon_11.svg": {
+      "checksum": "6f2b7dcdb38fd18763ab42ba9c59b552"
+    },
+    "assets/icons/sdg16/icon_12.svg": {
+      "checksum": "1888340ac5eb7b1be9d084ce1d8b9290"
+    },
+    "assets/icons/sdg16/icon_13.svg": {
+      "checksum": "e7863f2302b5c02284c8736289a4853a"
+    },
+    "assets/icons/sdg16/icon_14.svg": {
+      "checksum": "d6befae5501ecab74822d52a9829ae65"
+    },
+    "assets/icons/sdg16/icon_2.svg": {
+      "checksum": "e4d9959e804da034e645bc5e675f62ff"
+    },
+    "assets/icons/sdg16/icon_20.svg": {
+      "checksum": "8325e8cc12eb3f7a48eef53c1e262d52"
+    },
+    "assets/icons/sdg16/icon_21.svg": {
+      "checksum": "c49cf9466fae32b127d8a6fb4769b69f"
+    },
+    "assets/icons/sdg16/icon_22.svg": {
+      "checksum": "92e3a74874f1786f2c3b3096c78ebd17"
+    },
+    "assets/icons/sdg16/icon_23.svg": {
+      "checksum": "322a45593a4b5ffc00a0b8c191b03d50"
+    },
+    "assets/icons/sdg16/icon_24.svg": {
+      "checksum": "d732fca02dde67deb4ba2742df620c29"
+    },
+    "assets/icons/sdg16/icon_25.svg": {
+      "checksum": "1bf4f3a7228623888407b1a09f1878e2"
+    },
+    "assets/icons/sdg16/icon_26.svg": {
+      "checksum": "d8c7ad1a4c90bf73d79e52de0c4f8507"
+    },
+    "assets/icons/sdg16/icon_3.svg": {
+      "checksum": "da514cf9ca71b04026aa663388050596"
+    },
+    "assets/icons/sdg16/icon_30.svg": {
+      "checksum": "f7e1930c52020e7b405c19710789e4c8"
+    },
+    "assets/icons/sdg16/icon_31.svg": {
+      "checksum": "affea4dc36e7302c7ca6c55a5de64db4"
+    },
+    "assets/icons/sdg16/icon_32.svg": {
+      "checksum": "d6103d396bc252053ea125548d5f754d"
+    },
+    "assets/icons/sdg16/icon_33.svg": {
+      "checksum": "71965a236104741d1fca04ef90bf934b"
+    },
+    "assets/icons/sdg16/icon_34.svg": {
+      "checksum": "093ffa8bf5d3c920e18d8d4c7922c647"
+    },
+    "assets/icons/sdg16/icon_35.svg": {
+      "checksum": "4ea984e1a00228cd78a1c9c39f9287e0"
+    },
+    "assets/icons/sdg16/icon_40.svg": {
+      "checksum": "1098f6256bbaf89b44699415cd72909d"
+    },
+    "assets/icons/sdg16/icon_41.svg": {
+      "checksum": "a0720d18366e8e2623f7c37a10787cf5"
+    },
+    "assets/icons/sdg16/icon_42.svg": {
+      "checksum": "cc056bfd91b2f12868ce2f8e0235016b"
+    },
+    "assets/icons/sdg16/icon_43.svg": {
+      "checksum": "ae0fedca78e8b72a60881d4f42a9b2aa"
+    },
+    "assets/icons/sdg16/icon_44.svg": {
+      "checksum": "9776109c14d01d4a9049f7ef98dae3e2"
+    },
+    "assets/icons/sdg16/icon_50.svg": {
+      "checksum": "da8a6ece659bde673dfa1a5b79e5f816"
+    },
+    "assets/icons/sdg16/icon_51.svg": {
+      "checksum": "856374c6c3c170a72962e2142862d027"
+    },
+    "assets/icons/sdg16/icon_52.svg": {
+      "checksum": "13a579b67d6feecca372358cc2c54d4d"
+    },
+    "assets/icons/sdg16/icon_53.svg": {
+      "checksum": "a37c87a9f40f6f2a65a52820285ee355"
+    },
+    "assets/icons/sdg16/icon_54.svg": {
+      "checksum": "d4cf0d882ebb0a76fa4b1579d342dc25"
+    },
+    "assets/icons/sdg16/icon_60.svg": {
+      "checksum": "f5e4828fef631c7fccf1cdbc616c119f"
+    },
+    "assets/icons/sdg16/icon_61.svg": {
+      "checksum": "cd76b0f3fc94f47f4f58643b2bea59d0"
+    },
+    "assets/icons/sdg16/icon_62.svg": {
+      "checksum": "0687f9de67216557610414e344639265"
+    },
+    "assets/icons/sdg16/icon_63.svg": {
+      "checksum": "5ddbeb7e11a249147d4f2e5eaa7e0427"
+    },
+    "assets/icons/sdg16/icon_70.svg": {
+      "checksum": "e8cd1197362a3808ad207c24a352b804"
+    },
+    "assets/icons/sdg16/icon_71.svg": {
+      "checksum": "567a2a2f7a32a91211c47c40f9381e6b"
+    },
+    "assets/icons/sdg16/icon_72.svg": {
+      "checksum": "e1569aad500f9cc271012d715c98cf74"
+    },
+    "assets/icons/sdg16/icon_73.svg": {
+      "checksum": "f8ba052d1f97ab25e57043667fba2210"
+    },
+    "assets/icons/sdg16/icon_74.svg": {
+      "checksum": "7ae7de52783a115fe14366ce59b01f32"
+    },
+    "assets/icons/sdg16/icon_75.svg": {
+      "checksum": "12dcfcd1b10a5ef90dfb97276f72fbfe"
+    },
+    "assets/icons/sdg16/icon_80.svg": {
+      "checksum": "5587745a99fc81c99828aa286fc6008d"
+    },
+    "assets/icons/sdg16/icon_81.svg": {
+      "checksum": "84f17252d99d8b333cc6ce977268148a"
+    },
+    "assets/icons/sdg16/icon_82.svg": {
+      "checksum": "b7d430b0c6752548b2b0eeaf9b585229"
+    },
+    "assets/icons/sdg16/icon_83.svg": {
+      "checksum": "e804d0bc8840f12b7fcda7f364f9de01"
+    },
+    "assets/icons/sdg16/icon_90.svg": {
+      "checksum": "c8b9f2881324f429d411ff911819565d"
+    },
+    "assets/icons/sdg16/icon_91.svg": {
+      "checksum": "f7daffa63dd4e5aa7450afa82c4af33a"
+    },
+    "assets/icons/sdg16/icon_92.svg": {
+      "checksum": "0b90439d00979d6d30aa1999e11e845b"
+    },
+    "assets/icons/sdg16/icon_93.svg": {
+      "checksum": "230cddc74d626fc347c83709c1645aa9"
+    },
+    "assets/icons/sdg16/icon_94.svg": {
+      "checksum": "a36291c3a2846e25cfe310e8995bd9c8"
+    },
+    "assets/icons/sdg16/icon_95.svg": {
+      "checksum": "69175f5f1e05795f586b72f50d93b432"
+    },
+    "assets/icons/sdg16/icon_96.svg": {
+      "checksum": "76b959642bbc930f80f056c0791970ac"
+    },
+    "assets/icons/topic-icons/agriculture-and-food.png": {
+      "checksum": "678005bd0fab143e2aee7d0cff644960"
+    },
+    "assets/icons/topic-icons/agriculture-and-food.svg": {
+      "checksum": "eae6b7d0ed5647203238c23362a9beb1"
+    },
+    "assets/icons/topic-icons/climate-change.png": {
+      "checksum": "fc68942d131e921d887e705301ee6c0a"
+    },
+    "assets/icons/topic-icons/climate-change.svg": {
+      "checksum": "f59ea9e6e0f8104eeb619940dcca036c"
+    },
+    "assets/icons/topic-icons/connectivity.png": {
+      "checksum": "c5bdd0a0c6ce757f49c7103883bcadb6"
+    },
+    "assets/icons/topic-icons/connectivity.svg": {
+      "checksum": "c5273799b582175c62f49e3bac4835d5"
+    },
+    "assets/icons/topic-icons/data-infrastructure.png": {
+      "checksum": "6fc0bb7bbc4ac7f790314c2cff5ce2bd"
+    },
+    "assets/icons/topic-icons/data-infrastructure.svg": {
+      "checksum": "d727894b0cd1bd77e8f1c708528faa3c"
+    },
+    "assets/icons/topic-icons/digital-services.png": {
+      "checksum": "b9422d3e5b21272546e138dfd6e39075"
+    },
+    "assets/icons/topic-icons/digital-services.svg": {
+      "checksum": "6739417a44aee89e6829673b65e5b69d"
+    },
+    "assets/icons/topic-icons/education.png": {
+      "checksum": "3e5bf56320a6e87ce895997d244b3ad9"
+    },
+    "assets/icons/topic-icons/education.svg": {
+      "checksum": "5a926013ead1eb6a6e816c96e81b114a"
+    },
+    "assets/icons/topic-icons/energy--extractives.png": {
+      "checksum": "1857ca0519d74388ee4525cbd5c8d87f"
+    },
+    "assets/icons/topic-icons/energy--extractives.svg": {
+      "checksum": "20702b7c954ac61c7573c55eecfe5472"
+    },
+    "assets/icons/topic-icons/environment.png": {
+      "checksum": "4a70d4d82c4ee9723cce635eb3bce4d5"
+    },
+    "assets/icons/topic-icons/environment.svg": {
+      "checksum": "b0ee046273b0db16a76a18684959c45d"
+    },
+    "assets/icons/topic-icons/gender.png": {
+      "checksum": "5959a8420412430d69f48bbc42d0a06e"
+    },
+    "assets/icons/topic-icons/gender.svg": {
+      "checksum": "b4c2f0c12ecd4f6a47c76eca5fec6916"
+    },
+    "assets/icons/topic-icons/growth-and-jobs.png": {
+      "checksum": "3276cb6854c281934c4d5089746840a6"
+    },
+    "assets/icons/topic-icons/growth-and-jobs.svg": {
+      "checksum": "dedfdb97402ff854afdd7ae56ac19c70"
+    },
+    "assets/icons/topic-icons/health-nutrition--population.png": {
+      "checksum": "526e9856b3a276cf6a0fc6ce34d1bad5"
+    },
+    "assets/icons/topic-icons/health-nutrition--population.svg": {
+      "checksum": "57f31ea8ef457fec72bb205cecb4231f"
+    },
+    "assets/icons/topic-icons/poverty.png": {
+      "checksum": "b50ab65ae6b3d2f37d35422abc5d01a2"
+    },
+    "assets/icons/topic-icons/poverty.svg": {
+      "checksum": "76f03c75620eaa5549f804851ff7a629"
+    },
+    "assets/icons/topic-icons/urban-resilience-and-land.png": {
+      "checksum": "1acc7f1105df68fedf0b885ac834fbd0"
+    },
+    "assets/icons/topic-icons/urban-resilience-and-land.svg": {
+      "checksum": "577404a2535768036d440ad4ebc4cca6"
+    },
+    "assets/icons/topic-icons/water.png": {
+      "checksum": "2e26f9111c161feb6f05532add3df784"
+    },
+    "assets/icons/topic-icons/water.svg": {
+      "checksum": "88d5de7bc4060324451b81f13b47821e"
+    },
+    "assets/images/chart-placeholder.png": {
+      "checksum": "37f1f18b4d0e110b456dd18d28fbbcb1"
+    },
+    "assets/images/explorer-teaser.png": {
+      "checksum": "ade208b143e88bb20d4294fae2537ef5"
+    },
+    "assets/images/globe_BW.png": {
+      "checksum": "51773d76cf0488a87f3753894f6eb673"
+    },
+    "assets/images/id4d/eid-issued.png": {
+      "checksum": "79e4e8c0bdd2af40578643c06fde03d7"
+    },
+    "assets/images/id4d/eid-ownership-use.png": {
+      "checksum": "462e65a0ee3eeb1a6d1ef2e3cf8a5ffe"
+    },
+    "assets/images/id4d/id-populations-marimekko.png": {
+      "checksum": "6b496b78163be66423334cbb878ed5d7"
+    },
+    "assets/images/id4d/id4d-adults-with-id-regions.png": {
+      "checksum": "9a684f01b2981b5e98a4c090e1e0bffa"
+    },
+    "assets/images/id4d/id4d-barriers-experienced.png": {
+      "checksum": "afdc8b890c1fd1210947aa38fa4a1696"
+    },
+    "assets/images/id4d/id4d-barriers.png": {
+      "checksum": "313aca05cb711bb82d74c577fe4e74bb"
+    },
+    "assets/images/id4d/id4d-digital-id-ownership.png": {
+      "checksum": "16ee31c44058e5e33bef4ac9f1870aec"
+    },
+    "assets/images/id4d/id4d-digital-id-usage.png": {
+      "checksum": "bf8bf9690a691e13b5bb983f8b452a4a"
+    },
+    "assets/images/id4d/id4d-foundational-id-coverage.png": {
+      "checksum": "b664ddeecc43797e5b3a55c7ad085996"
+    },
+    "assets/images/id4d/id4d-gender-gap.png": {
+      "checksum": "74436febaaefbb9303c0a17b39884b24"
+    },
+    "assets/images/id4d/id4d-indicators-lack-of-id.png": {
+      "checksum": "71d0f4ea6825502c9e4c780987d221c6"
+    },
+    "assets/images/id4d/id4d-types-of-credentials.png": {
+      "checksum": "e21930d6837a560c678a3ca4b463489f"
+    },
+    "assets/images/promotion/atlas-story-teaser.png": {
+      "checksum": "3c5888f2b68abb6094c1e42fbdd6ef1f"
+    },
+    "assets/images/regions.png": {
+      "checksum": "24f7395919310a0e0a226b1ffc4e4601"
+    },
+    "assets/images/sdg02/1-sindh.png": {
+      "checksum": "1b7a7088914b7353a565a0363c4089d1"
+    },
+    "assets/images/sdg02/2-sindh-cultivated.png": {
+      "checksum": "8edfda53b3b826cc56391f3910d32a73"
+    },
+    "assets/images/sdg02/3-sindh-ndvi-before.png": {
+      "checksum": "6a4c515683a8c9f733bbcc802a47cdc2"
+    },
+    "assets/images/sdg02/4-sindh-ndvi-after.png": {
+      "checksum": "1d36e9c46597f004f99f7fd6f0d197af"
+    },
+    "assets/images/sdg02/5-sindh-ndvi-difference.png": {
+      "checksum": "88e7899bdecfd9a6e80889e982673720"
+    },
+    "assets/images/sdg09/illo-fixed-mobile-broadband-title.jpg": {
+      "checksum": "0aa8e7c7c788f7b9b8dc6d45b785d04b"
+    },
+    "assets/images/sdg09/illo-network-evolution-title.jpg": {
+      "checksum": "dfd50ad60db24ae5fec24e91f67ac291"
+    },
+    "assets/images/sdg11/adelaide-australia-2015.jpg": {
+      "checksum": "4613a08d7f68ab1d27145bdf2e784548"
+    },
+    "assets/images/sdg11/adelaide-australia-2025.jpg": {
+      "checksum": "d13171a77876d84dffbefe60b928dd69"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E1975.png": {
+      "checksum": "1349c24b4c018ed192bb0acb73cadc36"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E1980.png": {
+      "checksum": "8752bea15e22a97106e1044f33226c90"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E1985.png": {
+      "checksum": "a5dda21265d87b0379791eca3aac7d7f"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E1990.png": {
+      "checksum": "78a35e402af2bb0c2e3508b4edca2646"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E1995.png": {
+      "checksum": "5a6b95dd938abbe0809723d5f3db1449"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E2000.png": {
+      "checksum": "91c2fabd6c333bb03ec6dab8c1046e30"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E2005.png": {
+      "checksum": "fc55d7370bcfcce70d2ad31cbee88e7b"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E2010.png": {
+      "checksum": "2a85aa8219565496dadf19ddf31169a7"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E2015.png": {
+      "checksum": "e27cf7e26eb192de60de49d050c342cb"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E2020.png": {
+      "checksum": "a1dc01b51bc3129d7a610f2f1e782a5e"
+    },
+    "assets/images/sdg11/GHS_BUILT_S_E2025.png": {
+      "checksum": "a8979e5cc85d94cc883717057bc5946b"
+    },
+    "assets/images/sdg11/queretaro-mexico-2015.jpg": {
+      "checksum": "c0a485c18a3d371c2e19f4ea50502529"
+    },
+    "assets/images/sdg11/queretaro-mexico-2025.jpg": {
+      "checksum": "b2a22237bd86ac6de89e53d0d571b8de"
+    },
+    "assets/images/sdg14/textures/bloom_count.jpg": {
+      "checksum": "e2aa21295ab9a93ebe5ac79b4501fc71"
+    },
+    "assets/images/sdg14/textures/chlorophyll-a-trend.jpeg": {
+      "checksum": "de0a50b022ca3fdfdfea638b4beb4bf6"
+    },
+    "assets/images/sdg14/textures/ocean_bottom.jpg": {
+      "checksum": "6f92c2c1b8915c00614622550593fb96"
+    },
+    "assets/images/sdg14/textures/ocean_floor_rivers.jpg": {
+      "checksum": "de60f681604dfd735c224672ec6b7d6b"
+    },
+    "assets/images/sdg14/textures/ocean_floor_rivers_currents.jpg": {
+      "checksum": "9f03e24ef34b641455b083ace3fec644"
+    },
+    "assets/images/sdg14/textures/plastic-concentration-currents.jpeg": {
+      "checksum": "213cec495770169d41db2ee2089f276e"
+    },
+    "assets/images/sdg14/textures/plastic_concentration.jpeg": {
+      "checksum": "29375e8637e8a92b91837a810c7b519c"
+    },
+    "assets/images/sdg14/textures/total_n_0-75.jpg": {
+      "checksum": "131500392063932a692eebbb819d6e0f"
+    },
+    "assets/images/sdg14/textures/total_p_0-75.jpg": {
+      "checksum": "d0c88b3bb456460efde424e810e15c71"
+    },
+    "assets/images/sdg15/aridification-ecosystems.png": {
+      "checksum": "a5a9bc54635a9d6982e8884067f47974"
+    },
+    "assets/images/sdg15/aridity-biodiversity-126.png": {
+      "checksum": "93c8c57f6013fd99c8133cf3582b01fa"
+    },
+    "assets/images/sdg15/aridity-biodiversity-245.png": {
+      "checksum": "37d1f3edcd31af449fe1baaf216bb7ed"
+    },
+    "assets/images/sdg15/aridity-biodiversity-585.png": {
+      "checksum": "3da83210367ab9107178455ce015d09a"
+    },
+    "assets/images/sdg15/aridity_classes_all.png": {
+      "checksum": "c429fed14c97587d85ec45af2dabc7ef"
+    },
+    "assets/images/sdg15/aridity_difference.png": {
+      "checksum": "63e1ba5f9dad4e6759ea51ab7bb28fd7"
+    },
+    "assets/images/sdg15/new_drylands.png": {
+      "checksum": "2438321521d60d707e80a57c8f9a73cc"
+    },
+    "assets/images/sdg15/protected_areas_aridity.png": {
+      "checksum": "9ad3567f373f7d98f60fe825c65313c0"
+    },
+    "assets/images/tail-spin.svg": {
+      "checksum": "61baba59abc34560616f8e543146f2ca"
+    },
+    "assets/images/worldmap.jpg": {
+      "checksum": "f21819f3e2893bf7a5d94fb62389ddc5"
+    },
+    "assets/share/og-atlas.jpg": {
+      "checksum": "d9ce3bd4b6080ecbc5ec8ffa7532f501"
+    },
+    "climate.html": {
+      "checksum": "4b0cd550fec76b05501ea596045d2c60"
+    },
+    "climate/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "data-for-development.html": {
+      "checksum": "fcccef40537c700fa6868e04a215600e"
+    },
+    "data-for-development/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "data/all_visualizations.json": {
+      "checksum": "ee73e0321d96b2f5390068091720f6f5"
+    },
+    "data/chapter_configs.json": {
+      "checksum": "86764461638be5c4e4194bab38bbb85a"
+    },
+    "data/goal_01/01_data_causes.csv": {
+      "checksum": "eb9e067c508260f3c37f87b81bab7590"
+    },
+    "data/goal_01/01_data_country_poverty.zip": {
+      "checksum": "5f056697b2b5bf681b7499acacc3653a"
+    },
+    "data/goal_01/01_data_global_poverty.csv": {
+      "checksum": "e6442fc206f06fd995a264d6137eda2a"
+    },
+    "data/goal_01/01_data_global_projections.zip": {
+      "checksum": "d516850cb3380cfd0b2fff441bcf803e"
+    },
+    "data/goal_01/01_data_national_poverty_comparison.csv": {
+      "checksum": "3f77465e20cf5835d88b1e694c7b1538"
+    },
+    "data/goal_01/01_data_regional_poverty.csv": {
+      "checksum": "557eac91a75558d67ba86d588db0fe93"
+    },
+    "data/goal_01/1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg.json": {
+      "checksum": "fa32d8290dfcc709b3e141190d13a8b2"
+    },
+    "data/goal_01/1jC5pRzXTmymEYl5aOP3oMwNEy_pBQSE6cW6KvLaGsaU.json": {
+      "checksum": "43439dc6800e5a8ee081fe572de7968e"
+    },
+    "data/goal_01/1S9d3aNKSvPk0XMmqK9-SrWnlVUcmvhfXvVRYeM3LU54.json": {
+      "checksum": "1239de7b777747800c48e97f84dee7df"
+    },
+    "data/goal_01/1Vwbp7eBIOi_195OteLJ6w5_FTpO2nKAuH4K_MSx37E8.json": {
+      "checksum": "90e041d784c574450b23cc541d63d182"
+    },
+    "data/goal_01/1W-0JLU1wkyV-G2Z0xmSxJVKLFV1dE1mnfiH1Ns4xQ54.json": {
+      "checksum": "af67658357b8d2ff478d133463e5dd26"
+    },
+    "data/goal_01/1Wj93Lyhbf1AS0t7A6AlU6WUgItdDEsQA7YlF4VtB3Vg.json": {
+      "checksum": "ee30e4b74941512fc925543a11c9f25b"
+    },
+    "data/goal_02/02_data_myanmar_markets_conflict.zip": {
+      "checksum": "499cb76997ac6f9eaf2a82c45c4dede0"
+    },
+    "data/goal_02/02_data_prevalence_undernourishment_countries.csv": {
+      "checksum": "1a928a0bbda68736ccc59ed1e06d6453"
+    },
+    "data/goal_02/02_data_prevalence_undernourishment_regions.csv": {
+      "checksum": "17fdcb00fbd1a26cc87359cbe901bb88"
+    },
+    "data/goal_02/02_data_undernourishment_conflict.csv": {
+      "checksum": "36746e6c9ec547823419a412f94e25f5"
+    },
+    "data/goal_02/02_hunger_hotspots.csv": {
+      "checksum": "11389932510605363294631e67743d2e"
+    },
+    "data/goal_02/11_2hIONYC-s4nRasbR5THTjWmX8tEDGApR2E2QAe4gM.json": {
+      "checksum": "f9503847bd52984925af77f9ed9e35c7"
+    },
+    "data/goal_02/12cUB9RF2QpVRyfvajuGvqDUx_mMsDz0_mu3SHEgRLi8.json": {
+      "checksum": "4f193b077c7894285826009ced29d166"
+    },
+    "data/goal_02/1EJwFXk2VfNuwjtcf_yiUzJDCqWzMQLX34MN3J4b86dE.json": {
+      "checksum": "8efa41ea7414ee2a5cb64939e28a5280"
+    },
+    "data/goal_02/1TBxw1KeuooU3EiPEiB7PAqCTITAV_Obq5CXA8yV6CU0.json": {
+      "checksum": "b3630e940de03ffcb200ceca4db9fed1"
+    },
+    "data/goal_02/1VbUWrxrJxMBUYx3uaxbb93rnCWT486kgh93A9108--k.json": {
+      "checksum": "9239f42a74afef08ba5c1b0ea4618b77"
+    },
+    "data/goal_02/goal_02.json": {
+      "checksum": "173667c61c9944a073ce09611cc923a2"
+    },
+    "data/goal_02/goal_02_en_i18n.json": {
+      "checksum": "f1c5b9bd8a93106712436342e917275d"
+    },
+    "data/goal_03/03_data_financial_hardship_chart.csv": {
+      "checksum": "b54c3b9245891a0f25394fb0959d1bd2"
+    },
+    "data/goal_03/03_data_medical_cost_chart.csv": {
+      "checksum": "c6abe4cdffd901365549a6395991f87c"
+    },
+    "data/goal_03/03_data_mortality_plot.csv": {
+      "checksum": "c9348822b849e77ef894e4ad543dc7ea"
+    },
+    "data/goal_03/03_data_mortality_region_scroller.zip": {
+      "checksum": "c5ad5cb3c1ba10ebccc3a9d7250eb0f5"
+    },
+    "data/goal_03/03_data_rmnch_progress_scroller.zip": {
+      "checksum": "f1d44e74b85921392d2290057558292e"
+    },
+    "data/goal_03/03_data_speed_scores_scroller.zip": {
+      "checksum": "95cf9e0b410c4b1a05a5cdaf38c500e0"
+    },
+    "data/goal_03/03_data_uhc_chart.csv": {
+      "checksum": "d9052f2df42b0809db34c2df3f6b12c4"
+    },
+    "data/goal_03/03_data_uhc_countries.csv": {
+      "checksum": "7a5ea30f1ad0b76f6a58f7a8cf1aff07"
+    },
+    "data/goal_03/03_data_uhc_outcomes_scroller.zip": {
+      "checksum": "9797522cce917eb1fc4cfcabbd05e813"
+    },
+    "data/goal_03/03_data_uhc_small_multiple.csv": {
+      "checksum": "33ad80ce2fdb73e18b71e3248401faea"
+    },
+    "data/goal_03/1-a89ebZR0jYf5UHSdJ5_ycZwrpN8ksNBWjo5v7RMxl4.json": {
+      "checksum": "1ba7123f43fe865f6a9bc12e97a7740c"
+    },
+    "data/goal_03/1-TZbOllJkAX7Z_iNvx9IJVJfvuEbDv-LVUDZp4aPnfY.json": {
+      "checksum": "2d40cd57ceacbf25ec717a017cb8f4f3"
+    },
+    "data/goal_03/1daP_FhCix0RmD8GFxsnOD1nEZVD3pHCHhT92gbHkKtQ.json": {
+      "checksum": "3861db90dbab38c909570a70839be461"
+    },
+    "data/goal_03/1jNNLrejvMRWJooxlTh-GB6qQ8AiI8GnJDXfoGRyWVCw.json": {
+      "checksum": "74c8a0fce10f124c3178822d63de4a6c"
+    },
+    "data/goal_03/1p7e61R9f_HoAQN8G4jC8vPgjyRQ62dgWZXzIhmO6Rjw.json": {
+      "checksum": "0acf4760638b292507016fc6b2f90efb"
+    },
+    "data/goal_03/1t5DmOFCUgveLaSk4ustdj-HDhyjb_EfiNaCl0jj9Fuk.json": {
+      "checksum": "c6e72c14652b1171b93495bfc4fca7e0"
+    },
+    "data/goal_03/1TF7nwhhbF5Bo3Yk6WmZYav611Gv-Bmjq7lAuF25zSy4.json": {
+      "checksum": "31a781bf35f6a3a3d70da82f292529a7"
+    },
+    "data/goal_03/1XSEldfi-NKJjAE4nXpr_BlSNsCZ3Bo_GJY4qSS0H4AA.json": {
+      "checksum": "63eec86e7b363c1cc3dad8fac90cbca8"
+    },
+    "data/goal_03/1YwwHj2p4H3XtiZSI5K0v56DOfuEvD8pWQLLdbKQojvk.json": {
+      "checksum": "7c8d3d00b8eb3144b7fe98ca784be124"
+    },
+    "data/goal_03/1Z48ap9utYIR6P45cgxV0l1bhyF25vZboMptPSBz8uYg.json": {
+      "checksum": "5f4b3fb937bf3b5786a1a071bb2db72d"
+    },
+    "data/goal_03/goal_03.json": {
+      "checksum": "57d86a22f13b233c91084d33e2773020"
+    },
+    "data/goal_03/goal_03_en_i18n.json": {
+      "checksum": "59b025101e1dd8af722770e1573279f0"
+    },
+    "data/goal_04/04_data_education_quality_details.csv": {
+      "checksum": "ff4bb4c097f456ef197cdea1f1df6d2a"
+    },
+    "data/goal_04/04_data_lays_scatter.csv": {
+      "checksum": "8355c08a6a5e5b742fc260cc800e5496"
+    },
+    "data/goal_04/04_data_mincer_coefficients.csv": {
+      "checksum": "a40281c69967c30cce208856188e364d"
+    },
+    "data/goal_04/04_data_schooling_regions.csv": {
+      "checksum": "f7d5495b2ffa8479d9d6d2af7d5b40c6"
+    },
+    "data/goal_04/04_data_trends_schooling.csv": {
+      "checksum": "80b5b30930bc6d09a565c8903ce463d0"
+    },
+    "data/goal_04/04_data_wage_scroller.csv": {
+      "checksum": "5b6b8e7314d4e5a0b32d602883aa0391"
+    },
+    "data/goal_04/04_data_wages.csv": {
+      "checksum": "f3bc69e99ed2cd13b9a36f9c7c08aaf0"
+    },
+    "data/goal_04/14O2xDakRI4TsbijqiCwaDAQuW0cFTOhRVCJ5KvIriCA.json": {
+      "checksum": "982f0577b42d54aefad5f1d3a23bba0d"
+    },
+    "data/goal_04/1esEqT9Zx2CTlF788bpNp6lyMYEuRoSP4lELpb9LJyGU.json": {
+      "checksum": "789e592fb1ad473a1abbdd0680687436"
+    },
+    "data/goal_04/1gF2DQBShE1IBI2nNgAKTlmc1hv3OfMnOY-gMQhYaU8U.json": {
+      "checksum": "3f70ccfaffc60097c497709f36e47880"
+    },
+    "data/goal_04/1hCHnJalQJWn65UYrfzVWKaADB_CIebDUxqfbzarSS_s.json": {
+      "checksum": "d11e39cbc7f45bae560ef60943f0c876"
+    },
+    "data/goal_04/1K4YTrY9-VyFnwz9ArraOKtCM8jmYiTczREV4Lcu7dCc.json": {
+      "checksum": "b2334c5950ee3cc38e2686e04febf983"
+    },
+    "data/goal_04/1nd7cgUAXC4mlmOTZ99bFhTYz7JEr7h4KEsQPidAxmCI.json": {
+      "checksum": "9e5e164a598f12dfc2708b871bf466d6"
+    },
+    "data/goal_04/1Qqe_u2Np3tXVcoXSyyD7RVRXk4BQMQyEydtTZWIRiOk.json": {
+      "checksum": "1f34adbbceae435d616b84485cf4ae76"
+    },
+    "data/goal_05/05_data_flfp_drivers_education.csv": {
+      "checksum": "d6ce00c8a85c72d493cc9249d6b9215a"
+    },
+    "data/goal_05/05_data_flfp_drivers_fertility.csv": {
+      "checksum": "824193b70e932cb0fa90db7763d9e36e"
+    },
+    "data/goal_05/05_data_flfp_drivers_sectors.csv": {
+      "checksum": "2cbf9a7cdafb734174585e89ec6d13c7"
+    },
+    "data/goal_05/05_data_lfp_gender.csv": {
+      "checksum": "34e1c30ba3f5522ff3b92f4de2b3240d"
+    },
+    "data/goal_05/05_data_types_employment_gender.csv": {
+      "checksum": "853585862c6df254351341276fe84b56"
+    },
+    "data/goal_05/05_data_typical_path_speeds.zip": {
+      "checksum": "c361deaecf13fc1d3b3baf5b521e1bff"
+    },
+    "data/goal_05/05_data_vulnerable_employment.csv": {
+      "checksum": "af42fe43ec7a1a787a6f72116dfe7944"
+    },
+    "data/goal_05/11xTcc7eM3HUKOmEgw6-iIRzmMO8OPWGjes9_0tEJd6M.json": {
+      "checksum": "7735ea56e712cce540da2535bff5862b"
+    },
+    "data/goal_05/18cDq2Bwm7zmviWFr4YgTuYFIejiRycLv8F65l7M_ez4.json": {
+      "checksum": "ae54d8a2bf8b4d4f10e745b2e87408df"
+    },
+    "data/goal_05/1FEkl6WKMlGhZNhWAXT705dWVr_Sdg4bdWmYOtht53h8.json": {
+      "checksum": "758b99d525fc2d840f8f099b44129e6a"
+    },
+    "data/goal_05/1H7qxEAaJxGNl2cskA0YJ9pinGLRTmmMGJQseBtLzI14.json": {
+      "checksum": "22366b03779a208601783cedcb67644c"
+    },
+    "data/goal_05/1irC1kkR0IeMj7kI_rXiCOk3G7Qa3txP6YSeUjlf7JeI.json": {
+      "checksum": "db23eddde79e5f0f01410baf6e824622"
+    },
+    "data/goal_05/1M43AbaYyQL6_Bdkemsog4a7gdHZqw9faSEUdKb6qag0.json": {
+      "checksum": "cf39e66f599495d52b1ac474b715f106"
+    },
+    "data/goal_05/1o5yF32I0XmxlazXO2NtB3QEvmoQH1RnobwgZLAnAXUg.json": {
+      "checksum": "127f5526b1b97b75db2a9f1a0f538ea0"
+    },
+    "data/goal_05/1UGJFyH-_LgLeqOe2XSaZWHwmj2AaVzOKodi0r0fIHWE.json": {
+      "checksum": "5c90a6e7455093d1a2644329083dabca"
+    },
+    "data/goal_05/1vPvS5ZuzaDZvBjnk9mMs_CnB2auLQsE_Ey39rvZ6LYI.json": {
+      "checksum": "fdf7abe8816f491a457a18a914576714"
+    },
+    "data/goal_05/1wv1ALjkR9I4wBHn7AiIimyJ7fbxLsM0LFKs1YGCxY2M.json": {
+      "checksum": "375162e3eb328611ceaaadd5ea0a6086"
+    },
+    "data/goal_05/ilo_ai_exposure_summary.csv": {
+      "checksum": "8b5b09137358fcb4f78c5e2329687c47"
+    },
+    "data/goal_05/unpaid-work.zip": {
+      "checksum": "0e025998c6cd03ff230d012e6b490332"
+    },
+    "data/goal_05/wage_month.csv": {
+      "checksum": "507d362843d807bb1ae6e7b05c24184b"
+    },
+    "data/goal_06/06_data_drinking_water_progress.zip": {
+      "checksum": "8bc5d37dc3e5c297fd65898295e0cbef"
+    },
+    "data/goal_06/12pkK1snw_3BeO_THJvZnJq50WYdKN2Xth4puWrHWuPw.json": {
+      "checksum": "43b00f669f98abd178c8a677a0faf1b4"
+    },
+    "data/goal_06/13g6UiprsJF83hmkagPcHQdzRRqzym7cWY99bg91vU8Q.json": {
+      "checksum": "28e5a07fd53a5ba9d0b8b3ddddd0711e"
+    },
+    "data/goal_06/1ABOxAmGnoBjgKOe5cnvMCc0xc4K_HWIPPLVvXUwdXsI.json": {
+      "checksum": "691bcd07fc9a74141fd57ee2693ee0ab"
+    },
+    "data/goal_06/1bPrWHiqnAIikyhhHREgwnsEqB9uYTbx0FHw5Xew0sV4.json": {
+      "checksum": "3e1a2809043be4007bcbebcb98b2c23d"
+    },
+    "data/goal_06/1gbR8q_t54y-HLl8OHW0pqmbbKHrQlWvm0u6V9j6_zS8.json": {
+      "checksum": "88ae0557a631d7691f264ff135cf45b9"
+    },
+    "data/goal_06/1JqbaHQXEjhErDipoCf8b3-YZXKFCfIvrzCfyR69d1gE.json": {
+      "checksum": "959287668fd65bd53194def8c6ed5edb"
+    },
+    "data/goal_06/1Nu8h2IW9nBy55RO2s0ld8dL-jyM7FOQLN8NZ1mPDNIk.json": {
+      "checksum": "6ff607337cb8b98461a46fc1d18a1204"
+    },
+    "data/goal_06/1tX2nJM2-L9VPg9-Pjt-10GwVI_VX0DhvmsK4TjgG9HQ.json": {
+      "checksum": "8890ee09ab8fa8fe519711b4bc55bb51"
+    },
+    "data/goal_06/1VT3PtyjplyFtkVFZqeKIO4lbsaLMPb2CIeWi_HcbZkc.json": {
+      "checksum": "907347f5b7abae35516dcea911df5280"
+    },
+    "data/goal_06/1xkV7EjXu81i_l6ng7tjSdVHXpkRBet5uTGlemMqtG6E.json": {
+      "checksum": "bc760d0d57f09551b816dc4197a1e185"
+    },
+    "data/goal_06/ArsenicBySource.csv": {
+      "checksum": "9629af2ed570583bf58529bd56a8f796"
+    },
+    "data/goal_06/Bangladesh_arsenic_by_group.csv": {
+      "checksum": "9265eb73785584427dad9180657a0e81"
+    },
+    "data/goal_06/Country_SafelyManaged_2024.csv": {
+      "checksum": "3bacd6f605ca7b6c11967d47dbc6e5f9"
+    },
+    "data/goal_06/E-coli Table.csv": {
+      "checksum": "94e9f355c79835b4ed2060969bf7eb4a"
+    },
+    "data/goal_06/E-coli urban rural.csv": {
+      "checksum": "2a588b4afaa3d0810316fa831989acb0"
+    },
+    "data/goal_06/Ecoli_PoC_PoU_Scatter (High+Very High).csv": {
+      "checksum": "0328ccff5ceeb58553d5c7cd362e3c92"
+    },
+    "data/goal_06/Indicator.csv": {
+      "checksum": "7044ab1d7e0d1cccbd69e2c4aeb3ed91"
+    },
+    "data/goal_06/Limiting Factors.csv": {
+      "checksum": "cc7c3b089753a616651f2afb666cf095"
+    },
+    "data/goal_06/Safely managed.zip": {
+      "checksum": "db465eae8fc19e1365fc500f7efca732"
+    },
+    "data/goal_07/07_data_access_electricity.csv": {
+      "checksum": "ebb76b3a876fb742499ad8d391925b66"
+    },
+    "data/goal_07/07_data_access_electricity_countries.csv": {
+      "checksum": "313f0d05ae7cd2c65cffe9b7a314b846"
+    },
+    "data/goal_07/07_data_access_electricity_nigeria_zones.csv": {
+      "checksum": "7650b5709b2eee854760373712ce6786"
+    },
+    "data/goal_07/07_data_access_electricity_population.zip": {
+      "checksum": "03815f69f935a1e37536196178dbad04"
+    },
+    "data/goal_07/07_data_access_electricity_rural_urban_countries.csv": {
+      "checksum": "3f4e0b8b93561ec334dd1d163e04e47d"
+    },
+    "data/goal_07/07_data_access_electricity_urban_rural.csv": {
+      "checksum": "885bfad2844e1d626cc4c1437c264b14"
+    },
+    "data/goal_07/1bIe4dXEwjeZmnmzX5xP_s2qfg_4WLuU9Ac489xKmYGg.json": {
+      "checksum": "f298736bf74dd0d1c587ec859007cd0c"
+    },
+    "data/goal_07/1bJryfa5e-tYKOv0f8EBGl4MMBjX-A8prQ_4GxmFb434.json": {
+      "checksum": "3d2b4cecae3e6263585edd29d0acfb8f"
+    },
+    "data/goal_07/1FCHgcDNE4aKOtQFAiwgcPd9PD7BNbUXyx7CDFvfS4_g.json": {
+      "checksum": "1b20bb3e56c4b3762c324e4be8641fa3"
+    },
+    "data/goal_07/1KfsfMwHprikcb5BU31bNgMErEGV3wj9SbvwRE0Da0Ko.json": {
+      "checksum": "6921c25b5dd7acc4997397140574c9f6"
+    },
+    "data/goal_07/1kx_csJJz33c7bUInxIYVersbmyL68MqVj-KkYKbwqxY.json": {
+      "checksum": "797c5cb035d79944cec64e7450f65f21"
+    },
+    "data/goal_07/1TdQXOlfhM3ZlndUnqXBYZByP5aIG8oBDze1t0OKclkY.json": {
+      "checksum": "184e664a12b2a7434b246f05b8460cd6"
+    },
+    "data/goal_08/08_data_gdp_growth.zip": {
+      "checksum": "d942780dd8a166f79d9c177cbd58901c"
+    },
+    "data/goal_08/08_data_gdp_progress.csv": {
+      "checksum": "690d235e720440b17179227a8149df8f"
+    },
+    "data/goal_08/08_data_income_levels.csv": {
+      "checksum": "171dd815c34b9f315b083c572dbded69"
+    },
+    "data/goal_08/08_data_lic_growth_rates.csv": {
+      "checksum": "df7b65d295afeb8a5bcc057aced39a83"
+    },
+    "data/goal_08/08_data_neet_gdp.csv": {
+      "checksum": "769e7082697d322d1d5a077534175cc0"
+    },
+    "data/goal_08/08_data_unemployment_global.csv": {
+      "checksum": "8202b8eba6743399c51bd186ce6c25cb"
+    },
+    "data/goal_08/1Ae7caE6nwzn2poda6CbglNTv1fp53N6x-80_SxWGoeM.json": {
+      "checksum": "fa4952c08ea03b2413b684735ba9a835"
+    },
+    "data/goal_08/1dCzWKF01HIAd4bONuo0u_UOz9LEVM_1ag7ISStWIoLk.json": {
+      "checksum": "001ef49d0ea24b3fa0946d20958eb42a"
+    },
+    "data/goal_08/1JgVm6y5olvIBowRHLD3yP5kHkgEuQodjDahIsx4yyeY.json": {
+      "checksum": "980274359e60af9ba2026d4435b808b3"
+    },
+    "data/goal_08/1qzVDPMLYFEucHzDtf8h1dTtEb9LKmKeNfRGbkO_irSE.json": {
+      "checksum": "5525991a821c69d5d822b36c7481e073"
+    },
+    "data/goal_08/1ud7kIIHA8R-QIU0WCPHDXT0izj4yor0dYi7D2ZXR0Oc.json": {
+      "checksum": "63d74fe34e1c13bb3575270d6643a4b9"
+    },
+    "data/goal_08/1WS_25sPCM1tDWgSATVDeprv-_CAWpVF6Nu1Py1MA-8Q.json": {
+      "checksum": "e48e06c8026390d6e0979648a449bf0a"
+    },
+    "data/goal_08/goal_08.json": {
+      "checksum": "1f5bffd3f49bdeaf175f8a9dc95122e3"
+    },
+    "data/goal_08/goal_08_en_i18n.json": {
+      "checksum": "41eb06dbf23252dd78304ce8596f92c9"
+    },
+    "data/goal_09/09_data_can_send_text_message.csv": {
+      "checksum": "93cf586cad4c896c81428910af4a4370"
+    },
+    "data/goal_09/09_data_coverage_access_gaps.csv": {
+      "checksum": "4a7a47f6e5435f1b26645591dd7fc194"
+    },
+    "data/goal_09/09_data_income_gender_gap.csv": {
+      "checksum": "1fda10100253f6d12a38dcd492225f98"
+    },
+    "data/goal_09/09_data_internet_access.csv": {
+      "checksum": "5bd2dac98762d548b0c4fa3442a20706"
+    },
+    "data/goal_09/09_data_internet_access_urban_rural.csv": {
+      "checksum": "6c5ba708a772446c426ae53dc8ef4aa2"
+    },
+    "data/goal_09/09_data_internet_usage_progress.csv": {
+      "checksum": "26acd47f67575f964ffde1c03a09963d"
+    },
+    "data/goal_09/09_data_lack_of_money.csv": {
+      "checksum": "5a5e9764561f93150d152ac683217af2"
+    },
+    "data/goal_09/09_data_mobile_fixed_broadband_subscriptions.zip": {
+      "checksum": "880d01cca4e0fdac59c0fe793004f344"
+    },
+    "data/goal_09/09_data_network_coverages.csv": {
+      "checksum": "43569d5093900bd134c685b81c852015"
+    },
+    "data/goal_09/09_data_speedtest.csv": {
+      "checksum": "8ebabc42603cd1226f305e18b20cc10c"
+    },
+    "data/goal_09/1-l--CcpPxm-NjaZ3qVBTN8776Nr9uOXvgelAKecclWs.json": {
+      "checksum": "b615c04a36f3d60f272144f7e7aa4ad7"
+    },
+    "data/goal_09/1B_ljLFoVYyRYgGgjwESR2tAHUpmxWP-0u6DRAOYBgdI.json": {
+      "checksum": "72c5f299642c13fcd0ece7f2975449c9"
+    },
+    "data/goal_09/1EhTY4fTDlnuVTNwNWXAGQlrE-4AWURvtUDYEWySz8QU.json": {
+      "checksum": "361c2f19854331e9cae83ef4555a6c81"
+    },
+    "data/goal_09/1F96uP1Br1y4yel27IpE-YbumBGnTUkmKy5rXnUs4tL0.json": {
+      "checksum": "3fc3e514d3047b29902d594e42f92880"
+    },
+    "data/goal_09/1HqMlBHCqTJcctRP2E-X6UHD7rBzckjAsOTzacd8xUzo.json": {
+      "checksum": "013117698972ba11c9b8e4a91ae42033"
+    },
+    "data/goal_09/1L-yEyxkQMrc5MA5gSNTjxlmQtHCpgfZtG1cddhgW7DE.json": {
+      "checksum": "23c08185f056fe14897c2ecbb2d2522d"
+    },
+    "data/goal_09/1Ms21MBusSuxea8fb176o-5rfzLt_CodNi8K48I7U0kU.json": {
+      "checksum": "969fbeb7da20ee0a098a7a97f9a36d51"
+    },
+    "data/goal_09/1tqQOC36Nwv_wtwvqVYsawZwSiIKz31vZ6SWT9-pne4g.json": {
+      "checksum": "ee18e25614a97ab4c850d83dedc5aec0"
+    },
+    "data/goal_09/1USKTFa0rwEekfOuqWWCmLTBqRJW3qlcbbfkNJimxD5Q.json": {
+      "checksum": "b76a14606a6b042fd783e6ef57232944"
+    },
+    "data/goal_09/1uvmwqlLOt867y1S_0Hr4ZT46wXg0ilxE2OJS5DTj6V4.json": {
+      "checksum": "201fab6a8af9d7d0516a24675ef241b3"
+    },
+    "data/goal_10/10_data_high_inequality_countries.csv": {
+      "checksum": "43888e174d68d790c08f74d584860110"
+    },
+    "data/goal_10/10_data_high_inequality_trend.csv": {
+      "checksum": "688a2300f1d6803bd16c2f2a4df31d64"
+    },
+    "data/goal_10/10_data_prosperity_gap.csv": {
+      "checksum": "51526efc513bf781a677109e63cd6f07"
+    },
+    "data/goal_10/10_data_prosperity_gap_interactive.csv": {
+      "checksum": "d63f061ee4cf2cc4f6ac1b7e0f0cd5ff"
+    },
+    "data/goal_10/10_data_prosperity_gap_timeseries.csv": {
+      "checksum": "078981860c19710c026e319f1ff149c3"
+    },
+    "data/goal_10/10_data_prosperity_gaps.zip": {
+      "checksum": "5ca204b0ffbb888ce2dee32048664d22"
+    },
+    "data/goal_10/10_data_shared_prosperity.csv": {
+      "checksum": "6d7ca9a4e873024047804897d46cd558"
+    },
+    "data/goal_10/11Lw3knTCwFMNRc_bb5E3N52V3M9GhizD9HE1NpJ4g8k.json": {
+      "checksum": "74a487eef4dacf03deadebf093c03e22"
+    },
+    "data/goal_10/1dMwhGsyOLcQQI7y3WNmSHxSO09ftZGYRUOc5128tY_s.json": {
+      "checksum": "7b2a26f4121d3b28f890cef1fa3563ed"
+    },
+    "data/goal_10/1EcXKhasvLrhy7IM4mVV2c2DNisBhojrllHZcQv6znrA.json": {
+      "checksum": "916a9992e8e25292990710cf6e61c80a"
+    },
+    "data/goal_10/1L99hy4R6DNW1aCn6GZym-ijXMU7Woim8vhWEaUowtHU.json": {
+      "checksum": "fadc94e7b186a2cf0c752011017e3b5a"
+    },
+    "data/goal_10/1vTsQfDAnOv96GgSkuLpe8W32uiwYPmGw2JpAyuQKQmI.json": {
+      "checksum": "157903120dabe5790d645ddc3350647f"
+    },
+    "data/goal_10/1Xc3ceq3jZck-SqU6nNrKFRgpsu0oirNFDNi4zv2xiJ0.json": {
+      "checksum": "84ebb9f91a4e7dc1603d6c24a6f36191"
+    },
+    "data/goal_10/1ZZvJlpIh4hGGvvrdjPxmvzLt9o9HbYPc0RXeK6Jkq8k.json": {
+      "checksum": "42febeda7f7ed2b93f701c59297cf892"
+    },
+    "data/goal_11/1_Z20p5irWqpsKg_7xZ7PKMrEZHstUYxe6fMlU6GhkAM.json": {
+      "checksum": "5717ca2ba7a3405c21b27e5616cff6c7"
+    },
+    "data/goal_11/11_data_buildup_area_income.csv": {
+      "checksum": "3f44b07efd2d9eec900c41e111286476"
+    },
+    "data/goal_11/11_data_buildup_area_overtime.zip": {
+      "checksum": "4e0b4e23084e1089537ae41533d63d87"
+    },
+    "data/goal_11/11_data_city_map.zip": {
+      "checksum": "91aa68822180c583fbaa0325c4a48f1e"
+    },
+    "data/goal_11/11_data_pay_beeswarm.csv": {
+      "checksum": "fbd16f3dcdc599c464b4347f04fb0389"
+    },
+    "data/goal_11/11_data_skill_beeswarm.zip": {
+      "checksum": "a775c1a85e0585a1d0c272ee38da597c"
+    },
+    "data/goal_11/11_data_skill_violin.csv": {
+      "checksum": "c64ae8c350c6fbedba3819014a052f7b"
+    },
+    "data/goal_11/11_data_slum_regions.csv": {
+      "checksum": "58e48b3651be487267d09c54553e0aef"
+    },
+    "data/goal_11/11_data_slum_waffle.csv": {
+      "checksum": "da493d28b8a2c3500c7dc27d636b53b3"
+    },
+    "data/goal_11/11_data_urban_gdp_scatterplot.csv": {
+      "checksum": "36fa5581ea740cdd1a0a66c6ef2c8ecf"
+    },
+    "data/goal_11/11_data_urban_rural_pop.csv": {
+      "checksum": "9f31fe2dba9cc7a47d92d5d4daaf64db"
+    },
+    "data/goal_11/1cpnu2-yQ39-r0GCLWe9UJ_adonGq4EjuXQS6r62qPaI.json": {
+      "checksum": "b8517dc02244130bb1c8112912200ced"
+    },
+    "data/goal_11/1dkRx6AbILx1nI4m1sJ2EaQp45E3ajOxnxSmjfs7sjJk.json": {
+      "checksum": "b40bb4f7d82bf60e0d51ac6cb64585fa"
+    },
+    "data/goal_11/1EtgWA9Bb_PnYwNGkGNkL2fgBJXmfQ70oHJbVYHluZYo.json": {
+      "checksum": "6fe4f5aa7adc91eb3c278e1a4279aff4"
+    },
+    "data/goal_11/1eZ7j5uDWSnYHpwB2QDMvI1w70zmV46E34LGx7Pxrw5g.json": {
+      "checksum": "8c9857e0820229916a8d87513d0de2e9"
+    },
+    "data/goal_11/1gpwt8NyG-x93ZIsEpexbEKVhlEEO0ujLFjG-qxwP34c.json": {
+      "checksum": "bf57bb245e7ea72ff39368bc4331120e"
+    },
+    "data/goal_11/1kDgVr0xlnjNtyhYzv-toU807gtvLTIUw7lPRDWfZJLk.json": {
+      "checksum": "2a5568fd8ed6d1512888c8f9f964b5ec"
+    },
+    "data/goal_11/1tsBAUnpUMZHckRhAGHU7dE6ugGo_PZ7aVZunWbSHi8g.json": {
+      "checksum": "db4d7bdd466847274d2bb939d930d9cc"
+    },
+    "data/goal_11/1uzT7By-2G_YWiwvWBUavileK4Ug7ozPUImz7SgS4UHM.json": {
+      "checksum": "7e0d05ce4559951e7f60d2bf93c16e02"
+    },
+    "data/goal_11/1zAXd0QAWWd2VBTMKeh9ACIOO8uR_l5p_OMPvkXbzyRA.json": {
+      "checksum": "30d6137054c2e4459762dbccc74e84ea"
+    },
+    "data/goal_12/12_1_global.zip": {
+      "checksum": "c41f5d9bcfb0172230066dfd20fa1963"
+    },
+    "data/goal_12/12_20_fueldemonstrations_simpler.csv": {
+      "checksum": "0673c6557d52fb5324f3f83ef97e3a78"
+    },
+    "data/goal_12/1fDSzrpi3toqe3O4yCuJrq6A0yFE5_DypTAXUGx1s6sw.json": {
+      "checksum": "2098dff7324d46ccc51f16f1555e48f8"
+    },
+    "data/goal_12/1ocsqKO4Kz4tKxE3p94rdzkTJVPEb4rZlHGkfY12i3WA.json": {
+      "checksum": "b2605912fd632467f6ce020a1351e544"
+    },
+    "data/goal_12/1pMPXVMzsZfnsMZFRk2m76TRDI5xBb_vhVe0pUTmi27g.json": {
+      "checksum": "372bbb7411f1fb5a94fdf1344e5638e8"
+    },
+    "data/goal_12/1qJZnfJZLr5MWLHtqvdkn3oaXuBsFOuFrXxFB13KFOhA.json": {
+      "checksum": "c605a21322be3d6cfab239b0afb0443b"
+    },
+    "data/goal_12/Fossil fuel subsidy reform.zip": {
+      "checksum": "5d10b87f95d25a3a27fd2d662de84b5e"
+    },
+    "data/goal_12/fossil_fuel_subsidy_20250920.zip": {
+      "checksum": "6ff2f157954385e08f966256f3b92259"
+    },
+    "data/goal_12/goal_12.json": {
+      "checksum": "3f7c9085f6a8e9e2f61b8df24aed7339"
+    },
+    "data/goal_12/goal_12_en_i18n.json": {
+      "checksum": "ae55b6044876863039bf60422ec56dc9"
+    },
+    "data/goal_13/1b0tjeAlBqbSgpOKmVE4xMafDRNvsUWG7_C_jDMsorFI.json": {
+      "checksum": "fddcc927e9bc2589231ab85aa948602d"
+    },
+    "data/goal_13/1jnqFJhuylAsTw4s3XqgNSyLhIP4xF_nono5w93QKnSQ.json": {
+      "checksum": "32161b78a89d19a8432d2b8a542acc72"
+    },
+    "data/goal_13/20260130_hazard_data_prepared.csv": {
+      "checksum": "31cff116824f439afc4af6cc11c75c86"
+    },
+    "data/goal_13/climate_vulnerability.zip": {
+      "checksum": "9a3b83c80e852fbf9fe525d8537e3cbd"
+    },
+    "data/goal_14/14_data_algal_blooms.csv": {
+      "checksum": "899518f45268fde13aef80a0c46bfb71"
+    },
+    "data/goal_14/14_data_chlorophyll_deviation.csv": {
+      "checksum": "c9876cd806cd5de56adc3a9b2f84c110"
+    },
+    "data/goal_14/14_data_nitrogen_phosphorus.csv": {
+      "checksum": "af9578c0bd6baef6805b8614f71cc58f"
+    },
+    "data/goal_14/14_data_plastic_leakage.csv": {
+      "checksum": "6ba42797ff6e61f983a9d8eef80ffd9c"
+    },
+    "data/goal_14/14_data_plastic_mortality.csv": {
+      "checksum": "329637f25a29b8f008b2daa082a281a6"
+    },
+    "data/goal_14/14_data_plastic_production.csv": {
+      "checksum": "a7e4d74217dc92e8b0e72a1192506d25"
+    },
+    "data/goal_14/14_data_plastic_seafood.csv": {
+      "checksum": "43f877b4c2246c06b591648a67dc8d00"
+    },
+    "data/goal_14/14_data_plastic_waste.csv": {
+      "checksum": "eedc225bfcc93514aa9e501e1fa6f35b"
+    },
+    "data/goal_14/15m61nzVoT8m-xedo4Aq9WH0ajrBMzgrI8Nk9JrIwrCs.json": {
+      "checksum": "0d81d9ffdb2d07d1f952723b2e8836a8"
+    },
+    "data/goal_14/1AuaI4YAk1CtM69PR_JDOW6ctuv00KSAdhfKov_fv8aA.json": {
+      "checksum": "f007ac3933ec53720b6723e3209cbeb2"
+    },
+    "data/goal_14/1fxdcBvdm52lXrVAgEw0CHCkEr39r_aLOkMYXKkiVj2c.json": {
+      "checksum": "6add70ad8e813d01b72ce477207e7ad9"
+    },
+    "data/goal_14/1gAhYCLl9lgWJ91oHviSXld3bwOf-eALwXML0KNHDaMQ.json": {
+      "checksum": "88f918f9ef2e4ea75476b6753da0a1e4"
+    },
+    "data/goal_14/1L5LJ1GUFWspxmZ-5g5gGToeGJsTvqMUUKxwmW_1VIOM.json": {
+      "checksum": "e595ebade3d0a6c57de0e51f0c395650"
+    },
+    "data/goal_14/1m4-ro0_GRGeZ7s-4Jnrh5FfY8f4aqEosq144g7ntsL8.json": {
+      "checksum": "67da2a9795ab846ba2ba68120b33de68"
+    },
+    "data/goal_14/1oQgvJwwmrOTwK9K47HgoGZxZGmuIoirqzKIYjmZILkM.json": {
+      "checksum": "92bf7c58a0890b23bf579c8d860b18d1"
+    },
+    "data/goal_14/1tq254ChAaAyXlbv6mbP_vAcfVOHH78AvACeVWZA-EIM.json": {
+      "checksum": "47152548f6f5c20101e9f178b3514ac4"
+    },
+    "data/goal_14/1vRHTflG8CaE3U0Gh-0z2_MMAnjJ6pIRb6HA9W8M3IHk.json": {
+      "checksum": "60a143241a7104688a8f49e6613b0b6c"
+    },
+    "data/goal_14/data_14_plastic_discharge.csv": {
+      "checksum": "5c885d3eb3451a5039dca6d41ce74490"
+    },
+    "data/goal_14/goal_14.json": {
+      "checksum": "ae87cedc9e2725388bd7e451936e16c6"
+    },
+    "data/goal_14/goal_14_en_i18n.json": {
+      "checksum": "f2976346834657f4fc76b7ab245a7832"
+    },
+    "data/goal_15/15_data_agricultural_land.zip": {
+      "checksum": "f5608a04b1e5468cab3cb6b5eac68035"
+    },
+    "data/goal_15/15_data_arable_land_degradation.csv": {
+      "checksum": "e3a34f0f96c17b18ab5bb94968fe0fcc"
+    },
+    "data/goal_15/15_data_protected_areas.csv": {
+      "checksum": "2ed351713da1faf5a5de8c0900835b57"
+    },
+    "data/goal_15/19TTxJqAAVwijPowj3tDNksOwqItdZ43dsz08ZEZsTaQ.json": {
+      "checksum": "6b1414f9241383b9451572b9c46e08e2"
+    },
+    "data/goal_15/1cMRTFjgImsFIZi6Uv1MzuxK2pSHo1x4Ru3lkmctejLM.json": {
+      "checksum": "3547a6e6c472a0848b359b16cb5c5c5d"
+    },
+    "data/goal_15/1pMY2CRzmKnK3OoRr_QcRUBc0wBX86Bha47iP0LFN_M0.json": {
+      "checksum": "876610d2520ef6c9435544e7b640caf4"
+    },
+    "data/goal_15/goal_15.json": {
+      "checksum": "f2ca506e701827459131d6fec149448c"
+    },
+    "data/goal_15/goal_15_en_i18n.json": {
+      "checksum": "169d824529a5d6bdd37b01106ce651c0"
+    },
+    "data/goal_16/1_KJJCNEzSgK0Jn_trZgpvE_0wePSwvI-8G34Jcc-XyA.json": {
+      "checksum": "73e33f80ded981851df2eb4fd385eb08"
+    },
+    "data/goal_16/16G0AKko7ZiyeaGZMz69lybOG_SMC-e2-gbLZSdLUWeA.json": {
+      "checksum": "b924572e339cfd75573ffaff369db1e9"
+    },
+    "data/goal_16/1dq70G2RjgkId9PDqQY2bO1DKUdy-8bjAgBnn0bAnmQ4.json": {
+      "checksum": "707001b152ca5244a21ba19b2ec52300"
+    },
+    "data/goal_16/1MepA2Dpz0HUoZRmMMlr-5a7s5jPJcbH-aIvXL3Gbiu4.json": {
+      "checksum": "7289b9af2f33beb4f8d25e937974d5e5"
+    },
+    "data/goal_16/1unI4siH8ylMOBxBhid5uvMTTOOzzMy9LYwTaw1SWd8c.json": {
+      "checksum": "d1f5d208f4884e8318eb004bbc53ed97"
+    },
+    "data/goal_16/affordability_incgroup.csv": {
+      "checksum": "1ea01ce2ba4142276092cc0e8be35832"
+    },
+    "data/goal_16/beeswarm_updated.csv": {
+      "checksum": "834f501e2e2b30b7cab3d9191fb603d6"
+    },
+    "data/goal_16/chatgpt.csv": {
+      "checksum": "99ec731a1bdbc587692466bedfe85051"
+    },
+    "data/goal_16/digitalskills.csv": {
+      "checksum": "592402cd99b951ab6d4e88c12d68594e"
+    },
+    "data/goal_16/language.csv": {
+      "checksum": "f64110ed8f54cb4b6c4342651e197bf9"
+    },
+    "data/goal_17/16LO3tJWmK2Uwznl1-PxydYvqen5-rgn6zhUY2cygRfs.json": {
+      "checksum": "94556f65efc5ca2e1ffb8b25f3643576"
+    },
+    "data/goal_17/17_data_missing_children_data.zip": {
+      "checksum": "a411cd68fca0455df0ff786e46184de4"
+    },
+    "data/goal_17/17_data_nigeria_poverty.csv": {
+      "checksum": "ccb816feae5b431e0c1c9bfc67f88adf"
+    },
+    "data/goal_17/17_data_spi_pillar_scores.csv": {
+      "checksum": "721708f7397dfd2651fecb6335b8b6e0"
+    },
+    "data/goal_17/17_data_spi_vs_gdp.csv": {
+      "checksum": "b56b01cfa0be08a89c54cba0465c9880"
+    },
+    "data/goal_17/17_data_survey_age.csv": {
+      "checksum": "8d107a5c0bf62a58257a77e0d5cb748b"
+    },
+    "data/goal_17/1dRBFfgIFVEa4mn6SaaYW_4wxgFKFRYky9hCgppeo_8g.json": {
+      "checksum": "4ad872d3cb12df463d94aa4dd483bcc0"
+    },
+    "data/goal_17/1OyQNKd9JXj6TCQnS3qOGfpGrN0jcugXE-NTLzrqeTss.json": {
+      "checksum": "01bc111bf712ab81e6eb5a6948019909"
+    },
+    "data/goal_17/1SP4MvouZobM8FY_9SVL-_n96P-X_7DiMZ4AwDi9mag0.json": {
+      "checksum": "8c0786eebb3900538617db00a3343ca0"
+    },
+    "data/goal_17/1Z-ibGTAUXjF_occNjtbhaVR9Hizsp_bYx6H2DQzzAdE.json": {
+      "checksum": "d7eed383dc4ee3c7a4fdb75190598695"
+    },
+    "data/goal_99/01_data_global_projections.zip": {
+      "checksum": "ccb3039fadd9e9a4d43983b54892c82b"
+    },
+    "data/goal_99/1bUEYFUXwRG3-UGPMvGajgceJAJ_a6TMP7bkOUQmIROg.json": {
+      "checksum": "fa32d8290dfcc709b3e141190d13a8b2"
+    },
+    "data/goal_99/1W6Sb8eKhaFPuPG6GAPtQq3o4U7TAkNp_vqU9mthTlGM.json": {
+      "checksum": "132d832d6a3278b51165f5f646ad0c73"
+    },
+    "data/goal_99/goal_99.json": {
+      "checksum": "d97b951cdf8d1c8001058413ce4b8051"
+    },
+    "data/goal_99/goal_99_en_i18n.json": {
+      "checksum": "ac76a944e12056515a347547a4cbfba8"
+    },
+    "data/goal_99/Test Data 01.csv": {
+      "checksum": "0e42601efa600a7579e1d1e4c9c3980c"
+    },
+    "data/goal_dashboard/1V4JWANmBNf9VWrsXeahBdfuR1z1wbhnYJhXgFDAVm2s.json": {
+      "checksum": "514da612e523db66e5106c4a10cd7362"
+    },
+    "data/goal_dashboard/dashboard_data_progress_speeds.zip": {
+      "checksum": "e3d76a86a04002f922905e160a290183"
+    },
+    "data/goal_id4d/goal_id4d.json": {
+      "checksum": "0ea44a8cbaf729e39d15cd73fb6adaf5"
+    },
+    "data/goal_id4d/goal_id4d_en_i18n.json": {
+      "checksum": "426429efac5540bdb363248347d54dfb"
+    },
+    "data/goal_progress/1RQA8Xku_eDlTuTjllU9Se84_m6VzJ6o_QisB5AXdks8.json": {
+      "checksum": "d736b69d05d66b3fc9d42acff101827d"
+    },
+    "data/goal_progress/1U7w6yGILXAxwpQ15FWtQmbxjDdhyAFjhfSyLwyUpyN8.json": {
+      "checksum": "41e4a2a4e3d7a1c140422821d4753b1e"
+    },
+    "data/goal_progress/1z6pnQuuVZ65e1v_6fa1PcrpktWHD7qdpVa8ekuV6Ku8.json": {
+      "checksum": "a4700a6df8039f398d4437f16d5b6250"
+    },
+    "data/goal_progress/progress_data_poverty_projection_country.zip": {
+      "checksum": "c727c5da2ba574b1442bed166e597365"
+    },
+    "data/goal_progress/progress_data_poverty_rate_change.zip": {
+      "checksum": "5516a7699b0f0115a5da3de5c8d3f3e9"
+    },
+    "data/goal_progress/progress_data_poverty_slopecharts.csv": {
+      "checksum": "c6a901a4bb3f8e97ea863221d21ea011"
+    },
+    "electricity-access.html": {
+      "checksum": "0f8f128fad9e85cd1f520881feba15b0"
+    },
+    "electricity-access/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "extreme-poverty.html": {
+      "checksum": "b13ab5dd2c26bda0c247169a1ebc1c2a"
+    },
+    "extreme-poverty/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "favicon.png": {
+      "checksum": "da8879d0d59c61f99c9f6ebeb7c7cbff"
+    },
+    "gender-and-jobs.html": {
+      "checksum": "0193cda2e4da927972c2662abfcea0f9"
+    },
+    "gender-and-jobs/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "global-progress.html": {
+      "checksum": "0b174467d33201d64760d9471516ce70"
+    },
+    "global-progress/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "goal02.png": {
+      "checksum": "a5b295812ea7e604c0affa33cc089b32"
+    },
+    "index.html": {
+      "checksum": "f6d5a95616d6d103ec493214b9b335ce"
+    },
+    "inequality.html": {
+      "checksum": "8cb7295c3ec566578b939f17805d1275"
+    },
+    "inequality/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "internet-access.html": {
+      "checksum": "31da49919359f5eb19f7340e2c878572"
+    },
+    "internet-access/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "learning-and-work.html": {
+      "checksum": "e5681dd0128b6216a1c747ab6d785ef9"
+    },
+    "learning-and-work/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "measuring-progress.html": {
+      "checksum": "23ade1c46151c22469c3ea70000b8d36"
+    },
+    "measuring-progress/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "urban-development.html": {
+      "checksum": "23088e9760011db90ccfec2040adbd99"
+    },
+    "urban-development/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "water-access.html": {
+      "checksum": "05e6f8ed2a3f93434a1ef26d574947a5"
+    },
+    "water-access/__data.json": {
+      "checksum": "fd76d86cc1beb5310ff95750295f5ed1"
+    },
+    "wb-style.json": {
+      "checksum": "7c6a2ce066299701d079f0130ceed820"
+    },
+    "yearly-data/countries/indicators/ABW.csv": {
+      "checksum": "c1fc1e0ad1d76aa0bd2512c19492ed04"
+    },
+    "yearly-data/countries/indicators/AFG.csv": {
+      "checksum": "abc40491a3f62e4a1f0fa21856f591e0"
+    },
+    "yearly-data/countries/indicators/AGO.csv": {
+      "checksum": "c6c4d2d94ceb5496f9a563d34733b25c"
+    },
+    "yearly-data/countries/indicators/AIA.csv": {
+      "checksum": "121b049d3872923725a1350975a70746"
+    },
+    "yearly-data/countries/indicators/ALB.csv": {
+      "checksum": "1cc7703e1cda7c9674e69e011fed5c60"
+    },
+    "yearly-data/countries/indicators/AND.csv": {
+      "checksum": "5ef99efdba1030f0a446ba237d9a2315"
+    },
+    "yearly-data/countries/indicators/ARE.csv": {
+      "checksum": "d80a8fcfe9865b6f34a83645916b137d"
+    },
+    "yearly-data/countries/indicators/ARG.csv": {
+      "checksum": "50fafeaf26c4d410df49de04e888672b"
+    },
+    "yearly-data/countries/indicators/ARM.csv": {
+      "checksum": "f9371dd452392f53d3ec3b97a743baf0"
+    },
+    "yearly-data/countries/indicators/ASM.csv": {
+      "checksum": "03136da3495b82d6177e508e8bfdc7e6"
+    },
+    "yearly-data/countries/indicators/ATG.csv": {
+      "checksum": "da815e45b5ce6032634f5f3f9e9c85a5"
+    },
+    "yearly-data/countries/indicators/AUS.csv": {
+      "checksum": "68c25fcd220b156d7d6f3855442d1344"
+    },
+    "yearly-data/countries/indicators/AUT.csv": {
+      "checksum": "6791261cf0e6fdc4570712578db9ee60"
+    },
+    "yearly-data/countries/indicators/AZE.csv": {
+      "checksum": "4b17cf8d6e43a33333ae13833e1f7532"
+    },
+    "yearly-data/countries/indicators/BDI.csv": {
+      "checksum": "06f6b2a15680ff692bc80ae7edefce09"
+    },
+    "yearly-data/countries/indicators/BEL.csv": {
+      "checksum": "87eb5b129b6f1a5fa7287071bf38c04b"
+    },
+    "yearly-data/countries/indicators/BEN.csv": {
+      "checksum": "411e3310ac9405675f6cf6d2a9af13ac"
+    },
+    "yearly-data/countries/indicators/BES.csv": {
+      "checksum": "dec9f95493b4c3ea464ac22d9923db96"
+    },
+    "yearly-data/countries/indicators/BFA.csv": {
+      "checksum": "bade2e2c3d4b310dd5891509e1830914"
+    },
+    "yearly-data/countries/indicators/BGD.csv": {
+      "checksum": "4db5a9a660a7be3263d4fa3461ed8418"
+    },
+    "yearly-data/countries/indicators/BGR.csv": {
+      "checksum": "610c25bc5fa1daeef1aa346018ec5531"
+    },
+    "yearly-data/countries/indicators/BHR.csv": {
+      "checksum": "c6de4dda017fed4fff5195916a43ce2d"
+    },
+    "yearly-data/countries/indicators/BHS.csv": {
+      "checksum": "e8354fd99604378271d2ef996f8f673e"
+    },
+    "yearly-data/countries/indicators/BIH.csv": {
+      "checksum": "3e23a8e0525b48c7bc506636d6650c3a"
+    },
+    "yearly-data/countries/indicators/BLM.csv": {
+      "checksum": "89ee8c91608732c7f2ea983c6c146497"
+    },
+    "yearly-data/countries/indicators/BLR.csv": {
+      "checksum": "b5e0f341379023695c98282478435c8b"
+    },
+    "yearly-data/countries/indicators/BLZ.csv": {
+      "checksum": "fb095a27ed2ee2611ac5fb92bf42d7f9"
+    },
+    "yearly-data/countries/indicators/BMU.csv": {
+      "checksum": "93da33e176bd9160c3d9483471a9563f"
+    },
+    "yearly-data/countries/indicators/BOL.csv": {
+      "checksum": "4421d8ed13f55d509fd9ce7f88a12a91"
+    },
+    "yearly-data/countries/indicators/BRA.csv": {
+      "checksum": "6ae66b997d17877598fe2ab223dd0b9f"
+    },
+    "yearly-data/countries/indicators/BRB.csv": {
+      "checksum": "86f57a01b95d43e762f2bf31cf58ebf2"
+    },
+    "yearly-data/countries/indicators/BRN.csv": {
+      "checksum": "0adcbfc33ee9f82505836e02a50d8f1a"
+    },
+    "yearly-data/countries/indicators/BTN.csv": {
+      "checksum": "2921cc69044513deaf6e39db0ad87b4f"
+    },
+    "yearly-data/countries/indicators/BWA.csv": {
+      "checksum": "0486d53474600af540af460c8ab242ce"
+    },
+    "yearly-data/countries/indicators/CAF.csv": {
+      "checksum": "96a858a12b599c1ccdb901aea2deda1a"
+    },
+    "yearly-data/countries/indicators/CAN.csv": {
+      "checksum": "b9106afa047ac1db7a665ccdc3c16f55"
+    },
+    "yearly-data/countries/indicators/CHE.csv": {
+      "checksum": "3f113dd04578b7e118bb2ba2cab1aa27"
+    },
+    "yearly-data/countries/indicators/CHI.csv": {
+      "checksum": "1d2b81e14f54f3b80e5b81ccdd77b80f"
+    },
+    "yearly-data/countries/indicators/CHL.csv": {
+      "checksum": "6031d92f2115b383e95fd36a6856c3d0"
+    },
+    "yearly-data/countries/indicators/CHN.csv": {
+      "checksum": "876636dcf6f8214aa6c3db08600e0639"
+    },
+    "yearly-data/countries/indicators/CIV.csv": {
+      "checksum": "b42deae8e6d59cc810d0e56e39eb7794"
+    },
+    "yearly-data/countries/indicators/CMR.csv": {
+      "checksum": "ad9d9ed152df62e141f5663ed95f8f8f"
+    },
+    "yearly-data/countries/indicators/COD.csv": {
+      "checksum": "2325efe5e8c0c0c2b753c7a8446d5db7"
+    },
+    "yearly-data/countries/indicators/COG.csv": {
+      "checksum": "725530b9df097a4edb0b1335b4e4577e"
+    },
+    "yearly-data/countries/indicators/COK.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/countries/indicators/COL.csv": {
+      "checksum": "490c1c3c8688ffa66f8dc0d116394b7c"
+    },
+    "yearly-data/countries/indicators/COM.csv": {
+      "checksum": "145311285b8d7468e9cf32e13540ff24"
+    },
+    "yearly-data/countries/indicators/CPV.csv": {
+      "checksum": "17f17a248a6bcd6be11b87f463cb8ce1"
+    },
+    "yearly-data/countries/indicators/CRI.csv": {
+      "checksum": "c59d9137b9e8e34eaef23259a543a1d0"
+    },
+    "yearly-data/countries/indicators/CUB.csv": {
+      "checksum": "53ff27937825a5dfe6a3135cf7d812e7"
+    },
+    "yearly-data/countries/indicators/CUW.csv": {
+      "checksum": "bee614c8f82abd8dae674e0d036d2166"
+    },
+    "yearly-data/countries/indicators/CYM.csv": {
+      "checksum": "76642b532536005786a99cd9d01d105d"
+    },
+    "yearly-data/countries/indicators/CYP.csv": {
+      "checksum": "38158b636b8d08875f454a4f159532d0"
+    },
+    "yearly-data/countries/indicators/CZE.csv": {
+      "checksum": "3426deb1ca731c0d98f2562564bbeb5b"
+    },
+    "yearly-data/countries/indicators/DEU.csv": {
+      "checksum": "d84c909cc74bd359f57328903347a624"
+    },
+    "yearly-data/countries/indicators/DJI.csv": {
+      "checksum": "dffbbc2d0d1c1ea4f5f7c592cb390a4e"
+    },
+    "yearly-data/countries/indicators/DMA.csv": {
+      "checksum": "c02e371065df8d5f024d202546994637"
+    },
+    "yearly-data/countries/indicators/DNK.csv": {
+      "checksum": "e0b39d27c264687b3fb4690a5868bfae"
+    },
+    "yearly-data/countries/indicators/DOM.csv": {
+      "checksum": "6d7f12270da744a73914f871bdfe0d2f"
+    },
+    "yearly-data/countries/indicators/DZA.csv": {
+      "checksum": "4105334a83193bed215f87565e7f664b"
+    },
+    "yearly-data/countries/indicators/ECU.csv": {
+      "checksum": "ae0ecda39f698ccc0543cded300ada56"
+    },
+    "yearly-data/countries/indicators/EGY.csv": {
+      "checksum": "5ebf2b5c71f8cd67596a1d67331b63c8"
+    },
+    "yearly-data/countries/indicators/ERI.csv": {
+      "checksum": "01db9077dcf14d0a15897ee20d518627"
+    },
+    "yearly-data/countries/indicators/ESP.csv": {
+      "checksum": "3e3cd74f8d3e03ff432bcef86f5b9771"
+    },
+    "yearly-data/countries/indicators/EST.csv": {
+      "checksum": "4e92f4ab93e65866bd53781a964f2af8"
+    },
+    "yearly-data/countries/indicators/ETH.csv": {
+      "checksum": "abfb4bde4319f47e9dc22cbf31f6e9e7"
+    },
+    "yearly-data/countries/indicators/FIN.csv": {
+      "checksum": "c5b48c10cd341ca1ffbba8884555d968"
+    },
+    "yearly-data/countries/indicators/FJI.csv": {
+      "checksum": "9e9b106b951a7dfa0a9af5e99409499d"
+    },
+    "yearly-data/countries/indicators/FLK.csv": {
+      "checksum": "eabdb1c35e4915ab4959d4bc627319ef"
+    },
+    "yearly-data/countries/indicators/FRA.csv": {
+      "checksum": "a7d5955147a694535ff0994713bd31e1"
+    },
+    "yearly-data/countries/indicators/FRO.csv": {
+      "checksum": "179513e5a5b35f2b2ecf29030a581e26"
+    },
+    "yearly-data/countries/indicators/FSM.csv": {
+      "checksum": "cc35357f0e09d560e4951c76117ded55"
+    },
+    "yearly-data/countries/indicators/GAB.csv": {
+      "checksum": "d956219b66299366e41956617362f86b"
+    },
+    "yearly-data/countries/indicators/GBR.csv": {
+      "checksum": "96430e4bb80f3250bb8772bde687f6cf"
+    },
+    "yearly-data/countries/indicators/GEO.csv": {
+      "checksum": "8fa21b8d679ad4025e2fbf325c6aac39"
+    },
+    "yearly-data/countries/indicators/GHA.csv": {
+      "checksum": "689c5db7415f46eea1646605e9559719"
+    },
+    "yearly-data/countries/indicators/GIB.csv": {
+      "checksum": "f31fbb2d52ccc5fd971341a91a5ac4f6"
+    },
+    "yearly-data/countries/indicators/GIN.csv": {
+      "checksum": "51c67c882887db5239e5022f350077b5"
+    },
+    "yearly-data/countries/indicators/GLP.csv": {
+      "checksum": "6c02a77e40fddb1e1b9011b2e90d537c"
+    },
+    "yearly-data/countries/indicators/GMB.csv": {
+      "checksum": "cc43e79ba2b70e0186ad8a87504a804b"
+    },
+    "yearly-data/countries/indicators/GNB.csv": {
+      "checksum": "182b1127fba4be015618a5ed0124c18b"
+    },
+    "yearly-data/countries/indicators/GNQ.csv": {
+      "checksum": "d02115b6b26de103d8875c068ea68044"
+    },
+    "yearly-data/countries/indicators/GRC.csv": {
+      "checksum": "d456d5943b9391d5bd822368d1ee2362"
+    },
+    "yearly-data/countries/indicators/GRD.csv": {
+      "checksum": "d4882915e8922aa1e3a127ccb762ccff"
+    },
+    "yearly-data/countries/indicators/GRL.csv": {
+      "checksum": "b07c65e290e67616567c0282eddfa75f"
+    },
+    "yearly-data/countries/indicators/GTM.csv": {
+      "checksum": "8c967f6813e02633d3db211024503cb6"
+    },
+    "yearly-data/countries/indicators/GUF.csv": {
+      "checksum": "e36039f01e27eee4c8b58bf5a3ddae58"
+    },
+    "yearly-data/countries/indicators/GUM.csv": {
+      "checksum": "daf5e411ce083d4213165a2416f06b72"
+    },
+    "yearly-data/countries/indicators/GUY.csv": {
+      "checksum": "30c547f0787bf10fbf78ca71a3a93753"
+    },
+    "yearly-data/countries/indicators/HKG.csv": {
+      "checksum": "b5275ca30bbec60f69d118b7fea8ca0f"
+    },
+    "yearly-data/countries/indicators/HND.csv": {
+      "checksum": "83396fa5d1b912e53ad88d24e7520801"
+    },
+    "yearly-data/countries/indicators/HRV.csv": {
+      "checksum": "0cae989b51f2221681e286cd42ece2eb"
+    },
+    "yearly-data/countries/indicators/HTI.csv": {
+      "checksum": "c57f323a60d4a5e97ce348087eb22d7f"
+    },
+    "yearly-data/countries/indicators/HUN.csv": {
+      "checksum": "71fa59895645cd88520ff94cdf0159a1"
+    },
+    "yearly-data/countries/indicators/IDN.csv": {
+      "checksum": "300f12aaeeb66308904ee1376a54d862"
+    },
+    "yearly-data/countries/indicators/IMN.csv": {
+      "checksum": "c13cc22a53e2d95079f657192b8ac740"
+    },
+    "yearly-data/countries/indicators/IND.csv": {
+      "checksum": "d370e8b3177c1d1f34c10fcd23c59ff2"
+    },
+    "yearly-data/countries/indicators/IRL.csv": {
+      "checksum": "f49ed2967243aadc6afc6b41bb1ae76c"
+    },
+    "yearly-data/countries/indicators/IRN.csv": {
+      "checksum": "bfc7a6b3f2cf5fcaf7659a3028dc8951"
+    },
+    "yearly-data/countries/indicators/IRQ.csv": {
+      "checksum": "c300d389fe7fe4c082258bbf729b42b9"
+    },
+    "yearly-data/countries/indicators/ISL.csv": {
+      "checksum": "e76579585c3d37db1adb9e15bb92da8d"
+    },
+    "yearly-data/countries/indicators/ISR.csv": {
+      "checksum": "1203da1777a6f0752b7ebe1f80c7ddd4"
+    },
+    "yearly-data/countries/indicators/ITA.csv": {
+      "checksum": "1310f59048ce6b5f4459e5750c38a98d"
+    },
+    "yearly-data/countries/indicators/JAM.csv": {
+      "checksum": "27f52ffcf96a7861fa0e72f8397c73ec"
+    },
+    "yearly-data/countries/indicators/JEY.csv": {
+      "checksum": "e660bea5c18bf77881d8a65c3eca16f4"
+    },
+    "yearly-data/countries/indicators/JOR.csv": {
+      "checksum": "9f8f2f9c7160367e1c7137b9baf9b26b"
+    },
+    "yearly-data/countries/indicators/JPN.csv": {
+      "checksum": "a876bb66277e6bed3eab530061983b14"
+    },
+    "yearly-data/countries/indicators/KAZ.csv": {
+      "checksum": "4d3ada6b1acf7ac1acaa4153db755be2"
+    },
+    "yearly-data/countries/indicators/KEN.csv": {
+      "checksum": "7df5735abf5f6d188d3beb17756fb36d"
+    },
+    "yearly-data/countries/indicators/KGZ.csv": {
+      "checksum": "9e6836a8f0271de5c95e7454827512fe"
+    },
+    "yearly-data/countries/indicators/KHM.csv": {
+      "checksum": "1d6a163dde6898411189f2124a0c7099"
+    },
+    "yearly-data/countries/indicators/KIR.csv": {
+      "checksum": "de97fd2f728672930c59c4197160fa31"
+    },
+    "yearly-data/countries/indicators/KNA.csv": {
+      "checksum": "199a67c77c1cb2b14d901e8a6c18e2a3"
+    },
+    "yearly-data/countries/indicators/KOR.csv": {
+      "checksum": "583eb3cdadb2b06dd1ca2851f9daafc2"
+    },
+    "yearly-data/countries/indicators/KWT.csv": {
+      "checksum": "b9948eb072925de31bb4b07caea2828b"
+    },
+    "yearly-data/countries/indicators/LAO.csv": {
+      "checksum": "8447ca7dfd108e0048daedeff1ca75a0"
+    },
+    "yearly-data/countries/indicators/LBN.csv": {
+      "checksum": "9346792ed84fed003b6dac70ba5a2739"
+    },
+    "yearly-data/countries/indicators/LBR.csv": {
+      "checksum": "99e211ab7f00fb8997b998748ee79cbe"
+    },
+    "yearly-data/countries/indicators/LBY.csv": {
+      "checksum": "951fc91f543a018ee8e2c3020da3bb85"
+    },
+    "yearly-data/countries/indicators/LCA.csv": {
+      "checksum": "a55bc75716cc99d1fa5c74e31a00dbf7"
+    },
+    "yearly-data/countries/indicators/LIE.csv": {
+      "checksum": "b4aa2e5366eef9f185bd8f010f99dcc7"
+    },
+    "yearly-data/countries/indicators/LKA.csv": {
+      "checksum": "7f153152da2e85ba5e8f47a9774c0b06"
+    },
+    "yearly-data/countries/indicators/LSO.csv": {
+      "checksum": "fb2ecf338d2c6d01781a0e883285d9cb"
+    },
+    "yearly-data/countries/indicators/LTU.csv": {
+      "checksum": "def15f230997ea599d5c633646ba280a"
+    },
+    "yearly-data/countries/indicators/LUX.csv": {
+      "checksum": "0d5b9e518dfe9c5c4246ba15d542951e"
+    },
+    "yearly-data/countries/indicators/LVA.csv": {
+      "checksum": "4c59d599b12d8a5d6b6970b4a10f2af3"
+    },
+    "yearly-data/countries/indicators/MAC.csv": {
+      "checksum": "0eb4d8c1101f10e9676aa45655089d8e"
+    },
+    "yearly-data/countries/indicators/MAF.csv": {
+      "checksum": "e552ee136ac0950b871e347b651cb42b"
+    },
+    "yearly-data/countries/indicators/MAR.csv": {
+      "checksum": "9a9c695ce5e91617139c9afae05ab5ad"
+    },
+    "yearly-data/countries/indicators/MCO.csv": {
+      "checksum": "3b1a8f180a574311b10e959e36a680ea"
+    },
+    "yearly-data/countries/indicators/MDA.csv": {
+      "checksum": "ff981e94d2700c3ef777cae7c03012a6"
+    },
+    "yearly-data/countries/indicators/MDG.csv": {
+      "checksum": "bbcfff4568c5c47d729667f12f32c43f"
+    },
+    "yearly-data/countries/indicators/MDV.csv": {
+      "checksum": "4157df2a6001c9dd49279c4321a973ea"
+    },
+    "yearly-data/countries/indicators/MEX.csv": {
+      "checksum": "ff0b45064865af41a7bbccc9870337a2"
+    },
+    "yearly-data/countries/indicators/MHL.csv": {
+      "checksum": "777e8cc64d05d8e53d9684f48fee6a1e"
+    },
+    "yearly-data/countries/indicators/MKD.csv": {
+      "checksum": "e912cd65a696fd74f14443dbd0946e4d"
+    },
+    "yearly-data/countries/indicators/MLI.csv": {
+      "checksum": "72699fbc0428f246b6bf980469a6e396"
+    },
+    "yearly-data/countries/indicators/MLT.csv": {
+      "checksum": "da0dae6e5b07fdf78956b1b86092e8bb"
+    },
+    "yearly-data/countries/indicators/MMR.csv": {
+      "checksum": "534b0b3c2ba94718df813eed89373f2d"
+    },
+    "yearly-data/countries/indicators/MNE.csv": {
+      "checksum": "ddf78347bfb540674ddc335c8460e955"
+    },
+    "yearly-data/countries/indicators/MNG.csv": {
+      "checksum": "4ce927f417b7bdcfe081652b3b7193e2"
+    },
+    "yearly-data/countries/indicators/MNP.csv": {
+      "checksum": "c8763269180e07923c9c0d42ea10ff9a"
+    },
+    "yearly-data/countries/indicators/MOZ.csv": {
+      "checksum": "305e8b3df96d8766aec25307457f152e"
+    },
+    "yearly-data/countries/indicators/MRT.csv": {
+      "checksum": "8fd28d5ae5f56475b0dfcde82bf215ca"
+    },
+    "yearly-data/countries/indicators/MSR.csv": {
+      "checksum": "c6a43dd52136bbd329abea779aa71c2a"
+    },
+    "yearly-data/countries/indicators/MTQ.csv": {
+      "checksum": "24b635188c7cf6fe53306795d35016b4"
+    },
+    "yearly-data/countries/indicators/MUS.csv": {
+      "checksum": "f14c2479a4e00455fecf807de2cca57f"
+    },
+    "yearly-data/countries/indicators/MWI.csv": {
+      "checksum": "1ad85af3573db0f9ee4146ddb21be8b7"
+    },
+    "yearly-data/countries/indicators/MYS.csv": {
+      "checksum": "9a06748294bfedeb081f7bc039721e8e"
+    },
+    "yearly-data/countries/indicators/MYT.csv": {
+      "checksum": "0c2afbd784b6f19ff892cbd3b5fb2e44"
+    },
+    "yearly-data/countries/indicators/NAM.csv": {
+      "checksum": "b127831e3fad1fca2e53a8aeb363f798"
+    },
+    "yearly-data/countries/indicators/NCL.csv": {
+      "checksum": "3545ca7525dd8b6b1b8e5b136b4b52b1"
+    },
+    "yearly-data/countries/indicators/NER.csv": {
+      "checksum": "abe32e103e5d245e951cf9ac4c56e78d"
+    },
+    "yearly-data/countries/indicators/NGA.csv": {
+      "checksum": "143c8f840a1c95306c0c0c244cfa9c5b"
+    },
+    "yearly-data/countries/indicators/NIC.csv": {
+      "checksum": "b637957745d04ec6f95ac1cede6e9cdc"
+    },
+    "yearly-data/countries/indicators/NIU.csv": {
+      "checksum": "d717b72c51509a84c88f24af9f8933a5"
+    },
+    "yearly-data/countries/indicators/NLD.csv": {
+      "checksum": "ba399c38413921d175deded4a83d7663"
+    },
+    "yearly-data/countries/indicators/NOR.csv": {
+      "checksum": "a0bd8a051d9c53589b953de7550912bd"
+    },
+    "yearly-data/countries/indicators/NPL.csv": {
+      "checksum": "e1947df0a3936402667625058059dcef"
+    },
+    "yearly-data/countries/indicators/NRU.csv": {
+      "checksum": "cb848fc55e2db47e3513db61f508f357"
+    },
+    "yearly-data/countries/indicators/NZL.csv": {
+      "checksum": "5dbb9869c94368b63330ecd437bd6cdd"
+    },
+    "yearly-data/countries/indicators/OMN.csv": {
+      "checksum": "b91139645e6b2e43def95d92c3b7ba28"
+    },
+    "yearly-data/countries/indicators/PAK.csv": {
+      "checksum": "9fa317f16a0d08f2a2d25c764f3f7528"
+    },
+    "yearly-data/countries/indicators/PAN.csv": {
+      "checksum": "88574b6f0d28d92447e05b83b8bdda44"
+    },
+    "yearly-data/countries/indicators/PER.csv": {
+      "checksum": "8dbfde30fe6ac799a147d4724f8ad2d9"
+    },
+    "yearly-data/countries/indicators/PHL.csv": {
+      "checksum": "b991feaf6776a7fd73cf3d4419bbe650"
+    },
+    "yearly-data/countries/indicators/PLW.csv": {
+      "checksum": "5595bb81bd7c802f45e0f560db86c619"
+    },
+    "yearly-data/countries/indicators/PNG.csv": {
+      "checksum": "6fd76465722b7f9ddb15cab11136ae31"
+    },
+    "yearly-data/countries/indicators/POL.csv": {
+      "checksum": "6e65405cbcc7122996224cf82f79bdf7"
+    },
+    "yearly-data/countries/indicators/PRI.csv": {
+      "checksum": "693b718c3408594101af722b511b9b4b"
+    },
+    "yearly-data/countries/indicators/PRK.csv": {
+      "checksum": "160338ee0cf1da5a796ad0b522aaf888"
+    },
+    "yearly-data/countries/indicators/PRT.csv": {
+      "checksum": "729e73cd6571eb56672b9a476d611336"
+    },
+    "yearly-data/countries/indicators/PRY.csv": {
+      "checksum": "6965bb128ca95b5737441325f7b67f15"
+    },
+    "yearly-data/countries/indicators/PSE.csv": {
+      "checksum": "da79c979914f7b08c53ff8e0d5194ea0"
+    },
+    "yearly-data/countries/indicators/PYF.csv": {
+      "checksum": "c330078ef8e39c3cceea614f0724af2a"
+    },
+    "yearly-data/countries/indicators/QAT.csv": {
+      "checksum": "b31f1f68f96f0d81961aeff545f1e74f"
+    },
+    "yearly-data/countries/indicators/REU.csv": {
+      "checksum": "7f36c5c1567c41b96309d6339e3d20f8"
+    },
+    "yearly-data/countries/indicators/ROU.csv": {
+      "checksum": "7f8d7e41bf7c06c2df0395f08daae3ac"
+    },
+    "yearly-data/countries/indicators/RUS.csv": {
+      "checksum": "2429f4c7cc777386a6c2a3c0f2d76127"
+    },
+    "yearly-data/countries/indicators/RWA.csv": {
+      "checksum": "7f70c1cb038ea583d66a044528685892"
+    },
+    "yearly-data/countries/indicators/SAU.csv": {
+      "checksum": "e7de82b2acf84aa8e6074d83bb074692"
+    },
+    "yearly-data/countries/indicators/SDN.csv": {
+      "checksum": "f2cf157c0cccc863dd57db005e246c6c"
+    },
+    "yearly-data/countries/indicators/SEN.csv": {
+      "checksum": "02dfa2569ac6493bced10a10de0a248d"
+    },
+    "yearly-data/countries/indicators/SGP.csv": {
+      "checksum": "d732e4170155ad0cb4f88c36a60ad413"
+    },
+    "yearly-data/countries/indicators/SHN.csv": {
+      "checksum": "226f910738258243e39759a1c4943d57"
+    },
+    "yearly-data/countries/indicators/SLB.csv": {
+      "checksum": "0a51ea3a4d697c70197f005b1aaec510"
+    },
+    "yearly-data/countries/indicators/SLE.csv": {
+      "checksum": "8f043f78e7b2a6143582839c0d707a74"
+    },
+    "yearly-data/countries/indicators/SLV.csv": {
+      "checksum": "6c04fbe064c6fafaac972f833118c2d6"
+    },
+    "yearly-data/countries/indicators/SMR.csv": {
+      "checksum": "4f0e12d349e9655a4d96189980e584db"
+    },
+    "yearly-data/countries/indicators/SOM.csv": {
+      "checksum": "7ca46078eb6fc9b27cb2551de3764b4b"
+    },
+    "yearly-data/countries/indicators/SPM.csv": {
+      "checksum": "665046adaec1f07567ed3c21d5cb905c"
+    },
+    "yearly-data/countries/indicators/SRB.csv": {
+      "checksum": "477e75d8b5e9dfb2ebdf39b837731b40"
+    },
+    "yearly-data/countries/indicators/SSD.csv": {
+      "checksum": "642f9c1c6ff3b2bc627264143eb85ca1"
+    },
+    "yearly-data/countries/indicators/STP.csv": {
+      "checksum": "f1f464ddb96fee785498994f0f43a91b"
+    },
+    "yearly-data/countries/indicators/SUR.csv": {
+      "checksum": "966679c2a1188ef691cc6eae6bbe6905"
+    },
+    "yearly-data/countries/indicators/SVK.csv": {
+      "checksum": "916d11e61bb9ddca498da2e6fce2c51d"
+    },
+    "yearly-data/countries/indicators/SVN.csv": {
+      "checksum": "3c36ed38832e170d10c677198fe8037d"
+    },
+    "yearly-data/countries/indicators/SWE.csv": {
+      "checksum": "31c22e08305699bbbdc12380313f5296"
+    },
+    "yearly-data/countries/indicators/SWZ.csv": {
+      "checksum": "0b455fdcd2d16e2a1cffaad39d191b32"
+    },
+    "yearly-data/countries/indicators/SXM.csv": {
+      "checksum": "d101f3fd5fc3e65e1583286cfce9bf9f"
+    },
+    "yearly-data/countries/indicators/SYC.csv": {
+      "checksum": "78842d65cc198c0cb33d24217631350f"
+    },
+    "yearly-data/countries/indicators/SYR.csv": {
+      "checksum": "c4d77714be2eb3def2c8e0cbe9929ca7"
+    },
+    "yearly-data/countries/indicators/TCA.csv": {
+      "checksum": "35e43df494cb6e3fbe1fd8d03c6150d6"
+    },
+    "yearly-data/countries/indicators/TCD.csv": {
+      "checksum": "8cb415a5726560ae8eae152c69d1f953"
+    },
+    "yearly-data/countries/indicators/TGO.csv": {
+      "checksum": "b0fea509904a17858f54f728868be1f1"
+    },
+    "yearly-data/countries/indicators/THA.csv": {
+      "checksum": "04e631b5b91e2c285b841ba7e8dd7fbd"
+    },
+    "yearly-data/countries/indicators/TJK.csv": {
+      "checksum": "916f07f55454d3b7e752622f69f37573"
+    },
+    "yearly-data/countries/indicators/TKL.csv": {
+      "checksum": "c0537b65bb71a0d54c82c1003210706b"
+    },
+    "yearly-data/countries/indicators/TKM.csv": {
+      "checksum": "f0a4a2d76715ce4c28a9cfbeaab56949"
+    },
+    "yearly-data/countries/indicators/TLS.csv": {
+      "checksum": "735ffdfbb4fe0e8621206429002ce523"
+    },
+    "yearly-data/countries/indicators/TON.csv": {
+      "checksum": "d17f45e8f0de5ae994a2f4bc502326b8"
+    },
+    "yearly-data/countries/indicators/TTO.csv": {
+      "checksum": "30740ff69022fc3c8ce2d89049ea8d02"
+    },
+    "yearly-data/countries/indicators/TUN.csv": {
+      "checksum": "bd30e0bc99ebb902e1d38d34ec885d00"
+    },
+    "yearly-data/countries/indicators/TUR.csv": {
+      "checksum": "ae40c42c3f26503973ca77f007e23d9d"
+    },
+    "yearly-data/countries/indicators/TUV.csv": {
+      "checksum": "deaf9eef214bc3776995f04fd3d28468"
+    },
+    "yearly-data/countries/indicators/TWN.csv": {
+      "checksum": "acee0c5587cb9bce94b92733051d10a3"
+    },
+    "yearly-data/countries/indicators/TZA.csv": {
+      "checksum": "eca7b05ced56f01356598a3401d778fe"
+    },
+    "yearly-data/countries/indicators/UGA.csv": {
+      "checksum": "26248ac0e7e18328ac1af51ca837ed00"
+    },
+    "yearly-data/countries/indicators/UKR.csv": {
+      "checksum": "f48588f620aac1e688b7c04981d7e2bd"
+    },
+    "yearly-data/countries/indicators/URY.csv": {
+      "checksum": "3246fd2852963a539a48412a6b47bce3"
+    },
+    "yearly-data/countries/indicators/USA.csv": {
+      "checksum": "97742ea9ec6a55a536908628004b6ee5"
+    },
+    "yearly-data/countries/indicators/UZB.csv": {
+      "checksum": "c7ff8c81ede973e0fbd669a42802a003"
+    },
+    "yearly-data/countries/indicators/VCT.csv": {
+      "checksum": "989158745ea7faf69c025ed21b8d4963"
+    },
+    "yearly-data/countries/indicators/VEN.csv": {
+      "checksum": "03c79b559e9ca96e7884538d0cfaf1d1"
+    },
+    "yearly-data/countries/indicators/VGB.csv": {
+      "checksum": "6a268f399992aec58af1e829f669e20e"
+    },
+    "yearly-data/countries/indicators/VIR.csv": {
+      "checksum": "98271dccf4741300aa708be9c3db3331"
+    },
+    "yearly-data/countries/indicators/VNM.csv": {
+      "checksum": "19c600d5fc751d6496e72a4cad64cff5"
+    },
+    "yearly-data/countries/indicators/VUT.csv": {
+      "checksum": "f5a69c70b76e9a8528dc7fc8829b2e8c"
+    },
+    "yearly-data/countries/indicators/WLF.csv": {
+      "checksum": "46afb3a5cb7be5bcb31cc8eaa6defe9b"
+    },
+    "yearly-data/countries/indicators/WSM.csv": {
+      "checksum": "fd9d9989d8e62f3ade1074420264c958"
+    },
+    "yearly-data/countries/indicators/XKX.csv": {
+      "checksum": "8f8b38d220f4a6b0450d59d38b966cd6"
+    },
+    "yearly-data/countries/indicators/YEM.csv": {
+      "checksum": "9509355d64a5ddb498fb23acf08676f0"
+    },
+    "yearly-data/countries/indicators/ZAF.csv": {
+      "checksum": "b952e71d5f1261d5fcf00b9555d07804"
+    },
+    "yearly-data/countries/indicators/ZMB.csv": {
+      "checksum": "67085aac3001f0311a81e6aa05b9cd31"
+    },
+    "yearly-data/countries/indicators/ZWE.csv": {
+      "checksum": "0a6dec05abecb17dbaa9be602ec9e1d6"
+    },
+    "yearly-data/countries/progress/ABW.csv": {
+      "checksum": "a9930bdd61699fefd8ac426a6fbcdf3f"
+    },
+    "yearly-data/countries/progress/AFG.csv": {
+      "checksum": "d71a008b4a171edd9f371e9a384fdd73"
+    },
+    "yearly-data/countries/progress/AGO.csv": {
+      "checksum": "6c1efd4d2cb371e5b7acd63029937f64"
+    },
+    "yearly-data/countries/progress/AIA.csv": {
+      "checksum": "8a8b00f03b1450e1b49b8a98e6d222d7"
+    },
+    "yearly-data/countries/progress/ALB.csv": {
+      "checksum": "543e95cdb5f22e886b65da6eb2dfc511"
+    },
+    "yearly-data/countries/progress/AND.csv": {
+      "checksum": "98deb7a909ec08d6721c8971800bf361"
+    },
+    "yearly-data/countries/progress/ARE.csv": {
+      "checksum": "8a4aa58591cb8ffc2991aaab40c9e19a"
+    },
+    "yearly-data/countries/progress/ARG.csv": {
+      "checksum": "0d21120d6f837cc80d3a1c321764d4d7"
+    },
+    "yearly-data/countries/progress/ARM.csv": {
+      "checksum": "c0a362d8bacfab09268c5791372ee220"
+    },
+    "yearly-data/countries/progress/ASM.csv": {
+      "checksum": "8a2e3b8172ff739d445ebde9dd06da43"
+    },
+    "yearly-data/countries/progress/ATG.csv": {
+      "checksum": "d35f2e87d54db461bd8c3318ddf09ea7"
+    },
+    "yearly-data/countries/progress/AUS.csv": {
+      "checksum": "c4e766da2cd7bab6b2528d065ba7a591"
+    },
+    "yearly-data/countries/progress/AUT.csv": {
+      "checksum": "7b223ba4dbac3a47441c1559ddc45a60"
+    },
+    "yearly-data/countries/progress/AZE.csv": {
+      "checksum": "79ce2506a42f100cd560127ac4d606ab"
+    },
+    "yearly-data/countries/progress/BDI.csv": {
+      "checksum": "f2f2933a1086e9682f383af1ba77df51"
+    },
+    "yearly-data/countries/progress/BEL.csv": {
+      "checksum": "75de9faa6287c8ff58dc0abe3fa3a058"
+    },
+    "yearly-data/countries/progress/BEN.csv": {
+      "checksum": "43f7166329faae38cdf877b5456b79c0"
+    },
+    "yearly-data/countries/progress/BES.csv": {
+      "checksum": "68d1d3a4771c51b5f57bfb3a748725ea"
+    },
+    "yearly-data/countries/progress/BFA.csv": {
+      "checksum": "6ffcec025122d08e22bb946b1cc7988d"
+    },
+    "yearly-data/countries/progress/BGD.csv": {
+      "checksum": "993ff3d46c2a9db5ced9907a3e7c3532"
+    },
+    "yearly-data/countries/progress/BGR.csv": {
+      "checksum": "020cf4561d8dd649f1a529ff38330eca"
+    },
+    "yearly-data/countries/progress/BHR.csv": {
+      "checksum": "38f5bea69429afcfafe813f3adcaece5"
+    },
+    "yearly-data/countries/progress/BHS.csv": {
+      "checksum": "967b9b674e0db1f16980c01e82930bf9"
+    },
+    "yearly-data/countries/progress/BIH.csv": {
+      "checksum": "b5f9cf67115f5b9bc1d100a3b213ef38"
+    },
+    "yearly-data/countries/progress/BLM.csv": {
+      "checksum": "61f1bc3c73f5d73e2aa99cea5440bb02"
+    },
+    "yearly-data/countries/progress/BLR.csv": {
+      "checksum": "df79d0e4e407d326f88e3eb42e327246"
+    },
+    "yearly-data/countries/progress/BLZ.csv": {
+      "checksum": "93176dacf032d4a6cba5ba44e4a867e6"
+    },
+    "yearly-data/countries/progress/BMU.csv": {
+      "checksum": "76b19356939c9d763cf5db14580f41a1"
+    },
+    "yearly-data/countries/progress/BOL.csv": {
+      "checksum": "22b35603eb8fbf53b371121caa412960"
+    },
+    "yearly-data/countries/progress/BRA.csv": {
+      "checksum": "cc3f89526a0613266297d03377aa2ae8"
+    },
+    "yearly-data/countries/progress/BRB.csv": {
+      "checksum": "65e2741ceb1873f8938153afb3dfdb6e"
+    },
+    "yearly-data/countries/progress/BRN.csv": {
+      "checksum": "3c12b5b45e18e1efea22fbd12bb68275"
+    },
+    "yearly-data/countries/progress/BTN.csv": {
+      "checksum": "fea09c1a49975d3e1b2dfcd93aab714f"
+    },
+    "yearly-data/countries/progress/BWA.csv": {
+      "checksum": "0b9c752a0b52a68ee4f80ad61a892986"
+    },
+    "yearly-data/countries/progress/CAF.csv": {
+      "checksum": "cbf93a626a3294ea130d261c17b77f8d"
+    },
+    "yearly-data/countries/progress/CAN.csv": {
+      "checksum": "61b7ade62d12ac1287ebdeebea441dac"
+    },
+    "yearly-data/countries/progress/CHE.csv": {
+      "checksum": "4d248d05ad509546648017c8141b115d"
+    },
+    "yearly-data/countries/progress/CHI.csv": {
+      "checksum": "e25070822b05f5d48ee060cdf91806d7"
+    },
+    "yearly-data/countries/progress/CHL.csv": {
+      "checksum": "ff91f3dd4b94cce832d26e9def9b6057"
+    },
+    "yearly-data/countries/progress/CHN.csv": {
+      "checksum": "e40fb4f2d53ac49c71e7adbc4da8a124"
+    },
+    "yearly-data/countries/progress/CIV.csv": {
+      "checksum": "f2128a3ffd14765f033d85b5d97aa006"
+    },
+    "yearly-data/countries/progress/CMR.csv": {
+      "checksum": "462293520eab6abeb7ed79d6a84c1d41"
+    },
+    "yearly-data/countries/progress/COD.csv": {
+      "checksum": "6e3d8c4c95d7702d7229c1dbd0b57c37"
+    },
+    "yearly-data/countries/progress/COG.csv": {
+      "checksum": "ade2a9b240882d1dbb4f9a658cd9bce3"
+    },
+    "yearly-data/countries/progress/COK.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/countries/progress/COL.csv": {
+      "checksum": "76ed13ce4e843ef69312193c6fdc3e04"
+    },
+    "yearly-data/countries/progress/COM.csv": {
+      "checksum": "f29dc703864618567d6a8fea736e2e2a"
+    },
+    "yearly-data/countries/progress/CPV.csv": {
+      "checksum": "bfa1c263a532ae47cf475f409d9869fe"
+    },
+    "yearly-data/countries/progress/CRI.csv": {
+      "checksum": "1757f208c8668b10fec9ad3d5e0b9faf"
+    },
+    "yearly-data/countries/progress/CUB.csv": {
+      "checksum": "a39573a5e0dd42549de5a214dd61d226"
+    },
+    "yearly-data/countries/progress/CUW.csv": {
+      "checksum": "5bfea89dd6b3f0e8267f0c5e73286e61"
+    },
+    "yearly-data/countries/progress/CYM.csv": {
+      "checksum": "c8308ad0aa80cc5a939e058e7ce29d1a"
+    },
+    "yearly-data/countries/progress/CYP.csv": {
+      "checksum": "8b650c715892019843900358955eb422"
+    },
+    "yearly-data/countries/progress/CZE.csv": {
+      "checksum": "97ca747d24243af6e3f950bc90a1a2ab"
+    },
+    "yearly-data/countries/progress/DEU.csv": {
+      "checksum": "1f992c1a7fe4ff941ab472ea058f3079"
+    },
+    "yearly-data/countries/progress/DJI.csv": {
+      "checksum": "b485ca6bbf2ec70d48ccb18ec2389871"
+    },
+    "yearly-data/countries/progress/DMA.csv": {
+      "checksum": "428a7eb1ed463815e95795a319748800"
+    },
+    "yearly-data/countries/progress/DNK.csv": {
+      "checksum": "ae500b8b494ee34bc4e6de010cd55d0f"
+    },
+    "yearly-data/countries/progress/DOM.csv": {
+      "checksum": "e726815bf7a82df04600d7a66de90715"
+    },
+    "yearly-data/countries/progress/DZA.csv": {
+      "checksum": "cca9b8904d44e01bea03737e1d707a8b"
+    },
+    "yearly-data/countries/progress/ECU.csv": {
+      "checksum": "7d0b353343a1003d479380381eb65ca1"
+    },
+    "yearly-data/countries/progress/EGY.csv": {
+      "checksum": "81b9b88c3ce9601f20e971c44226d579"
+    },
+    "yearly-data/countries/progress/ERI.csv": {
+      "checksum": "ff7dad8d1d07cf43a3fe7822848f977b"
+    },
+    "yearly-data/countries/progress/ESP.csv": {
+      "checksum": "581626e3f0e190399b7f4b8443a7dda4"
+    },
+    "yearly-data/countries/progress/EST.csv": {
+      "checksum": "9b704ef29510fb110152911a226f6156"
+    },
+    "yearly-data/countries/progress/ETH.csv": {
+      "checksum": "2a45bc59c5558b5fbacb52b1c945d83a"
+    },
+    "yearly-data/countries/progress/FIN.csv": {
+      "checksum": "a111abf93558acf3dfd6226dc61c762d"
+    },
+    "yearly-data/countries/progress/FJI.csv": {
+      "checksum": "4091819a6ababb1e614acbadd25333e2"
+    },
+    "yearly-data/countries/progress/FLK.csv": {
+      "checksum": "26cac143161c7ce0768f3ea0b6caf619"
+    },
+    "yearly-data/countries/progress/FRA.csv": {
+      "checksum": "0d446bafa3b46f32d8eed00f75ee0992"
+    },
+    "yearly-data/countries/progress/FRO.csv": {
+      "checksum": "75ed395fb8d57ed4958eb94cc84d9144"
+    },
+    "yearly-data/countries/progress/FSM.csv": {
+      "checksum": "a63ff0c23f1a89ad9a539856c61fa328"
+    },
+    "yearly-data/countries/progress/GAB.csv": {
+      "checksum": "6adf093f9f8c02a9efec1b880ab2d285"
+    },
+    "yearly-data/countries/progress/GBR.csv": {
+      "checksum": "2c1a34f792752a0a50ee8c68df003e3c"
+    },
+    "yearly-data/countries/progress/GEO.csv": {
+      "checksum": "6efe593d49acce255cf7267088d952b8"
+    },
+    "yearly-data/countries/progress/GHA.csv": {
+      "checksum": "a3b750cef2877e33dd85a83cf290ca85"
+    },
+    "yearly-data/countries/progress/GIB.csv": {
+      "checksum": "45cfe04e0577753a1e5e9ca8aac42355"
+    },
+    "yearly-data/countries/progress/GIN.csv": {
+      "checksum": "4c3a5a63676649dd80717a6954b2a2cf"
+    },
+    "yearly-data/countries/progress/GLP.csv": {
+      "checksum": "c3c0b714607a8bf7c4b92195da0b598c"
+    },
+    "yearly-data/countries/progress/GMB.csv": {
+      "checksum": "be65e574c8c7547b4346a49e55233e0c"
+    },
+    "yearly-data/countries/progress/GNB.csv": {
+      "checksum": "d8d54f1c8943e545c1d43193d12da4fc"
+    },
+    "yearly-data/countries/progress/GNQ.csv": {
+      "checksum": "ce64ff8f09a2cc7934e67afb7538323d"
+    },
+    "yearly-data/countries/progress/GRC.csv": {
+      "checksum": "3ab0625e0084675419a2353aa879b2c6"
+    },
+    "yearly-data/countries/progress/GRD.csv": {
+      "checksum": "9534d3107c72dd54c978c939cf873ac7"
+    },
+    "yearly-data/countries/progress/GRL.csv": {
+      "checksum": "f81584818fa94774e7d1fcedf4b12fb3"
+    },
+    "yearly-data/countries/progress/GTM.csv": {
+      "checksum": "973864dc922853932cd524499f39366a"
+    },
+    "yearly-data/countries/progress/GUF.csv": {
+      "checksum": "c2574f271f80b7dc1f7758f7bf9e5162"
+    },
+    "yearly-data/countries/progress/GUM.csv": {
+      "checksum": "5454937a653e0963711deb411be93184"
+    },
+    "yearly-data/countries/progress/GUY.csv": {
+      "checksum": "6a947eb3e717efcc175c6556ad037a9f"
+    },
+    "yearly-data/countries/progress/HKG.csv": {
+      "checksum": "ebc3cb22460128c1b03ac9f7ad525ae7"
+    },
+    "yearly-data/countries/progress/HND.csv": {
+      "checksum": "6dfb4b133d39c12c8e9c2ee083196abf"
+    },
+    "yearly-data/countries/progress/HRV.csv": {
+      "checksum": "62e9aa31e0893782c8ee288d53f80d44"
+    },
+    "yearly-data/countries/progress/HTI.csv": {
+      "checksum": "f4910af2a4d115328799162cbe5e4c96"
+    },
+    "yearly-data/countries/progress/HUN.csv": {
+      "checksum": "782c80607f7b69de08e90186f9537021"
+    },
+    "yearly-data/countries/progress/IDN.csv": {
+      "checksum": "2edde7749564dfc8fc6d870e26138943"
+    },
+    "yearly-data/countries/progress/IMN.csv": {
+      "checksum": "04ea8a9bfff3e623971b83c81411df1a"
+    },
+    "yearly-data/countries/progress/IND.csv": {
+      "checksum": "ad5111b9a9c55ccdb1f90a525f5edded"
+    },
+    "yearly-data/countries/progress/IRL.csv": {
+      "checksum": "8c280ce376a46212c0df714c84af70e9"
+    },
+    "yearly-data/countries/progress/IRN.csv": {
+      "checksum": "d4dc7174687e613d1600d025011f79db"
+    },
+    "yearly-data/countries/progress/IRQ.csv": {
+      "checksum": "a2be39037890a3be6c77d483c88c988d"
+    },
+    "yearly-data/countries/progress/ISL.csv": {
+      "checksum": "437ed5b2d61bd89702ebaad05d579ee2"
+    },
+    "yearly-data/countries/progress/ISR.csv": {
+      "checksum": "a5fee15ea42806bd7143e5b600baffbe"
+    },
+    "yearly-data/countries/progress/ITA.csv": {
+      "checksum": "3a5bb06b0aa039fe685f89e8234ca0bf"
+    },
+    "yearly-data/countries/progress/JAM.csv": {
+      "checksum": "9511de6edbdfed972fff098b9a01900c"
+    },
+    "yearly-data/countries/progress/JEY.csv": {
+      "checksum": "d2aa2352aeee5db4e9414626cbcb062b"
+    },
+    "yearly-data/countries/progress/JOR.csv": {
+      "checksum": "53c27d86bd764a4141378e694b517454"
+    },
+    "yearly-data/countries/progress/JPN.csv": {
+      "checksum": "40fb94eea6c7e44595ba8724726faa8d"
+    },
+    "yearly-data/countries/progress/KAZ.csv": {
+      "checksum": "837f838593b4a410571e3d7dd9a4d17d"
+    },
+    "yearly-data/countries/progress/KEN.csv": {
+      "checksum": "ca9725fc5411e833ca3f0afb0d515c74"
+    },
+    "yearly-data/countries/progress/KGZ.csv": {
+      "checksum": "b62ff5c3c80feb1b0251bcf16d2b2ddf"
+    },
+    "yearly-data/countries/progress/KHM.csv": {
+      "checksum": "b9ffa467aaa4951bc5ba25199c27d1a5"
+    },
+    "yearly-data/countries/progress/KIR.csv": {
+      "checksum": "b5dc5f95542be552d1915cd0ad2b796c"
+    },
+    "yearly-data/countries/progress/KNA.csv": {
+      "checksum": "14e81cd0b4e3f41104ef083961e8e898"
+    },
+    "yearly-data/countries/progress/KOR.csv": {
+      "checksum": "b3c025d08a834eb1eea91bf1dcb97ceb"
+    },
+    "yearly-data/countries/progress/KWT.csv": {
+      "checksum": "364cdb38d3e52c89e14dbffe5d7ef462"
+    },
+    "yearly-data/countries/progress/LAO.csv": {
+      "checksum": "a769c06246151c5f8f8812748bac93f3"
+    },
+    "yearly-data/countries/progress/LBN.csv": {
+      "checksum": "25995609cbd8dfe664459b3d320bbf19"
+    },
+    "yearly-data/countries/progress/LBR.csv": {
+      "checksum": "2d5990fdffc1626d35cf601c516cd343"
+    },
+    "yearly-data/countries/progress/LBY.csv": {
+      "checksum": "a44bb1a7d66619f82414a1a9e5e3c413"
+    },
+    "yearly-data/countries/progress/LCA.csv": {
+      "checksum": "b341e7bc6f4a0d6d49209d23d306f859"
+    },
+    "yearly-data/countries/progress/LIE.csv": {
+      "checksum": "6d3011fb6099f8f00f472a50fc3efd52"
+    },
+    "yearly-data/countries/progress/LKA.csv": {
+      "checksum": "95abd1481c47be42a7876ba85186bd96"
+    },
+    "yearly-data/countries/progress/LSO.csv": {
+      "checksum": "cccea7f73a0dc43c14612d08f01be069"
+    },
+    "yearly-data/countries/progress/LTU.csv": {
+      "checksum": "9225f948d74c3ac58a79386aa14c1647"
+    },
+    "yearly-data/countries/progress/LUX.csv": {
+      "checksum": "61dfd92dee44ac591628c4daa97a9cac"
+    },
+    "yearly-data/countries/progress/LVA.csv": {
+      "checksum": "76bf16164aa8f40fc14ef72657ae75a5"
+    },
+    "yearly-data/countries/progress/MAC.csv": {
+      "checksum": "061a1cd50dfb7d438b40ee1fb2a83fa4"
+    },
+    "yearly-data/countries/progress/MAF.csv": {
+      "checksum": "0bbcd24c8a8423bbb7f1c41df58b70d1"
+    },
+    "yearly-data/countries/progress/MAR.csv": {
+      "checksum": "bbc5abfb068af4da61881cd84a118f16"
+    },
+    "yearly-data/countries/progress/MCO.csv": {
+      "checksum": "22b3f4f402f3fdfce17bb03236c73fce"
+    },
+    "yearly-data/countries/progress/MDA.csv": {
+      "checksum": "6f10bb72d1b8b8068088c0bef209796f"
+    },
+    "yearly-data/countries/progress/MDG.csv": {
+      "checksum": "4bf73c0d84294cf2b828a1807d95a171"
+    },
+    "yearly-data/countries/progress/MDV.csv": {
+      "checksum": "94e64356d616794ac89763d027ac3388"
+    },
+    "yearly-data/countries/progress/MEX.csv": {
+      "checksum": "a9e250585c6ab9d95192cb01b76a042e"
+    },
+    "yearly-data/countries/progress/MHL.csv": {
+      "checksum": "ec42069409b197b810f7242b4284491f"
+    },
+    "yearly-data/countries/progress/MKD.csv": {
+      "checksum": "353b0882b80af4aac9656b2eea5c2e4a"
+    },
+    "yearly-data/countries/progress/MLI.csv": {
+      "checksum": "37d032fa8cb5b767f91500dc0d70b835"
+    },
+    "yearly-data/countries/progress/MLT.csv": {
+      "checksum": "4066bbdf98d8606663f916c45c5a4f73"
+    },
+    "yearly-data/countries/progress/MMR.csv": {
+      "checksum": "8d06b13a214c026c6f227b2effa32877"
+    },
+    "yearly-data/countries/progress/MNE.csv": {
+      "checksum": "72c722a85f73e562f43cbb9ab0b363d5"
+    },
+    "yearly-data/countries/progress/MNG.csv": {
+      "checksum": "258a922ebe7b67258f3e566ba4ef52ac"
+    },
+    "yearly-data/countries/progress/MNP.csv": {
+      "checksum": "1d51db5ba68fbe18fcfdb7a13fafa10a"
+    },
+    "yearly-data/countries/progress/MOZ.csv": {
+      "checksum": "def9d910aff56c59cb2a546ba3ccdc26"
+    },
+    "yearly-data/countries/progress/MRT.csv": {
+      "checksum": "8fe2c8df1b9945fae67d4a66467bddda"
+    },
+    "yearly-data/countries/progress/MSR.csv": {
+      "checksum": "47ac98d5d371a80053183d2b3f4d9351"
+    },
+    "yearly-data/countries/progress/MTQ.csv": {
+      "checksum": "783f87be8632077e930dd3695b55755a"
+    },
+    "yearly-data/countries/progress/MUS.csv": {
+      "checksum": "0471cfdb0a38f2f9348043a8c10073d0"
+    },
+    "yearly-data/countries/progress/MWI.csv": {
+      "checksum": "351025547c27e8463efe36623ac4f286"
+    },
+    "yearly-data/countries/progress/MYS.csv": {
+      "checksum": "09e4264c57879cf1ef2480abb9c3496b"
+    },
+    "yearly-data/countries/progress/MYT.csv": {
+      "checksum": "2e342e6af2722da646c12d8809a2f087"
+    },
+    "yearly-data/countries/progress/NAM.csv": {
+      "checksum": "ed274d8b904de881414b54c3fbb8128f"
+    },
+    "yearly-data/countries/progress/NCL.csv": {
+      "checksum": "4aab9ce86b2f0e41f16f51bc50f79c62"
+    },
+    "yearly-data/countries/progress/NER.csv": {
+      "checksum": "d31d70c917b67d7e491b67d771c53b28"
+    },
+    "yearly-data/countries/progress/NGA.csv": {
+      "checksum": "613fe649f455f2eba14bc395ef1ce74f"
+    },
+    "yearly-data/countries/progress/NIC.csv": {
+      "checksum": "094112ce47042e4900c3365c69a9255e"
+    },
+    "yearly-data/countries/progress/NIU.csv": {
+      "checksum": "2d95a7af9199631fe66f806630194922"
+    },
+    "yearly-data/countries/progress/NLD.csv": {
+      "checksum": "978e47171b9566e14475d98ca026be14"
+    },
+    "yearly-data/countries/progress/NOR.csv": {
+      "checksum": "9011f2aacb3edcafa09e75a6711115a2"
+    },
+    "yearly-data/countries/progress/NPL.csv": {
+      "checksum": "db5665acfa967502e1b43d58dc0cbeb7"
+    },
+    "yearly-data/countries/progress/NRU.csv": {
+      "checksum": "26f24d9974058f3ffd1fa2a32e7e67dd"
+    },
+    "yearly-data/countries/progress/NZL.csv": {
+      "checksum": "9abe01c60fde28679be26714cd1d7f19"
+    },
+    "yearly-data/countries/progress/OMN.csv": {
+      "checksum": "957e84c012a9d1d838a8197e51ca617d"
+    },
+    "yearly-data/countries/progress/PAK.csv": {
+      "checksum": "89c95d6dde478d1b8ba1dbd4b7ad7968"
+    },
+    "yearly-data/countries/progress/PAN.csv": {
+      "checksum": "cb2233cda7a76282cc56115dedff0971"
+    },
+    "yearly-data/countries/progress/PER.csv": {
+      "checksum": "e839644556b9c4701b2f7091afbebf04"
+    },
+    "yearly-data/countries/progress/PHL.csv": {
+      "checksum": "66452c8d4e20f5868c8c1d7b18856557"
+    },
+    "yearly-data/countries/progress/PLW.csv": {
+      "checksum": "e0d0b25b4e922ae2676aa3268a7631f6"
+    },
+    "yearly-data/countries/progress/PNG.csv": {
+      "checksum": "dced51eecb952d5b78e5e16902082040"
+    },
+    "yearly-data/countries/progress/POL.csv": {
+      "checksum": "690da107437744bae33ef52248ad4c8c"
+    },
+    "yearly-data/countries/progress/PRI.csv": {
+      "checksum": "a2e07508773b20cf3a47956a9d2566f8"
+    },
+    "yearly-data/countries/progress/PRK.csv": {
+      "checksum": "d87f91272434b93c6d1dc5a71070ab1a"
+    },
+    "yearly-data/countries/progress/PRT.csv": {
+      "checksum": "a3aaa1c32170b0a4ef1395d625483da9"
+    },
+    "yearly-data/countries/progress/PRY.csv": {
+      "checksum": "446bd708974ee134c92dc9d2b4c5e01a"
+    },
+    "yearly-data/countries/progress/PSE.csv": {
+      "checksum": "5341e9207339d199baa73758bfab3ae6"
+    },
+    "yearly-data/countries/progress/PYF.csv": {
+      "checksum": "d98cae46d2aeeecb80e2ec6a61ac497f"
+    },
+    "yearly-data/countries/progress/QAT.csv": {
+      "checksum": "e238685a6c0c346f01dd18a2a9331fcb"
+    },
+    "yearly-data/countries/progress/REU.csv": {
+      "checksum": "24eed2d1c87cb519ccaaa5b50275ae10"
+    },
+    "yearly-data/countries/progress/ROU.csv": {
+      "checksum": "500d568d925dff0ab190de1853e08b88"
+    },
+    "yearly-data/countries/progress/RUS.csv": {
+      "checksum": "8596df71c20da12c84259a06c7da51f2"
+    },
+    "yearly-data/countries/progress/RWA.csv": {
+      "checksum": "61bc0c31c4de64c1152baf3657511f30"
+    },
+    "yearly-data/countries/progress/SAU.csv": {
+      "checksum": "30297fe8c54f1e777c1c570f0a14a7ea"
+    },
+    "yearly-data/countries/progress/SDN.csv": {
+      "checksum": "b2d35f6a7a47436f1ed14fa545c318fa"
+    },
+    "yearly-data/countries/progress/SEN.csv": {
+      "checksum": "738de405322e911074e0a5ab515804c6"
+    },
+    "yearly-data/countries/progress/SGP.csv": {
+      "checksum": "d6f09ec75fa15f852bb150c52723b3b3"
+    },
+    "yearly-data/countries/progress/SHN.csv": {
+      "checksum": "1cc8a3d626938210dbb13973524504c8"
+    },
+    "yearly-data/countries/progress/SLB.csv": {
+      "checksum": "a2a5394c10e71d0a579deac980134bf1"
+    },
+    "yearly-data/countries/progress/SLE.csv": {
+      "checksum": "ea1cc11df94d3735e118e57be09c5042"
+    },
+    "yearly-data/countries/progress/SLV.csv": {
+      "checksum": "286b644f46d4e7383e106468b85f348a"
+    },
+    "yearly-data/countries/progress/SMR.csv": {
+      "checksum": "2f235e8d2267a9e52e82de842f3b7703"
+    },
+    "yearly-data/countries/progress/SOM.csv": {
+      "checksum": "aae995450bd7237b90ba8e27078e4937"
+    },
+    "yearly-data/countries/progress/SPM.csv": {
+      "checksum": "e54ecf6708fd092b2515fe52eaf0f89c"
+    },
+    "yearly-data/countries/progress/SRB.csv": {
+      "checksum": "e66fb1eaad9578af5ad14d31b12838b6"
+    },
+    "yearly-data/countries/progress/SSD.csv": {
+      "checksum": "0b3a8328a7e61e0ef6234466214b892c"
+    },
+    "yearly-data/countries/progress/STP.csv": {
+      "checksum": "b002a242ca06fc2e58719970c577bbe9"
+    },
+    "yearly-data/countries/progress/SUR.csv": {
+      "checksum": "c92cea876182d7db4822704c55cf7a6c"
+    },
+    "yearly-data/countries/progress/SVK.csv": {
+      "checksum": "0c3043a47eb87dd31b9f65259eecbea9"
+    },
+    "yearly-data/countries/progress/SVN.csv": {
+      "checksum": "c4efd2cf84c2e3f95d76450f5a0f3f30"
+    },
+    "yearly-data/countries/progress/SWE.csv": {
+      "checksum": "7fe37063cf44aaaf49337efd1e8b1b8d"
+    },
+    "yearly-data/countries/progress/SWZ.csv": {
+      "checksum": "c714f3938a7cee477e14ad6ce81048dc"
+    },
+    "yearly-data/countries/progress/SXM.csv": {
+      "checksum": "d23ef69bb93b1893f1997337d9f1602d"
+    },
+    "yearly-data/countries/progress/SYC.csv": {
+      "checksum": "b87f7a84bc8b503c23c8590347be6e65"
+    },
+    "yearly-data/countries/progress/SYR.csv": {
+      "checksum": "f107fbacefc6686e00268b286ef4f429"
+    },
+    "yearly-data/countries/progress/TCA.csv": {
+      "checksum": "8fb7611fc02e8b33d1055f91120d55f7"
+    },
+    "yearly-data/countries/progress/TCD.csv": {
+      "checksum": "3fe568ebe9a21865629b3fa29111c420"
+    },
+    "yearly-data/countries/progress/TGO.csv": {
+      "checksum": "002cd4f5c6f182c443748ceb229d4bc1"
+    },
+    "yearly-data/countries/progress/THA.csv": {
+      "checksum": "1d5df2add4495c71209b6bdebd2c76a9"
+    },
+    "yearly-data/countries/progress/TJK.csv": {
+      "checksum": "36c72434ea66a8926dc2af758131458f"
+    },
+    "yearly-data/countries/progress/TKL.csv": {
+      "checksum": "d7512804b3ab85c419b34ef9aa4304fa"
+    },
+    "yearly-data/countries/progress/TKM.csv": {
+      "checksum": "a2256221f1e15338e03e84db56c039eb"
+    },
+    "yearly-data/countries/progress/TLS.csv": {
+      "checksum": "cca8ac417d8b4d32102f1ddbfeece540"
+    },
+    "yearly-data/countries/progress/TON.csv": {
+      "checksum": "92d739df1bdf3c4b05624fb2730b0076"
+    },
+    "yearly-data/countries/progress/TTO.csv": {
+      "checksum": "fe8f67a59fb9fce2bb57c5ad4e453164"
+    },
+    "yearly-data/countries/progress/TUN.csv": {
+      "checksum": "f9ee2fe28bbd11eff61ce86a1de8bd2d"
+    },
+    "yearly-data/countries/progress/TUR.csv": {
+      "checksum": "0b6342bdb851a0f03c0f4a0f0b494604"
+    },
+    "yearly-data/countries/progress/TUV.csv": {
+      "checksum": "47f94decd106f8a691aa5efce38ce098"
+    },
+    "yearly-data/countries/progress/TWN.csv": {
+      "checksum": "cd0224d8783c603bcd9c00ae8207bf0c"
+    },
+    "yearly-data/countries/progress/TZA.csv": {
+      "checksum": "2237cb67b405ca3bf102e79695773f57"
+    },
+    "yearly-data/countries/progress/UGA.csv": {
+      "checksum": "1bc9efb333d0668a669d065cdb63b187"
+    },
+    "yearly-data/countries/progress/UKR.csv": {
+      "checksum": "147bddc2428d20ebecd6effe0d6b2baf"
+    },
+    "yearly-data/countries/progress/URY.csv": {
+      "checksum": "24947f410ad2a270d44ce906bbe7b850"
+    },
+    "yearly-data/countries/progress/USA.csv": {
+      "checksum": "7b3210bacf5818b3efd313d79a32e764"
+    },
+    "yearly-data/countries/progress/UZB.csv": {
+      "checksum": "0e050eefdf4b059f00dac882c2c310ad"
+    },
+    "yearly-data/countries/progress/VCT.csv": {
+      "checksum": "d67cb05630c78f2495a1e4fb01dffe99"
+    },
+    "yearly-data/countries/progress/VEN.csv": {
+      "checksum": "d2e3046494b26c7d242792c69f110fe6"
+    },
+    "yearly-data/countries/progress/VGB.csv": {
+      "checksum": "5213aae371ef9099146374f569e89e78"
+    },
+    "yearly-data/countries/progress/VIR.csv": {
+      "checksum": "22d4ba53acb1811aefaebeb06d2f25d0"
+    },
+    "yearly-data/countries/progress/VNM.csv": {
+      "checksum": "dbea09eb917052f38175bcebc72a739f"
+    },
+    "yearly-data/countries/progress/VUT.csv": {
+      "checksum": "dc86cd3258137ac3d11ee619def9721e"
+    },
+    "yearly-data/countries/progress/WLF.csv": {
+      "checksum": "05e56289982e3250f950b1e288b4aeef"
+    },
+    "yearly-data/countries/progress/WSM.csv": {
+      "checksum": "1f0d66bf6c8fd5da8e544e375a916e00"
+    },
+    "yearly-data/countries/progress/XKX.csv": {
+      "checksum": "a77989f94595fa927ef177f04ba71a31"
+    },
+    "yearly-data/countries/progress/YEM.csv": {
+      "checksum": "2c581b8192d175fb9e61edc74fe01285"
+    },
+    "yearly-data/countries/progress/ZAF.csv": {
+      "checksum": "cb075e28c68896ff5d77ed13302911d8"
+    },
+    "yearly-data/countries/progress/ZMB.csv": {
+      "checksum": "52ecf223e867580a0c5c918840fa0362"
+    },
+    "yearly-data/countries/progress/ZWE.csv": {
+      "checksum": "8cd35bbe2fa0375f0763f127aef1e3b7"
+    },
+    "yearly-data/indicators/1.1.1.csv": {
+      "checksum": "09ae26e977275e30b3e1d8312b40c85c"
+    },
+    "yearly-data/indicators/10.1.1.csv": {
+      "checksum": "b3e6f362938bd25878878c5ecda3256b"
+    },
+    "yearly-data/indicators/11.0.0.csv": {
+      "checksum": "fb220cae286ef66cb2f6b47700be4c77"
+    },
+    "yearly-data/indicators/12.c.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/13.2.2.csv": {
+      "checksum": "a1272353443badc4cb7e2996a02c2f5b"
+    },
+    "yearly-data/indicators/14.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/15.1.2.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/16.0.0.csv": {
+      "checksum": "6db4c9c08d7a566f7d413f2677b40bc0"
+    },
+    "yearly-data/indicators/17.18.1.csv": {
+      "checksum": "247d0c3618d7bf965ee497d43e1d3f4a"
+    },
+    "yearly-data/indicators/17.8.1.csv": {
+      "checksum": "6d3b7f611a54d28ac23af60d9933d2ef"
+    },
+    "yearly-data/indicators/18.0.0.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/2.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/3.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/3.2.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/3.2.2.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/4.1.2.csv": {
+      "checksum": "097878aa382c1cbdd370e59d105df662"
+    },
+    "yearly-data/indicators/42.0.0.csv": {
+      "checksum": "ed17fa800968c7aaaad4644306d9e934"
+    },
+    "yearly-data/indicators/43.0.0.csv": {
+      "checksum": "6e0187439306e643f94548f5f9b40aeb"
+    },
+    "yearly-data/indicators/44.0.0.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/45.0.0.csv": {
+      "checksum": "985b4af38c4600ce0d1759538e727bff"
+    },
+    "yearly-data/indicators/47.0.0.csv": {
+      "checksum": "88313a555fe250efd8af090ce6ca9060"
+    },
+    "yearly-data/indicators/6.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/61.1.0.csv": {
+      "checksum": "c76664ae875e4d28890b37078087d01a"
+    },
+    "yearly-data/indicators/61.2.0.csv": {
+      "checksum": "d37a0a9c9208912ecc9e644ba0352e8d"
+    },
+    "yearly-data/indicators/61.3.0.csv": {
+      "checksum": "cf0e9d2181b54b4e811f9c05252cf5a5"
+    },
+    "yearly-data/indicators/7.1.1.csv": {
+      "checksum": "cd344f9f02abc1c272b48479c73310f5"
+    },
+    "yearly-data/indicators/8.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/indicators/8.5.1.csv": {
+      "checksum": "87fcab48a046047b5cebbf00c40bead2"
+    },
+    "yearly-data/progress/1.1.1.csv": {
+      "checksum": "fda567253ab89bc6bd449503b1f5b1b0"
+    },
+    "yearly-data/progress/10.1.1.csv": {
+      "checksum": "ac4514ec76d52a3e7a4f731b7ee50313"
+    },
+    "yearly-data/progress/11.0.0.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/12.c.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/13.2.2.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/14.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/15.1.2.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/16.0.0.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/17.18.1.csv": {
+      "checksum": "abe05f95f53e66f3e2551e2205e402fc"
+    },
+    "yearly-data/progress/17.8.1.csv": {
+      "checksum": "1f81863e9ec0ae0510f7fe2cd595fee9"
+    },
+    "yearly-data/progress/18.0.0.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/2.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/3.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/3.2.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/3.2.2.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/4.1.2.csv": {
+      "checksum": "a87465fbbdea81a95357bcaeff63c711"
+    },
+    "yearly-data/progress/42.0.0.csv": {
+      "checksum": "1c27c597cbbed1ee536d3017594d0e2a"
+    },
+    "yearly-data/progress/43.0.0.csv": {
+      "checksum": "050151f5502f988bcb388ee01c66df0a"
+    },
+    "yearly-data/progress/44.0.0.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/45.0.0.csv": {
+      "checksum": "608d786fa3e1b9b063647c472e7d1ab9"
+    },
+    "yearly-data/progress/47.0.0.csv": {
+      "checksum": "284171361811dda2027dc653fe4d5a9d"
+    },
+    "yearly-data/progress/6.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/61.1.0.csv": {
+      "checksum": "9a64b52dd7ce816ac42a71652d298ae7"
+    },
+    "yearly-data/progress/61.2.0.csv": {
+      "checksum": "462e409c0ecbc5cd2a0dd44f9a8a8e8b"
+    },
+    "yearly-data/progress/61.3.0.csv": {
+      "checksum": "6b13d7e363ca58146f798390e0597f8a"
+    },
+    "yearly-data/progress/7.1.1.csv": {
+      "checksum": "0a24bb46c7208858aff8f19a7e6a1877"
+    },
+    "yearly-data/progress/8.1.1.csv": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "yearly-data/progress/8.5.1.csv": {
+      "checksum": "cdeae6516645aa90bc3efad10853d864"
+    }
+  },
+  "users": null
+}
