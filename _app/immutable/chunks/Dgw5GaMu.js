@@ -1,0 +1,1 @@
+function s(e,t=""){return`border${t?`-${t}`:""}-${e}`}const x={people:"text-people-text",planet:"text-planet-text",prosperity:"text-prosperity-text",infrastructure:"text-infrastructure-text",digital:"text-digital-text",progress:"text-progress-text"};export{s as g,x as t};

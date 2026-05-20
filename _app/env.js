@@ -1,1 +1,1 @@
-export const env={}
+export const env={"PUBLIC_MAPBOX_TOKEN":"pk.eyJ1IjoibWxhbWJyZWNodHMiLCJhIjoiY21wZHA3aHhlMGRrNDJycjJyY3dmNDFwZyJ9.okWhPCvOgVKZcT0wMnEKSQ"}
