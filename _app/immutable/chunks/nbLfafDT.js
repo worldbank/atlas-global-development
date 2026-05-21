@@ -1,0 +1,1 @@
+import{m as r,Y as i}from"./CfTAFN2l.js";import{p as e}from"./BmgrN8vS.js";const l=r([]),m=r([]),o=r([]),d=r({app:null,particleContainer:null}),a=r({}),u=i(a,s=>{var t;return!s||!s.string?"":((t=e.find(n=>n.id===(s==null?void 0:s.string.substring(5))))==null?void 0:t.theme)||""});export{a,l as b,u as c,m as d,o as i,d as p};
