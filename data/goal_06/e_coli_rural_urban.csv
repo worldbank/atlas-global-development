@@ -1,0 +1,21 @@
+"country","survey","survey_year","urban_rural","very_high_risk"
+"Fiji","MICS","2021","Urban",4
+"Fiji","MICS","2021","Rural",56
+"Togo","MICS","2017","Urban",26
+"Togo","MICS","2017","Rural",72
+"Congo, Rep.","MICS","2014-15","Urban",10
+"Congo, Rep.","MICS","2014-15","Rural",56
+"Côte d'Ivoire","MICS","2016","Urban",21
+"Côte d'Ivoire","MICS","2016","Rural",58
+"Honduras","MICS","2019","Urban",13
+"Honduras","MICS","2019","Rural",48
+"Zimbabwe","MICS","2019","Urban",16
+"Zimbabwe","MICS","2019","Rural",51
+"Madagascar","MICS","2018","Urban",44
+"Madagascar","MICS","2018","Rural",78
+"Ethiopia","ESS-WQ","2016","Urban",35
+"Ethiopia","ESS-WQ","2016","Rural",69
+"Azerbaijan","MICS","2023","Urban",11
+"Azerbaijan","MICS","2023","Rural",45
+"Vanuatu","MICS","2023","Urban",33
+"Vanuatu","MICS","2023","Rural",63

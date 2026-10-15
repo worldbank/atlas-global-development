@@ -1,0 +1,251 @@
+"year","area","level","value"
+2000,"urban","Safely managed",83.4
+2001,"urban","Safely managed",83.3
+2002,"urban","Safely managed",83.3
+2003,"urban","Safely managed",83.2
+2004,"urban","Safely managed",83.1
+2005,"urban","Safely managed",83
+2006,"urban","Safely managed",83
+2007,"urban","Safely managed",82.9
+2008,"urban","Safely managed",82.8
+2009,"urban","Safely managed",82.8
+2010,"urban","Safely managed",82.7
+2011,"urban","Safely managed",82.7
+2012,"urban","Safely managed",82.7
+2013,"urban","Safely managed",82.8
+2014,"urban","Safely managed",82.9
+2015,"urban","Safely managed",83
+2016,"urban","Safely managed",83.1
+2017,"urban","Safely managed",83.1
+2018,"urban","Safely managed",83.2
+2019,"urban","Safely managed",83.3
+2020,"urban","Safely managed",83.4
+2021,"urban","Safely managed",83.4
+2022,"urban","Safely managed",83.4
+2023,"urban","Safely managed",83.5
+2024,"urban","Safely managed",83.4
+2000,"urban","Basic",11.9
+2001,"urban","Basic",12
+2002,"urban","Basic",12.1
+2003,"urban","Basic",12.3
+2004,"urban","Basic",12.4
+2005,"urban","Basic",12.5
+2006,"urban","Basic",12.6
+2007,"urban","Basic",12.7
+2008,"urban","Basic",12.8
+2009,"urban","Basic",12.9
+2010,"urban","Basic",13.1
+2011,"urban","Basic",13.1
+2012,"urban","Basic",13.1
+2013,"urban","Basic",13.1
+2014,"urban","Basic",13
+2015,"urban","Basic",13
+2016,"urban","Basic",13
+2017,"urban","Basic",13
+2018,"urban","Basic",13
+2019,"urban","Basic",12.9
+2020,"urban","Basic",12.9
+2021,"urban","Basic",12.9
+2022,"urban","Basic",12.9
+2023,"urban","Basic",13
+2024,"urban","Basic",13.1
+2000,"urban","Limited",1.5
+2001,"urban","Limited",1.6
+2002,"urban","Limited",1.6
+2003,"urban","Limited",1.6
+2004,"urban","Limited",1.6
+2005,"urban","Limited",1.6
+2006,"urban","Limited",1.6
+2007,"urban","Limited",1.6
+2008,"urban","Limited",1.6
+2009,"urban","Limited",1.6
+2010,"urban","Limited",1.7
+2011,"urban","Limited",1.7
+2012,"urban","Limited",1.7
+2013,"urban","Limited",1.7
+2014,"urban","Limited",1.7
+2015,"urban","Limited",1.8
+2016,"urban","Limited",1.8
+2017,"urban","Limited",1.8
+2018,"urban","Limited",1.8
+2019,"urban","Limited",1.8
+2020,"urban","Limited",1.8
+2021,"urban","Limited",1.8
+2022,"urban","Limited",1.9
+2023,"urban","Limited",1.9
+2024,"urban","Limited",1.9
+2000,"urban","Unimproved",2.6
+2001,"urban","Unimproved",2.6
+2002,"urban","Unimproved",2.5
+2003,"urban","Unimproved",2.5
+2004,"urban","Unimproved",2.4
+2005,"urban","Unimproved",2.4
+2006,"urban","Unimproved",2.3
+2007,"urban","Unimproved",2.3
+2008,"urban","Unimproved",2.2
+2009,"urban","Unimproved",2.2
+2010,"urban","Unimproved",2.1
+2011,"urban","Unimproved",2.1
+2012,"urban","Unimproved",2
+2013,"urban","Unimproved",2
+2014,"urban","Unimproved",1.9
+2015,"urban","Unimproved",1.9
+2016,"urban","Unimproved",1.8
+2017,"urban","Unimproved",1.8
+2018,"urban","Unimproved",1.7
+2019,"urban","Unimproved",1.7
+2020,"urban","Unimproved",1.6
+2021,"urban","Unimproved",1.6
+2022,"urban","Unimproved",1.5
+2023,"urban","Unimproved",1.5
+2024,"urban","Unimproved",1.4
+2000,"urban","Surface",0.6
+2001,"urban","Surface",0.6
+2002,"urban","Surface",0.6
+2003,"urban","Surface",0.5
+2004,"urban","Surface",0.5
+2005,"urban","Surface",0.5
+2006,"urban","Surface",0.5
+2007,"urban","Surface",0.5
+2008,"urban","Surface",0.5
+2009,"urban","Surface",0.5
+2010,"urban","Surface",0.4
+2011,"urban","Surface",0.4
+2012,"urban","Surface",0.4
+2013,"urban","Surface",0.4
+2014,"urban","Surface",0.4
+2015,"urban","Surface",0.4
+2016,"urban","Surface",0.3
+2017,"urban","Surface",0.3
+2018,"urban","Surface",0.3
+2019,"urban","Surface",0.3
+2020,"urban","Surface",0.3
+2021,"urban","Surface",0.3
+2022,"urban","Surface",0.2
+2023,"urban","Surface",0.2
+2024,"urban","Surface",0.2
+2000,"rural","Safely managed",42
+2001,"rural","Safely managed",42.1
+2002,"rural","Safely managed",42.4
+2003,"rural","Safely managed",42.7
+2004,"rural","Safely managed",43.1
+2005,"rural","Safely managed",43.4
+2006,"rural","Safely managed",43.7
+2007,"rural","Safely managed",44
+2008,"rural","Safely managed",44.3
+2009,"rural","Safely managed",45.1
+2010,"rural","Safely managed",45.9
+2011,"rural","Safely managed",46.6
+2012,"rural","Safely managed",47.4
+2013,"rural","Safely managed",48.2
+2014,"rural","Safely managed",49.1
+2015,"rural","Safely managed",49.9
+2016,"rural","Safely managed",50.7
+2017,"rural","Safely managed",51.6
+2018,"rural","Safely managed",52.4
+2019,"rural","Safely managed",53.3
+2020,"rural","Safely managed",54.1
+2021,"rural","Safely managed",55
+2022,"rural","Safely managed",55.8
+2023,"rural","Safely managed",56.6
+2024,"rural","Safely managed",60.4
+2000,"rural","Basic",27.6
+2001,"rural","Basic",27.8
+2002,"rural","Basic",28.1
+2003,"rural","Basic",28.4
+2004,"rural","Basic",28.8
+2005,"rural","Basic",29.1
+2006,"rural","Basic",29.4
+2007,"rural","Basic",29.8
+2008,"rural","Basic",30.1
+2009,"rural","Basic",30
+2010,"rural","Basic",29.9
+2011,"rural","Basic",29.7
+2012,"rural","Basic",29.5
+2013,"rural","Basic",29.4
+2014,"rural","Basic",29.2
+2015,"rural","Basic",29
+2016,"rural","Basic",28.8
+2017,"rural","Basic",28.6
+2018,"rural","Basic",28.4
+2019,"rural","Basic",28.1
+2020,"rural","Basic",27.9
+2021,"rural","Basic",27.8
+2022,"rural","Basic",27.7
+2023,"rural","Basic",27.6
+2024,"rural","Basic",24.2
+2000,"rural","Limited",3.6
+2001,"rural","Limited",3.7
+2002,"rural","Limited",3.8
+2003,"rural","Limited",3.9
+2004,"rural","Limited",4
+2005,"rural","Limited",4.1
+2006,"rural","Limited",4.2
+2007,"rural","Limited",4.2
+2008,"rural","Limited",4.3
+2009,"rural","Limited",4.4
+2010,"rural","Limited",4.5
+2011,"rural","Limited",4.7
+2012,"rural","Limited",4.8
+2013,"rural","Limited",4.9
+2014,"rural","Limited",5
+2015,"rural","Limited",5.1
+2016,"rural","Limited",5.2
+2017,"rural","Limited",5.3
+2018,"rural","Limited",5.4
+2019,"rural","Limited",5.6
+2020,"rural","Limited",5.7
+2021,"rural","Limited",5.7
+2022,"rural","Limited",5.6
+2023,"rural","Limited",5.6
+2024,"rural","Limited",5.7
+2000,"rural","Unimproved",19.8
+2001,"rural","Unimproved",19.4
+2002,"rural","Unimproved",18.8
+2003,"rural","Unimproved",18.2
+2004,"rural","Unimproved",17.6
+2005,"rural","Unimproved",17
+2006,"rural","Unimproved",16.4
+2007,"rural","Unimproved",15.9
+2008,"rural","Unimproved",15.3
+2009,"rural","Unimproved",14.8
+2010,"rural","Unimproved",14.2
+2011,"rural","Unimproved",13.7
+2012,"rural","Unimproved",13.1
+2013,"rural","Unimproved",12.6
+2014,"rural","Unimproved",12.1
+2015,"rural","Unimproved",11.6
+2016,"rural","Unimproved",11
+2017,"rural","Unimproved",10.5
+2018,"rural","Unimproved",10
+2019,"rural","Unimproved",9.5
+2020,"rural","Unimproved",8.9
+2021,"rural","Unimproved",8.4
+2022,"rural","Unimproved",7.8
+2023,"rural","Unimproved",7.3
+2024,"rural","Unimproved",6.9
+2000,"rural","Surface",7
+2001,"rural","Surface",7
+2002,"rural","Surface",6.9
+2003,"rural","Surface",6.7
+2004,"rural","Surface",6.6
+2005,"rural","Surface",6.4
+2006,"rural","Surface",6.3
+2007,"rural","Surface",6.1
+2008,"rural","Surface",5.9
+2009,"rural","Surface",5.7
+2010,"rural","Surface",5.5
+2011,"rural","Surface",5.3
+2012,"rural","Surface",5.1
+2013,"rural","Surface",4.9
+2014,"rural","Surface",4.7
+2015,"rural","Surface",4.4
+2016,"rural","Surface",4.2
+2017,"rural","Surface",4
+2018,"rural","Surface",3.8
+2019,"rural","Surface",3.6
+2020,"rural","Surface",3.3
+2021,"rural","Surface",3.2
+2022,"rural","Surface",3
+2023,"rural","Surface",2.9
+2024,"rural","Surface",2.7

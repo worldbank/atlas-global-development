@@ -1,0 +1,4 @@
+"service","time_before","time_after","provider_cost_before","provider_cost_after","client_cost_before","client_cost_after"
+"bank_account_opening",30,9,1.04,0.76,0.7,0.27
+"attorney_registration",20,9,0.64,0.32,0.31,0.27
+"sim_card_issuance",7,3,1.46,0.77,0.27,0.26
