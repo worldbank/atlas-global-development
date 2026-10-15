@@ -1,0 +1,1 @@
+import{n as t,a1 as a}from"./CK5Do7NV.js";import{c as n}from"./G3-xk23Q.js";const p=t([]),l=t([]),o=t([]),m=t({app:null,particleContainer:null}),e=t({}),u=a(e,s=>{var r;return!s||!s.string?"":((r=n[s==null?void 0:s.string.substring(5)])==null?void 0:r.theme)||""});export{e as a,p as b,u as c,l as d,o as i,m as p};

@@ -1,0 +1,1 @@
+import{p as t,s as n,a as e}from"./DfmHGXEw.js";import{a as i,b as u}from"./M3M0Ah0i.js";var r=i(function(a){return n(2/(1+a))});r.invert=u(function(a){return 2*e(a/2)});function l(){return t(r).scale(124.75).clipAngle(180-.001)}export{l as g};
