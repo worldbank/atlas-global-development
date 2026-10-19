@@ -1,6 +1,4 @@
-"year","category","number"
-2017,"total",1000000000
-2021,"total",850000000
-2025,"total",800000000
-2025,"adults",350000000
-2025,"children_not_registered",450000000
+"year","adults","children_not_registered"
+2017,530000000,470000000
+2021,417000000,426000000
+2025,347000000,458000000
